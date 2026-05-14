@@ -1,0 +1,288 @@
+{
+  "book": {
+    "title": "Emirdağ Lâhikası 2",
+    "slug": "emirdag-lahikasi-2",
+    "path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2"
+  },
+  "source": {
+    "name": "Hizmet Vakfı official site",
+    "index_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii/",
+    "section_count": 12
+  },
+  "overall_similarity": 0.9989073923760158,
+  "overall_content_overlap": 0.9985034969306417,
+  "overlap_sections": 12,
+  "total_diff_tokens": 108,
+  "upstream_only_sections": [],
+  "official_only_sections": [],
+  "status": "almost-identical",
+  "sections": [
+    {
+      "title": "Emirdağ Lâhikası - II s.110-128",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/06 Emirdağ Lâhikası - II s.110-128.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-110-128/",
+      "similarity": 0.997261881478584,
+      "content_overlap": 0.9958984375,
+      "diff_tokens": 22,
+      "upstream_tokens": 5106,
+      "official_tokens": 5120,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "mebhasında اَلتَّحِيَّاتُ",
+          "official": "mebhasındaاَلتَّحِيَّاتُ"
+        },
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.129-148",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/07 Emirdağ Lâhikası - II s.129-148.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-129-148/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 5651,
+      "official_tokens": 5651,
+      "snippets": []
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.149-170",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/08 Emirdağ Lâhikası - II s.149-170.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-149-170/",
+      "similarity": 0.9995621332866276,
+      "content_overlap": 0.9992995972684293,
+      "diff_tokens": 4,
+      "upstream_tokens": 5708,
+      "official_tokens": 5711,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.171-189",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/09 Emirdağ Lâhikası - II s.171-189.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-171-189/",
+      "similarity": 0.999280205655527,
+      "content_overlap": 0.9989720394736842,
+      "diff_tokens": 5,
+      "upstream_tokens": 4861,
+      "official_tokens": 4864,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.190-210",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/10 Emirdağ Lâhikası - II s.190-210.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-190-210/",
+      "similarity": 0.9975455820476858,
+      "content_overlap": 0.9968465311843028,
+      "diff_tokens": 21,
+      "upstream_tokens": 5700,
+      "official_tokens": 5708,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ اَلْحَمْدُ",
+          "official": "‌اَلْحَمْدُ"
+        },
+        {
+          "type": "replace",
+          "upstream": "زَمَانٍ ‌",
+          "official": "زَمَانٍ‌"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.210-229",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/11 Emirdağ Lâhikası - II s.210-229.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-210-229/",
+      "similarity": 0.9994220766711617,
+      "content_overlap": 0.9992295839753467,
+      "diff_tokens": 4,
+      "upstream_tokens": 5192,
+      "official_tokens": 5190,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ اَعُوذُ",
+          "official": "‌اَعُوذُ"
+        },
+        {
+          "type": "replace",
+          "upstream": "السِّيَاسَةِ ‌",
+          "official": "السِّيَاسَةِ‌"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.230-247",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/12 Emirdağ Lâhikası - II s.230-247.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-230-247/",
+      "similarity": 0.999190447277879,
+      "content_overlap": 0.9989882638607851,
+      "diff_tokens": 6,
+      "upstream_tokens": 4940,
+      "official_tokens": 4942,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "için وَ",
+          "official": "içinوَ"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.27-50",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/02 Emirdağ Lâhikası - II s.27-50.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-27-50/",
+      "similarity": 0.9995306633291614,
+      "content_overlap": 0.9993743156577507,
+      "diff_tokens": 4,
+      "upstream_tokens": 6393,
+      "official_tokens": 6391,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "“ Lozan’ın İçyüzü ”",
+          "official": "“Lozan’ın İçyüzü”"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.51-70",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/03 Emirdağ Lâhikası - II s.51-70.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-51-70/",
+      "similarity": 0.9974354277340172,
+      "content_overlap": 0.9970701336751511,
+      "diff_tokens": 19,
+      "upstream_tokens": 5461,
+      "official_tokens": 5457,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        },
+        {
+          "type": "replace",
+          "upstream": "için‌ لَا",
+          "official": "için‌لَا"
+        },
+        {
+          "type": "replace",
+          "upstream": "هُو ‌",
+          "official": "هُو‌"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.6-26",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/01 Emirdağ Lâhikası - II s.6-26.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-6-26/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 5461,
+      "official_tokens": 5461,
+      "snippets": []
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.70-90",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/04 Emirdağ Lâhikası - II s.70-90.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-70-90/",
+      "similarity": 0.9994106255788499,
+      "content_overlap": 0.9991582491582491,
+      "diff_tokens": 5,
+      "upstream_tokens": 5937,
+      "official_tokens": 5940,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "_______"
+        },
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "( [1] )."
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Emirdağ Lâhikası - II s.91-109",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/12 Emirdağ Lâhikası 2/05 Emirdağ Lâhikası - II s.91-109.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-ii-s-91-109/",
+      "similarity": 0.9980146912844947,
+      "content_overlap": 0.9968272853460242,
+      "diff_tokens": 18,
+      "upstream_tokens": 5031,
+      "official_tokens": 5043,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ اَلرَّحْمٰنُ ۞ عَلَّمَ الْقُرْاٰنَ ۞ خَلَقَ الْاِنْسَانَ ۞ عَلَّمَهُ الْبَيَانَ"
+        },
+        {
+          "type": "replace",
+          "upstream": "الْعَالَمٖينَ ‌",
+          "official": "الْعَالَمٖينَ‌"
+        },
+        {
+          "type": "replace",
+          "upstream": "الْعَالَمٖينَ ‌",
+          "official": "الْعَالَمٖينَ‌"
+        }
+      ]
+    }
+  ]
+}

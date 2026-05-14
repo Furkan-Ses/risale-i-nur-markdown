@@ -1,0 +1,490 @@
+{
+  "book": {
+    "title": "Asâ-yı Musa",
+    "slug": "asa-yi-musa",
+    "path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa"
+  },
+  "source": {
+    "name": "Hizmet Vakfı official site",
+    "index_url": "https://risaleinur.hizmetvakfi.org/asa-yi-musa/",
+    "section_count": 25
+  },
+  "overall_similarity": 0.9969703811141973,
+  "overall_content_overlap": 0.9953572007605347,
+  "overlap_sections": 25,
+  "total_diff_tokens": 326,
+  "upstream_only_sections": [],
+  "official_only_sections": [],
+  "status": "almost-identical",
+  "sections": [
+    {
+      "title": "Altıncı Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/206 Altıncı Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/altinci-huccet-i-imaniye/",
+      "similarity": 0.9973021582733813,
+      "content_overlap": 0.9955116696588869,
+      "diff_tokens": 5,
+      "upstream_tokens": 1110,
+      "official_tokens": 1114,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Altıncı Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/106 Altıncı Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/altinci-mesele/",
+      "similarity": 0.9987557030277893,
+      "content_overlap": 0.9983416252072969,
+      "diff_tokens": 2,
+      "upstream_tokens": 1206,
+      "official_tokens": 1205,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "اللّٰهُ ‌",
+          "official": "اللّٰهُ‌"
+        }
+      ]
+    },
+    {
+      "title": "Asâ-yı Musa’dan Birinci Kısım",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/100 Asâ-yı Musa’dan Birinci Kısım.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/asa-yi-musadan-birinci-kisim/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 44,
+      "official_tokens": 44,
+      "snippets": []
+    },
+    {
+      "title": "Asâ-yı Musa’dan İkinci Kısım",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/200 Asâ-yı Musa’dan İkinci Kısım.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/asa-yi-musadan-ikinci-kisim/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 44,
+      "official_tokens": 44,
+      "snippets": []
+    },
+    {
+      "title": "Beşinci Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/205 Beşinci Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/besinci-huccet-i-imaniye/",
+      "similarity": 0.9988156336360048,
+      "content_overlap": 0.9980276134122288,
+      "diff_tokens": 5,
+      "upstream_tokens": 2531,
+      "official_tokens": 2535,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Beşinci Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/105 Beşinci Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/besinci-mesele/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 282,
+      "official_tokens": 282,
+      "snippets": []
+    },
+    {
+      "title": "Birinci Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/201 Birinci Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/birinci-huccet-i-imaniye/",
+      "similarity": 0.9985367975639656,
+      "content_overlap": 0.9982604570253815,
+      "diff_tokens": 25,
+      "upstream_tokens": 12647,
+      "official_tokens": 12640,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(İhtar [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌‌ لَا",
+          "official": "‌‌لَا"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌‌ لَا",
+          "official": "‌‌لَا"
+        }
+      ]
+    },
+    {
+      "title": "Birinci Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/101 Birinci Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/birinci-mesele/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 387,
+      "official_tokens": 387,
+      "snippets": []
+    },
+    {
+      "title": "Dokuzuncu Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/209 Dokuzuncu Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-huccet-i-imaniye/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 3551,
+      "official_tokens": 3551,
+      "snippets": []
+    },
+    {
+      "title": "Dokuzuncu Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/109 Dokuzuncu Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-mesele/",
+      "similarity": 0.9775401069518717,
+      "content_overlap": 0.9580712788259959,
+      "diff_tokens": 80,
+      "upstream_tokens": 1908,
+      "official_tokens": 1832,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "Evet, nasıl ki Dokuzuncu Söz’de, bu kelime iki arkadaşıyla bütün ibadatın fihristesi olan namazın çekirdekleri ve hülâsaları ve içinde ve tesbihatında tekrar ile namazın manasını takviye için",
+          "official": ""
+        },
+        {
+          "type": "replace",
+          "upstream": "اَلْحَمْدُ",
+          "official": "‌‌اَلْحَمْدُ"
+        },
+        {
+          "type": "delete",
+          "upstream": "üç muazzam hakikatlere ve insanın kâinatta gördüğü medar-ı hayret, medar-ı şükran ve medar-ı azamet ve kibriya, acib ve güzel ve büyük, pek çok fevkalâde şeylerden aldığı hayret ve",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Dördüncü Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/204 Dördüncü Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-huccet-i-imaniye/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 1009,
+      "official_tokens": 1009,
+      "snippets": []
+    },
+    {
+      "title": "Dördüncü Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/104 Dördüncü Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-mesele/",
+      "similarity": 0.9960159362549801,
+      "content_overlap": 0.9936406995230525,
+      "diff_tokens": 4,
+      "upstream_tokens": 626,
+      "official_tokens": 629,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Fihrist (Asâ-yı Musa)",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/212 Fihrist (Asâ-yı Musa).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/fihrist-asa-yi-musa/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 131,
+      "official_tokens": 131,
+      "snippets": []
+    },
+    {
+      "title": "İkinci Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/202 İkinci Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-huccet-i-imaniye/",
+      "similarity": 0.9946428571428572,
+      "content_overlap": 0.9911032028469751,
+      "diff_tokens": 35,
+      "upstream_tokens": 3906,
+      "official_tokens": 3934,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "İkinci Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/102 İkinci Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-mesele/",
+      "similarity": 0.9974266598044261,
+      "content_overlap": 0.9958890030832477,
+      "diff_tokens": 4,
+      "upstream_tokens": 970,
+      "official_tokens": 973,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "On Birinci Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/211 On Birinci Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-huccet-i-imaniye/",
+      "similarity": 0.9845208554885975,
+      "content_overlap": 0.9758725696884516,
+      "diff_tokens": 103,
+      "upstream_tokens": 4194,
+      "official_tokens": 4269,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "On Birinci Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/111 On Birinci Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-mesele/",
+      "similarity": 0.9988929889298893,
+      "content_overlap": 0.9985245296938399,
+      "diff_tokens": 8,
+      "upstream_tokens": 5422,
+      "official_tokens": 5418,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ مَنْ",
+          "official": "‌مَنْ"
+        },
+        {
+          "type": "replace",
+          "upstream": "“ مَنْ",
+          "official": "“مَنْ"
+        },
+        {
+          "type": "replace",
+          "upstream": "( وَيُؤْمِنْ",
+          "official": "(وَيُؤْمِنْ"
+        }
+      ]
+    },
+    {
+      "title": "Onuncu Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/210 Onuncu Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-huccet-i-imaniye/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 2149,
+      "official_tokens": 2149,
+      "snippets": []
+    },
+    {
+      "title": "Onuncu Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/110 Onuncu Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-mesele/",
+      "similarity": 0.9954949470351881,
+      "content_overlap": 0.9951314508276533,
+      "diff_tokens": 26,
+      "upstream_tokens": 4108,
+      "official_tokens": 4105,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "الرَّحٖيمِ ‌",
+          "official": "الرَّحٖيمِ‌"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ لَا",
+          "official": "‌لَا"
+        }
+      ]
+    },
+    {
+      "title": "Sekizinci Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/208 Sekizinci Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-huccet-i-imaniye/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 5163,
+      "official_tokens": 5163,
+      "snippets": []
+    },
+    {
+      "title": "Sekizinci Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/108 Sekizinci Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-mesele/",
+      "similarity": 0.9980225660113993,
+      "content_overlap": 0.9974424552429667,
+      "diff_tokens": 11,
+      "upstream_tokens": 4301,
+      "official_tokens": 4296,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ اَلْحَمْدُ",
+          "official": "‌اَلْحَمْدُ"
+        },
+        {
+          "type": "replace",
+          "upstream": "اَلْحَمْدُ",
+          "official": "‌‌اَلْحَمْدُ"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ اَلْحَمْدُ",
+          "official": "‌اَلْحَمْدُ"
+        }
+      ]
+    },
+    {
+      "title": "Üçüncü Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/203 Üçüncü Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-huccet-i-imaniye/",
+      "similarity": 0.9990906335253107,
+      "content_overlap": 0.998485307482581,
+      "diff_tokens": 10,
+      "upstream_tokens": 6594,
+      "official_tokens": 6602,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Üçüncü Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/103 Üçüncü Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-mesele/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 1069,
+      "official_tokens": 1069,
+      "snippets": []
+    },
+    {
+      "title": "Yedinci Hüccet-i İmaniye",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/207 Yedinci Hüccet-i İmaniye.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-huccet-i-imaniye/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 508,
+      "official_tokens": 508,
+      "snippets": []
+    },
+    {
+      "title": "Yedinci Mesele",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/107 Yedinci Mesele.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-mesele/",
+      "similarity": 0.9985756830247313,
+      "content_overlap": 0.9984464008285863,
+      "diff_tokens": 8,
+      "upstream_tokens": 3861,
+      "official_tokens": 3862,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ اَلْجَنَّةُ حَقٌّ ‌",
+          "official": "‌اَلْجَنَّةُ حَقٌّ‌"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    }
+  ]
+}

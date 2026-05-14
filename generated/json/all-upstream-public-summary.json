@@ -1,0 +1,174 @@
+{
+  "book_count": 15,
+  "overall_similarity": 0.9968715637529371,
+  "overall_content_overlap": 0.9961137754728737,
+  "total_upstream_only_sections": 7,
+  "total_official_only_sections": 16,
+  "books": [
+    {
+      "title": "Sözler",
+      "slug": "sozler",
+      "overall_similarity": 0.9953220733204761,
+      "overall_content_overlap": 0.9939144048753769,
+      "overlap_sections": 36,
+      "total_diff_tokens": 1592,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "very-high"
+    },
+    {
+      "title": "Mektubat",
+      "slug": "mektubat",
+      "overall_similarity": 0.9957013665894787,
+      "overall_content_overlap": 0.9947620362079297,
+      "overlap_sections": 39,
+      "total_diff_tokens": 870,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "very-high"
+    },
+    {
+      "title": "Lem'alar",
+      "slug": "lemalar",
+      "overall_similarity": 0.9981251417642236,
+      "overall_content_overlap": 0.9971728118741902,
+      "overlap_sections": 36,
+      "total_diff_tokens": 404,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "almost-identical"
+    },
+    {
+      "title": "Şuâlar",
+      "slug": "sualar",
+      "overall_similarity": 0.9953621995963888,
+      "overall_content_overlap": 0.9945093646797996,
+      "overlap_sections": 18,
+      "total_diff_tokens": 1029,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "very-high"
+    },
+    {
+      "title": "Tarihçe-i Hayat",
+      "slug": "tarihce-i-hayat",
+      "overall_similarity": 0.997704272588622,
+      "overall_content_overlap": 0.9971161316386463,
+      "overlap_sections": 10,
+      "total_diff_tokens": 571,
+      "upstream_only_sections": 2,
+      "official_only_sections": 4,
+      "status": "very-high"
+    },
+    {
+      "title": "Mesnevî-i Nuriye",
+      "slug": "mesnevi-i-nuriye",
+      "overall_similarity": 0.997950725363453,
+      "overall_content_overlap": 0.9975999540110948,
+      "overlap_sections": 16,
+      "total_diff_tokens": 192,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "almost-identical"
+    },
+    {
+      "title": "İşaratü'l-i'caz",
+      "slug": "isaratul-icaz",
+      "overall_similarity": 0.9952228860169654,
+      "overall_content_overlap": 0.9960972329820356,
+      "overlap_sections": 26,
+      "total_diff_tokens": 458,
+      "upstream_only_sections": 1,
+      "official_only_sections": 1,
+      "status": "very-high"
+    },
+    {
+      "title": "Sikke-i Tasdik-i Gaybî",
+      "slug": "sikke-i-tasdik-i-gaybi",
+      "overall_similarity": 0.9979268664474037,
+      "overall_content_overlap": 0.9972318199268554,
+      "overlap_sections": 7,
+      "total_diff_tokens": 163,
+      "upstream_only_sections": 1,
+      "official_only_sections": 1,
+      "status": "very-high"
+    },
+    {
+      "title": "Barla Lâhikası",
+      "slug": "barla-lahikasi",
+      "overall_similarity": 0.997975324359288,
+      "overall_content_overlap": 0.9972322198002738,
+      "overlap_sections": 20,
+      "total_diff_tokens": 290,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "almost-identical"
+    },
+    {
+      "title": "Kastamonu Lâhikası",
+      "slug": "kastamonu-lahikasi",
+      "overall_similarity": 0.9982241000889477,
+      "overall_content_overlap": 0.997628381975703,
+      "overlap_sections": 12,
+      "total_diff_tokens": 171,
+      "upstream_only_sections": 1,
+      "official_only_sections": 1,
+      "status": "very-high"
+    },
+    {
+      "title": "Emirdağ Lâhikası 1",
+      "slug": "emirdag-lahikasi-1",
+      "overall_similarity": 0.9982525728462242,
+      "overall_content_overlap": 0.9976467611336033,
+      "overlap_sections": 15,
+      "total_diff_tokens": 203,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "almost-identical"
+    },
+    {
+      "title": "Emirdağ Lâhikası 2",
+      "slug": "emirdag-lahikasi-2",
+      "overall_similarity": 0.9989073923760158,
+      "overall_content_overlap": 0.9985034969306417,
+      "overlap_sections": 12,
+      "total_diff_tokens": 108,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "almost-identical"
+    },
+    {
+      "title": "Asâ-yı Musa",
+      "slug": "asa-yi-musa",
+      "overall_similarity": 0.9969703811141973,
+      "overall_content_overlap": 0.9953572007605347,
+      "overlap_sections": 25,
+      "total_diff_tokens": 326,
+      "upstream_only_sections": 0,
+      "official_only_sections": 0,
+      "status": "almost-identical"
+    },
+    {
+      "title": "Muhakemat",
+      "slug": "muhakemat",
+      "overall_similarity": 0.9982498460958024,
+      "overall_content_overlap": 0.9981405023795266,
+      "overlap_sections": 5,
+      "total_diff_tokens": 77,
+      "upstream_only_sections": 0,
+      "official_only_sections": 1,
+      "status": "very-high"
+    },
+    {
+      "title": "Küçük Kitaplar",
+      "slug": "kucuk-kitaplar",
+      "overall_similarity": 0.9969246983252119,
+      "overall_content_overlap": 0.9959153513003141,
+      "overlap_sections": 10,
+      "total_diff_tokens": 858,
+      "upstream_only_sections": 2,
+      "official_only_sections": 8,
+      "status": "very-high"
+    }
+  ]
+}

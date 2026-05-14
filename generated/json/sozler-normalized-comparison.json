@@ -1,0 +1,1566 @@
+{
+  "official": {
+    "shared": 36,
+    "avg_order": 0.9739102514755149,
+    "avg_overlap": 0.982519004427405,
+    "avg_jacc": 0.9738786702423666,
+    "rows": [
+      {
+        "title": "Ondördüncü Söz",
+        "order_similarity": 0.9173994522127721,
+        "content_overlap": 0.904535274356103,
+        "jaccard": 0.8718294657312466,
+        "diff_tokens": 447,
+        "snippets": [
+          [
+            "replace",
+            "ondorduncu",
+            "on dorduncu"
+          ],
+          [
+            "replace",
+            "ondorduncu soz",
+            "بسم الله الرحمن الرحيم الر كتاب احكمت اياته ثم فصلت من لدن حكيم خبير"
+          ],
+          [
+            "replace",
+            "hakaikina",
+            "hakaikine"
+          ]
+        ]
+      },
+      {
+        "title": "Onüçüncü Söz",
+        "order_similarity": 0.9158239765674036,
+        "content_overlap": 0.9063911317914328,
+        "jaccard": 0.8583462934162779,
+        "diff_tokens": 835,
+        "snippets": [
+          [
+            "replace",
+            "onucuncu",
+            "on ucuncu"
+          ],
+          [
+            "replace",
+            "onucuncu soz",
+            "بسم الله الرحمن الرحيم وننزل من القران ما هو شفاء ورحمة للمؤمنين وما علمناه الشعر وما ينبغى له"
+          ],
+          [
+            "replace",
+            "muciz ul",
+            "mucizul"
+          ]
+        ]
+      },
+      {
+        "title": "Beşinci Söz",
+        "order_similarity": 0.9317607413647851,
+        "content_overlap": 0.9110378912685337,
+        "jaccard": 0.8722397476340694,
+        "diff_tokens": 57,
+        "snippets": [
+          [
+            "delete",
+            "besinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "إن",
+            "ان"
+          ],
+          [
+            "replace",
+            "munasib",
+            "munasip"
+          ]
+        ]
+      },
+      {
+        "title": "Dördüncü Söz",
+        "order_similarity": 0.93125,
+        "content_overlap": 0.919917864476386,
+        "jaccard": 0.875,
+        "diff_tokens": 42,
+        "snippets": [
+          [
+            "delete",
+            "dorduncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "kerre",
+            "kere"
+          ],
+          [
+            "replace",
+            "herbirisine yirmidort altun",
+            "her birisine yirmi dort altin"
+          ]
+        ]
+      },
+      {
+        "title": "Onbirinci Söz",
+        "order_similarity": 0.9477088948787062,
+        "content_overlap": 0.9338287331917905,
+        "jaccard": 0.9019138755980861,
+        "diff_tokens": 196,
+        "snippets": [
+          [
+            "replace",
+            "onbirinci",
+            "on birinci"
+          ],
+          [
+            "replace",
+            "onbirinci soz",
+            "بسم الله الرحمن الرحيم والشمس وضحيها والقمر اذا تليها والنهار اذا جليها اليل اذا يغشيها السماء وما بنيها الارض وما"
+          ],
+          [
+            "replace",
+            "acaib",
+            "acayip"
+          ]
+        ]
+      },
+      {
+        "title": "Onbeşinci Söz",
+        "order_similarity": 0.9205250839523761,
+        "content_overlap": 0.9412704754294846,
+        "jaccard": 0.9212121212121213,
+        "diff_tokens": 689,
+        "snippets": [
+          [
+            "replace",
+            "onbesinci",
+            "on besinci"
+          ],
+          [
+            "replace",
+            "onbesinci soz",
+            "بسم الله الرحمن الرحيم ولقد زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين"
+          ],
+          [
+            "replace",
+            "mektebli",
+            "mektepli"
+          ]
+        ]
+      },
+      {
+        "title": "Onuncu Söz",
+        "order_similarity": 0.8399278141213625,
+        "content_overlap": 0.9439716947330706,
+        "jaccard": 0.9064206769019051,
+        "diff_tokens": 6336,
+        "snippets": [
+          [
+            "delete",
+            "onuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "mutenasib",
+            "mutenasip"
+          ],
+          [
+            "insert",
+            "",
+            "بسم الله الرحمن الرحيم"
+          ]
+        ]
+      },
+      {
+        "title": "Birinci Söz",
+        "order_similarity": 0.9523971438286297,
+        "content_overlap": 0.944201680672269,
+        "jaccard": 0.9140904653433127,
+        "diff_tokens": 188,
+        "snippets": [
+          [
+            "delete",
+            "birinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "وبه",
+            "به"
+          ],
+          [
+            "replace",
+            "والصلاة والسلام",
+            "الصلاة السلام"
+          ]
+        ]
+      },
+      {
+        "title": "Onikinci Söz",
+        "order_similarity": 0.9472821633433488,
+        "content_overlap": 0.9490790899241603,
+        "jaccard": 0.9177579884756417,
+        "diff_tokens": 139,
+        "snippets": [
+          [
+            "replace",
+            "onikinci",
+            "on ikinci"
+          ],
+          [
+            "replace",
+            "onikinci soz",
+            "بسم الله الرحمن الرحيم ومن يؤت الحكمة فقد اوتى خيرا كثيرا"
+          ],
+          [
+            "replace",
+            "durbiniyle",
+            "durbunuyle"
+          ]
+        ]
+      },
+      {
+        "title": "Yedinci Söz",
+        "order_similarity": 0.9561364643331857,
+        "content_overlap": 0.9531802120141343,
+        "jaccard": 0.9159592529711376,
+        "diff_tokens": 55,
+        "snippets": [
+          [
+            "delete",
+            "yedinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "آمنت",
+            "امنت"
+          ],
+          [
+            "replace",
+            "وباليوم الآخر",
+            "باليوم الاخر"
+          ]
+        ]
+      },
+      {
+        "title": "Dokuzuncu Söz",
+        "order_similarity": 0.9571075679317315,
+        "content_overlap": 0.9556053811659193,
+        "jaccard": 0.9177433247200689,
+        "diff_tokens": 107,
+        "snippets": [
+          [
+            "delete",
+            "dokuzuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "herbir",
+            "her bir"
+          ],
+          [
+            "replace",
+            "lafzan",
+            "lafzen"
+          ]
+        ]
+      },
+      {
+        "title": "Lemaat",
+        "order_similarity": 0.9801467070642641,
+        "content_overlap": 0.9611415168100078,
+        "jaccard": 0.9610663747947775,
+        "diff_tokens": 498,
+        "snippets": [
+          [
+            "delete",
+            "lemaat",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "tevhidin iki burhan muazzami"
+          ],
+          [
+            "insert",
+            "",
+            "sebep sirf zahiridir"
+          ]
+        ]
+      },
+      {
+        "title": "Altıncı Söz",
+        "order_similarity": 0.9688888888888889,
+        "content_overlap": 0.9677158999192897,
+        "jaccard": 0.9396551724137931,
+        "diff_tokens": 42,
+        "snippets": [
+          [
+            "delete",
+            "altinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "إن",
+            "ان"
+          ],
+          [
+            "replace",
+            "أنفسهم",
+            "انفسهم"
+          ]
+        ]
+      },
+      {
+        "title": "İkinci Söz",
+        "order_similarity": 0.9674582233948988,
+        "content_overlap": 0.968365553602812,
+        "jaccard": 0.9402730375426621,
+        "diff_tokens": 22,
+        "snippets": [
+          [
+            "delete",
+            "ikinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "hodendis",
+            "hod endis"
+          ],
+          [
+            "replace",
+            "mudhis",
+            "muthis"
+          ]
+        ]
+      },
+      {
+        "title": "Sekizinci Söz",
+        "order_similarity": 0.9692346809051614,
+        "content_overlap": 0.971021860701576,
+        "jaccard": 0.944142362827484,
+        "diff_tokens": 71,
+        "snippets": [
+          [
+            "delete",
+            "sekizinci soz",
+            ""
+          ],
+          [
+            "delete",
+            "إن الدين عند الله الاسلام",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "ان الدين عند الله الاسلام"
+          ]
+        ]
+      },
+      {
+        "title": "Üçüncü Söz",
+        "order_similarity": 0.9759503491078355,
+        "content_overlap": 0.9736842105263158,
+        "jaccard": 0.953030303030303,
+        "diff_tokens": 18,
+        "snippets": [
+          [
+            "delete",
+            "ucuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "sehire",
+            "sehre"
+          ],
+          [
+            "replace",
+            "maglub",
+            "maglup"
+          ]
+        ]
+      },
+      {
+        "title": "Onsekizinci Söz",
+        "order_similarity": 0.9991235758106923,
+        "content_overlap": 0.9982486865148862,
+        "jaccard": 0.9982486865148862,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "onsekizinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Onyedinci Söz",
+        "order_similarity": 0.9989968080255358,
+        "content_overlap": 0.9985414767547858,
+        "jaccard": 0.9979956268221575,
+        "diff_tokens": 8,
+        "snippets": [
+          [
+            "delete",
+            "onyedinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "resm gecit",
+            "resmigecit"
+          ],
+          [
+            "replace",
+            "resm gecit",
+            "resmigecit"
+          ]
+        ]
+      },
+      {
+        "title": "Fihrist",
+        "order_similarity": 0.9994510019214933,
+        "content_overlap": 0.9989026063100137,
+        "jaccard": 0.9989026063100137,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "fihrist",
+            ""
+          ],
+          [
+            "delete",
+            "anglikan kilisesine cevab",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Ondokuzuncu Söz",
+        "order_similarity": 0.9993436166721366,
+        "content_overlap": 0.9990157480314961,
+        "jaccard": 0.9986880944571991,
+        "diff_tokens": 3,
+        "snippets": [
+          [
+            "delete",
+            "ondokuzuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "resehati",
+            "resehat"
+          ]
+        ]
+      },
+      {
+        "title": "Otuzikinci Söz",
+        "order_similarity": 0.9993128964059197,
+        "content_overlap": 0.9990488771466315,
+        "jaccard": 0.998626736386204,
+        "diff_tokens": 20,
+        "snippets": [
+          [
+            "delete",
+            "otuzikinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "mevkiftir",
+            "mevkif tir"
+          ],
+          [
+            "replace",
+            "zerreye",
+            "zerre ye"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmisekizinci Söz",
+        "order_similarity": 0.9995335820895522,
+        "content_overlap": 0.9990675990675991,
+        "jaccard": 0.9990675990675991,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmisekizinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirmibirinci Söz",
+        "order_similarity": 0.9993783027665527,
+        "content_overlap": 0.9990677439403356,
+        "jaccard": 0.9987573780677229,
+        "diff_tokens": 3,
+        "snippets": [
+          [
+            "delete",
+            "yirmibirinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "ikazi",
+            "ikaz"
+          ]
+        ]
+      },
+      {
+        "title": "Onaltıncı Söz",
+        "order_similarity": 0.9996056782334385,
+        "content_overlap": 0.9992116673236106,
+        "jaccard": 0.9992116673236106,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "onaltinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirmidördüncü Söz",
+        "order_similarity": 0.999442223668309,
+        "content_overlap": 0.9992564364717911,
+        "jaccard": 0.9988850692186193,
+        "diff_tokens": 10,
+        "snippets": [
+          [
+            "delete",
+            "yirmidorduncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "daldir",
+            "dal dir"
+          ],
+          [
+            "replace",
+            "reshayi",
+            "resha yi"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmidokuzuncu Söz",
+        "order_similarity": 0.999554653867089,
+        "content_overlap": 0.9993074107054517,
+        "jaccard": 0.9991097042239588,
+        "diff_tokens": 9,
+        "snippets": [
+          [
+            "delete",
+            "yirmidokuzuncu soz",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "ince remizli bir mesele"
+          ],
+          [
+            "insert",
+            "",
+            "remizli bir nukte"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmiikinci Söz",
+        "order_similarity": 0.9996576849723703,
+        "content_overlap": 0.9995110502640329,
+        "jaccard": 0.9993156042236997,
+        "diff_tokens": 7,
+        "snippets": [
+          [
+            "delete",
+            "yirmiikinci soz",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "birinci nukte icinde bir ihtar"
+          ]
+        ]
+      },
+      {
+        "title": "Otuzbirinci Söz",
+        "order_similarity": 0.9996385604378583,
+        "content_overlap": 0.9995869475423379,
+        "jaccard": 0.9992773820584289,
+        "diff_tokens": 5,
+        "snippets": [
+          [
+            "delete",
+            "otuzbirinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "esasi",
+            "esas"
+          ],
+          [
+            "replace",
+            "noktayi",
+            "nokta yi"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmialtıncı Söz",
+        "order_similarity": 0.99979633401222,
+        "content_overlap": 0.9995927509672164,
+        "jaccard": 0.9995927509672164,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmialtinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirmiyedinci Söz",
+        "order_similarity": 0.9997999599919984,
+        "content_overlap": 0.9996,
+        "jaccard": 0.9996,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmiyedinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Otuzuncu Söz",
+        "order_similarity": 0.9996695088902109,
+        "content_overlap": 0.9996034368803701,
+        "jaccard": 0.9993392361569975,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "otuzuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "maksattir",
+            "maksat tir"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmiüçüncü Söz",
+        "order_similarity": 0.999847071417648,
+        "content_overlap": 0.9996941896024465,
+        "jaccard": 0.9996941896024465,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmiucuncu soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirminci Söz",
+        "order_similarity": 0.999854418401514,
+        "content_overlap": 0.9997088791848617,
+        "jaccard": 0.9997088791848617,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirminci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Otuzüçüncü Söz",
+        "order_similarity": 0.9997725308220736,
+        "content_overlap": 0.9997270494040579,
+        "jaccard": 0.9995451651050669,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "otuzucuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "noktayi",
+            "nokta yi"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmibeşinci Söz",
+        "order_similarity": 0.9998807272231593,
+        "content_overlap": 0.9998636905776112,
+        "jaccard": 0.9997614828949162,
+        "diff_tokens": 5,
+        "snippets": [
+          [
+            "delete",
+            "yirmibesinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "suleyi",
+            "sule yi"
+          ],
+          [
+            "replace",
+            "suai",
+            "sua"
+          ]
+        ]
+      },
+      {
+        "title": "Konferans",
+        "order_similarity": 0.9999357037227544,
+        "content_overlap": 0.9998714157129999,
+        "jaccard": 0.9998714157129999,
+        "diff_tokens": 1,
+        "snippets": [
+          [
+            "delete",
+            "konferans",
+            ""
+          ]
+        ]
+      }
+    ],
+    "local_only": [
+      "anglikankilisesinecevab",
+      "kapakvegiris"
+    ],
+    "other_only": []
+  },
+  "ali": {
+    "shared": 36,
+    "avg_order": 0.9733695713086324,
+    "avg_overlap": 0.9816336033455747,
+    "avg_jacc": 0.972931120215984,
+    "rows": [
+      {
+        "title": "Birinci Söz",
+        "order_similarity": 0.9295446992356264,
+        "content_overlap": 0.9035679845708775,
+        "jaccard": 0.8765201122544434,
+        "diff_tokens": 331,
+        "snippets": [
+          [
+            "delete",
+            "birinci soz birinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "وبه",
+            "به"
+          ],
+          [
+            "replace",
+            "والصلاة والسلام",
+            "الصلاة السلام"
+          ]
+        ]
+      },
+      {
+        "title": "Ondördüncü Söz",
+        "order_similarity": 0.9173994522127721,
+        "content_overlap": 0.904535274356103,
+        "jaccard": 0.8718294657312466,
+        "diff_tokens": 447,
+        "snippets": [
+          [
+            "replace",
+            "ondorduncu",
+            "on dorduncu"
+          ],
+          [
+            "replace",
+            "ondorduncu soz",
+            "بسم الله الرحمن الرحيم الر كتاب احكمت اياته ثم فصلت من لدن حكيم خبير"
+          ],
+          [
+            "replace",
+            "hakaikina",
+            "hakaikine"
+          ]
+        ]
+      },
+      {
+        "title": "Onüçüncü Söz",
+        "order_similarity": 0.9156962554912489,
+        "content_overlap": 0.9061431112327267,
+        "jaccard": 0.8581238662866028,
+        "diff_tokens": 837,
+        "snippets": [
+          [
+            "replace",
+            "onucuncu",
+            "on ucuncu"
+          ],
+          [
+            "replace",
+            "onucuncu soz",
+            "بسم الله الرحمن الرحيم وننزل من القران ما هو شفاء ورحمة للمؤمنين وما علمناه الشعر وما ينبغى له"
+          ],
+          [
+            "replace",
+            "muciz ul",
+            "mucizul"
+          ]
+        ]
+      },
+      {
+        "title": "Beşinci Söz",
+        "order_similarity": 0.9317607413647851,
+        "content_overlap": 0.9110378912685337,
+        "jaccard": 0.8722397476340694,
+        "diff_tokens": 57,
+        "snippets": [
+          [
+            "delete",
+            "besinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "إن",
+            "ان"
+          ],
+          [
+            "replace",
+            "munasib",
+            "munasip"
+          ]
+        ]
+      },
+      {
+        "title": "Dördüncü Söz",
+        "order_similarity": 0.93125,
+        "content_overlap": 0.919917864476386,
+        "jaccard": 0.875,
+        "diff_tokens": 42,
+        "snippets": [
+          [
+            "delete",
+            "dorduncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "kerre",
+            "kere"
+          ],
+          [
+            "replace",
+            "herbirisine yirmidort altun",
+            "her birisine yirmi dort altin"
+          ]
+        ]
+      },
+      {
+        "title": "Onbirinci Söz",
+        "order_similarity": 0.9477088948787062,
+        "content_overlap": 0.9338287331917905,
+        "jaccard": 0.9019138755980861,
+        "diff_tokens": 196,
+        "snippets": [
+          [
+            "replace",
+            "onbirinci",
+            "on birinci"
+          ],
+          [
+            "replace",
+            "onbirinci soz",
+            "بسم الله الرحمن الرحيم والشمس وضحيها والقمر اذا تليها والنهار اذا جليها اليل اذا يغشيها السماء وما بنيها الارض وما"
+          ],
+          [
+            "replace",
+            "acaib",
+            "acayip"
+          ]
+        ]
+      },
+      {
+        "title": "Onbeşinci Söz",
+        "order_similarity": 0.9205250839523761,
+        "content_overlap": 0.9412704754294846,
+        "jaccard": 0.9212121212121213,
+        "diff_tokens": 689,
+        "snippets": [
+          [
+            "replace",
+            "onbesinci",
+            "on besinci"
+          ],
+          [
+            "replace",
+            "onbesinci soz",
+            "بسم الله الرحمن الرحيم ولقد زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين"
+          ],
+          [
+            "replace",
+            "mektebli",
+            "mektepli"
+          ]
+        ]
+      },
+      {
+        "title": "Onuncu Söz",
+        "order_similarity": 0.8398141465175027,
+        "content_overlap": 0.9437180979672248,
+        "jaccard": 0.906186852401221,
+        "diff_tokens": 6342,
+        "snippets": [
+          [
+            "delete",
+            "onuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "mutenasib",
+            "mutenasip"
+          ],
+          [
+            "insert",
+            "",
+            "بسم الله الرحمن الرحيم"
+          ]
+        ]
+      },
+      {
+        "title": "Onikinci Söz",
+        "order_similarity": 0.9472821633433488,
+        "content_overlap": 0.9490790899241603,
+        "jaccard": 0.9177579884756417,
+        "diff_tokens": 139,
+        "snippets": [
+          [
+            "replace",
+            "onikinci",
+            "on ikinci"
+          ],
+          [
+            "replace",
+            "onikinci soz",
+            "بسم الله الرحمن الرحيم ومن يؤت الحكمة فقد اوتى خيرا كثيرا"
+          ],
+          [
+            "replace",
+            "durbiniyle",
+            "durbunuyle"
+          ]
+        ]
+      },
+      {
+        "title": "İkinci Söz",
+        "order_similarity": 0.9590235396687009,
+        "content_overlap": 0.9516407599309153,
+        "jaccard": 0.924496644295302,
+        "diff_tokens": 32,
+        "snippets": [
+          [
+            "delete",
+            "ikinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "hodendis",
+            "hod endis"
+          ],
+          [
+            "replace",
+            "mudhis",
+            "muthis"
+          ]
+        ]
+      },
+      {
+        "title": "Yedinci Söz",
+        "order_similarity": 0.9544449358690845,
+        "content_overlap": 0.9531802120141343,
+        "jaccard": 0.9128595600676819,
+        "diff_tokens": 59,
+        "snippets": [
+          [
+            "delete",
+            "yedinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "آمنت",
+            "امنت"
+          ],
+          [
+            "replace",
+            "وباليوم الآخر",
+            "باليوم الاخر"
+          ]
+        ]
+      },
+      {
+        "title": "Dokuzuncu Söz",
+        "order_similarity": 0.9571075679317315,
+        "content_overlap": 0.9556053811659193,
+        "jaccard": 0.9177433247200689,
+        "diff_tokens": 107,
+        "snippets": [
+          [
+            "delete",
+            "dokuzuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "herbir",
+            "her bir"
+          ],
+          [
+            "replace",
+            "lafzan",
+            "lafzen"
+          ]
+        ]
+      },
+      {
+        "title": "Lemaat",
+        "order_similarity": 0.978421848873318,
+        "content_overlap": 0.9582813474734873,
+        "jaccard": 0.9579078649933744,
+        "diff_tokens": 541,
+        "snippets": [
+          [
+            "delete",
+            "lemaat",
+            ""
+          ],
+          [
+            "delete",
+            "muellifi bediuzzaman said nursi",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "hasiye"
+          ]
+        ]
+      },
+      {
+        "title": "Üçüncü Söz",
+        "order_similarity": 0.9662058371735791,
+        "content_overlap": 0.9588414634146342,
+        "jaccard": 0.9346210995542348,
+        "diff_tokens": 31,
+        "snippets": [
+          [
+            "delete",
+            "ucuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "sehire",
+            "sehre"
+          ],
+          [
+            "replace",
+            "maglub",
+            "maglup"
+          ]
+        ]
+      },
+      {
+        "title": "Altıncı Söz",
+        "order_similarity": 0.9688888888888889,
+        "content_overlap": 0.9677158999192897,
+        "jaccard": 0.9396551724137931,
+        "diff_tokens": 42,
+        "snippets": [
+          [
+            "delete",
+            "altinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "إن",
+            "ان"
+          ],
+          [
+            "replace",
+            "أنفسهم",
+            "انفسهم"
+          ]
+        ]
+      },
+      {
+        "title": "Sekizinci Söz",
+        "order_similarity": 0.9692346809051614,
+        "content_overlap": 0.971021860701576,
+        "jaccard": 0.944142362827484,
+        "diff_tokens": 71,
+        "snippets": [
+          [
+            "delete",
+            "sekizinci soz",
+            ""
+          ],
+          [
+            "delete",
+            "إن الدين عند الله الاسلام",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "ان الدين عند الله الاسلام"
+          ]
+        ]
+      },
+      {
+        "title": "Onyedinci Söz",
+        "order_similarity": 0.9984496124031008,
+        "content_overlap": 0.9979945305378305,
+        "jaccard": 0.9969040247678018,
+        "diff_tokens": 12,
+        "snippets": [
+          [
+            "delete",
+            "onyedinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "resm gecit",
+            "resmigecit"
+          ],
+          [
+            "replace",
+            "resm gecit",
+            "resmigecit"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmisekizinci Söz",
+        "order_similarity": 0.9983694386210109,
+        "content_overlap": 0.9981378026070763,
+        "jaccard": 0.9976733364355514,
+        "diff_tokens": 7,
+        "snippets": [
+          [
+            "delete",
+            "yirmisekizinci soz",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "onuncu soz birinci hakikat"
+          ],
+          [
+            "insert",
+            "",
+            "lasiyyemalar"
+          ]
+        ]
+      },
+      {
+        "title": "Onsekizinci Söz",
+        "order_similarity": 0.9991235758106923,
+        "content_overlap": 0.9982486865148862,
+        "jaccard": 0.9982486865148862,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "onsekizinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Fihrist",
+        "order_similarity": 0.9994510019214933,
+        "content_overlap": 0.9989026063100137,
+        "jaccard": 0.9989026063100137,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "fihrist",
+            ""
+          ],
+          [
+            "delete",
+            "anglikan kilisesine cevab",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Ondokuzuncu Söz",
+        "order_similarity": 0.9993436166721366,
+        "content_overlap": 0.9990157480314961,
+        "jaccard": 0.9986880944571991,
+        "diff_tokens": 3,
+        "snippets": [
+          [
+            "delete",
+            "ondokuzuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "resehati",
+            "resehat"
+          ]
+        ]
+      },
+      {
+        "title": "Otuzikinci Söz",
+        "order_similarity": 0.9993128964059197,
+        "content_overlap": 0.9990488771466315,
+        "jaccard": 0.998626736386204,
+        "diff_tokens": 20,
+        "snippets": [
+          [
+            "delete",
+            "otuzikinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "zerreye",
+            "zerre ye"
+          ],
+          [
+            "replace",
+            "yuzune",
+            "yuzu ne"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmibirinci Söz",
+        "order_similarity": 0.9993783027665527,
+        "content_overlap": 0.9990677439403356,
+        "jaccard": 0.9987573780677229,
+        "diff_tokens": 3,
+        "snippets": [
+          [
+            "delete",
+            "yirmibirinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "ikazi",
+            "ikaz"
+          ]
+        ]
+      },
+      {
+        "title": "Onaltıncı Söz",
+        "order_similarity": 0.9996056782334385,
+        "content_overlap": 0.9992116673236106,
+        "jaccard": 0.9992116673236106,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "onaltinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirmidokuzuncu Söz",
+        "order_similarity": 0.999554653867089,
+        "content_overlap": 0.9993074107054517,
+        "jaccard": 0.9991097042239588,
+        "diff_tokens": 9,
+        "snippets": [
+          [
+            "delete",
+            "yirmidokuzuncu soz",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "ince remizli bir mesele"
+          ],
+          [
+            "insert",
+            "",
+            "remizli bir nukte"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmidördüncü Söz",
+        "order_similarity": 0.9994421718110822,
+        "content_overlap": 0.9993492609463606,
+        "jaccard": 0.9988849656197732,
+        "diff_tokens": 10,
+        "snippets": [
+          [
+            "delete",
+            "yirmidorduncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "reshayi",
+            "resha yi"
+          ],
+          [
+            "insert",
+            "",
+            "bulbul bahsine bir tetimme"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmiikinci Söz",
+        "order_similarity": 0.9994130881345985,
+        "content_overlap": 0.9994130881345985,
+        "jaccard": 0.9988268647961678,
+        "diff_tokens": 11,
+        "snippets": [
+          [
+            "delete",
+            "yirmiikinci soz",
+            ""
+          ],
+          [
+            "delete",
+            "yirmi",
+            ""
+          ],
+          [
+            "replace",
+            "sozun ikinci makami",
+            "makam"
+          ]
+        ]
+      },
+      {
+        "title": "Otuzbirinci Söz",
+        "order_similarity": 0.9996385604378583,
+        "content_overlap": 0.9995869475423379,
+        "jaccard": 0.9992773820584289,
+        "diff_tokens": 5,
+        "snippets": [
+          [
+            "delete",
+            "otuzbirinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "esasi",
+            "esas"
+          ],
+          [
+            "replace",
+            "noktayi",
+            "nokta yi"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmialtıncı Söz",
+        "order_similarity": 0.99979633401222,
+        "content_overlap": 0.9995927509672164,
+        "jaccard": 0.9995927509672164,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmialtinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirmiyedinci Söz",
+        "order_similarity": 0.9997999599919984,
+        "content_overlap": 0.9996,
+        "jaccard": 0.9996,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmiyedinci soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirmiüçüncü Söz",
+        "order_similarity": 0.999847071417648,
+        "content_overlap": 0.9996941896024465,
+        "jaccard": 0.9996941896024465,
+        "diff_tokens": 2,
+        "snippets": [
+          [
+            "delete",
+            "yirmiucuncu soz",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Yirminci Söz",
+        "order_similarity": 0.9997088791848617,
+        "content_overlap": 0.9997088791848617,
+        "jaccard": 0.9994179278230501,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "yirminci soz",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "hasiye"
+          ],
+          [
+            "insert",
+            "",
+            "hasiye"
+          ]
+        ]
+      },
+      {
+        "title": "Otuzüçüncü Söz",
+        "order_similarity": 0.9997725308220736,
+        "content_overlap": 0.9997270494040579,
+        "jaccard": 0.9995451651050669,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "otuzucuncu soz",
+            ""
+          ],
+          [
+            "replace",
+            "noktayi",
+            "nokta yi"
+          ]
+        ]
+      },
+      {
+        "title": "Otuzuncu Söz",
+        "order_similarity": 0.9997356245869135,
+        "content_overlap": 0.9997356245869135,
+        "jaccard": 0.999471388925598,
+        "diff_tokens": 4,
+        "snippets": [
+          [
+            "delete",
+            "otuzuncu soz",
+            ""
+          ],
+          [
+            "insert",
+            "",
+            "hasiye"
+          ],
+          [
+            "insert",
+            "",
+            "hasiye"
+          ]
+        ]
+      },
+      {
+        "title": "Yirmibeşinci Söz",
+        "order_similarity": 0.9998466545126169,
+        "content_overlap": 0.9998296190281469,
+        "jaccard": 0.9996933560477002,
+        "diff_tokens": 7,
+        "snippets": [
+          [
+            "delete",
+            "yirmibesinci soz",
+            ""
+          ],
+          [
+            "replace",
+            "suleyi",
+            "sule yi"
+          ],
+          [
+            "replace",
+            "suai",
+            "sua"
+          ]
+        ]
+      },
+      {
+        "title": "Konferans",
+        "order_similarity": 0.9999357037227544,
+        "content_overlap": 0.9998714157129999,
+        "jaccard": 0.9998714157129999,
+        "diff_tokens": 1,
+        "snippets": [
+          [
+            "delete",
+            "konferans",
+            ""
+          ]
+        ]
+      }
+    ],
+    "local_only": [
+      "anglikankilisesinecevab",
+      "kapakvegiris"
+    ],
+    "other_only": []
+  }
+}

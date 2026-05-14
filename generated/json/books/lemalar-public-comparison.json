@@ -1,0 +1,752 @@
+{
+  "book": {
+    "title": "Lem'alar",
+    "slug": "lemalar",
+    "path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar"
+  },
+  "source": {
+    "name": "Hizmet Vakfı official site",
+    "index_url": "https://risaleinur.hizmetvakfi.org/lemalar/",
+    "section_count": 36
+  },
+  "overall_similarity": 0.9981251417642236,
+  "overall_content_overlap": 0.9971728118741902,
+  "overlap_sections": 36,
+  "total_diff_tokens": 404,
+  "upstream_only_sections": [],
+  "official_only_sections": [],
+  "status": "almost-identical",
+  "sections": [
+    {
+      "title": "Altıncı Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/06 Altıncı Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/altinci-lema/",
+      "similarity": 0.9753694581280788,
+      "content_overlap": 0.9611650485436893,
+      "diff_tokens": 4,
+      "upstream_tokens": 100,
+      "official_tokens": 103,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Beşinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/05 Beşinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/besinci-lema/",
+      "similarity": 0.976303317535545,
+      "content_overlap": 0.9626168224299065,
+      "diff_tokens": 4,
+      "upstream_tokens": 104,
+      "official_tokens": 107,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Birinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/01 Birinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/birinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 817,
+      "official_tokens": 817,
+      "snippets": []
+    },
+    {
+      "title": "Dokuzuncu Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/09 Dokuzuncu Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 7,
+      "official_tokens": 7,
+      "snippets": []
+    },
+    {
+      "title": "Dördüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/04 Dördüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-lema/",
+      "similarity": 0.9989701338825953,
+      "content_overlap": 0.9983532317826266,
+      "diff_tokens": 4,
+      "upstream_tokens": 2426,
+      "official_tokens": 2429,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[ [1] ] [1]"
+        }
+      ]
+    },
+    {
+      "title": "Dua (Lem’alar)",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/36 Dua (Lem’alar).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dua-lemalar/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 118,
+      "official_tokens": 118,
+      "snippets": []
+    },
+    {
+      "title": "Fihrist (Lem’alar)",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/35 Fihrist (Lem’alar).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/fihrist-lemalar/",
+      "similarity": 0.999574745556091,
+      "content_overlap": 0.9995464081192946,
+      "diff_tokens": 11,
+      "upstream_tokens": 17636,
+      "official_tokens": 17637,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ لَا",
+          "official": "‌لَا"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "– اَوْ",
+          "official": "–اَوْ"
+        }
+      ]
+    },
+    {
+      "title": "İkinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/02 İkinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 2075,
+      "official_tokens": 2075,
+      "snippets": []
+    },
+    {
+      "title": "Münâcat (Lem’alar)",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/34 Münâcat (Lem’alar).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/munacat-lemalar/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 5037,
+      "official_tokens": 5037,
+      "snippets": []
+    },
+    {
+      "title": "On Altıncı Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/16 On Altıncı Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-altinci-lema/",
+      "similarity": 0.9971563981042654,
+      "content_overlap": 0.9952696310312205,
+      "diff_tokens": 15,
+      "upstream_tokens": 3159,
+      "official_tokens": 3171,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "On Beşinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/15 On Beşinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-besinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 40,
+      "official_tokens": 40,
+      "snippets": []
+    },
+    {
+      "title": "On Birinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/11 On Birinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-lema/",
+      "similarity": 0.9994791666666667,
+      "content_overlap": 1.0,
+      "diff_tokens": 4,
+      "upstream_tokens": 3840,
+      "official_tokens": 3840,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "Onuncu Nükte"
+        },
+        {
+          "type": "delete",
+          "upstream": "Onuncu Nükte",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "On Dokuzuncu Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/19 On Dokuzuncu Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-dokuzuncu-lema/",
+      "similarity": 0.992992992992993,
+      "content_overlap": 0.9893617021276596,
+      "diff_tokens": 34,
+      "upstream_tokens": 2986,
+      "official_tokens": 3008,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ قُمْ",
+          "official": "‌قُمْ"
+        },
+        {
+          "type": "replace",
+          "upstream": "اللّٰه !",
+          "official": "اللّٰه!"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        }
+      ]
+    },
+    {
+      "title": "On Dördüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/14 On Dördüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-lema/",
+      "similarity": 0.9992383853769993,
+      "content_overlap": 0.9987312864755138,
+      "diff_tokens": 5,
+      "upstream_tokens": 3937,
+      "official_tokens": 3941,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "On İkinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/12 On İkinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-lema/",
+      "similarity": 0.9990353077368319,
+      "content_overlap": 0.9984573852680293,
+      "diff_tokens": 4,
+      "upstream_tokens": 2590,
+      "official_tokens": 2593,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "On Sekizinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/18 On Sekizinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 12,
+      "official_tokens": 12,
+      "snippets": []
+    },
+    {
+      "title": "On Üçüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/13 On Üçüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-lema/",
+      "similarity": 0.9995569339831635,
+      "content_overlap": 0.9994093325457767,
+      "diff_tokens": 4,
+      "upstream_tokens": 6772,
+      "official_tokens": 6770,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "الرَّجٖيمِ ‌",
+          "official": "الرَّجٖيمِ‌"
+        },
+        {
+          "type": "replace",
+          "upstream": "الرَّجٖيمِ ‌",
+          "official": "الرَّجٖيمِ‌"
+        }
+      ]
+    },
+    {
+      "title": "Onuncu Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/10 Onuncu Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-lema/",
+      "similarity": 0.997139792634966,
+      "content_overlap": 0.9953604568165596,
+      "diff_tokens": 13,
+      "upstream_tokens": 2792,
+      "official_tokens": 2802,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "On Yedinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/17 On Yedinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-yedinci-lema/",
+      "similarity": 0.9993037330619677,
+      "content_overlap": 0.9990361961876205,
+      "diff_tokens": 10,
+      "upstream_tokens": 9333,
+      "official_tokens": 9338,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "اللّٰهُ ‌",
+          "official": "اللّٰهُ‌"
+        }
+      ]
+    },
+    {
+      "title": "Otuz Birinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/31 Otuz Birinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-lema/",
+      "similarity": 0.9523809523809523,
+      "content_overlap": 0.9259259259259259,
+      "diff_tokens": 4,
+      "upstream_tokens": 51,
+      "official_tokens": 54,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "( [1] ) [1]"
+        }
+      ]
+    },
+    {
+      "title": "Otuz İkinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/32 Otuz İkinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ikinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 23,
+      "official_tokens": 23,
+      "snippets": []
+    },
+    {
+      "title": "Otuz Üçüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/33 Otuz Üçüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ucuncu-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 36,
+      "official_tokens": 36,
+      "snippets": []
+    },
+    {
+      "title": "Otuzuncu Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/30 Otuzuncu Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuzuncu-lema/",
+      "similarity": 0.9990371757154319,
+      "content_overlap": 0.9983963222323194,
+      "diff_tokens": 30,
+      "upstream_tokens": 18683,
+      "official_tokens": 18707,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Sekizinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/08 Sekizinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 15,
+      "official_tokens": 15,
+      "snippets": []
+    },
+    {
+      "title": "Üçüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/03 Üçüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-lema/",
+      "similarity": 0.9980404964075767,
+      "content_overlap": 0.9967384213959556,
+      "diff_tokens": 5,
+      "upstream_tokens": 1529,
+      "official_tokens": 1533,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Yedinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/07 Yedinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-lema/",
+      "similarity": 0.9991021727419644,
+      "content_overlap": 0.9985642498205313,
+      "diff_tokens": 4,
+      "upstream_tokens": 2783,
+      "official_tokens": 2786,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Altıncı Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/26 Yirmi Altıncı Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-altinci-lema/",
+      "similarity": 0.9977902959758489,
+      "content_overlap": 0.9965187119234117,
+      "diff_tokens": 58,
+      "upstream_tokens": 16045,
+      "official_tokens": 16086,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [2] )."
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Beşinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/25 Yirmi Beşinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-besinci-lema/",
+      "similarity": 0.9959960850609485,
+      "content_overlap": 0.9941385435168739,
+      "diff_tokens": 36,
+      "upstream_tokens": 5609,
+      "official_tokens": 5630,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ اَلْحَمْدُ",
+          "official": "‌اَلْحَمْدُ"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Birinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/21 Yirmi Birinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-birinci-lema/",
+      "similarity": 0.9943676395289298,
+      "content_overlap": 0.9914908100748808,
+      "diff_tokens": 25,
+      "upstream_tokens": 2921,
+      "official_tokens": 2938,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Dokuzuncu Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/29 Yirmi Dokuzuncu Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-lema/",
+      "similarity": 0.9949507700075738,
+      "content_overlap": 0.9919456330229046,
+      "diff_tokens": 32,
+      "upstream_tokens": 3949,
+      "official_tokens": 3973,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Dördüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/24 Yirmi Dördüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dorduncu-lema/",
+      "similarity": 0.9987025624391827,
+      "content_overlap": 0.998378728923476,
+      "diff_tokens": 6,
+      "upstream_tokens": 3082,
+      "official_tokens": 3084,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "قَالَ –",
+          "official": "قَالَ–"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi İkinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/22 Yirmi İkinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ikinci-lema/",
+      "similarity": 0.9987898346107301,
+      "content_overlap": 0.9979846835953244,
+      "diff_tokens": 5,
+      "upstream_tokens": 2477,
+      "official_tokens": 2481,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Yirminci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/20 Yirminci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirminci-lema/",
+      "similarity": 0.9911727616645649,
+      "content_overlap": 0.9866108786610879,
+      "diff_tokens": 48,
+      "upstream_tokens": 3552,
+      "official_tokens": 3585,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Sekizinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/28 Yirmi Sekizinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-lema/",
+      "similarity": 0.9956916099773243,
+      "content_overlap": 0.994338768115942,
+      "diff_tokens": 29,
+      "upstream_tokens": 4404,
+      "official_tokens": 4416,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ اَلصَّلَاةُ",
+          "official": "‌اَلصَّلَاةُ"
+        },
+        {
+          "type": "replace",
+          "upstream": "اللّٰه ‌",
+          "official": "اللّٰه‌"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Üçüncü Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/23 Yirmi Üçüncü Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ucuncu-lema/",
+      "similarity": 0.9990921470721743,
+      "content_overlap": 0.9984878270074097,
+      "diff_tokens": 10,
+      "upstream_tokens": 6605,
+      "official_tokens": 6613,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Yedinci Lem’a",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/03 Lem'alar/27 Yirmi Yedinci Lem’a.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-lema/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 17,
+      "official_tokens": 17,
+      "snippets": []
+    }
+  ]
+}

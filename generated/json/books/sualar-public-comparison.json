@@ -1,0 +1,427 @@
+{
+  "book": {
+    "title": "Şuâlar",
+    "slug": "sualar",
+    "path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar"
+  },
+  "source": {
+    "name": "Hizmet Vakfı official site",
+    "index_url": "https://risaleinur.hizmetvakfi.org/sualar/",
+    "section_count": 18
+  },
+  "overall_similarity": 0.9953621995963888,
+  "overall_content_overlap": 0.9945093646797996,
+  "overlap_sections": 18,
+  "total_diff_tokens": 1029,
+  "upstream_only_sections": [],
+  "official_only_sections": [],
+  "status": "very-high",
+  "sections": [
+    {
+      "title": "Altıncı Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/06 Altıncı Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/altinci-sua/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 1211,
+      "official_tokens": 1211,
+      "snippets": []
+    },
+    {
+      "title": "Beşinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/05 Beşinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/besinci-sua/",
+      "similarity": 0.9972412383774395,
+      "content_overlap": 0.9969356486210419,
+      "diff_tokens": 19,
+      "upstream_tokens": 4895,
+      "official_tokens": 4892,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "بِالصَّوَابِ ‌",
+          "official": "بِالصَّوَابِ‌"
+        },
+        {
+          "type": "replace",
+          "upstream": "بِالصَّوَابِ ‌",
+          "official": "بِالصَّوَابِ‌"
+        }
+      ]
+    },
+    {
+      "title": "Birinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/01 Birinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/birinci-sua/",
+      "similarity": 0.9967538667175864,
+      "content_overlap": 0.9967557251908397,
+      "diff_tokens": 54,
+      "upstream_tokens": 10468,
+      "official_tokens": 10480,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "cevaptır",
+          "official": "cevaptır."
+        },
+        {
+          "type": "replace",
+          "upstream": "şu مِشْكٰوةٍ",
+          "official": "şuمِشْكٰوةٍ"
+        },
+        {
+          "type": "replace",
+          "upstream": "اُمِرْتَ nin",
+          "official": "اُمِرْتَnin"
+        }
+      ]
+    },
+    {
+      "title": "Dokuzuncu Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/09 Dokuzuncu Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-sua/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 3494,
+      "official_tokens": 3494,
+      "snippets": []
+    },
+    {
+      "title": "Dördüncü Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/04 Dördüncü Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-sua/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 8176,
+      "official_tokens": 8176,
+      "snippets": []
+    },
+    {
+      "title": "Dua (Şuâlar)",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/17 Dua (Şuâlar).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dua-sualar/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 114,
+      "official_tokens": 114,
+      "snippets": []
+    },
+    {
+      "title": "Eddâî",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/16 Eddâî.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/eddai/",
+      "similarity": 0.9259259259259259,
+      "content_overlap": 0.8928571428571429,
+      "diff_tokens": 13,
+      "upstream_tokens": 104,
+      "official_tokens": 112,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "Eddâî",
+          "official": ""
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        }
+      ]
+    },
+    {
+      "title": "İÇİNDEKİLER",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/18 İçindekiler (Şuâlar).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/icindekiler-sualar/",
+      "similarity": 0.34269662921348315,
+      "content_overlap": 0.2175925925925926,
+      "diff_tokens": 681,
+      "upstream_tokens": 864,
+      "official_tokens": 204,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "Onuncu Şuâ, Fihriste Risâlesi’nin ikinci kısmıdır. Şuâlar eserinde Onuncu Şuâ boştur Kısaca şöyle bir açıklama yapılmıştır : Onuncu Şuâ; Bu Şuâ, On Beşinci Lem’a’dan itibaren buraya kadar olan",
+          "official": ""
+        },
+        {
+          "type": "replace",
+          "upstream": "BAB İKİNCİ BAB",
+          "official": "BAB: İKİNCİ BAB:"
+        },
+        {
+          "type": "replace",
+          "upstream": "1. BİRİNCİ MESELE 2. İKİNCİ MESELE 3.",
+          "official": "BİRİNCİ MESELE İKİNCİ MESELE"
+        }
+      ]
+    },
+    {
+      "title": "İkinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/02 İkinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-sua/",
+      "similarity": 0.9994358781496804,
+      "content_overlap": 0.9990601503759399,
+      "diff_tokens": 10,
+      "upstream_tokens": 10632,
+      "official_tokens": 10640,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "On Beşinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/14 On Beşinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-besinci-sua/",
+      "similarity": 0.9983301888838289,
+      "content_overlap": 0.9981786643538595,
+      "diff_tokens": 56,
+      "upstream_tokens": 23053,
+      "official_tokens": 23060,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "makbuliyeti اِيَّاكَ",
+          "official": "makbuliyetiاِيَّاكَ"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ اَشْهَدُ",
+          "official": "‌اَشْهَدُ"
+        },
+        {
+          "type": "replace",
+          "upstream": "اللّٰهُ ‌",
+          "official": "اللّٰهُ‌"
+        }
+      ]
+    },
+    {
+      "title": "On Birinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/10 On Birinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-sua/",
+      "similarity": 0.9975930613769349,
+      "content_overlap": 0.9975522734815798,
+      "diff_tokens": 80,
+      "upstream_tokens": 24104,
+      "official_tokens": 24090,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "اللّٰهُ ‌",
+          "official": "اللّٰهُ‌"
+        }
+      ]
+    },
+    {
+      "title": "On Dördüncü Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/13 On Dördüncü Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-sua/",
+      "similarity": 0.9993761907170435,
+      "content_overlap": 0.9990224828934506,
+      "diff_tokens": 30,
+      "upstream_tokens": 29646,
+      "official_tokens": 29667,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "On İkinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/11 On İkinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-sua/",
+      "similarity": 0.9988470066518848,
+      "content_overlap": 0.9982272646693848,
+      "diff_tokens": 10,
+      "upstream_tokens": 5634,
+      "official_tokens": 5641,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ",",
+          "official": "(Hâşiye [2] ),"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "On Üçüncü Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/12 On Üçüncü Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-sua/",
+      "similarity": 0.9996136690900151,
+      "content_overlap": 0.9993679775280899,
+      "diff_tokens": 9,
+      "upstream_tokens": 14233,
+      "official_tokens": 14240,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Sekizinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/08 Sekizinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-sua/",
+      "similarity": 0.9977542011925966,
+      "content_overlap": 0.9967507349528083,
+      "diff_tokens": 23,
+      "upstream_tokens": 6450,
+      "official_tokens": 6463,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "اَكْبَرُ ‌",
+          "official": "اَكْبَرُ‌"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        }
+      ]
+    },
+    {
+      "title": "Üçüncü Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/03 Üçüncü Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-sua/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 5165,
+      "official_tokens": 5165,
+      "snippets": []
+    },
+    {
+      "title": "Yedinci Şuâ",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/07 Yedinci Şuâ.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-sua/",
+      "similarity": 0.9988611974946345,
+      "content_overlap": 0.9988174491941135,
+      "diff_tokens": 37,
+      "upstream_tokens": 22832,
+      "official_tokens": 22830,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(İhtar [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌‌ لَا",
+          "official": "‌‌لَا"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Dokuzuncu Lem’a’dan İkinci Bab",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/15 Yirmi Dokuzuncu Lem’a’dan İkinci Bab.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-lemadan-ikinci-bab/",
+      "similarity": 0.9970660146699266,
+      "content_overlap": 0.9965786901270772,
+      "diff_tokens": 7,
+      "upstream_tokens": 2044,
+      "official_tokens": 2046,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "1.",
+          "official": "1-"
+        },
+        {
+          "type": "replace",
+          "upstream": "2.",
+          "official": "2-"
+        },
+        {
+          "type": "replace",
+          "upstream": "... اَلْحَمْدُ",
+          "official": "( [1] ) ...اَلْحَمْدُ"
+        }
+      ]
+    }
+  ]
+}

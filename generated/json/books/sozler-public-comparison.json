@@ -1,0 +1,930 @@
+{
+  "book": {
+    "title": "Sözler",
+    "slug": "sozler",
+    "path": "upstream/alitekdemir/obsidian-markdown/01 Sözler"
+  },
+  "source": {
+    "name": "Hizmet Vakfı official site",
+    "index_url": "https://risaleinur.hizmetvakfi.org/sozler-2/",
+    "section_count": 36
+  },
+  "overall_similarity": 0.9953220733204761,
+  "overall_content_overlap": 0.9939144048753769,
+  "overlap_sections": 36,
+  "total_diff_tokens": 1592,
+  "upstream_only_sections": [],
+  "official_only_sections": [],
+  "status": "very-high",
+  "sections": [
+    {
+      "title": "Altıncı Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/06 Altıncı Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/altinci-soz/",
+      "similarity": 0.9945011783189317,
+      "content_overlap": 0.9906103286384976,
+      "diff_tokens": 12,
+      "upstream_tokens": 1278,
+      "official_tokens": 1268,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "var -",
+          "official": "var."
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Beşinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/05 Beşinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/besinci-soz/",
+      "similarity": 0.9983844911147012,
+      "content_overlap": 0.9967741935483871,
+      "diff_tokens": 2,
+      "upstream_tokens": 620,
+      "official_tokens": 618,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Birinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/01 Birinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/birinci-soz/",
+      "similarity": 0.9755154639175257,
+      "content_overlap": 0.9531004091910608,
+      "diff_tokens": 151,
+      "upstream_tokens": 3177,
+      "official_tokens": 3031,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "Birinci Söz"
+        },
+        {
+          "type": "delete",
+          "upstream": "Bismillahirrahmanirrahim",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "Bismillah",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Dokuzuncu Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/09 Dokuzuncu Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-soz/",
+      "similarity": 0.9944946047126184,
+      "content_overlap": 0.9916556873078612,
+      "diff_tokens": 19,
+      "upstream_tokens": 2277,
+      "official_tokens": 2264,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Dördüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/04 Dördüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-soz/",
+      "similarity": 0.998,
+      "content_overlap": 0.9960079840319361,
+      "diff_tokens": 2,
+      "upstream_tokens": 501,
+      "official_tokens": 499,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Fihrist",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/fihrist-sozler/",
+      "similarity": 0.9854219606794169,
+      "content_overlap": 0.9800531914893617,
+      "diff_tokens": 76,
+      "upstream_tokens": 3717,
+      "official_tokens": 3760,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": ":"
+        },
+        {
+          "type": "replace",
+          "upstream": "MAKAMI",
+          "official": "MAKAMI:"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": ":"
+        }
+      ]
+    },
+    {
+      "title": "İkinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/02 İkinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-soz-2/",
+      "similarity": 0.9869678540399652,
+      "content_overlap": 0.9742710120068611,
+      "diff_tokens": 15,
+      "upstream_tokens": 583,
+      "official_tokens": 568,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": ": “O takvâ sahipleri öyle kimselerdir ki, gayba iman ederler.” Bakara Sûresi, 2:3",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "KONFERANS",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/35 Konferans (Sözler).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/konferans-sozler/",
+      "similarity": 0.9989124176316294,
+      "content_overlap": 0.9984652768896278,
+      "diff_tokens": 12,
+      "upstream_tokens": 7812,
+      "official_tokens": 7819,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "edilmez,",
+          "official": "edilmez."
+        },
+        {
+          "type": "replace",
+          "upstream": "1.",
+          "official": "1 –"
+        }
+      ]
+    },
+    {
+      "title": "Lemaat",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/34 Lemaat (Sözler).md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/lemaat/",
+      "similarity": 0.9949659231722429,
+      "content_overlap": 0.992814093648586,
+      "diff_tokens": 100,
+      "upstream_tokens": 12882,
+      "official_tokens": 12942,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "Müellifi: Bedîüzzaman Said Nursî"
+        },
+        {
+          "type": "delete",
+          "upstream": ":",
+          "official": ""
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        }
+      ]
+    },
+    {
+      "title": "On Altıncı Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/16 On Altıncı Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-altinci-soz/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 2562,
+      "official_tokens": 2562,
+      "snippets": []
+    },
+    {
+      "title": "On Beşinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/15 On Beşinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-besinci-soz/",
+      "similarity": 0.997043169722058,
+      "content_overlap": 0.9964539007092199,
+      "diff_tokens": 20,
+      "upstream_tokens": 5070,
+      "official_tokens": 5076,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "Basamak",
+          "official": "Basamak:"
+        },
+        {
+          "type": "replace",
+          "upstream": "Basamak",
+          "official": "Basamak:"
+        },
+        {
+          "type": "replace",
+          "upstream": "Basamak",
+          "official": "Basamak:"
+        }
+      ]
+    },
+    {
+      "title": "On Birinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/11 On Birinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-soz/",
+      "similarity": 0.9970805426755968,
+      "content_overlap": 0.9941780821917808,
+      "diff_tokens": 17,
+      "upstream_tokens": 2920,
+      "official_tokens": 2903,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "On Dokuzuncu Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/19 On Dokuzuncu Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-dokuzuncu-soz/",
+      "similarity": 0.9969556160871655,
+      "content_overlap": 0.9967969250480462,
+      "diff_tokens": 15,
+      "upstream_tokens": 3122,
+      "official_tokens": 3119,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "On Dördüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-soz/",
+      "similarity": 0.9933738266151297,
+      "content_overlap": 0.992553778268064,
+      "diff_tokens": 29,
+      "upstream_tokens": 3618,
+      "official_tokens": 3626,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "Birincisi",
+          "official": "Birincisi:"
+        },
+        {
+          "type": "replace",
+          "upstream": "İkincisi",
+          "official": "İkincisi:"
+        },
+        {
+          "type": "replace",
+          "upstream": "Üçüncüsü",
+          "official": "Üçüncüsü:"
+        }
+      ]
+    },
+    {
+      "title": "On İkinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/12 On İkinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-soz/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 1863,
+      "official_tokens": 1863,
+      "snippets": []
+    },
+    {
+      "title": "On Sekizinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/18 On Sekizinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-soz/",
+      "similarity": 0.9956672443674177,
+      "content_overlap": 0.9939446366782007,
+      "diff_tokens": 7,
+      "upstream_tokens": 1152,
+      "official_tokens": 1156,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "^[Bu",
+          "official": "Bu"
+        },
+        {
+          "type": "replace",
+          "upstream": "yazılmamıştır.]",
+          "official": "yazılmamıştır."
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        }
+      ]
+    },
+    {
+      "title": "On Üçüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/13 On Üçüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-soz/",
+      "similarity": 0.9989924094847854,
+      "content_overlap": 0.9986571773868672,
+      "diff_tokens": 11,
+      "upstream_tokens": 7440,
+      "official_tokens": 7447,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "Nokta:",
+          "official": "Nokta :"
+        }
+      ]
+    },
+    {
+      "title": "Onuncu Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/10 Onuncu Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-soz/",
+      "similarity": 0.9937190082644628,
+      "content_overlap": 0.9918180618484141,
+      "diff_tokens": 202,
+      "upstream_tokens": 22642,
+      "official_tokens": 22733,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "İhtar",
+          "official": "İhtar:"
+        },
+        {
+          "type": "replace",
+          "upstream": "—“Ne",
+          "official": "“Ne"
+        },
+        {
+          "type": "replace",
+          "upstream": "—“Yok,",
+          "official": "“Yok,"
+        }
+      ]
+    },
+    {
+      "title": "On Yedinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/on-yedinci-soz/",
+      "similarity": 0.9858903375602787,
+      "content_overlap": 0.9850133809099019,
+      "diff_tokens": 124,
+      "upstream_tokens": 5593,
+      "official_tokens": 5605,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Otuz Birinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/31 Otuz Birinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-soz/",
+      "similarity": 0.9978226745658008,
+      "content_overlap": 0.9976711219117051,
+      "diff_tokens": 27,
+      "upstream_tokens": 9876,
+      "official_tokens": 9873,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "İhtar",
+          "official": "İhtar:"
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Otuz İkinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/32 Otuz İkinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ikinci-soz/",
+      "similarity": 0.9956593633732947,
+      "content_overlap": 0.9951451296353683,
+      "diff_tokens": 119,
+      "upstream_tokens": 19342,
+      "official_tokens": 19362,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "mevkıftır.",
+          "official": "mevkıf tır."
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        }
+      ]
+    },
+    {
+      "title": "Otuz Üçüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/33 Otuz Üçüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ucuncu-soz/",
+      "similarity": 0.9986115465579791,
+      "content_overlap": 0.9982091690544412,
+      "diff_tokens": 23,
+      "upstream_tokens": 11159,
+      "official_tokens": 11168,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Otuzuncu Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/30 Otuzuncu Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/otuzuncu-soz/",
+      "similarity": 0.9950391644908616,
+      "content_overlap": 0.9928357431288264,
+      "diff_tokens": 56,
+      "upstream_tokens": 7643,
+      "official_tokens": 7677,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "maksattır. -",
+          "official": "maksat tır."
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        }
+      ]
+    },
+    {
+      "title": "Sekizinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/08 Sekizinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-soz/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 2020,
+      "official_tokens": 2020,
+      "snippets": []
+    },
+    {
+      "title": "Üçüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-soz-2/",
+      "similarity": 0.9878234398782344,
+      "content_overlap": 0.9759398496240601,
+      "diff_tokens": 16,
+      "upstream_tokens": 665,
+      "official_tokens": 649,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": ": Bize ihsan ettiği İslâm dini ve mükemmel iman nimeti sebebiyle Allah’a hamd olsun.",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Yedinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/07 Yedinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-soz/",
+      "similarity": 0.9920535340861564,
+      "content_overlap": 0.9891576313594662,
+      "diff_tokens": 13,
+      "upstream_tokens": 1199,
+      "official_tokens": 1192,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "replace",
+          "upstream": "Sual :",
+          "official": "Sual:"
+        },
+        {
+          "type": "replace",
+          "upstream": "Cevap :",
+          "official": "Cevap:"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Altıncı Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/26 Yirmi Altıncı Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-altinci-soz/",
+      "similarity": 0.9957269204014707,
+      "content_overlap": 0.9952324195470799,
+      "diff_tokens": 31,
+      "upstream_tokens": 5029,
+      "official_tokens": 5034,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Beşinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/25 Yirmi Beşinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-besinci-soz-2/",
+      "similarity": 0.9970713747803531,
+      "content_overlap": 0.9969882541913463,
+      "diff_tokens": 113,
+      "upstream_tokens": 29872,
+      "official_tokens": 29883,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "SURET",
+          "official": "SURET:"
+        },
+        {
+          "type": "replace",
+          "upstream": "SURET",
+          "official": "SURET:"
+        },
+        {
+          "type": "replace",
+          "upstream": "Nokta",
+          "official": "Nokta:"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Birinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/21 Yirmi Birinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-birinci-soz/",
+      "similarity": 0.9970737717541969,
+      "content_overlap": 0.9969202340622113,
+      "diff_tokens": 14,
+      "upstream_tokens": 3247,
+      "official_tokens": 3246,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "^[İki makamdır]",
+          "official": "İki makamdır."
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "-",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Dokuzuncu Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/29 Yirmi Dokuzuncu Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-soz/",
+      "similarity": 0.9945583519580216,
+      "content_overlap": 0.9941719281204469,
+      "diff_tokens": 68,
+      "upstream_tokens": 10287,
+      "official_tokens": 10295,
+      "snippets": [
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Dördüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/24 Yirmi Dördüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dorduncu-soz/",
+      "similarity": 0.9954996326230713,
+      "content_overlap": 0.9951340433345575,
+      "diff_tokens": 58,
+      "upstream_tokens": 10884,
+      "official_tokens": 10892,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "^[Şu",
+          "official": "Şu"
+        },
+        {
+          "type": "replace",
+          "upstream": "daldır.]",
+          "official": "dal dır."
+        },
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        }
+      ]
+    },
+    {
+      "title": "Yirmi İkinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ikinci-soz/",
+      "similarity": 0.9913151364764268,
+      "content_overlap": 0.9875451606769348,
+      "diff_tokens": 146,
+      "upstream_tokens": 10438,
+      "official_tokens": 10518,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "^[İki makamdır]",
+          "official": "İki makamdır"
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        },
+        {
+          "type": "delete",
+          "upstream": "—",
+          "official": ""
+        }
+      ]
+    },
+    {
+      "title": "Yirminci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/20 Yirminci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirminci-soz/",
+      "similarity": 0.9961395481841578,
+      "content_overlap": 0.9940077043800828,
+      "diff_tokens": 44,
+      "upstream_tokens": 6979,
+      "official_tokens": 7009,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Sekizinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/28 Yirmi Sekizinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-soz/",
+      "similarity": 0.9944776806258628,
+      "content_overlap": 0.9935632183908046,
+      "diff_tokens": 18,
+      "upstream_tokens": 2171,
+      "official_tokens": 2175,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "[[.10 Onuncu Söz#Birinci Hakikat|on",
+          "official": "on"
+        },
+        {
+          "type": "replace",
+          "upstream": "kātıa]]",
+          "official": "kātıa"
+        },
+        {
+          "type": "replace",
+          "upstream": "[[06.05 Lâsiyyemalar|bürhan-ı kat’î]]",
+          "official": "bürhan-ı kat’î"
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Üçüncü Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/23 Yirmi Üçüncü Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ucuncu-soz/",
+      "similarity": 0.9997000599880024,
+      "content_overlap": 0.9997000599880024,
+      "diff_tokens": 2,
+      "upstream_tokens": 6668,
+      "official_tokens": 6668,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "^[Şu",
+          "official": "Şu"
+        },
+        {
+          "type": "replace",
+          "upstream": "vardır.]",
+          "official": "vardır."
+        }
+      ]
+    },
+    {
+      "title": "Yirmi Yedinci Söz",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/27 Yirmi Yedinci Söz.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-soz/",
+      "similarity": 0.995100921026847,
+      "content_overlap": 0.9949059561128527,
+      "diff_tokens": 30,
+      "upstream_tokens": 5104,
+      "official_tokens": 5102,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "Birincisi",
+          "official": "Birincisi:"
+        },
+        {
+          "type": "replace",
+          "upstream": "İkincisi",
+          "official": "İkincisi:"
+        },
+        {
+          "type": "replace",
+          "upstream": "Üçüncüsü",
+          "official": "Üçüncüsü:"
+        }
+      ]
+    }
+  ]
+}

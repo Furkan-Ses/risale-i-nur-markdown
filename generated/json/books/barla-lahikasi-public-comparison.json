@@ -1,0 +1,498 @@
+{
+  "book": {
+    "title": "Barla Lâhikası",
+    "slug": "barla-lahikasi",
+    "path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası"
+  },
+  "source": {
+    "name": "Hizmet Vakfı official site",
+    "index_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi/",
+    "section_count": 20
+  },
+  "overall_similarity": 0.997975324359288,
+  "overall_content_overlap": 0.9972322198002738,
+  "overlap_sections": 20,
+  "total_diff_tokens": 290,
+  "upstream_only_sections": [],
+  "official_only_sections": [],
+  "status": "almost-identical",
+  "sections": [
+    {
+      "title": "Barla Lâhikası s.103-121",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/07 Barla Lâhikası s.103-121.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-103-121/",
+      "similarity": 0.9954407294832827,
+      "content_overlap": 0.9947927967021046,
+      "diff_tokens": 26,
+      "upstream_tokens": 4603,
+      "official_tokens": 4609,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "1.",
+          "official": "1-"
+        },
+        {
+          "type": "replace",
+          "upstream": "2.",
+          "official": "2-"
+        },
+        {
+          "type": "replace",
+          "upstream": "3.",
+          "official": "3-"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.121-146",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/08 Barla Lâhikası s.121-146.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-121-146/",
+      "similarity": 0.9974395448079658,
+      "content_overlap": 0.9965889710062535,
+      "diff_tokens": 24,
+      "upstream_tokens": 7024,
+      "official_tokens": 7036,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "1.",
+          "official": "1-"
+        },
+        {
+          "type": "replace",
+          "upstream": "2.",
+          "official": "2-"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.146-159",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/09 Barla Lâhikası s.146-159.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-146-159/",
+      "similarity": 0.9991423670668954,
+      "content_overlap": 0.9988568162332095,
+      "diff_tokens": 4,
+      "upstream_tokens": 3499,
+      "official_tokens": 3497,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "الرَّجٖيمِ ‌",
+          "official": "الرَّجٖيمِ‌"
+        },
+        {
+          "type": "replace",
+          "upstream": "الرَّجٖيمِ ‌",
+          "official": "الرَّجٖيمِ‌"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.160-180",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/10 Barla Lâhikası s.160-180.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-160-180/",
+      "similarity": 0.9980621943342254,
+      "content_overlap": 0.9970501474926253,
+      "diff_tokens": 17,
+      "upstream_tokens": 5413,
+      "official_tokens": 5424,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.181-201",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/11 Barla Lâhikası s.181-201.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-181-201/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 5382,
+      "official_tokens": 5382,
+      "snippets": []
+    },
+    {
+      "title": "Barla Lâhikası s.202-221",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/12 Barla Lâhikası s.202-221.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-202-221/",
+      "similarity": 0.9975767366720517,
+      "content_overlap": 0.9965705063546499,
+      "diff_tokens": 19,
+      "upstream_tokens": 4947,
+      "official_tokens": 4957,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ لَا",
+          "official": "‌لَا"
+        },
+        {
+          "type": "replace",
+          "upstream": "اللّٰهِ ‌",
+          "official": "اللّٰهِ‌"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.21-39",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/03 Barla Lâhikası s.21-39.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-21-39/",
+      "similarity": 0.995976549028624,
+      "content_overlap": 0.9935779816513761,
+      "diff_tokens": 28,
+      "upstream_tokens": 4339,
+      "official_tokens": 4360,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "!",
+          "official": "( [3] )!"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.221-240",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/13 Barla Lâhikası s.221-240.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-221-240/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 4815,
+      "official_tokens": 4815,
+      "snippets": []
+    },
+    {
+      "title": "Barla Lâhikası s.241-261",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/14 Barla Lâhikası s.241-261.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-241-261/",
+      "similarity": 0.997153613075016,
+      "content_overlap": 0.995964783565664,
+      "diff_tokens": 23,
+      "upstream_tokens": 5439,
+      "official_tokens": 5452,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.262-280",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/15 Barla Lâhikası s.262-280.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-262-280/",
+      "similarity": 0.9987945205479452,
+      "content_overlap": 0.9986850756081526,
+      "diff_tokens": 8,
+      "upstream_tokens": 4562,
+      "official_tokens": 4563,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ لَا",
+          "official": "‌لَا"
+        },
+        {
+          "type": "replace",
+          "upstream": "هُوَ ‌",
+          "official": "هُوَ‌"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.280-299",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/16 Barla Lâhikası s.280-299.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-280-299/",
+      "similarity": 0.9982823077700314,
+      "content_overlap": 0.997979797979798,
+      "diff_tokens": 10,
+      "upstream_tokens": 4947,
+      "official_tokens": 4950,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        },
+        {
+          "type": "replace",
+          "upstream": "1.",
+          "official": "1-"
+        },
+        {
+          "type": "replace",
+          "upstream": "2.",
+          "official": "2-"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.300-321",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/17 Barla Lâhikası s.300-321.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-300-321/",
+      "similarity": 0.9980886185925283,
+      "content_overlap": 0.9979152189020153,
+      "diff_tokens": 13,
+      "upstream_tokens": 5754,
+      "official_tokens": 5756,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "‌ لَا",
+          "official": "‌لَا"
+        },
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [1] )."
+        },
+        {
+          "type": "replace",
+          "upstream": "1.",
+          "official": "1-"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.321-340",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/18 Barla Lâhikası s.321-340.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-321-340/",
+      "similarity": 0.9987862738607525,
+      "content_overlap": 0.9980154355016538,
+      "diff_tokens": 9,
+      "upstream_tokens": 4528,
+      "official_tokens": 4535,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.340-362",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/19 Barla Lâhikası s.340-362.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-340-362/",
+      "similarity": 0.99660289647774,
+      "content_overlap": 0.9966035037540222,
+      "diff_tokens": 25,
+      "upstream_tokens": 5592,
+      "official_tokens": 5594,
+      "snippets": [
+        {
+          "type": "replace",
+          "upstream": "( اِسْتِشْفَاءْ )",
+          "official": "(اِسْتِشْفَاءْ)"
+        },
+        {
+          "type": "replace",
+          "upstream": "( اِسْتِشْفَاعْ )",
+          "official": "(اِسْتِشْفَاعْ)"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.363-392",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/20 Barla Lâhikası s.363-392.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-363-392/",
+      "similarity": 0.9977581432150864,
+      "content_overlap": 0.9963128785883593,
+      "diff_tokens": 28,
+      "upstream_tokens": 7572,
+      "official_tokens": 7594,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.40-58",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/04 Barla Lâhikası s.40-58.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-40-58/",
+      "similarity": 0.9993294590970049,
+      "content_overlap": 0.9988829311885612,
+      "diff_tokens": 5,
+      "upstream_tokens": 4472,
+      "official_tokens": 4476,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1] Hâşiye:"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.59-80",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/05 Barla Lâhikası s.59-80.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-59-80/",
+      "similarity": 0.9961963412425285,
+      "content_overlap": 0.9940357852882704,
+      "diff_tokens": 33,
+      "upstream_tokens": 5509,
+      "official_tokens": 5533,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ".",
+          "official": "(Hâşiye [2] )."
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [3] )"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası s.80-102",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/06 Barla Lâhikası s.80-102.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-80-102/",
+      "similarity": 0.9983885407341092,
+      "content_overlap": 0.9978525411596277,
+      "diff_tokens": 14,
+      "upstream_tokens": 5582,
+      "official_tokens": 5588,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [1] )"
+        },
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "(Hâşiye [2] )"
+        },
+        {
+          "type": "replace",
+          "upstream": "‌ اَللّٰهُمَّ",
+          "official": "‌اَللّٰهُمَّ"
+        }
+      ]
+    },
+    {
+      "title": "Barla Lâhikası - Takdim",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/01 Barla Lâhikası - Takdim.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-takdim/",
+      "similarity": 1.0,
+      "content_overlap": 1.0,
+      "diff_tokens": 0,
+      "upstream_tokens": 1501,
+      "official_tokens": 1501,
+      "snippets": []
+    },
+    {
+      "title": "Barla Lâhikası - Yedinci Risale",
+      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/02 Barla Lâhikası - Yedinci Risale.md",
+      "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-5-20/",
+      "similarity": 0.9991692972254528,
+      "content_overlap": 0.9986715376951179,
+      "diff_tokens": 4,
+      "upstream_tokens": 3008,
+      "official_tokens": 3011,
+      "snippets": [
+        {
+          "type": "insert",
+          "upstream": "",
+          "official": "( [1] )"
+        },
+        {
+          "type": "replace",
+          "upstream": ":",
+          "official": "[1]"
+        }
+      ]
+    }
+  ]
+}
