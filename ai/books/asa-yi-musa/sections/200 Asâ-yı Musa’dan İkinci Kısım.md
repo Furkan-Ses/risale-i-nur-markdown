@@ -1,0 +1,28 @@
+---
+book_id: "asa-yi-musa"
+book_title: "Asa-yi Musa"
+section_id: "asa-yi-musa.013.asa-yi-musadan-ikinci-kisim"
+section_order: 13
+section_slug: "asa-yi-musadan-ikinci-kisim"
+section_title: "Asâ-yı Musa’dan İkinci Kısım"
+canonical_source_path: "canonical/furkan/asa-yi-musa/by_heading/200 Asâ-yı Musa’dan İkinci Kısım.md"
+source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
+source_url: "https://www.risaleinur.hizmetvakfi.org/"
+official_alignment_status: "almost-identical"
+official_similarity: 0.9969703811141973
+official_content_overlap: 0.9953572007605347
+official_section_url: "https://risaleinur.hizmetvakfi.org/asa-yi-musadan-ikinci-kisim/"
+official_section_similarity: 1.0
+official_section_content_overlap: 1.0
+official_section_diff_tokens: 0
+---
+
+## Asâ-yı Musa’dan İkinci Kısım
+##### Hüccetullahi’l-Bâliğa Risalesi
+On Bir Hüccet-i İmaniyedir
+
+Bu risaleyi Ankara Ehl-i Vukufu çok takdir ettikleri gibi; bu defa da beraetimize ehemmiyetli bir sebep ve küfr-ü mutlakı kıran en keskin ve yüksek ve kuvvetli bir hüccet-i kātıa ve bürhan-ı bâhirdir.
+
+**Said Nursî**
+
+***

@@ -44,6 +44,7 @@ Bu repo bunu daha AI-dostu hale getirir:
 | --- | --- | --- |
 | Upstream | Kaynağı ve orijinal indeks mantığını korumak | `upstream/alitekdemir/obsidian-markdown/` |
 | Canonical | Düzeltilmiş ve güvenilen yerel referansları saklamak | `canonical/furkan/` |
+| AI layer | Retrieval ve citation-first kullanım için yapısal kopya üretmek | `ai/` |
 | Human index | İnsan/LLM için sade Markdown indeksler | `indexes/` |
 | Machine index | JSON katalog ve karşılaştırma verileri | `generated/json/` |
 | Audit reports | İnsan tarafından okunacak kalite ve fark raporları | `reports/comparisons/` |
@@ -71,6 +72,7 @@ Repo içinde rastgele yerlere `.md` notları bırakılmamalıdır. Düzen şöyl
 | Tür | Yer |
 | --- | --- |
 | Ana proje açıklaması | `README.md` |
+| AI için hazırlanmış güvenli kopya | `ai/` |
 | Kalıcı indeks belgeleri | `indexes/` |
 | Karşılaştırma / kalite raporları | `reports/comparisons/` |
 | Makine çıktıları | `generated/json/` |
@@ -85,17 +87,31 @@ Bu sayede repo kökü temiz kalır ve `.md` dosyaları sadece anlamlı, kalıcı
 - Ali Tekdemir kaynağı README'sinde **CC BY-ND 4.0** lisansı belirtilir
 - Metin kökeni: Hizmet Vakfı / DİB asıl nüsha zinciri
 
+## AI kullanım katmanı
+
+`ai/` klasörü, kanonik metinlerin yeniden yazılmadan AI retrieval için hazırlanmış ikinci katmanıdır. Burada:
+
+- kitap ve bölüm kopyaları zengin frontmatter ile tutulur,
+- chunk / pasaj dosyaları stabil kimliklerle üretilir,
+- answer policy ile cite zorunluluğu açıkça tanımlanır,
+- AI sistemleri metni doğrudan değil, izlenebilir ve atıflı bir katman üzerinden okur.
+
+Bu katmanın amacı, özellikle dinî metinlerde yanlış yönlendirme riskini azaltmak ve her cevabı geri izlenebilir hale getirmektir.
+
 ## Şu anki durum
 
 - `Sözler` için kanonik yerel metin temizlendi
 - anlam bozucu OCR kalıntıları temizlendi
 - official/public ve upstream kaynaklarla karşılaştırma yapıldı
+- doğrulanmış kitaplar `canonical/furkan/` altında kitap ve bölüm düzeyinde tutuluyor
+- AI retrieval için ayrı `ai/` katmanı üretilebiliyor
 - indeks yapısı geniş Külliyat hedefi düşünülerek kurulmaya başlandı
 
 ## Yeniden üretim
 
 ```bash
 python3 scripts/build_catalog.py
-python3 scripts/compare_sozler.py
-python3 scripts/compare_sozler_official.py
+python3 scripts/compare_all_upstream_official.py
+python3 scripts/import_verified_books.py
+python3 scripts/build_ai_corpus.py
 ```
