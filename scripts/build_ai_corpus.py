@@ -438,7 +438,8 @@ def main() -> None:
             title = extract_title(section_path, body)
             section_slug = slugify(title)
             section_id = f"{book['slug']}.{order:03d}.{section_slug}"
-            ai_section_path = ai_sections_dir / section_path.name
+            ai_section_filename = f"{order:03d}-{section_slug}.md"
+            ai_section_path = ai_sections_dir / ai_section_filename
             comparison_entry = book["comparison"].get(title_key(title), {})
             section_frontmatter = {
                 "book_id": book["slug"],
