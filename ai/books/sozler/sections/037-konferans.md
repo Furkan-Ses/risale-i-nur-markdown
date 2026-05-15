@@ -5,7 +5,7 @@ section_id: "sozler.037.konferans"
 section_order: 37
 section_slug: "konferans"
 section_title: "Konferans"
-canonical_source_path: "canonical/furkan/sozler/by_heading/036 - Konferans.md"
+source_section_path: "books/sozler/by_heading/036 - Konferans.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

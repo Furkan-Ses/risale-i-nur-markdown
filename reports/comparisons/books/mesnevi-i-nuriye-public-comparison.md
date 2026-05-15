@@ -1,6 +1,6 @@
 # Mesnevî-i Nuriye Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/mesnevi-i-nuriye/
 
@@ -19,14 +19,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Habbe | 0.9932 | 0.9929 | 58 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/08 Habbe.md` | [public](https://risaleinur.hizmetvakfi.org/habbe/) |
-| Hubab | 0.9962 | 0.9945 | 57 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/07 Hubab.md` | [public](https://risaleinur.hizmetvakfi.org/hubab/) |
-| Nokta | 0.9962 | 0.9958 | 21 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/14 Nokta.md` | [public](https://risaleinur.hizmetvakfi.org/nokta/) |
-| Şemme Risalesi | 0.9980 | 0.9981 | 10 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/11 Şemme Risalesi.md` | [public](https://risaleinur.hizmetvakfi.org/semme-risalesi/) |
-| Lâsiyyemalar | 0.9984 | 0.9984 | 8 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/05 Lâsiyyemalar.md` | [public](https://risaleinur.hizmetvakfi.org/lasiyyemalar/) |
-| Onuncu Risale | 0.9989 | 0.9992 | 11 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/12 Onuncu Risale.md` | [public](https://risaleinur.hizmetvakfi.org/onuncu-risale/) |
-| Katre | 0.9991 | 0.9985 | 12 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/06 Katre.md` | [public](https://risaleinur.hizmetvakfi.org/katre/) |
-| Lem’alar Risalesi | 0.9992 | 0.9987 | 4 | `upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/03 Lem’alar Risalesi.md` | [public](https://risaleinur.hizmetvakfi.org/lemalar-risalesi/) |
+| Habbe | 0.9932 | 0.9929 | 58 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/08 Habbe.md` | [public](https://risaleinur.hizmetvakfi.org/habbe/) |
+| Hubab | 0.9962 | 0.9945 | 57 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/07 Hubab.md` | [public](https://risaleinur.hizmetvakfi.org/hubab/) |
+| Nokta | 0.9962 | 0.9958 | 21 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/14 Nokta.md` | [public](https://risaleinur.hizmetvakfi.org/nokta/) |
+| Şemme Risalesi | 0.9980 | 0.9981 | 10 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/11 Şemme Risalesi.md` | [public](https://risaleinur.hizmetvakfi.org/semme-risalesi/) |
+| Lâsiyyemalar | 0.9984 | 0.9984 | 8 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/05 Lâsiyyemalar.md` | [public](https://risaleinur.hizmetvakfi.org/lasiyyemalar/) |
+| Onuncu Risale | 0.9989 | 0.9992 | 11 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/12 Onuncu Risale.md` | [public](https://risaleinur.hizmetvakfi.org/onuncu-risale/) |
+| Katre | 0.9991 | 0.9985 | 12 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/06 Katre.md` | [public](https://risaleinur.hizmetvakfi.org/katre/) |
+| Lem’alar Risalesi | 0.9992 | 0.9987 | 4 | `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/03 Lem’alar Risalesi.md` | [public](https://risaleinur.hizmetvakfi.org/lemalar-risalesi/) |
 
 ## Representative divergence snippets
 

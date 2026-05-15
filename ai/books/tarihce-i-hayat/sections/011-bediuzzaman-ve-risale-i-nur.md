@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.011.bediuzzaman-ve-risale-i-nur"
 section_order: 11
 section_slug: "bediuzzaman-ve-risale-i-nur"
 section_title: "Bedîüzzaman ve Risale-i Nur"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/11 Bedîüzzaman ve Risale-i Nur.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/11 Bedîüzzaman ve Risale-i Nur.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.004.ucuncu-kisim"
 section_order: 4
 section_slug: "ucuncu-kisim"
 section_title: "Üçüncü Kısım"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/04 Eskişehir Hayatı.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/04 Eskişehir Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

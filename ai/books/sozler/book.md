@@ -1,8 +1,8 @@
 ---
 book_id: "sozler"
 book_title: "Sozler"
-canonical_merged_path: "canonical/furkan/sozler/Sozler.md"
-canonical_section_dir: "canonical/furkan/sozler/by_heading"
+source_book_path: "books/sozler/Sozler.md"
+source_section_dir: "books/sozler/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

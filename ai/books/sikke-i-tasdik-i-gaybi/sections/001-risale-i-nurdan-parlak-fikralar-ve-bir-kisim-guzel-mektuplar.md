@@ -5,7 +5,7 @@ section_id: "sikke-i-tasdik-i-gaybi.001.risale-i-nurdan-parlak-fikralar-ve-bir-k
 section_order: 1
 section_slug: "risale-i-nurdan-parlak-fikralar-ve-bir-kisim-guzel-mektuplar"
 section_title: "Risale-i Nur’dan Parlak Fıkralar ve Bir Kısım Güzel Mektuplar"
-canonical_source_path: "canonical/furkan/sikke-i-tasdik-i-gaybi/by_heading/01 Parlak Fıkralar ve Güzel Mektuplar 1.md"
+source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/01 Parlak Fıkralar ve Güzel Mektuplar 1.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

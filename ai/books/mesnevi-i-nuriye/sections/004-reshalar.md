@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.004.reshalar"
 section_order: 4
 section_slug: "reshalar"
 section_title: "Reşhalar"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/04 Reşhalar.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/04 Reşhalar.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

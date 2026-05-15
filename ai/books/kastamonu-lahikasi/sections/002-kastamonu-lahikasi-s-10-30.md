@@ -5,7 +5,7 @@ section_id: "kastamonu-lahikasi.002.kastamonu-lahikasi-s-10-30"
 section_order: 2
 section_slug: "kastamonu-lahikasi-s-10-30"
 section_title: "Kastamonu Lâhikası s.10-30"
-canonical_source_path: "canonical/furkan/kastamonu-lahikasi/by_heading/02 Kastamonu Lâhikası s.10-30.md"
+source_section_path: "books/kastamonu-lahikasi/by_heading/02 Kastamonu Lâhikası s.10-30.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

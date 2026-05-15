@@ -5,7 +5,7 @@ section_id: "asa-yi-musa.001.asa-yi-musadan-birinci-kisim"
 section_order: 1
 section_slug: "asa-yi-musadan-birinci-kisim"
 section_title: "Asâ-yı Musa’dan Birinci Kısım"
-canonical_source_path: "canonical/furkan/asa-yi-musa/by_heading/100 Asâ-yı Musa’dan Birinci Kısım.md"
+source_section_path: "books/asa-yi-musa/by_heading/100 Asâ-yı Musa’dan Birinci Kısım.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

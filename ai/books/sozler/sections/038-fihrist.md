@@ -5,7 +5,7 @@ section_id: "sozler.038.fihrist"
 section_order: 38
 section_slug: "fihrist"
 section_title: "Fihrist"
-canonical_source_path: "canonical/furkan/sozler/by_heading/037 - Fihrist.md"
+source_section_path: "books/sozler/by_heading/037 - Fihrist.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

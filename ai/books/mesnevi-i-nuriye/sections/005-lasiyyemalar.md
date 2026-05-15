@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.005.lasiyyemalar"
 section_order: 5
 section_slug: "lasiyyemalar"
 section_title: "Lâsiyyemalar"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/05 Lâsiyyemalar.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/05 Lâsiyyemalar.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

@@ -5,7 +5,7 @@ section_id: "sozler.005.dorduncu-soz"
 section_order: 5
 section_slug: "dorduncu-soz"
 section_title: "Dördüncü Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/004 - Dördüncü Söz.md"
+source_section_path: "books/sozler/by_heading/004 - Dördüncü Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

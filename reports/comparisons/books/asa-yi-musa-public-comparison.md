@@ -1,6 +1,6 @@
 # Asâ-yı Musa Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/asa-yi-musa/
 
@@ -19,14 +19,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Dokuzuncu Mesele | 0.9775 | 0.9581 | 80 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/109 Dokuzuncu Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/dokuzuncu-mesele/) |
-| On Birinci Hüccet-i İmaniye | 0.9845 | 0.9759 | 103 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/211 On Birinci Hüccet-i İmaniye.md` | [public](https://risaleinur.hizmetvakfi.org/on-birinci-huccet-i-imaniye/) |
-| İkinci Hüccet-i İmaniye | 0.9946 | 0.9911 | 35 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/202 İkinci Hüccet-i İmaniye.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-huccet-i-imaniye/) |
-| Onuncu Mesele | 0.9955 | 0.9951 | 26 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/110 Onuncu Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/onuncu-mesele/) |
-| Dördüncü Mesele | 0.9960 | 0.9936 | 4 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/104 Dördüncü Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/dorduncu-mesele/) |
-| Altıncı Hüccet-i İmaniye | 0.9973 | 0.9955 | 5 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/206 Altıncı Hüccet-i İmaniye.md` | [public](https://risaleinur.hizmetvakfi.org/altinci-huccet-i-imaniye/) |
-| İkinci Mesele | 0.9974 | 0.9959 | 4 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/102 İkinci Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-mesele/) |
-| Sekizinci Mesele | 0.9980 | 0.9974 | 11 | `upstream/alitekdemir/obsidian-markdown/13 Asâ-yı Musa/108 Sekizinci Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/sekizinci-mesele/) |
+| Dokuzuncu Mesele | 0.9775 | 0.9581 | 80 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/109 Dokuzuncu Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/dokuzuncu-mesele/) |
+| On Birinci Hüccet-i İmaniye | 0.9845 | 0.9759 | 103 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/211 On Birinci Hüccet-i İmaniye.md` | [public](https://risaleinur.hizmetvakfi.org/on-birinci-huccet-i-imaniye/) |
+| İkinci Hüccet-i İmaniye | 0.9946 | 0.9911 | 35 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/202 İkinci Hüccet-i İmaniye.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-huccet-i-imaniye/) |
+| Onuncu Mesele | 0.9955 | 0.9951 | 26 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/110 Onuncu Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/onuncu-mesele/) |
+| Dördüncü Mesele | 0.9960 | 0.9936 | 4 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/104 Dördüncü Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/dorduncu-mesele/) |
+| Altıncı Hüccet-i İmaniye | 0.9973 | 0.9955 | 5 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/206 Altıncı Hüccet-i İmaniye.md` | [public](https://risaleinur.hizmetvakfi.org/altinci-huccet-i-imaniye/) |
+| İkinci Mesele | 0.9974 | 0.9959 | 4 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/102 İkinci Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-mesele/) |
+| Sekizinci Mesele | 0.9980 | 0.9974 | 11 | `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/108 Sekizinci Mesele.md` | [public](https://risaleinur.hizmetvakfi.org/sekizinci-mesele/) |
 
 ## Representative divergence snippets
 

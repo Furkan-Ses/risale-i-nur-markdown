@@ -5,7 +5,7 @@ section_id: "sualar.012.on-ucuncu-sua"
 section_order: 12
 section_slug: "on-ucuncu-sua"
 section_title: "On Üçüncü Şuâ"
-canonical_source_path: "canonical/furkan/sualar/by_heading/12 On Üçüncü Şuâ.md"
+source_section_path: "books/sualar/by_heading/12 On Üçüncü Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

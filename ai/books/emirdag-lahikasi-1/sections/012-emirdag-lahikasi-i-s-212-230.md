@@ -5,7 +5,7 @@ section_id: "emirdag-lahikasi-1.012.emirdag-lahikasi-i-s-212-230"
 section_order: 12
 section_slug: "emirdag-lahikasi-i-s-212-230"
 section_title: "Emirdağ Lâhikası - I s.212-230"
-canonical_source_path: "canonical/furkan/emirdag-lahikasi-1/by_heading/12 Emirdağ Lâhikası - I s.212-230.md"
+source_section_path: "books/emirdag-lahikasi-1/by_heading/12 Emirdağ Lâhikası - I s.212-230.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

@@ -5,7 +5,7 @@ section_id: "kastamonu-lahikasi.009.lemaattan"
 section_order: 9
 section_slug: "lemaattan"
 section_title: "Lemaat’tan"
-canonical_source_path: "canonical/furkan/kastamonu-lahikasi/by_heading/09 Kastamonu Lâhikası s.150-166 (Lemaat’tan).md"
+source_section_path: "books/kastamonu-lahikasi/by_heading/09 Kastamonu Lâhikası s.150-166 (Lemaat’tan).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

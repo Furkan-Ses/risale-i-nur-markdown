@@ -1,8 +1,8 @@
 ---
 book_id: "lemalar"
 book_title: "Lemalar"
-canonical_merged_path: "canonical/furkan/lemalar/Lemalar.md"
-canonical_section_dir: "canonical/furkan/lemalar/by_heading"
+source_book_path: "books/lemalar/Lemalar.md"
+source_section_dir: "books/lemalar/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "almost-identical"

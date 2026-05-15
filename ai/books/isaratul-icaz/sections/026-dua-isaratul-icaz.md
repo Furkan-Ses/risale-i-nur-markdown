@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.026.dua-isaratul-icaz"
 section_order: 26
 section_slug: "dua-isaratul-icaz"
 section_title: "Dua (İşaratü’l-İ’caz)"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/26 Dua (İşaratü’l-İ’caz).md"
+source_section_path: "books/isaratul-icaz/by_heading/26 Dua (İşaratü’l-İ’caz).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

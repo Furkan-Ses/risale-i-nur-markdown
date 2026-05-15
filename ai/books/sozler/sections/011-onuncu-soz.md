@@ -5,7 +5,7 @@ section_id: "sozler.011.onuncu-soz"
 section_order: 11
 section_slug: "onuncu-soz"
 section_title: "Onuncu Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/010 - Onuncu Söz.md"
+source_section_path: "books/sozler/by_heading/010 - Onuncu Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.002.ilk-hayati"
 section_order: 2
 section_slug: "ilk-hayati"
 section_title: "İlk Hayatı"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/02 İlk Hayatı.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/02 İlk Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

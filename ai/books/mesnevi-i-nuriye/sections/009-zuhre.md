@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.009.zuhre"
 section_order: 9
 section_slug: "zuhre"
 section_title: "Zühre"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/09 Zühre.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/09 Zühre.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

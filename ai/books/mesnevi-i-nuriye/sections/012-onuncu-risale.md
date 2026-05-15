@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.012.onuncu-risale"
 section_order: 12
 section_slug: "onuncu-risale"
 section_title: "Onuncu Risale"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/12 Onuncu Risale.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/12 Onuncu Risale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

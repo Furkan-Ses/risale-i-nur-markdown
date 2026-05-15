@@ -5,7 +5,7 @@ section_id: "sualar.011.on-ikinci-sua"
 section_order: 11
 section_slug: "on-ikinci-sua"
 section_title: "On İkinci Şuâ"
-canonical_source_path: "canonical/furkan/sualar/by_heading/11 On İkinci Şuâ.md"
+source_section_path: "books/sualar/by_heading/11 On İkinci Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

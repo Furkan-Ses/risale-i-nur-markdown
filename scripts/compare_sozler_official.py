@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LOCAL_ROOT = ROOT / "canonical" / "furkan" / "sozler"
+LOCAL_ROOT = ROOT / "books" / "sozler"
 LOCAL_SECTIONS = LOCAL_ROOT / "by_heading"
 GENERATED_ROOT = ROOT / "generated"
 GENERATED_JSON_ROOT = GENERATED_ROOT / "json"
@@ -219,7 +219,7 @@ def write_outputs(
     rows = [
         "# Sözler Public Comparison Report",
         "",
-        "- Yerel kaynak: `canonical/furkan/sozler/Sozler.md`",
+        "- Doğrulanmış kitap kaynağı: `books/sozler/Sozler.md`",
         "- Public kaynak: resmi Hizmet Vakfı `Sözler` sayfaları",
         f"- Public index: {INDEX_URL}",
         "- Yöntem: resmi site menüsündeki tüm `Sözler` bağlantıları scrape edilip bölüm bazlı normalize token karşılaştırması yapıldı",

@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CANONICAL_ROOT = ROOT / "canonical" / "furkan"
+BOOKS_ROOT = ROOT / "books"
 SUMMARY_PATH = ROOT / "generated" / "json" / "all-upstream-public-summary.json"
 BOOK_COMPARISON_ROOT = ROOT / "generated" / "json" / "books"
 AI_ROOT = ROOT / "ai"
@@ -126,11 +126,20 @@ def write_frontmatter(data: dict[str, object], body: str) -> str:
     return "\n".join(lines)
 
 
+def normalize_written_path(path: Path) -> Path:
+    if path.exists():
+        return path
+    fallback = path.with_name(f"{path.stem} 2{path.suffix}")
+    if fallback.exists():
+        fallback.rename(path)
+    return path
+
+
 def collect_books() -> list[dict[str, object]]:
     summary = json.loads(SUMMARY_PATH.read_text(encoding="utf-8"))
     summary_map = {str(item["slug"]): item for item in summary["books"]}
     books: list[dict[str, object]] = []
-    for book_dir in sorted(CANONICAL_ROOT.iterdir()):
+    for book_dir in sorted(BOOKS_ROOT.iterdir()):
         if not book_dir.is_dir():
             continue
         slug = book_dir.name
@@ -274,8 +283,8 @@ def make_chunk(
         "block_end": blocks[-1].order,
         "word_count": len(text.split()),
         "char_count": len(text),
-        "canonical_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
-        "canonical_section_path": section["source_path"].relative_to(ROOT).as_posix(),
+        "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
+        "source_section_path": section["source_path"].relative_to(ROOT).as_posix(),
         "ai_section_path": ai_section_path.relative_to(ROOT).as_posix(),
         "source_name": section["meta"].get("source_name"),
         "source_url": section["meta"].get("source_url"),
@@ -335,7 +344,7 @@ def write_ai_policy() -> None:
     rows = [
         "# AI Answering Policy",
         "",
-        "Bu klasör, Risale-i Nur metinlerinden AI retrieval için hazırlanmış güvenli katmandır.",
+        "Bu klasör, `books/` katmanındaki doğrulanmış Risale-i Nur metinlerinden türetilmiş güvenli AI katmanıdır.",
         "",
         "## Zorunlu kurallar",
         "",
@@ -345,7 +354,7 @@ def write_ai_policy() -> None:
         "4. Belirsiz durumda sentez yapılmaz; `metinde açık dayanak bulunamadı` denir.",
         "5. Farklı pasajlar birleştirilecekse her pasaj ayrı cite edilmelidir.",
         "6. Bir pasaj tek başına yetersizse aynı bölüm içindeki komşu chunk'lar birlikte okunmalıdır.",
-        "7. Kanonik kaynak ile çelişen dış kaynaklara göre cevap verilmez.",
+        "7. Doğrulanmış kaynak ile çelişen dış kaynaklara göre cevap verilmez.",
         "",
         "## Önerilen retrieval akışı",
         "",
@@ -361,7 +370,8 @@ def write_ai_readme(catalog: dict[str, object]) -> None:
     rows = [
         "# AI Corpus Layer",
         "",
-        "Bu klasör, kanonik Risale-i Nur Markdown metinlerinin AI retrieval için hazırlanmış ikinci katmanıdır.",
+        "Bu klasör, `books/` altındaki doğrulanmış metinlerin AI retrieval için hazırlanmış yapısal kopyasıdır.",
+        "Üst düzey `books/` klasörü insan okuması içindir; bu klasör ise AI sistemlerinin kullanacağı türetilmiş kopyayı içerir.",
         "",
         "## Amaç",
         "",
@@ -414,8 +424,8 @@ def main() -> None:
         book_frontmatter = {
             "book_id": book["slug"],
             "book_title": book["title"],
-            "canonical_merged_path": book["merged_path"].relative_to(ROOT).as_posix(),
-            "canonical_section_dir": book["by_heading_dir"].relative_to(ROOT).as_posix(),
+            "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
+            "source_section_dir": book["by_heading_dir"].relative_to(ROOT).as_posix(),
             "source_name": merged_meta.get("source_name") or merged_meta.get("source name"),
             "source_url": merged_meta.get("source_url") or merged_meta.get("source url"),
             "official_alignment_status": book["summary"].get("status"),
@@ -448,7 +458,7 @@ def main() -> None:
                 "section_order": order,
                 "section_slug": section_slug,
                 "section_title": title,
-                "canonical_source_path": section_path.relative_to(ROOT).as_posix(),
+                "source_section_path": section_path.relative_to(ROOT).as_posix(),
                 "source_name": meta.get("source_name") or meta.get("source name"),
                 "source_url": meta.get("source_url") or meta.get("source url"),
                 "official_alignment_status": book["summary"].get("status"),
@@ -460,6 +470,7 @@ def main() -> None:
                 "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
             }
             ai_section_path.write_text(write_frontmatter(section_frontmatter, body), encoding="utf-8")
+            ai_section_path = normalize_written_path(ai_section_path)
 
             section = {
                 "title": title,
@@ -482,7 +493,7 @@ def main() -> None:
                     "section_slug": section_slug,
                     "section_title": title,
                     "section_order": order,
-                    "canonical_source_path": section_path.relative_to(ROOT).as_posix(),
+                    "source_section_path": section_path.relative_to(ROOT).as_posix(),
                     "ai_section_path": ai_section_path.relative_to(ROOT).as_posix(),
                     "chunk_count": len(chunks),
                     "first_chunk_id": chunks[0]["chunk_id"] if chunks else None,
@@ -502,7 +513,7 @@ def main() -> None:
         manifest = {
             "book_id": book["slug"],
             "book_title": book["title"],
-            "canonical_merged_path": book["merged_path"].relative_to(ROOT).as_posix(),
+            "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
             "ai_book_path": (ai_book_dir / "book.md").relative_to(ROOT).as_posix(),
             "passages_path": passages_path.relative_to(ROOT).as_posix(),
             "section_count": len(section_entries),

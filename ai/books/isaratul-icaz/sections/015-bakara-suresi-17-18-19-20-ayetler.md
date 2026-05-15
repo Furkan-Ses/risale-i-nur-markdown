@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.015.bakara-suresi-17-18-19-20-ayetler"
 section_order: 15
 section_slug: "bakara-suresi-17-18-19-20-ayetler"
 section_title: "Bakara Suresi 17-18-19-20. âyetler"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/15 Bakara Suresi 17-18-19-20. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/15 Bakara Suresi 17-18-19-20. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

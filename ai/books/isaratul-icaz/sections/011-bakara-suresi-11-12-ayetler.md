@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.011.bakara-suresi-11-12-ayetler"
 section_order: 11
 section_slug: "bakara-suresi-11-12-ayetler"
 section_title: "Bakara Suresi 11-12. âyetler"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/11 Bakara Suresi 11-12. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/11 Bakara Suresi 11-12. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

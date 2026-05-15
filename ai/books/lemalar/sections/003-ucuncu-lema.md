@@ -5,7 +5,7 @@ section_id: "lemalar.003.ucuncu-lema"
 section_order: 3
 section_slug: "ucuncu-lema"
 section_title: "Üçüncü Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/03 Üçüncü Lem’a.md"
+source_section_path: "books/lemalar/by_heading/03 Üçüncü Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

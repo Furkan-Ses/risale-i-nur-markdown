@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.016.fihrist-mesnevi"
 section_order: 16
 section_slug: "fihrist-mesnevi"
 section_title: "Fihrist (Mesnevî)"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/16 Fihrist (Mesnevî).md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/16 Fihrist (Mesnevî).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

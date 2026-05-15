@@ -1,8 +1,8 @@
 ---
 book_id: "kucuk-kitaplar"
 book_title: "Kucuk Kitaplar"
-canonical_merged_path: "canonical/furkan/kucuk-kitaplar/Kucuk Kitaplar.md"
-canonical_section_dir: "canonical/furkan/kucuk-kitaplar/by_heading"
+source_book_path: "books/kucuk-kitaplar/Kucuk Kitaplar.md"
+source_section_dir: "books/kucuk-kitaplar/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

@@ -5,7 +5,7 @@ section_id: "mektubat.031.otuz-birinci-mektup"
 section_order: 31
 section_slug: "otuz-birinci-mektup"
 section_title: "Otuz Birinci Mektup"
-canonical_source_path: "canonical/furkan/mektubat/by_heading/31 Otuz Birinci Mektup.md"
+source_section_path: "books/mektubat/by_heading/31 Otuz Birinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

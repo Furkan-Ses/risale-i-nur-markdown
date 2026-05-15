@@ -1,6 +1,6 @@
 # Sözler Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/01 Sözler`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/01 Sözler`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/sozler-2/
 
@@ -19,14 +19,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Birinci Söz | 0.9755 | 0.9531 | 151 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/01 Birinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/birinci-soz/) |
-| Fihrist | 0.9854 | 0.9801 | 76 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md` | [public](https://risaleinur.hizmetvakfi.org/fihrist-sozler/) |
-| On Yedinci Söz | 0.9859 | 0.9850 | 124 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/on-yedinci-soz/) |
-| İkinci Söz | 0.9870 | 0.9743 | 15 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/02 İkinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-soz-2/) |
-| Üçüncü Söz | 0.9878 | 0.9759 | 16 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md` | [public](https://risaleinur.hizmetvakfi.org/ucuncu-soz-2/) |
-| Yirmi İkinci Söz | 0.9913 | 0.9875 | 146 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/yirmi-ikinci-soz/) |
-| Yedinci Söz | 0.9921 | 0.9892 | 13 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/07 Yedinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/yedinci-soz/) |
-| On Dördüncü Söz | 0.9934 | 0.9926 | 29 | `upstream/alitekdemir/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md` | [public](https://risaleinur.hizmetvakfi.org/on-dorduncu-soz/) |
+| Birinci Söz | 0.9755 | 0.9531 | 151 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/01 Birinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/birinci-soz/) |
+| Fihrist | 0.9854 | 0.9801 | 76 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md` | [public](https://risaleinur.hizmetvakfi.org/fihrist-sozler/) |
+| On Yedinci Söz | 0.9859 | 0.9850 | 124 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/on-yedinci-soz/) |
+| İkinci Söz | 0.9870 | 0.9743 | 15 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/02 İkinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-soz-2/) |
+| Üçüncü Söz | 0.9878 | 0.9759 | 16 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md` | [public](https://risaleinur.hizmetvakfi.org/ucuncu-soz-2/) |
+| Yirmi İkinci Söz | 0.9913 | 0.9875 | 146 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/yirmi-ikinci-soz/) |
+| Yedinci Söz | 0.9921 | 0.9892 | 13 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/07 Yedinci Söz.md` | [public](https://risaleinur.hizmetvakfi.org/yedinci-soz/) |
+| On Dördüncü Söz | 0.9934 | 0.9926 | 29 | `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md` | [public](https://risaleinur.hizmetvakfi.org/on-dorduncu-soz/) |
 
 ## Representative divergence snippets
 

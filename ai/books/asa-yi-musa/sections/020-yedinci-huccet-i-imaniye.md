@@ -5,7 +5,7 @@ section_id: "asa-yi-musa.020.yedinci-huccet-i-imaniye"
 section_order: 20
 section_slug: "yedinci-huccet-i-imaniye"
 section_title: "Yedinci Hüccet-i İmaniye"
-canonical_source_path: "canonical/furkan/asa-yi-musa/by_heading/207 Yedinci Hüccet-i İmaniye.md"
+source_section_path: "books/asa-yi-musa/by_heading/207 Yedinci Hüccet-i İmaniye.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

@@ -1,8 +1,8 @@
 ---
 book_id: "mektubat"
 book_title: "Mektubat"
-canonical_merged_path: "canonical/furkan/mektubat/Mektubat.md"
-canonical_section_dir: "canonical/furkan/mektubat/by_heading"
+source_book_path: "books/mektubat/Mektubat.md"
+source_section_dir: "books/mektubat/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

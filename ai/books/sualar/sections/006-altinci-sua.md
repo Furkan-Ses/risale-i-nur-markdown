@@ -5,7 +5,7 @@ section_id: "sualar.006.altinci-sua"
 section_order: 6
 section_slug: "altinci-sua"
 section_title: "Altıncı Şuâ"
-canonical_source_path: "canonical/furkan/sualar/by_heading/06 Altıncı Şuâ.md"
+source_section_path: "books/sualar/by_heading/06 Altıncı Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

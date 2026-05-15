@@ -1,6 +1,6 @@
 # Kastamonu Lâhikası Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi/
 
@@ -17,7 +17,7 @@
 
 ### Upstream-only
 
-- Lemaat’tan (`upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/09 Kastamonu Lâhikası s.150-166 (Lemaat’tan).md`)
+- Lemaat’tan (`sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/09 Kastamonu Lâhikası s.150-166 (Lemaat’tan).md`)
 
 ### Official-only
 
@@ -27,14 +27,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Kastamonu Lâhikası s.70-91 | 0.9958 | 0.9957 | 33 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/05 Kastamonu Lâhikası s.70-91.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-70-91/) |
-| Kastamonu Lâhikası s.52-69 | 0.9969 | 0.9956 | 23 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/04 Kastamonu Lâhikası s.52-69.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-52-69/) |
-| Kastamonu Lâhikası s.167-189 | 0.9975 | 0.9965 | 23 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/10 Kastamonu Lâhikası s.167-189.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-167-189/) |
-| Kastamonu Lâhikası s.10-30 | 0.9977 | 0.9973 | 18 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/02 Kastamonu Lâhikası s.10-30.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-10-30/) |
-| Kastamonu Lâhikası s.30-51 | 0.9983 | 0.9978 | 14 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/03 Kastamonu Lâhikası s.30-51.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-30-51/) |
-| Kastamonu Lâhikası s.190-210 | 0.9984 | 0.9974 | 15 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/11 Kastamonu Lâhikası s.190-210.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-190-210/) |
-| Kastamonu Lâhikası s.231-255 | 0.9987 | 0.9985 | 15 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/13 Kastamonu Lâhikası s.231-255.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-231-255/) |
-| Kastamonu Lâhikası s.91-109 | 0.9988 | 0.9980 | 10 | `upstream/alitekdemir/obsidian-markdown/10 Kastamonu Lâhikası/06 Kastamonu Lâhikası s.91-109.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-91-109/) |
+| Kastamonu Lâhikası s.70-91 | 0.9958 | 0.9957 | 33 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/05 Kastamonu Lâhikası s.70-91.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-70-91/) |
+| Kastamonu Lâhikası s.52-69 | 0.9969 | 0.9956 | 23 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/04 Kastamonu Lâhikası s.52-69.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-52-69/) |
+| Kastamonu Lâhikası s.167-189 | 0.9975 | 0.9965 | 23 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/10 Kastamonu Lâhikası s.167-189.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-167-189/) |
+| Kastamonu Lâhikası s.10-30 | 0.9977 | 0.9973 | 18 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/02 Kastamonu Lâhikası s.10-30.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-10-30/) |
+| Kastamonu Lâhikası s.30-51 | 0.9983 | 0.9978 | 14 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/03 Kastamonu Lâhikası s.30-51.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-30-51/) |
+| Kastamonu Lâhikası s.190-210 | 0.9984 | 0.9974 | 15 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/11 Kastamonu Lâhikası s.190-210.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-190-210/) |
+| Kastamonu Lâhikası s.231-255 | 0.9987 | 0.9985 | 15 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/13 Kastamonu Lâhikası s.231-255.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-231-255/) |
+| Kastamonu Lâhikası s.91-109 | 0.9988 | 0.9980 | 10 | `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/06 Kastamonu Lâhikası s.91-109.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-91-109/) |
 
 ## Representative divergence snippets
 

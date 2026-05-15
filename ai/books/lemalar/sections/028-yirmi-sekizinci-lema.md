@@ -5,7 +5,7 @@ section_id: "lemalar.028.yirmi-sekizinci-lema"
 section_order: 28
 section_slug: "yirmi-sekizinci-lema"
 section_title: "Yirmi Sekizinci Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/28 Yirmi Sekizinci Lem’a.md"
+source_section_path: "books/lemalar/by_heading/28 Yirmi Sekizinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

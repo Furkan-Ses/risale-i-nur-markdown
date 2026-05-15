@@ -5,7 +5,7 @@ section_id: "lemalar.034.munacat-lemalar"
 section_order: 34
 section_slug: "munacat-lemalar"
 section_title: "Münâcat (Lem’alar)"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/34 Münâcat (Lem’alar).md"
+source_section_path: "books/lemalar/by_heading/34 Münâcat (Lem’alar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

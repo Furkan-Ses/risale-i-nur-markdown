@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.008.afyon-hayati"
 section_order: 8
 section_slug: "afyon-hayati"
 section_title: "Afyon Hayatı"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/08 Afyon Hayatı.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/08 Afyon Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

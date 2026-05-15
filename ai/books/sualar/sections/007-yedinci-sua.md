@@ -5,7 +5,7 @@ section_id: "sualar.007.yedinci-sua"
 section_order: 7
 section_slug: "yedinci-sua"
 section_title: "Yedinci Şuâ"
-canonical_source_path: "canonical/furkan/sualar/by_heading/07 Yedinci Şuâ.md"
+source_section_path: "books/sualar/by_heading/07 Yedinci Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

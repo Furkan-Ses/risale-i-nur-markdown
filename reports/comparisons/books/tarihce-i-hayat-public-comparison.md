@@ -1,6 +1,6 @@
 # Tarihçe-i Hayat Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/tarihce-i-hayat/
 
@@ -17,8 +17,8 @@
 
 ### Upstream-only
 
-- Risale-i Nur ve Hariç Memleketler (`upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/10 Hariç Memleketler.md`)
-- Üçüncü Kısım (`upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/04 Eskişehir Hayatı.md`)
+- Risale-i Nur ve Hariç Memleketler (`sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/10 Hariç Memleketler.md`)
+- Üçüncü Kısım (`sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/04 Eskişehir Hayatı.md`)
 
 ### Official-only
 
@@ -31,14 +31,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| İlk Hayatı | 0.9943 | 0.9929 | 264 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/02 İlk Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/573-2/) |
-| Barla Hayatı | 0.9976 | 0.9974 | 64 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/03 Barla Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/barla-hayati/) |
-| Denizli Hayatı | 0.9977 | 0.9977 | 56 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/06 Denizli Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/denizli-hayati/) |
-| Isparta Hayatı | 0.9984 | 0.9977 | 42 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/09 Isparta Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/isparta-hayati/) |
-| Bedîüzzaman ve Risale-i Nur | 0.9984 | 0.9975 | 15 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/11 Bedîüzzaman ve Risale-i Nur.md` | [public](https://risaleinur.hizmetvakfi.org/bediuzzaman-ve-risale-i-nur/) |
-| Afyon Hayatı | 0.9984 | 0.9976 | 49 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/08 Afyon Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/601-2/) |
-| Emirdağ Hayatı | 0.9987 | 0.9981 | 45 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/07 Emirdağ Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-hayati/) |
-| Kastamonu Hayatı | 0.9992 | 0.9990 | 36 | `upstream/alitekdemir/obsidian-markdown/05 Tarihçe-i Hayat/05 Kastamonu Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-hayati/) |
+| İlk Hayatı | 0.9943 | 0.9929 | 264 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/02 İlk Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/573-2/) |
+| Barla Hayatı | 0.9976 | 0.9974 | 64 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/03 Barla Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/barla-hayati/) |
+| Denizli Hayatı | 0.9977 | 0.9977 | 56 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/06 Denizli Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/denizli-hayati/) |
+| Isparta Hayatı | 0.9984 | 0.9977 | 42 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/09 Isparta Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/isparta-hayati/) |
+| Bedîüzzaman ve Risale-i Nur | 0.9984 | 0.9975 | 15 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/11 Bedîüzzaman ve Risale-i Nur.md` | [public](https://risaleinur.hizmetvakfi.org/bediuzzaman-ve-risale-i-nur/) |
+| Afyon Hayatı | 0.9984 | 0.9976 | 49 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/08 Afyon Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/601-2/) |
+| Emirdağ Hayatı | 0.9987 | 0.9981 | 45 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/07 Emirdağ Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-hayati/) |
+| Kastamonu Hayatı | 0.9992 | 0.9990 | 36 | `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/05 Kastamonu Hayatı.md` | [public](https://risaleinur.hizmetvakfi.org/kastamonu-hayati/) |
 
 ## Representative divergence snippets
 

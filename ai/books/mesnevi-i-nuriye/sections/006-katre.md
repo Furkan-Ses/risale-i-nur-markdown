@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.006.katre"
 section_order: 6
 section_slug: "katre"
 section_title: "Katre"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/06 Katre.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/06 Katre.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

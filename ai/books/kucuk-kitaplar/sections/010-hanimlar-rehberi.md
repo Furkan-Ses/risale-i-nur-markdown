@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.010.hanimlar-rehberi"
 section_order: 10
 section_slug: "hanimlar-rehberi"
 section_title: "HANIMLAR REHBERİ"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/10 HANIMLAR REHBERİ.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/10 HANIMLAR REHBERİ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

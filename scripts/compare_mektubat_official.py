@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 
 ROOT = Path(__file__).resolve().parents[1]
-UPSTREAM_ROOT = ROOT / "upstream" / "alitekdemir" / "obsidian-markdown" / "02 Mektubat"
+UPSTREAM_ROOT = ROOT / "sources" / "official-markdown-mirror" / "obsidian-markdown" / "02 Mektubat"
 GENERATED_ROOT = ROOT / "generated"
 GENERATED_JSON_ROOT = GENERATED_ROOT / "json"
 GENERATED_TEXT_ROOT = GENERATED_ROOT / "text"
@@ -190,7 +190,7 @@ def write_merged_upstream_text(upstream_sections: dict[str, dict[str, object]], 
     merged = "\n\n".join(
         str(upstream_sections[key]["normalized"]) for key in order if key in upstream_sections
     ).strip() + "\n"
-    (GENERATED_TEXT_ROOT / "ali-mektubat-merged.md").write_text(merged, encoding="utf-8")
+    (GENERATED_TEXT_ROOT / "upstream-mektubat-merged.md").write_text(merged, encoding="utf-8")
 
 
 def write_outputs(
@@ -235,7 +235,7 @@ def write_outputs(
     rows = [
         "# Mektubat Public Comparison Report",
         "",
-        "- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/02 Mektubat/`",
+        "- Kaynak aynası: `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/`",
         "- Public kaynak: resmi Hizmet Vakfı `Mektubat` sayfaları",
         f"- Public index: {INDEX_URL}",
         "- Yöntem: resmi site menüsündeki tüm `Mektubat` bağlantıları scrape edilip bölüm bazlı normalize token karşılaştırması yapıldı",
@@ -310,7 +310,7 @@ def write_outputs(
             "- `Sıra benzerliği`, token dizilerinin sırasını da dikkate alır; başlık/ara başlık yer değişimleri ve uzun blok kaymaları bu metriği sert düşürebilir.",
             "- `İçerik örtüşmesi`, token çoklu-küme kesişimine bakar; aynı malzemenin farklı akış veya imla ile verildiği durumları daha doğru yansıtır.",
             "- Karşılaştırmada frontmatter, sayfa işaretleri ve markdown ayraçları temizlendi; anlamlı metin gövdesi token bazında ölçüldü.",
-            "- Upstream birleştirilmiş çıktı `generated/text/ali-mektubat-merged.md` dosyasına yazıldı.",
+            "- Upstream birleştirilmiş çıktı `generated/text/upstream-mektubat-merged.md` dosyasına yazıldı.",
             "- Ayrıntılı veri `generated/json/mektubat-public-comparison.json` içinde tutulur; scrape çıktısı `generated/json/official-mektubat-scrape.json` dosyasına yazılır.",
         ]
     )

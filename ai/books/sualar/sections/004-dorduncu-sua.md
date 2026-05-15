@@ -5,7 +5,7 @@ section_id: "sualar.004.dorduncu-sua"
 section_order: 4
 section_slug: "dorduncu-sua"
 section_title: "Dördüncü Şuâ"
-canonical_source_path: "canonical/furkan/sualar/by_heading/04 Dördüncü Şuâ.md"
+source_section_path: "books/sualar/by_heading/04 Dördüncü Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

@@ -4,16 +4,16 @@
 
 | Kaynak | Tür | Yol / URL | Not |
 | --- | --- | --- | --- |
-| Yerel repo metni | Yerel kanonik kaynak | `canonical/furkan/sozler/Sozler.md` ve `canonical/furkan/sozler/by_heading/` | Mevcut çalışma metni; kapak, sayfa işaretleri ve başlık bazlı ayrım içeriyor |
+| Yerel repo metni | Doğrulanmış kitap kaynağı | `books/sozler/Sozler.md` ve `books/sozler/by_heading/` | Mevcut çalışma metni; kapak, sayfa işaretleri ve başlık bazlı ayrım içeriyor |
 | Resmi public metin | Scrape edilen otoritatif web kaynağı | `https://risaleinur.hizmetvakfi.org/sozler-2/` | Hizmet Vakfı / DİB asıl nüsha zinciri |
-| Ali Tekdemir mirror | Public GitHub mirror | `upstream/alitekdemir/obsidian-markdown/01 Sözler/` | Resmi metnin Markdown aynası; scrape doğrulaması için kullanıldı |
+| Kaynak aynası | Repo içi kaynak mirror | `upstream/asil-nusha-markdown/obsidian-markdown/01 Sözler/` | Resmi metnin Markdown aynası; scrape doğrulaması için kullanıldı |
 
 ## Trust decision
 
 | Karar alanı | Hüküm |
 | --- | --- |
 | Otoritatif baz metin | **Resmi Hizmet Vakfı public metni** |
-| Scrape güvenilir mi? | **Evet.** Resmi site ile Ali Tekdemir mirror arasında 36 ortak bölümde ortalama **0.9948** sıra benzerliği var |
+| Scrape güvenilir mi? | **Evet.** Resmi site ile kaynak aynası arasında 36 ortak bölümde ortalama **0.9948** sıra benzerliği var |
 | Yerel repo tamamen yanlış mı? | **Hayır.** Büyük ölçüde aynı metin ailesi; farkların çoğu edisyon, imla, yapı ve kapsam farkı |
 | “Doğru” tercih hangisi? | **DİB/Hizmet Vakfı asıl nüsha hedefleniyorsa official/public metin doğru referans**; yerel repo ise eski baskı/edisyon şahidi olarak değerli |
 
@@ -68,7 +68,7 @@
 ## Final judgment
 
 1. **Scrape edilen official/public metin güvenilir ve kullanılabilir.**
-2. **Ali Tekdemir mirror, official kaynağı çok yüksek doğrulukla yansıtıyor**; yani public scrape sonucu tesadüfi değil.
+2. **Kaynak aynası, official kaynağı çok yüksek doğrulukla yansıtıyor**; yani public scrape sonucu tesadüfi değil.
 3. **Yerel repo metni çoğu yerde aynı içerik ailesine ait**, ancak:
    - eski baskı/edisyon izleri taşıyor,
    - repo/frontmatter/page apparatus içeriyor,

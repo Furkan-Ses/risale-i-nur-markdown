@@ -1,6 +1,6 @@
 # Emirdağ Lâhikası 1 Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i/
 
@@ -19,14 +19,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Emirdağ Lâhikası - I s.190-211 | 0.9952 | 0.9945 | 38 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/11 Emirdağ Lâhikası - I s.190-211.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-190-211/) |
-| Emirdağ Lâhikası - I s.271-288 | 0.9966 | 0.9954 | 28 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/15 Emirdağ Lâhikası - I s.271-288.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-271-288/) |
-| Emirdağ Lâhikası - I s.170-190 | 0.9969 | 0.9949 | 30 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/10 Emirdağ Lâhikası - I s.170-190.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-170-190/) |
-| Emirdağ Lâhikası - I s.50-69 | 0.9976 | 0.9973 | 19 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/04 Emirdağ Lâhikası - I s.50-69.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-50-69/) |
-| Emirdağ Lâhikası - I s.230-251 | 0.9980 | 0.9971 | 19 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/13 Emirdağ Lâhikası - I s.230-251.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-230-251/) |
-| Emirdağ Lâhikası - I s.70-90 | 0.9981 | 0.9974 | 17 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/05 Emirdağ Lâhikası - I s.70-90.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-70-90/) |
-| Emirdağ Lâhikası - I s.10-31 | 0.9984 | 0.9978 | 14 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/02 Emirdağ Lâhikası - I s.10-31.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-10-31/) |
-| Emirdağ Lâhikası - I s.150-170 | 0.9989 | 0.9981 | 10 | `upstream/alitekdemir/obsidian-markdown/11 Emirdağ Lâhikası 1/09 Emirdağ Lâhikası - I s.150-170.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-150-170/) |
+| Emirdağ Lâhikası - I s.190-211 | 0.9952 | 0.9945 | 38 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/11 Emirdağ Lâhikası - I s.190-211.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-190-211/) |
+| Emirdağ Lâhikası - I s.271-288 | 0.9966 | 0.9954 | 28 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/15 Emirdağ Lâhikası - I s.271-288.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-271-288/) |
+| Emirdağ Lâhikası - I s.170-190 | 0.9969 | 0.9949 | 30 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/10 Emirdağ Lâhikası - I s.170-190.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-170-190/) |
+| Emirdağ Lâhikası - I s.50-69 | 0.9976 | 0.9973 | 19 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/04 Emirdağ Lâhikası - I s.50-69.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-50-69/) |
+| Emirdağ Lâhikası - I s.230-251 | 0.9980 | 0.9971 | 19 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/13 Emirdağ Lâhikası - I s.230-251.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-230-251/) |
+| Emirdağ Lâhikası - I s.70-90 | 0.9981 | 0.9974 | 17 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/05 Emirdağ Lâhikası - I s.70-90.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-70-90/) |
+| Emirdağ Lâhikası - I s.10-31 | 0.9984 | 0.9978 | 14 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/02 Emirdağ Lâhikası - I s.10-31.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-10-31/) |
+| Emirdağ Lâhikası - I s.150-170 | 0.9989 | 0.9981 | 10 | `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/09 Emirdağ Lâhikası - I s.150-170.md` | [public](https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-150-170/) |
 
 ## Representative divergence snippets
 

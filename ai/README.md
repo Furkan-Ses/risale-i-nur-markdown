@@ -1,6 +1,7 @@
 # AI Corpus Layer
 
-Bu klasör, kanonik Risale-i Nur Markdown metinlerinin AI retrieval için hazırlanmış ikinci katmanıdır.
+Bu klasör, `books/` altındaki doğrulanmış metinlerin AI retrieval için hazırlanmış yapısal kopyasıdır.
+Üst düzey `books/` klasörü insan okuması içindir; bu klasör ise AI sistemlerinin kullanacağı türetilmiş kopyayı içerir.
 
 ## Amaç
 

@@ -5,7 +5,7 @@ section_id: "lemalar.036.dua-lemalar"
 section_order: 36
 section_slug: "dua-lemalar"
 section_title: "Dua (Lem’alar)"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/36 Dua (Lem’alar).md"
+source_section_path: "books/lemalar/by_heading/36 Dua (Lem’alar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

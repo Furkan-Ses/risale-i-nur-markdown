@@ -5,7 +5,7 @@ section_id: "sualar.016.eddai"
 section_order: 16
 section_slug: "eddai"
 section_title: "Eddâî"
-canonical_source_path: "canonical/furkan/sualar/by_heading/16 Eddâî.md"
+source_section_path: "books/sualar/by_heading/16 Eddâî.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

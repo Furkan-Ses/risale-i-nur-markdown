@@ -5,7 +5,7 @@ section_id: "sozler.006.besinci-soz"
 section_order: 6
 section_slug: "besinci-soz"
 section_title: "Beşinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/005 - Beşinci Söz.md"
+source_section_path: "books/sozler/by_heading/005 - Beşinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

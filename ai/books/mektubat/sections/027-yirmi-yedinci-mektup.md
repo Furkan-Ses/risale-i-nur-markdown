@@ -5,7 +5,7 @@ section_id: "mektubat.027.yirmi-yedinci-mektup"
 section_order: 27
 section_slug: "yirmi-yedinci-mektup"
 section_title: "Yirmi Yedinci Mektup"
-canonical_source_path: "canonical/furkan/mektubat/by_heading/27 Yirmi Yedinci Mektup.md"
+source_section_path: "books/mektubat/by_heading/27 Yirmi Yedinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

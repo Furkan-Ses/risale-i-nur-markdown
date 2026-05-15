@@ -1,6 +1,6 @@
 # Muhakemat Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/14 Muhakemat`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/muhakemat/
 
@@ -23,11 +23,11 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Takriz | 0.9966 | 0.9955 | 2 | `upstream/alitekdemir/obsidian-markdown/14 Muhakemat/05 Takriz.md` | [public](https://risaleinur.hizmetvakfi.org/takriz/) |
-| Üçüncü Makale | 0.9970 | 0.9965 | 42 | `upstream/alitekdemir/obsidian-markdown/14 Muhakemat/03 Üçüncü Makale.md` | [public](https://risaleinur.hizmetvakfi.org/ucuncu-makale/) |
-| İkinci Makale | 0.9982 | 0.9979 | 15 | `upstream/alitekdemir/obsidian-markdown/14 Muhakemat/02 İkinci Makale.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-makale/) |
-| BİRİNCİ MAKALE | 0.9992 | 0.9995 | 18 | `upstream/alitekdemir/obsidian-markdown/14 Muhakemat/01 Birinci Makale.md` | [public](https://risaleinur.hizmetvakfi.org/birinci-makale/) |
-| FİHRİST | 1.0000 | 1.0000 | 0 | `upstream/alitekdemir/obsidian-markdown/14 Muhakemat/04 Fihrist (Muhakemat).md` | [public](https://risaleinur.hizmetvakfi.org/fihrist-muhakemat/) |
+| Takriz | 0.9966 | 0.9955 | 2 | `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/05 Takriz.md` | [public](https://risaleinur.hizmetvakfi.org/takriz/) |
+| Üçüncü Makale | 0.9970 | 0.9965 | 42 | `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/03 Üçüncü Makale.md` | [public](https://risaleinur.hizmetvakfi.org/ucuncu-makale/) |
+| İkinci Makale | 0.9982 | 0.9979 | 15 | `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/02 İkinci Makale.md` | [public](https://risaleinur.hizmetvakfi.org/ikinci-makale/) |
+| BİRİNCİ MAKALE | 0.9992 | 0.9995 | 18 | `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/01 Birinci Makale.md` | [public](https://risaleinur.hizmetvakfi.org/birinci-makale/) |
+| FİHRİST | 1.0000 | 1.0000 | 0 | `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/04 Fihrist (Muhakemat).md` | [public](https://risaleinur.hizmetvakfi.org/fihrist-muhakemat/) |
 
 ## Representative divergence snippets
 

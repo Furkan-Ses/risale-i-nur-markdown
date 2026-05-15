@@ -2,7 +2,7 @@
   "book": {
     "title": "Muhakemat",
     "slug": "muhakemat",
-    "path": "upstream/alitekdemir/obsidian-markdown/14 Muhakemat"
+    "path": "sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat"
   },
   "source": {
     "name": "Hizmet Vakfı official site",
@@ -26,7 +26,7 @@
   "sections": [
     {
       "title": "BİRİNCİ MAKALE",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/14 Muhakemat/01 Birinci Makale.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/01 Birinci Makale.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/birinci-makale/",
       "similarity": 0.9991938192811555,
       "content_overlap": 0.999462546187437,
@@ -53,7 +53,7 @@
     },
     {
       "title": "FİHRİST",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/14 Muhakemat/04 Fihrist (Muhakemat).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/04 Fihrist (Muhakemat).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/fihrist-muhakemat/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -64,7 +64,7 @@
     },
     {
       "title": "İkinci Makale",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/14 Muhakemat/02 İkinci Makale.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/02 İkinci Makale.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-makale/",
       "similarity": 0.9981704381319211,
       "content_overlap": 0.99788298691301,
@@ -91,7 +91,7 @@
     },
     {
       "title": "Takriz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/14 Muhakemat/05 Takriz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/05 Takriz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/takriz/",
       "similarity": 0.9966480446927374,
       "content_overlap": 0.9955357142857143,
@@ -108,7 +108,7 @@
     },
     {
       "title": "Üçüncü Makale",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/14 Muhakemat/03 Üçüncü Makale.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/03 Üçüncü Makale.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-makale/",
       "similarity": 0.9969928290538977,
       "content_overlap": 0.9964863615349052,

@@ -2,7 +2,7 @@
   "book": {
     "title": "Mesnevî-i Nuriye",
     "slug": "mesnevi-i-nuriye",
-    "path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye"
+    "path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye"
   },
   "source": {
     "name": "Hizmet Vakfı official site",
@@ -19,7 +19,7 @@
   "sections": [
     {
       "title": "Fihrist (Mesnevî)",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/16 Fihrist (Mesnevî).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/16 Fihrist (Mesnevî).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/fihrist-mesnevi/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -30,7 +30,7 @@
     },
     {
       "title": "Habbe",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/08 Habbe.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/08 Habbe.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/habbe/",
       "similarity": 0.9932139145320047,
       "content_overlap": 0.9929104021513262,
@@ -57,7 +57,7 @@
     },
     {
       "title": "Hubab",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/07 Hubab.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/07 Hubab.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/hubab/",
       "similarity": 0.9961614516691869,
       "content_overlap": 0.9945418650563234,
@@ -84,7 +84,7 @@
     },
     {
       "title": "İ’tizar",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/01 İ’tizar.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/01 İ’tizar.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/itizar/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -95,7 +95,7 @@
     },
     {
       "title": "Katre",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/06 Katre.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/06 Katre.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/katre/",
       "similarity": 0.9990769798781614,
       "content_overlap": 0.9985239852398524,
@@ -122,7 +122,7 @@
     },
     {
       "title": "Lâsiyyemalar",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/05 Lâsiyyemalar.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/05 Lâsiyyemalar.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/lasiyyemalar/",
       "similarity": 0.998360991600082,
       "content_overlap": 0.998360991600082,
@@ -149,7 +149,7 @@
     },
     {
       "title": "Lem’alar Risalesi",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/03 Lem’alar Risalesi.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/03 Lem’alar Risalesi.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/lemalar-risalesi/",
       "similarity": 0.9991947173457884,
       "content_overlap": 0.9987121699935608,
@@ -171,7 +171,7 @@
     },
     {
       "title": "Mukaddime",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/02 Mukaddime.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/02 Mukaddime.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/mukaddime/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -182,7 +182,7 @@
     },
     {
       "title": "Münderecat Hakkında",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/15 Münderecat Hakkında.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/15 Münderecat Hakkında.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/munderecat-hakkinda/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -193,7 +193,7 @@
     },
     {
       "title": "Nokta",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/14 Nokta.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/14 Nokta.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/nokta/",
       "similarity": 0.996195575595322,
       "content_overlap": 0.995777027027027,
@@ -220,7 +220,7 @@
     },
     {
       "title": "Onuncu Risale",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/12 Onuncu Risale.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/12 Onuncu Risale.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-risale/",
       "similarity": 0.998914223669924,
       "content_overlap": 0.9991555072988297,
@@ -247,7 +247,7 @@
     },
     {
       "title": "Reşhalar",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/04 Reşhalar.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/04 Reşhalar.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/reshalar/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -258,7 +258,7 @@
     },
     {
       "title": "Şemme Risalesi",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/11 Şemme Risalesi.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/11 Şemme Risalesi.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/semme-risalesi/",
       "similarity": 0.9979873045363059,
       "content_overlap": 0.9981424148606811,
@@ -285,7 +285,7 @@
     },
     {
       "title": "Şule",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/13 Şule.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/13 Şule.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/sule/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -296,7 +296,7 @@
     },
     {
       "title": "Zerre",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/10 Zerre.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/10 Zerre.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/zerre/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -307,7 +307,7 @@
     },
     {
       "title": "Zühre",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/06 Mesnevî-i Nuriye/09 Zühre.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/09 Zühre.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/zuhre/",
       "similarity": 0.9992534925882478,
       "content_overlap": 0.9989339019189766,

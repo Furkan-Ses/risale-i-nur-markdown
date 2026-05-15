@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 
 ROOT = Path(__file__).resolve().parents[1]
-UPSTREAM_ROOT = ROOT / "upstream" / "alitekdemir" / "obsidian-markdown"
+UPSTREAM_ROOT = ROOT / "sources" / "official-markdown-mirror" / "obsidian-markdown"
 GENERATED_JSON_ROOT = ROOT / "generated" / "json"
 GENERATED_JSON_BOOK_ROOT = GENERATED_JSON_ROOT / "books"
 REPORT_ROOT = ROOT / "reports" / "comparisons"

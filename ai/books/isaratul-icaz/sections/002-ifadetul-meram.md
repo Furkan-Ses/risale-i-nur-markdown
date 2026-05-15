@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.002.ifadetul-meram"
 section_order: 2
 section_slug: "ifadetul-meram"
 section_title: "İfadetü’l-Meram"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/02 İfadetü’l-Meram.md"
+source_section_path: "books/isaratul-icaz/by_heading/02 İfadetü’l-Meram.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

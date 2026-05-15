@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.005.sure-i-bakara"
 section_order: 5
 section_slug: "sure-i-bakara"
 section_title: "Sure-i Bakara"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/05 Bakara Suresi 1- 2- 3. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/05 Bakara Suresi 1- 2- 3. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

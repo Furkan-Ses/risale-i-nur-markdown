@@ -5,7 +5,7 @@ section_id: "sozler.036.anglikan-kilisesine-cevab"
 section_order: 36
 section_slug: "anglikan-kilisesine-cevab"
 section_title: "Anglikan Kilisesine Cevab"
-canonical_source_path: "canonical/furkan/sozler/by_heading/035 - Anglikan Kilisesine Cevab.md"
+source_section_path: "books/sozler/by_heading/035 - Anglikan Kilisesine Cevab.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

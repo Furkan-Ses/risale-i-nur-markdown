@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.013.bakara-suresi-14-15-ayetler"
 section_order: 13
 section_slug: "bakara-suresi-14-15-ayetler"
 section_title: "Bakara Suresi 14-15. âyetler"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/13 Bakara Suresi 14-15. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/13 Bakara Suresi 14-15. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

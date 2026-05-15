@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.025.mehmed-kayalarin-bir-mudafaasi"
 section_order: 25
 section_slug: "mehmed-kayalarin-bir-mudafaasi"
 section_title: "Mehmed Kayalar’ın Bir Müdafaası"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/25 Mehmed Kayalar’ın Bir Müdafaası.md"
+source_section_path: "books/isaratul-icaz/by_heading/25 Mehmed Kayalar’ın Bir Müdafaası.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

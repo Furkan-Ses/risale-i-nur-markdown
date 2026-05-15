@@ -1,8 +1,8 @@
 ---
 book_id: "sikke-i-tasdik-i-gaybi"
 book_title: "Sikke-i Tasdik-i Gaybi"
-canonical_merged_path: "canonical/furkan/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md"
-canonical_section_dir: "canonical/furkan/sikke-i-tasdik-i-gaybi/by_heading"
+source_book_path: "books/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md"
+source_section_dir: "books/sikke-i-tasdik-i-gaybi/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

@@ -2,7 +2,7 @@
   "book": {
     "title": "Sözler",
     "slug": "sozler",
-    "path": "upstream/alitekdemir/obsidian-markdown/01 Sözler"
+    "path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler"
   },
   "source": {
     "name": "Hizmet Vakfı official site",
@@ -19,7 +19,7 @@
   "sections": [
     {
       "title": "Altıncı Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/06 Altıncı Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/06 Altıncı Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/altinci-soz/",
       "similarity": 0.9945011783189317,
       "content_overlap": 0.9906103286384976,
@@ -46,7 +46,7 @@
     },
     {
       "title": "Beşinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/05 Beşinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/05 Beşinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/besinci-soz/",
       "similarity": 0.9983844911147012,
       "content_overlap": 0.9967741935483871,
@@ -68,7 +68,7 @@
     },
     {
       "title": "Birinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/01 Birinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/01 Birinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/birinci-soz/",
       "similarity": 0.9755154639175257,
       "content_overlap": 0.9531004091910608,
@@ -95,7 +95,7 @@
     },
     {
       "title": "Dokuzuncu Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/09 Dokuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/09 Dokuzuncu Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-soz/",
       "similarity": 0.9944946047126184,
       "content_overlap": 0.9916556873078612,
@@ -122,7 +122,7 @@
     },
     {
       "title": "Dördüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/04 Dördüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/04 Dördüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-soz/",
       "similarity": 0.998,
       "content_overlap": 0.9960079840319361,
@@ -144,7 +144,7 @@
     },
     {
       "title": "Fihrist",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/fihrist-sozler/",
       "similarity": 0.9854219606794169,
       "content_overlap": 0.9800531914893617,
@@ -171,7 +171,7 @@
     },
     {
       "title": "İkinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/02 İkinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/02 İkinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-soz-2/",
       "similarity": 0.9869678540399652,
       "content_overlap": 0.9742710120068611,
@@ -198,7 +198,7 @@
     },
     {
       "title": "KONFERANS",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/35 Konferans (Sözler).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/35 Konferans (Sözler).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/konferans-sozler/",
       "similarity": 0.9989124176316294,
       "content_overlap": 0.9984652768896278,
@@ -225,7 +225,7 @@
     },
     {
       "title": "Lemaat",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/34 Lemaat (Sözler).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/34 Lemaat (Sözler).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/lemaat/",
       "similarity": 0.9949659231722429,
       "content_overlap": 0.992814093648586,
@@ -252,7 +252,7 @@
     },
     {
       "title": "On Altıncı Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/16 On Altıncı Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/16 On Altıncı Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-altinci-soz/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -263,7 +263,7 @@
     },
     {
       "title": "On Beşinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/15 On Beşinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/15 On Beşinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-besinci-soz/",
       "similarity": 0.997043169722058,
       "content_overlap": 0.9964539007092199,
@@ -290,7 +290,7 @@
     },
     {
       "title": "On Birinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/11 On Birinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/11 On Birinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-soz/",
       "similarity": 0.9970805426755968,
       "content_overlap": 0.9941780821917808,
@@ -317,7 +317,7 @@
     },
     {
       "title": "On Dokuzuncu Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/19 On Dokuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/19 On Dokuzuncu Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-dokuzuncu-soz/",
       "similarity": 0.9969556160871655,
       "content_overlap": 0.9967969250480462,
@@ -344,7 +344,7 @@
     },
     {
       "title": "On Dördüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-soz/",
       "similarity": 0.9933738266151297,
       "content_overlap": 0.992553778268064,
@@ -371,7 +371,7 @@
     },
     {
       "title": "On İkinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/12 On İkinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/12 On İkinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-soz/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -382,7 +382,7 @@
     },
     {
       "title": "On Sekizinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/18 On Sekizinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/18 On Sekizinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-soz/",
       "similarity": 0.9956672443674177,
       "content_overlap": 0.9939446366782007,
@@ -409,7 +409,7 @@
     },
     {
       "title": "On Üçüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/13 On Üçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/13 On Üçüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-soz/",
       "similarity": 0.9989924094847854,
       "content_overlap": 0.9986571773868672,
@@ -436,7 +436,7 @@
     },
     {
       "title": "Onuncu Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/10 Onuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/10 Onuncu Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-soz/",
       "similarity": 0.9937190082644628,
       "content_overlap": 0.9918180618484141,
@@ -463,7 +463,7 @@
     },
     {
       "title": "On Yedinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-yedinci-soz/",
       "similarity": 0.9858903375602787,
       "content_overlap": 0.9850133809099019,
@@ -490,7 +490,7 @@
     },
     {
       "title": "Otuz Birinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/31 Otuz Birinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/31 Otuz Birinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-soz/",
       "similarity": 0.9978226745658008,
       "content_overlap": 0.9976711219117051,
@@ -517,7 +517,7 @@
     },
     {
       "title": "Otuz İkinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/32 Otuz İkinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/32 Otuz İkinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ikinci-soz/",
       "similarity": 0.9956593633732947,
       "content_overlap": 0.9951451296353683,
@@ -544,7 +544,7 @@
     },
     {
       "title": "Otuz Üçüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/33 Otuz Üçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/33 Otuz Üçüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ucuncu-soz/",
       "similarity": 0.9986115465579791,
       "content_overlap": 0.9982091690544412,
@@ -571,7 +571,7 @@
     },
     {
       "title": "Otuzuncu Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/30 Otuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/30 Otuzuncu Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuzuncu-soz/",
       "similarity": 0.9950391644908616,
       "content_overlap": 0.9928357431288264,
@@ -598,7 +598,7 @@
     },
     {
       "title": "Sekizinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/08 Sekizinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/08 Sekizinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-soz/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -609,7 +609,7 @@
     },
     {
       "title": "Üçüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-soz-2/",
       "similarity": 0.9878234398782344,
       "content_overlap": 0.9759398496240601,
@@ -636,7 +636,7 @@
     },
     {
       "title": "Yedinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/07 Yedinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/07 Yedinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-soz/",
       "similarity": 0.9920535340861564,
       "content_overlap": 0.9891576313594662,
@@ -663,7 +663,7 @@
     },
     {
       "title": "Yirmi Altıncı Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/26 Yirmi Altıncı Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/26 Yirmi Altıncı Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-altinci-soz/",
       "similarity": 0.9957269204014707,
       "content_overlap": 0.9952324195470799,
@@ -690,7 +690,7 @@
     },
     {
       "title": "Yirmi Beşinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/25 Yirmi Beşinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/25 Yirmi Beşinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-besinci-soz-2/",
       "similarity": 0.9970713747803531,
       "content_overlap": 0.9969882541913463,
@@ -717,7 +717,7 @@
     },
     {
       "title": "Yirmi Birinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/21 Yirmi Birinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/21 Yirmi Birinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-birinci-soz/",
       "similarity": 0.9970737717541969,
       "content_overlap": 0.9969202340622113,
@@ -744,7 +744,7 @@
     },
     {
       "title": "Yirmi Dokuzuncu Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/29 Yirmi Dokuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/29 Yirmi Dokuzuncu Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-soz/",
       "similarity": 0.9945583519580216,
       "content_overlap": 0.9941719281204469,
@@ -771,7 +771,7 @@
     },
     {
       "title": "Yirmi Dördüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/24 Yirmi Dördüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/24 Yirmi Dördüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dorduncu-soz/",
       "similarity": 0.9954996326230713,
       "content_overlap": 0.9951340433345575,
@@ -798,7 +798,7 @@
     },
     {
       "title": "Yirmi İkinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ikinci-soz/",
       "similarity": 0.9913151364764268,
       "content_overlap": 0.9875451606769348,
@@ -825,7 +825,7 @@
     },
     {
       "title": "Yirminci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/20 Yirminci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/20 Yirminci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirminci-soz/",
       "similarity": 0.9961395481841578,
       "content_overlap": 0.9940077043800828,
@@ -852,7 +852,7 @@
     },
     {
       "title": "Yirmi Sekizinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/28 Yirmi Sekizinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/28 Yirmi Sekizinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-soz/",
       "similarity": 0.9944776806258628,
       "content_overlap": 0.9935632183908046,
@@ -879,7 +879,7 @@
     },
     {
       "title": "Yirmi Üçüncü Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/23 Yirmi Üçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/23 Yirmi Üçüncü Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ucuncu-soz/",
       "similarity": 0.9997000599880024,
       "content_overlap": 0.9997000599880024,
@@ -901,7 +901,7 @@
     },
     {
       "title": "Yirmi Yedinci Söz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/27 Yirmi Yedinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/27 Yirmi Yedinci Söz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-soz/",
       "similarity": 0.995100921026847,
       "content_overlap": 0.9949059561128527,

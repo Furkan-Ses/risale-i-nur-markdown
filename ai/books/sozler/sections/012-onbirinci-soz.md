@@ -5,7 +5,7 @@ section_id: "sozler.012.onbirinci-soz"
 section_order: 12
 section_slug: "onbirinci-soz"
 section_title: "Onbirinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/011 - Onbirinci Söz.md"
+source_section_path: "books/sozler/by_heading/011 - Onbirinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

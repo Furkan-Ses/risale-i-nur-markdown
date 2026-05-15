@@ -5,7 +5,7 @@ section_id: "lemalar.016.on-altinci-lema"
 section_order: 16
 section_slug: "on-altinci-lema"
 section_title: "On Altıncı Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/16 On Altıncı Lem’a.md"
+source_section_path: "books/lemalar/by_heading/16 On Altıncı Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

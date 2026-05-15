@@ -5,7 +5,7 @@ section_id: "sozler.003.ikinci-soz"
 section_order: 3
 section_slug: "ikinci-soz"
 section_title: "İkinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/002 - İkinci Söz.md"
+source_section_path: "books/sozler/by_heading/002 - İkinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

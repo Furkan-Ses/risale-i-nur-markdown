@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.002.isarat"
 section_order: 2
 section_slug: "isarat"
 section_title: "İŞARAT"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/02 İŞARAT.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/02 İŞARAT.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

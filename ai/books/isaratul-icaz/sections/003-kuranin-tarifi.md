@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.003.kuranin-tarifi"
 section_order: 3
 section_slug: "kuranin-tarifi"
 section_title: "Kur’an’ın Tarifi"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/03 Kur’an’ın Tarifi.md"
+source_section_path: "books/isaratul-icaz/by_heading/03 Kur’an’ın Tarifi.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

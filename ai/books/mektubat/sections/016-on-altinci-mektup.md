@@ -5,7 +5,7 @@ section_id: "mektubat.016.on-altinci-mektup"
 section_order: 16
 section_slug: "on-altinci-mektup"
 section_title: "On Altıncı Mektup"
-canonical_source_path: "canonical/furkan/mektubat/by_heading/16 On Altıncı Mektup.md"
+source_section_path: "books/mektubat/by_heading/16 On Altıncı Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

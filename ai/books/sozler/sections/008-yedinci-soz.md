@@ -5,7 +5,7 @@ section_id: "sozler.008.yedinci-soz"
 section_order: 8
 section_slug: "yedinci-soz"
 section_title: "Yedinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/007 - Yedinci Söz.md"
+source_section_path: "books/sozler/by_heading/007 - Yedinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

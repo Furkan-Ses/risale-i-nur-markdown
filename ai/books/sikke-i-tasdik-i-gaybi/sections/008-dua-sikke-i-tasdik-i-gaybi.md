@@ -5,7 +5,7 @@ section_id: "sikke-i-tasdik-i-gaybi.008.dua-sikke-i-tasdik-i-gaybi"
 section_order: 8
 section_slug: "dua-sikke-i-tasdik-i-gaybi"
 section_title: "Dua (Sikke-i Tasdik-i Gaybî)"
-canonical_source_path: "canonical/furkan/sikke-i-tasdik-i-gaybi/by_heading/08 Dua (Sikke-i Tasdik-i Gaybî).md"
+source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/08 Dua (Sikke-i Tasdik-i Gaybî).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

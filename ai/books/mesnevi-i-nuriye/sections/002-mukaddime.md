@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.002.mukaddime"
 section_order: 2
 section_slug: "mukaddime"
 section_title: "Mukaddime"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/02 Mukaddime.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/02 Mukaddime.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

@@ -5,7 +5,7 @@ section_id: "sozler.035.lemaat"
 section_order: 35
 section_slug: "lemaat"
 section_title: "Lemaat"
-canonical_source_path: "canonical/furkan/sozler/by_heading/034 - Lemaat.md"
+source_section_path: "books/sozler/by_heading/034 - Lemaat.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

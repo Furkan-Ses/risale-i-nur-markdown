@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.005.kastamonu-hayati"
 section_order: 5
 section_slug: "kastamonu-hayati"
 section_title: "Kastamonu Hayatı"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/05 Kastamonu Hayatı.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/05 Kastamonu Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

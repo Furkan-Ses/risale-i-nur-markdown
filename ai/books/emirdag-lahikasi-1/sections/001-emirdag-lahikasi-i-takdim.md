@@ -5,7 +5,7 @@ section_id: "emirdag-lahikasi-1.001.emirdag-lahikasi-i-takdim"
 section_order: 1
 section_slug: "emirdag-lahikasi-i-takdim"
 section_title: "Emirdağ Lâhikası - I - Takdim"
-canonical_source_path: "canonical/furkan/emirdag-lahikasi-1/by_heading/01 Emirdağ Lâhikası - I - Takdim.md"
+source_section_path: "books/emirdag-lahikasi-1/by_heading/01 Emirdağ Lâhikası - I - Takdim.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

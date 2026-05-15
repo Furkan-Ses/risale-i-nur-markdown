@@ -1,117 +1,115 @@
-# risale-i-nur-corpus
+# risale-i-nur-markdown
 
-Bu repo, **Risale-i Nur Külliyatı'nın tamamını yüksek kaliteli `.md` korpusuna dönüştürme** çalışmasıdır. İlk aşama, kitapların güvenilir Markdown sürümlerini üretmek ve temizlemektir. Nihai hedef ise bu korpusu **AI için çok iyi indekslenmiş, hızlı taranabilir, semantik olarak güvenilir bir context havuzuna** dönüştürmektir.
+Doğrulanmış **Risale-i Nur Markdown korpusu**. Bu repo iki ana kullanım senaryosuna göre düzenlenmiştir:
 
-Bu sistem kritik; çünkü hedef metin **dini metin**. Bu yüzden:
+1. **İnsanlar için okuma katmanı** - kitapları doğrudan, temiz ve düzenli Markdown olarak okumak  
+2. **AI sistemleri için veri katmanı** - pasaj, bölüm, manifest ve açık atıf yapısıyla retrieval / RAG / chatbot kullanımını kolaylaştırmak
 
-- OCR kalıntısı bırakılmamalı
-- kelime veya cümle düzeyinde **anlam bozucu hata** bulunmamalı
-- başlık kayması, noktalama ve editoryal farklar raporlanmalı
-- AI'nin hızlı cevap verebilmesi için indeks yapısı açık, sade ve makinece okunabilir olmalı
+## Bu repo ne sağlar?
 
-Uzun vadeli amaç, insanların Risale'deki konu, başlık ve ilgilerine göre hızlı arama yapabildiği; daha sonra da bu veriyle güçlü bir **chat bot / rehber okuma sistemi** kurulabildiği bir altyapı inşa etmektir.
+- doğrulanmış kitaplar için temiz `books/` katmanı
+- AI sistemleri için yapılandırılmış `ai/` katmanı
+- kalite ve karşılaştırma raporları
+- yeniden üretilebilir katalog ve build scriptleri
+- kamuya açık, profesyonel ve gezinmesi kolay bir klasör yapısı
 
-## Proje amacı
+## Hızlı başlangıç
 
-| Aşama | Amaç |
+### Okumak için
+
+- `books/` altındaki klasörler doğrudan okuma içindir
+- her kitapta birleşik bir `.md` dosyası ve `by_heading/` bölüm klasörü bulunur
+- kitaplar arası gezinme için `indexes/README.md` kullanılabilir
+- bu klasör, **insan okuyucular için ana görünüm**dür
+
+### AI / RAG / search için
+
+- `ai/passages/all-passages.jsonl` - en uygun toplu ingestion girişi
+- `ai/catalog.json` - AI katmanının üst seviye kataloğu
+- `ai/ANSWERING_POLICY.md` - güvenli cevaplama ve atıf kuralları
+- `ai/books/<slug>/sections/*.md` - section düzeyinde zenginleştirilmiş kaynaklar
+- AI kullanımında esas alınacak kitap kopyaları **`ai/books/`** altındadır; üstteki `books/` klasörü insan okuması içindir
+
+### Kalite kontrol için
+
+- `reports/comparisons/all-upstream-public-summary.md`
+- `reports/comparisons/books/*.md`
+- `generated/json/all-upstream-public-summary.json`
+
+## Repo yapısı
+
+| Yol | Amaç |
 | --- | --- |
-| 1 | Tüm Risale-i Nur kitaplarını güvenilir `.md` dosyalarına dönüştürmek |
-| 2 | Bu metinleri başlık, bölüm, kitap ve konu düzeyinde indekslemek |
-| 3 | AI için hızlı retrieval / context havuzu oluşturmak |
-| 4 | İnsanların konuya göre okuma ve keşif yapabildiği bir sohbet / arama sistemi kurmak |
+| `books/` | İnsan okuyucular için doğrulanmış ana okuma katmanı |
+| `ai/` | AI / retrieval / citation-first kullanım katmanı |
+| `indexes/` | Gezinme ve katalog belgeleri |
+| `reports/comparisons/` | İnsan tarafından okunacak kalite raporları |
+| `generated/json/` | Makinece okunabilir katalog ve karşılaştırma çıktıları |
+| `generated/text/` | Birleşik yardımcı metin çıktıları |
+| `sources/official-markdown-mirror/` | Kaynak aynası ve yeniden üretim referansı |
+| `scripts/` | Katalog, karşılaştırma ve AI build scriptleri |
 
-## Temel kalite ilkeleri
+## Editoryal ilke
 
-| İlke | Açıklama |
-| --- | --- |
-| Metin sadakati | Anlamı bozacak kelime, cümle, OCR veya kırık pasaj kabul edilmez |
-| Editoryal şeffaflık | Noktalama, imla, başlık ve edisyon farkları saklanmaz; raporlanır |
-| Provenans | Hangi metnin nereden geldiği açık tutulur |
-| AI erişilebilirliği | İnsan ve makine için sade indeks, JSON katalog ve temiz bölümleme sağlanır |
-
-## Ali Tekdemir indeks mantığı ve bu repodaki karşılığı
-
-Ali Tekdemir reposunda temel akış şudur:
-
-1. üst seviye içindekiler (`01 İçindekiler.md`)
-2. her kitap için ayrı klasör
-3. her kitapta bir `00` index dosyası
-4. ardından bölüm `.md` dosyaları
-
-Bu repo bunu daha AI-dostu hale getirir:
-
-| Katman | Amaç | Yol |
-| --- | --- | --- |
-| Upstream | Kaynağı ve orijinal indeks mantığını korumak | `upstream/alitekdemir/obsidian-markdown/` |
-| Canonical | Düzeltilmiş ve güvenilen yerel referansları saklamak | `canonical/furkan/` |
-| AI layer | Retrieval ve citation-first kullanım için yapısal kopya üretmek | `ai/` |
-| Human index | İnsan/LLM için sade Markdown indeksler | `indexes/` |
-| Machine index | JSON katalog ve karşılaştırma verileri | `generated/json/` |
-| Audit reports | İnsan tarafından okunacak kalite ve fark raporları | `reports/comparisons/` |
-
-## Sözler için nasıl indeksleniyor?
-
-`Sözler` için artık iki paralel görünüm var:
-
-1. **Upstream görünüm** — Ali Tekdemir / Hizmet Vakfı zincirinden gelen bölüm dosyaları
-2. **Canonical görünüm** — düzeltilmiş yerel `Sozler.md` ve `by_heading/` dosyaları
-
-Bu ikisi birlikte `indexes/books/01-sozler.md` içinde gösterilir. Böylece:
-
-- upstream bölüm nerede görülebilir,
-- yerel kanonik bölüm nerede duruyor,
-- AI hangi dosyaları önce okumalı,
-- hangi referansın “doğru baz” olduğu
-
-tek yerden izlenebilir.
-
-## Markdown kirliliği nasıl yönetilir?
-
-Repo içinde rastgele yerlere `.md` notları bırakılmamalıdır. Düzen şöyledir:
-
-| Tür | Yer |
-| --- | --- |
-| Ana proje açıklaması | `README.md` |
-| AI için hazırlanmış güvenli kopya | `ai/` |
-| Kalıcı indeks belgeleri | `indexes/` |
-| Karşılaştırma / kalite raporları | `reports/comparisons/` |
-| Makine çıktıları | `generated/json/` |
-| Birleşik metin çıktıları | `generated/text/` |
-| Geçici çalışma notları | Repo dışı session/workspace alanı |
-
-Bu sayede repo kökü temiz kalır ve `.md` dosyaları sadece anlamlı, kalıcı yerlerde tutulur.
+- anlam bozucu OCR kalıntıları kabul edilmez
+- kelime ve cümle sadakati önceliklidir
+- noktalama, başlık veya edisyon farkları saklanmaz; raporlanır
+- AI katmanı metni yeniden yazmaz; yalnızca daha güvenli erişim için yapılandırır
 
 ## Provenans
 
-- Upstream açıklaması ve lisans notu: `upstream/alitekdemir/README.upstream.md`
-- Ali Tekdemir kaynağı README'sinde **CC BY-ND 4.0** lisansı belirtilir
-- Metin kökeni: Hizmet Vakfı / DİB asıl nüsha zinciri
+Bu repo içindeki kaynak aynası, başlangıçta **Ali Tekdemir** tarafından yayımlanan **Risale-i-Nur-Diyanet** deposundaki Markdown korpusundan içe aktarılmıştır. Bu atıf özellikle burada tutulur; repo içindeki diğer klasörlerde kişi/repo bazlı atıf tekrar edilmez.
 
-## AI kullanım katmanı
+Metin hattı daha sonra repo içinde resmi Hizmet Vakfı yayımlarıyla karşılaştırılmış ve doğrulama raporları üretilmiştir.
 
-`ai/` klasörü, kanonik metinlerin yeniden yazılmadan AI retrieval için hazırlanmış ikinci katmanıdır. Burada:
+Kısaca:
 
-- kitap ve bölüm kopyaları zengin frontmatter ile tutulur,
-- chunk / pasaj dosyaları stabil kimliklerle üretilir,
-- answer policy ile cite zorunluluğu açıkça tanımlanır,
-- AI sistemleri metni doğrudan değil, izlenebilir ve atıflı bir katman üzerinden okur.
+- kişi ve repo atfı: **Ali Tekdemir / Risale-i-Nur-Diyanet**
+- teknik kaynak aynası: `sources/official-markdown-mirror/`
+- doğrulanmış insan okuma katmanı: `books/`
+- AI için türetilmiş kullanım katmanı: `ai/`
 
-Bu katmanın amacı, özellikle dinî metinlerde yanlış yönlendirme riskini azaltmak ve her cevabı geri izlenebilir hale getirmektir.
+## Obsidian ve graphify
 
-## Şu anki durum
+Bu repo **Obsidian-ready** ve **Graphify-ready** olacak şekilde düzenlenmiştir.
 
-- `Sözler` için kanonik yerel metin temizlendi
-- anlam bozucu OCR kalıntıları temizlendi
-- official/public ve upstream kaynaklarla karşılaştırma yapıldı
-- doğrulanmış kitaplar `canonical/furkan/` altında kitap ve bölüm düzeyinde tutuluyor
-- AI retrieval için ayrı `ai/` katmanı üretilebiliyor
-- indeks yapısı geniş Külliyat hedefi düşünülerek kurulmaya başlandı
+### Obsidian
+
+Obsidian uygulaması repoya gömülü gelmez; ancak repo düz Markdown yapısıyla doğrudan vault olarak açılabilir.
+
+Önerilen kullanım:
+
+- bütün repoyu vault olarak açıp `books/`, `ai/`, `indexes/` arasında gezinmek
+- veya yalnızca `books/` klasörünü ayrı bir vault olarak kullanmak
+
+### Graphify
+
+Graphify, bu korpus üzerinde bilgi grafı, GraphRAG, konu kümeleri ve keşif odaklı AI navigasyonu kurmak için mantıklıdır. Bu yüzden repo yapısı graphify çalıştırmaya uygun tutuldu; fakat üretilen `graphify-out/` çıktıları repoya dahil edilmez.
+
+İsteğe bağlı kurulum:
+
+```bash
+python3 -m pip install -r requirements.txt
+python3 -m pip install -r requirements-optional.txt
+```
+
+Hazır komutlar:
+
+```bash
+make catalog
+make compare
+make ai
+make graphify
+make graphify-deep
+```
 
 ## Yeniden üretim
 
 ```bash
-python3 scripts/build_catalog.py
 python3 scripts/compare_all_upstream_official.py
-python3 scripts/import_verified_books.py
+python3 scripts/compare_sozler.py
+python3 scripts/compare_sozler_official.py
+python3 scripts/compare_mektubat_official.py
+python3 scripts/build_catalog.py
 python3 scripts/build_ai_corpus.py
 ```

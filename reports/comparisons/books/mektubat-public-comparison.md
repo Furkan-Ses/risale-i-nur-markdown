@@ -1,6 +1,6 @@
 # Mektubat Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/02 Mektubat`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/mektubat/
 
@@ -19,14 +19,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Hakikat Çekirdekleri | 0.9556 | 0.9553 | 140 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/35 Hakikat Çekirdekleri.md` | [public](https://risaleinur.hizmetvakfi.org/hakikat-cekirdekleri/) |
-| On Dokuzuncu Mektup | 0.9917 | 0.9895 | 486 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/19 On Dokuzuncu Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/on-dokuzuncu-mektup/) |
-| Fihriste-i Mektubat | 0.9936 | 0.9924 | 66 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/37 Fihriste-i Mektubat.md` | [public](https://risaleinur.hizmetvakfi.org/fihriste-i-mektubat/) |
-| Dördüncü Mektup | 0.9943 | 0.9905 | 5 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/04 Dördüncü Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/dorduncu-mektup/) |
-| On Üçüncü Mektup | 0.9949 | 0.9933 | 8 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/13 On Üçüncü Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/on-ucuncu-mektup/) |
-| Birinci Mektup | 0.9951 | 0.9960 | 13 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/01 Birinci Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/birinci-mektup/) |
-| Yirmi Birinci Mektup | 0.9962 | 0.9949 | 4 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/21 Yirmi Birinci Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/yirmi-birinci-mektup/) |
-| Beşinci Mektup | 0.9962 | 0.9925 | 3 | `upstream/alitekdemir/obsidian-markdown/02 Mektubat/05 Beşinci Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/besinci-mektup/) |
+| Hakikat Çekirdekleri | 0.9556 | 0.9553 | 140 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/35 Hakikat Çekirdekleri.md` | [public](https://risaleinur.hizmetvakfi.org/hakikat-cekirdekleri/) |
+| On Dokuzuncu Mektup | 0.9917 | 0.9895 | 486 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/19 On Dokuzuncu Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/on-dokuzuncu-mektup/) |
+| Fihriste-i Mektubat | 0.9936 | 0.9924 | 66 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/37 Fihriste-i Mektubat.md` | [public](https://risaleinur.hizmetvakfi.org/fihriste-i-mektubat/) |
+| Dördüncü Mektup | 0.9943 | 0.9905 | 5 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/04 Dördüncü Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/dorduncu-mektup/) |
+| On Üçüncü Mektup | 0.9949 | 0.9933 | 8 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/13 On Üçüncü Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/on-ucuncu-mektup/) |
+| Birinci Mektup | 0.9951 | 0.9960 | 13 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/01 Birinci Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/birinci-mektup/) |
+| Yirmi Birinci Mektup | 0.9962 | 0.9949 | 4 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/21 Yirmi Birinci Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/yirmi-birinci-mektup/) |
+| Beşinci Mektup | 0.9962 | 0.9925 | 3 | `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/05 Beşinci Mektup.md` | [public](https://risaleinur.hizmetvakfi.org/besinci-mektup/) |
 
 ## Representative divergence snippets
 

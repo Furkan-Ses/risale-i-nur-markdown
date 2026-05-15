@@ -5,7 +5,7 @@ section_id: "sikke-i-tasdik-i-gaybi.002.birinci-sua"
 section_order: 2
 section_slug: "birinci-sua"
 section_title: "Birinci Şuâ"
-canonical_source_path: "canonical/furkan/sikke-i-tasdik-i-gaybi/by_heading/02 Birinci Şuâ.md"
+source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/02 Birinci Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

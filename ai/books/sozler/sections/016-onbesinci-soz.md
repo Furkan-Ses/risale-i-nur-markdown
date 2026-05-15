@@ -5,7 +5,7 @@ section_id: "sozler.016.onbesinci-soz"
 section_order: 16
 section_slug: "onbesinci-soz"
 section_title: "Onbeşinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/015 - Onbeşinci Söz.md"
+source_section_path: "books/sozler/by_heading/015 - Onbeşinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

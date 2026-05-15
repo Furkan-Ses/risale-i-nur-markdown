@@ -5,7 +5,7 @@ section_id: "sozler.025.yirmidorduncu-soz"
 section_order: 25
 section_slug: "yirmidorduncu-soz"
 section_title: "Yirmidördüncü Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/024 - Yirmidördüncü Söz.md"
+source_section_path: "books/sozler/by_heading/024 - Yirmidördüncü Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

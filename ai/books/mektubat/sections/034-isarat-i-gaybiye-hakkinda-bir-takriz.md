@@ -5,7 +5,7 @@ section_id: "mektubat.034.isarat-i-gaybiye-hakkinda-bir-takriz"
 section_order: 34
 section_slug: "isarat-i-gaybiye-hakkinda-bir-takriz"
 section_title: "İşarat-ı Gaybiye Hakkında Bir Takriz"
-canonical_source_path: "canonical/furkan/mektubat/by_heading/34 İşarat-ı Gaybiye Hakkında Bir Takriz.md"
+source_section_path: "books/mektubat/by_heading/34 İşarat-ı Gaybiye Hakkında Bir Takriz.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

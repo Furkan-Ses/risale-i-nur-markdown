@@ -5,7 +5,7 @@ section_id: "sozler.022.yirmibirinci-soz"
 section_order: 22
 section_slug: "yirmibirinci-soz"
 section_title: "Yirmibirinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/021 - Yirmibirinci Söz.md"
+source_section_path: "books/sozler/by_heading/021 - Yirmibirinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

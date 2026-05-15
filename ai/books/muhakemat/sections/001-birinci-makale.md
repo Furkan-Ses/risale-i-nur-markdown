@@ -5,7 +5,7 @@ section_id: "muhakemat.001.birinci-makale"
 section_order: 1
 section_slug: "birinci-makale"
 section_title: "BİRİNCİ MAKALE"
-canonical_source_path: "canonical/furkan/muhakemat/by_heading/01 Birinci Makale.md"
+source_section_path: "books/muhakemat/by_heading/01 Birinci Makale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

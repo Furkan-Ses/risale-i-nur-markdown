@@ -5,7 +5,7 @@ section_id: "sozler.004.ucuncu-soz"
 section_order: 4
 section_slug: "ucuncu-soz"
 section_title: "Üçüncü Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/003 - Üçüncü Söz.md"
+source_section_path: "books/sozler/by_heading/003 - Üçüncü Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

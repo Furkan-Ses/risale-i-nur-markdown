@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.014.nokta"
 section_order: 14
 section_slug: "nokta"
 section_title: "Nokta"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/14 Nokta.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/14 Nokta.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

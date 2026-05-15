@@ -5,7 +5,7 @@ section_id: "sozler.032.otuzbirinci-soz"
 section_order: 32
 section_slug: "otuzbirinci-soz"
 section_title: "Otuzbirinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/031 - Otuzbirinci Söz.md"
+source_section_path: "books/sozler/by_heading/031 - Otuzbirinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

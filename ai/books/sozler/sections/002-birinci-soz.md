@@ -5,7 +5,7 @@ section_id: "sozler.002.birinci-soz"
 section_order: 2
 section_slug: "birinci-soz"
 section_title: "Birinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/001 - Birinci Söz.md"
+source_section_path: "books/sozler/by_heading/001 - Birinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

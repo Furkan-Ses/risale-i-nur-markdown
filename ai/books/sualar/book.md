@@ -1,8 +1,8 @@
 ---
 book_id: "sualar"
 book_title: "Sualar"
-canonical_merged_path: "canonical/furkan/sualar/Sualar.md"
-canonical_section_dir: "canonical/furkan/sualar/by_heading"
+source_book_path: "books/sualar/Sualar.md"
+source_section_dir: "books/sualar/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

@@ -5,7 +5,7 @@ section_id: "sozler.023.yirmiikinci-soz"
 section_order: 23
 section_slug: "yirmiikinci-soz"
 section_title: "Yirmiikinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/022 - Yirmiikinci Söz.md"
+source_section_path: "books/sozler/by_heading/022 - Yirmiikinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

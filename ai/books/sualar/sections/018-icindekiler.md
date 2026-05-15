@@ -5,7 +5,7 @@ section_id: "sualar.018.icindekiler"
 section_order: 18
 section_slug: "icindekiler"
 section_title: "İÇİNDEKİLER"
-canonical_source_path: "canonical/furkan/sualar/by_heading/18 İçindekiler (Şuâlar).md"
+source_section_path: "books/sualar/by_heading/18 İçindekiler (Şuâlar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

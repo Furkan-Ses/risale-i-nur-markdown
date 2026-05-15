@@ -1,8 +1,8 @@
 ---
 book_id: "emirdag-lahikasi-2"
 book_title: "Emirdag Lahikasi 2"
-canonical_merged_path: "canonical/furkan/emirdag-lahikasi-2/Emirdag Lahikasi 2.md"
-canonical_section_dir: "canonical/furkan/emirdag-lahikasi-2/by_heading"
+source_book_path: "books/emirdag-lahikasi-2/Emirdag Lahikasi 2.md"
+source_section_dir: "books/emirdag-lahikasi-2/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "almost-identical"

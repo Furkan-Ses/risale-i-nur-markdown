@@ -5,7 +5,7 @@ section_id: "sozler.017.onaltinci-soz"
 section_order: 17
 section_slug: "onaltinci-soz"
 section_title: "Onaltıncı Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/016 - Onaltıncı Söz.md"
+source_section_path: "books/sozler/by_heading/016 - Onaltıncı Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

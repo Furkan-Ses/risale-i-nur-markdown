@@ -1,6 +1,6 @@
 # Barla Lâhikası Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/barla-lahikasi/
 
@@ -19,14 +19,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| Barla Lâhikası s.103-121 | 0.9954 | 0.9948 | 26 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/07 Barla Lâhikası s.103-121.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-103-121/) |
-| Barla Lâhikası s.21-39 | 0.9960 | 0.9936 | 28 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/03 Barla Lâhikası s.21-39.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-21-39/) |
-| Barla Lâhikası s.59-80 | 0.9962 | 0.9940 | 33 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/05 Barla Lâhikası s.59-80.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-59-80/) |
-| Barla Lâhikası s.340-362 | 0.9966 | 0.9966 | 25 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/19 Barla Lâhikası s.340-362.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-340-362/) |
-| Barla Lâhikası s.241-261 | 0.9972 | 0.9960 | 23 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/14 Barla Lâhikası s.241-261.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-241-261/) |
-| Barla Lâhikası s.121-146 | 0.9974 | 0.9966 | 24 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/08 Barla Lâhikası s.121-146.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-121-146/) |
-| Barla Lâhikası s.202-221 | 0.9976 | 0.9966 | 19 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/12 Barla Lâhikası s.202-221.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-202-221/) |
-| Barla Lâhikası s.363-392 | 0.9978 | 0.9963 | 28 | `upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/20 Barla Lâhikası s.363-392.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-363-392/) |
+| Barla Lâhikası s.103-121 | 0.9954 | 0.9948 | 26 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/07 Barla Lâhikası s.103-121.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-103-121/) |
+| Barla Lâhikası s.21-39 | 0.9960 | 0.9936 | 28 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/03 Barla Lâhikası s.21-39.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-21-39/) |
+| Barla Lâhikası s.59-80 | 0.9962 | 0.9940 | 33 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/05 Barla Lâhikası s.59-80.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-59-80/) |
+| Barla Lâhikası s.340-362 | 0.9966 | 0.9966 | 25 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/19 Barla Lâhikası s.340-362.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-340-362/) |
+| Barla Lâhikası s.241-261 | 0.9972 | 0.9960 | 23 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/14 Barla Lâhikası s.241-261.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-241-261/) |
+| Barla Lâhikası s.121-146 | 0.9974 | 0.9966 | 24 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/08 Barla Lâhikası s.121-146.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-121-146/) |
+| Barla Lâhikası s.202-221 | 0.9976 | 0.9966 | 19 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/12 Barla Lâhikası s.202-221.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-202-221/) |
+| Barla Lâhikası s.363-392 | 0.9978 | 0.9963 | 28 | `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/20 Barla Lâhikası s.363-392.md` | [public](https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-363-392/) |
 
 ## Representative divergence snippets
 

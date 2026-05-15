@@ -5,7 +5,7 @@ section_id: "lemalar.030.otuzuncu-lema"
 section_order: 30
 section_slug: "otuzuncu-lema"
 section_title: "Otuzuncu Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/30 Otuzuncu Lem’a.md"
+source_section_path: "books/lemalar/by_heading/30 Otuzuncu Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

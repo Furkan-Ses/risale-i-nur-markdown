@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.005.nur-cesmesi"
 section_order: 5
 section_slug: "nur-cesmesi"
 section_title: "NUR ÇEŞMESİ"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/05 NUR ÇEŞMESİ.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/05 NUR ÇEŞMESİ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

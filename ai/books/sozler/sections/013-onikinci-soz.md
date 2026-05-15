@@ -5,7 +5,7 @@ section_id: "sozler.013.onikinci-soz"
 section_order: 13
 section_slug: "onikinci-soz"
 section_title: "Onikinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/012 - Onikinci Söz.md"
+source_section_path: "books/sozler/by_heading/012 - Onikinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

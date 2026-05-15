@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.008.munazarat"
 section_order: 8
 section_slug: "munazarat"
 section_title: "MÜNAZARAT"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/08 MÜNAZARAT.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/08 MÜNAZARAT.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

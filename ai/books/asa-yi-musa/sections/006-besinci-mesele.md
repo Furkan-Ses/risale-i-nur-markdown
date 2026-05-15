@@ -5,7 +5,7 @@ section_id: "asa-yi-musa.006.besinci-mesele"
 section_order: 6
 section_slug: "besinci-mesele"
 section_title: "Beşinci Mesele"
-canonical_source_path: "canonical/furkan/asa-yi-musa/by_heading/105 Beşinci Mesele.md"
+source_section_path: "books/asa-yi-musa/by_heading/105 Beşinci Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

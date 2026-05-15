@@ -5,7 +5,7 @@ section_id: "barla-lahikasi.002.barla-lahikasi-yedinci-risale"
 section_order: 2
 section_slug: "barla-lahikasi-yedinci-risale"
 section_title: "Barla Lâhikası - Yedinci Risale"
-canonical_source_path: "canonical/furkan/barla-lahikasi/by_heading/02 Barla Lâhikası - Yedinci Risale.md"
+source_section_path: "books/barla-lahikasi/by_heading/02 Barla Lâhikası - Yedinci Risale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

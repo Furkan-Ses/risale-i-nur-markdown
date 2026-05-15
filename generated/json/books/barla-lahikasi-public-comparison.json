@@ -2,7 +2,7 @@
   "book": {
     "title": "Barla Lâhikası",
     "slug": "barla-lahikasi",
-    "path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası"
+    "path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası"
   },
   "source": {
     "name": "Hizmet Vakfı official site",
@@ -19,7 +19,7 @@
   "sections": [
     {
       "title": "Barla Lâhikası s.103-121",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/07 Barla Lâhikası s.103-121.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/07 Barla Lâhikası s.103-121.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-103-121/",
       "similarity": 0.9954407294832827,
       "content_overlap": 0.9947927967021046,
@@ -46,7 +46,7 @@
     },
     {
       "title": "Barla Lâhikası s.121-146",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/08 Barla Lâhikası s.121-146.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/08 Barla Lâhikası s.121-146.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-121-146/",
       "similarity": 0.9974395448079658,
       "content_overlap": 0.9965889710062535,
@@ -73,7 +73,7 @@
     },
     {
       "title": "Barla Lâhikası s.146-159",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/09 Barla Lâhikası s.146-159.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/09 Barla Lâhikası s.146-159.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-146-159/",
       "similarity": 0.9991423670668954,
       "content_overlap": 0.9988568162332095,
@@ -95,7 +95,7 @@
     },
     {
       "title": "Barla Lâhikası s.160-180",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/10 Barla Lâhikası s.160-180.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/10 Barla Lâhikası s.160-180.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-160-180/",
       "similarity": 0.9980621943342254,
       "content_overlap": 0.9970501474926253,
@@ -122,7 +122,7 @@
     },
     {
       "title": "Barla Lâhikası s.181-201",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/11 Barla Lâhikası s.181-201.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/11 Barla Lâhikası s.181-201.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-181-201/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -133,7 +133,7 @@
     },
     {
       "title": "Barla Lâhikası s.202-221",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/12 Barla Lâhikası s.202-221.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/12 Barla Lâhikası s.202-221.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-202-221/",
       "similarity": 0.9975767366720517,
       "content_overlap": 0.9965705063546499,
@@ -160,7 +160,7 @@
     },
     {
       "title": "Barla Lâhikası s.21-39",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/03 Barla Lâhikası s.21-39.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/03 Barla Lâhikası s.21-39.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-21-39/",
       "similarity": 0.995976549028624,
       "content_overlap": 0.9935779816513761,
@@ -187,7 +187,7 @@
     },
     {
       "title": "Barla Lâhikası s.221-240",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/13 Barla Lâhikası s.221-240.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/13 Barla Lâhikası s.221-240.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-221-240/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -198,7 +198,7 @@
     },
     {
       "title": "Barla Lâhikası s.241-261",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/14 Barla Lâhikası s.241-261.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/14 Barla Lâhikası s.241-261.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-241-261/",
       "similarity": 0.997153613075016,
       "content_overlap": 0.995964783565664,
@@ -225,7 +225,7 @@
     },
     {
       "title": "Barla Lâhikası s.262-280",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/15 Barla Lâhikası s.262-280.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/15 Barla Lâhikası s.262-280.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-262-280/",
       "similarity": 0.9987945205479452,
       "content_overlap": 0.9986850756081526,
@@ -252,7 +252,7 @@
     },
     {
       "title": "Barla Lâhikası s.280-299",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/16 Barla Lâhikası s.280-299.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/16 Barla Lâhikası s.280-299.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-280-299/",
       "similarity": 0.9982823077700314,
       "content_overlap": 0.997979797979798,
@@ -279,7 +279,7 @@
     },
     {
       "title": "Barla Lâhikası s.300-321",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/17 Barla Lâhikası s.300-321.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/17 Barla Lâhikası s.300-321.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-300-321/",
       "similarity": 0.9980886185925283,
       "content_overlap": 0.9979152189020153,
@@ -306,7 +306,7 @@
     },
     {
       "title": "Barla Lâhikası s.321-340",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/18 Barla Lâhikası s.321-340.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/18 Barla Lâhikası s.321-340.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-321-340/",
       "similarity": 0.9987862738607525,
       "content_overlap": 0.9980154355016538,
@@ -333,7 +333,7 @@
     },
     {
       "title": "Barla Lâhikası s.340-362",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/19 Barla Lâhikası s.340-362.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/19 Barla Lâhikası s.340-362.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-340-362/",
       "similarity": 0.99660289647774,
       "content_overlap": 0.9966035037540222,
@@ -360,7 +360,7 @@
     },
     {
       "title": "Barla Lâhikası s.363-392",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/20 Barla Lâhikası s.363-392.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/20 Barla Lâhikası s.363-392.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-363-392/",
       "similarity": 0.9977581432150864,
       "content_overlap": 0.9963128785883593,
@@ -387,7 +387,7 @@
     },
     {
       "title": "Barla Lâhikası s.40-58",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/04 Barla Lâhikası s.40-58.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/04 Barla Lâhikası s.40-58.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-40-58/",
       "similarity": 0.9993294590970049,
       "content_overlap": 0.9988829311885612,
@@ -409,7 +409,7 @@
     },
     {
       "title": "Barla Lâhikası s.59-80",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/05 Barla Lâhikası s.59-80.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/05 Barla Lâhikası s.59-80.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-59-80/",
       "similarity": 0.9961963412425285,
       "content_overlap": 0.9940357852882704,
@@ -436,7 +436,7 @@
     },
     {
       "title": "Barla Lâhikası s.80-102",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/06 Barla Lâhikası s.80-102.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/06 Barla Lâhikası s.80-102.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-80-102/",
       "similarity": 0.9983885407341092,
       "content_overlap": 0.9978525411596277,
@@ -463,7 +463,7 @@
     },
     {
       "title": "Barla Lâhikası - Takdim",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/01 Barla Lâhikası - Takdim.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/01 Barla Lâhikası - Takdim.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-takdim/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -474,7 +474,7 @@
     },
     {
       "title": "Barla Lâhikası - Yedinci Risale",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/09 Barla Lâhikası/02 Barla Lâhikası - Yedinci Risale.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/02 Barla Lâhikası - Yedinci Risale.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/barla-lahikasi-s-5-20/",
       "similarity": 0.9991692972254528,
       "content_overlap": 0.9986715376951179,

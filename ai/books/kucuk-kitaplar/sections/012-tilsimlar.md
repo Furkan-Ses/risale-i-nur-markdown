@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.012.tilsimlar"
 section_order: 12
 section_slug: "tilsimlar"
 section_title: "Tılsımlar"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/12 Tılsımlar.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/12 Tılsımlar.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

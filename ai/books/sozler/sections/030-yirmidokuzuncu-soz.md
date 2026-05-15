@@ -5,7 +5,7 @@ section_id: "sozler.030.yirmidokuzuncu-soz"
 section_order: 30
 section_slug: "yirmidokuzuncu-soz"
 section_title: "Yirmidokuzuncu Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/029 - Yirmidokuzuncu Söz.md"
+source_section_path: "books/sozler/by_heading/029 - Yirmidokuzuncu Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

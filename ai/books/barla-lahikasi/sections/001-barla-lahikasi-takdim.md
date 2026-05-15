@@ -5,7 +5,7 @@ section_id: "barla-lahikasi.001.barla-lahikasi-takdim"
 section_order: 1
 section_slug: "barla-lahikasi-takdim"
 section_title: "Barla Lâhikası - Takdim"
-canonical_source_path: "canonical/furkan/barla-lahikasi/by_heading/01 Barla Lâhikası - Takdim.md"
+source_section_path: "books/barla-lahikasi/by_heading/01 Barla Lâhikası - Takdim.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

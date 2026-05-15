@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.009.genclik-rehberi"
 section_order: 9
 section_slug: "genclik-rehberi"
 section_title: "GENÇLİK REHBERİ"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/09 GENÇLİK REHBERİ.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/09 GENÇLİK REHBERİ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

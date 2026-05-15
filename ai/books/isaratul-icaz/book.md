@@ -1,8 +1,8 @@
 ---
 book_id: "isaratul-icaz"
 book_title: "Isaratul-icaz"
-canonical_merged_path: "canonical/furkan/isaratul-icaz/Isaratul-icaz.md"
-canonical_section_dir: "canonical/furkan/isaratul-icaz/by_heading"
+source_book_path: "books/isaratul-icaz/Isaratul-icaz.md"
+source_section_dir: "books/isaratul-icaz/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

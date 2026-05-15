@@ -5,7 +5,7 @@ section_id: "sikke-i-tasdik-i-gaybi.007.parlak-fikralar-ve-guzel-mektuplar-2"
 section_order: 7
 section_slug: "parlak-fikralar-ve-guzel-mektuplar-2"
 section_title: "Parlak Fıkralar ve Güzel Mektuplar 2"
-canonical_source_path: "canonical/furkan/sikke-i-tasdik-i-gaybi/by_heading/07 Parlak Fıkralar ve Güzel Mektuplar 2.md"
+source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/07 Parlak Fıkralar ve Güzel Mektuplar 2.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

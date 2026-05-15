@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.003.tuluat"
 section_order: 3
 section_slug: "tuluat"
 section_title: "TULÛAT"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/03 TULÛAT.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/03 TULÛAT.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.007.emirdag-hayati"
 section_order: 7
 section_slug: "emirdag-hayati"
 section_title: "Emirdağ Hayatı"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/07 Emirdağ Hayatı.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/07 Emirdağ Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

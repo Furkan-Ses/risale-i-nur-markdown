@@ -5,7 +5,7 @@ section_id: "lemalar.021.yirmi-birinci-lema"
 section_order: 21
 section_slug: "yirmi-birinci-lema"
 section_title: "Yirmi Birinci Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/21 Yirmi Birinci Lem’a.md"
+source_section_path: "books/lemalar/by_heading/21 Yirmi Birinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

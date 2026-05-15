@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.003.barla-hayati"
 section_order: 3
 section_slug: "barla-hayati"
 section_title: "Barla Hayatı"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/03 Barla Hayatı.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/03 Barla Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

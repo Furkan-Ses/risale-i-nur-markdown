@@ -1,6 +1,6 @@
 # AI Answering Policy
 
-Bu klasör, Risale-i Nur metinlerinden AI retrieval için hazırlanmış güvenli katmandır.
+Bu klasör, `books/` katmanındaki doğrulanmış Risale-i Nur metinlerinden türetilmiş güvenli AI katmanıdır.
 
 ## Zorunlu kurallar
 
@@ -10,7 +10,7 @@ Bu klasör, Risale-i Nur metinlerinden AI retrieval için hazırlanmış güvenl
 4. Belirsiz durumda sentez yapılmaz; `metinde açık dayanak bulunamadı` denir.
 5. Farklı pasajlar birleştirilecekse her pasaj ayrı cite edilmelidir.
 6. Bir pasaj tek başına yetersizse aynı bölüm içindeki komşu chunk'lar birlikte okunmalıdır.
-7. Kanonik kaynak ile çelişen dış kaynaklara göre cevap verilmez.
+7. Doğrulanmış kaynak ile çelişen dış kaynaklara göre cevap verilmez.
 
 ## Önerilen retrieval akışı
 

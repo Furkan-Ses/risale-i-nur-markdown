@@ -1,6 +1,6 @@
 # Küçük Kitaplar Public Comparison
 
-- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar`
+- Upstream kaynak: `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar`
 - Public kaynak: resmi Hizmet Vakfı sayfaları
 - Public index: https://risaleinur.hizmetvakfi.org/kucuk-kitaplar/
 
@@ -17,8 +17,8 @@
 
 ### Upstream-only
 
-- Kur’an’ın Hâkimiyet-i Mutlakası (`upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/01 SÜNUHAT.md`)
-- Tılsımlar (`upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/12 Tılsımlar.md`)
+- Kur’an’ın Hâkimiyet-i Mutlakası (`sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/01 SÜNUHAT.md`)
+- Tılsımlar (`sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/12 Tılsımlar.md`)
 
 ### Official-only
 
@@ -35,14 +35,14 @@
 
 | Bölüm | Sıra benzerliği | İçerik örtüşmesi | Fark tokenı | Upstream | Public |
 | --- | ---: | ---: | ---: | --- | --- |
-| MÜNAZARAT | 0.9897 | 0.9847 | 242 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/08 MÜNAZARAT.md` | [public](https://risaleinur.hizmetvakfi.org/munazarat/) |
-| HUTBE-İ ŞAMİYE | 0.9921 | 0.9911 | 178 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/07 HUTBE-İ ŞAMİYE.md` | [public](https://risaleinur.hizmetvakfi.org/hutbe-i-samiye/) |
-| TULÛAT | 0.9940 | 0.9912 | 26 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/03 TULÛAT.md` | [public](https://risaleinur.hizmetvakfi.org/tuluat/) |
-| İŞARAT | 0.9952 | 0.9924 | 12 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/02 İŞARAT.md` | [public](https://risaleinur.hizmetvakfi.org/isarat/) |
-| DİVAN-I HARB-İ ÖRFÎ | 0.9962 | 0.9946 | 55 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/06 DİVAN-I HARB-İ ÖRFÎ.md` | [public](https://risaleinur.hizmetvakfi.org/divan-i-harb-i-orfi/) |
-| NUR ÇEŞMESİ | 0.9973 | 0.9960 | 157 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/05 NUR ÇEŞMESİ.md` | [public](https://risaleinur.hizmetvakfi.org/nur-cesmesi/) |
-| HANIMLAR REHBERİ | 0.9987 | 0.9979 | 45 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/10 HANIMLAR REHBERİ.md` | [public](https://risaleinur.hizmetvakfi.org/hanimlar-rehberi/) |
-| GENÇLİK REHBERİ | 0.9988 | 0.9982 | 62 | `upstream/alitekdemir/obsidian-markdown/15 Küçük Kitaplar/09 GENÇLİK REHBERİ.md` | [public](https://risaleinur.hizmetvakfi.org/genclik-rehberi/) |
+| MÜNAZARAT | 0.9897 | 0.9847 | 242 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/08 MÜNAZARAT.md` | [public](https://risaleinur.hizmetvakfi.org/munazarat/) |
+| HUTBE-İ ŞAMİYE | 0.9921 | 0.9911 | 178 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/07 HUTBE-İ ŞAMİYE.md` | [public](https://risaleinur.hizmetvakfi.org/hutbe-i-samiye/) |
+| TULÛAT | 0.9940 | 0.9912 | 26 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/03 TULÛAT.md` | [public](https://risaleinur.hizmetvakfi.org/tuluat/) |
+| İŞARAT | 0.9952 | 0.9924 | 12 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/02 İŞARAT.md` | [public](https://risaleinur.hizmetvakfi.org/isarat/) |
+| DİVAN-I HARB-İ ÖRFÎ | 0.9962 | 0.9946 | 55 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/06 DİVAN-I HARB-İ ÖRFÎ.md` | [public](https://risaleinur.hizmetvakfi.org/divan-i-harb-i-orfi/) |
+| NUR ÇEŞMESİ | 0.9973 | 0.9960 | 157 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/05 NUR ÇEŞMESİ.md` | [public](https://risaleinur.hizmetvakfi.org/nur-cesmesi/) |
+| HANIMLAR REHBERİ | 0.9987 | 0.9979 | 45 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/10 HANIMLAR REHBERİ.md` | [public](https://risaleinur.hizmetvakfi.org/hanimlar-rehberi/) |
+| GENÇLİK REHBERİ | 0.9988 | 0.9982 | 62 | `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/09 GENÇLİK REHBERİ.md` | [public](https://risaleinur.hizmetvakfi.org/genclik-rehberi/) |
 
 ## Representative divergence snippets
 

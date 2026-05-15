@@ -10,9 +10,9 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LOCAL_ROOT = ROOT / "canonical" / "furkan" / "sozler"
+LOCAL_ROOT = ROOT / "books" / "sozler"
 LOCAL_SECTIONS = LOCAL_ROOT / "by_heading"
-UPSTREAM_ROOT = ROOT / "upstream" / "alitekdemir" / "obsidian-markdown" / "01 Sözler"
+UPSTREAM_ROOT = ROOT / "sources" / "official-markdown-mirror" / "obsidian-markdown" / "01 Sözler"
 GENERATED_ROOT = ROOT / "generated"
 GENERATED_JSON_ROOT = GENERATED_ROOT / "json"
 GENERATED_TEXT_ROOT = GENERATED_ROOT / "text"
@@ -151,7 +151,7 @@ def merged_upstream_text(upstream_sections: dict[str, dict[str, object]], order:
     chunks = [upstream_sections[key]["normalized"] for key in order]
     merged = "\n\n".join(chunks).strip() + "\n"
     GENERATED_TEXT_ROOT.mkdir(parents=True, exist_ok=True)
-    (GENERATED_TEXT_ROOT / "ali-sozler-merged.md").write_text(merged, encoding="utf-8")
+    (GENERATED_TEXT_ROOT / "upstream-sozler-merged.md").write_text(merged, encoding="utf-8")
     return merged
 
 
@@ -184,8 +184,8 @@ def write_outputs(
     rows = [
         "# Sözler Comparison Report",
         "",
-        "- Yerel güvenilir kaynak: `canonical/furkan/sozler/Sozler.md`",
-        "- Upstream kaynak: `upstream/alitekdemir/obsidian-markdown/01 Sözler/`",
+        "- Doğrulanmış kitap kaynağı: `books/sozler/Sozler.md`",
+        "- Kaynak aynası: `sources/official-markdown-mirror/obsidian-markdown/01 Sözler/`",
         "- Karşılaştırma yöntemi: frontmatter ve HTML etiketleri temizlenmiş, bölüm bazlı normalize metin karşılaştırması",
         "",
         "## Summary",
@@ -239,7 +239,7 @@ def write_outputs(
     rows.append("")
     rows.append("- `Kapak ve Giriş` ile `Anglikan Kilisesine Cevab` yalnız yerel kanonik sette bulunduğu için genel benzerlik hesabına dahil edilmedi.")
     rows.append("- Benzerlik metriği, sayfa işaretleri, markdown başlıkları, HTML etiketleri ve dipnot numaraları temizlendikten sonra token dizileri üzerinden hesaplandı.")
-    rows.append("- Upstream birleştirilmiş çıktı `generated/text/ali-sozler-merged.md` dosyasına yazıldı.")
+    rows.append("- Upstream birleştirilmiş çıktı `generated/text/upstream-sozler-merged.md` dosyasına yazıldı.")
     rows.append("- Ayrıntılı sayısal veri `generated/json/sozler-comparison.json` içinde tutulur.")
     rows.append("")
 

@@ -5,7 +5,7 @@ section_id: "sozler.015.ondorduncu-soz"
 section_order: 15
 section_slug: "ondorduncu-soz"
 section_title: "Ondördüncü Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/014 - Ondördüncü Söz.md"
+source_section_path: "books/sozler/by_heading/014 - Ondördüncü Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

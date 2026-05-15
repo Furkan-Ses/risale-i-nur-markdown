@@ -5,7 +5,7 @@ section_id: "asa-yi-musa.017.dorduncu-huccet-i-imaniye"
 section_order: 17
 section_slug: "dorduncu-huccet-i-imaniye"
 section_title: "Dördüncü Hüccet-i İmaniye"
-canonical_source_path: "canonical/furkan/asa-yi-musa/by_heading/204 Dördüncü Hüccet-i İmaniye.md"
+source_section_path: "books/asa-yi-musa/by_heading/204 Dördüncü Hüccet-i İmaniye.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

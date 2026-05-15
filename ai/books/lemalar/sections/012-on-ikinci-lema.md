@@ -5,7 +5,7 @@ section_id: "lemalar.012.on-ikinci-lema"
 section_order: 12
 section_slug: "on-ikinci-lema"
 section_title: "On İkinci Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/12 On İkinci Lem’a.md"
+source_section_path: "books/lemalar/by_heading/12 On İkinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

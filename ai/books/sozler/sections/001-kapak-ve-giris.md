@@ -5,7 +5,7 @@ section_id: "sozler.001.kapak-ve-giris"
 section_order: 1
 section_slug: "kapak-ve-giris"
 section_title: "Kapak ve Giriş"
-canonical_source_path: "canonical/furkan/sozler/by_heading/000 - Kapak ve Giriş.md"
+source_section_path: "books/sozler/by_heading/000 - Kapak ve Giriş.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

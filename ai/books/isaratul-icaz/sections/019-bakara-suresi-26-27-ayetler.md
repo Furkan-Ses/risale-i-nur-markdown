@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.019.bakara-suresi-26-27-ayetler"
 section_order: 19
 section_slug: "bakara-suresi-26-27-ayetler"
 section_title: "Bakara Suresi 26-27. âyetler"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/19 Bakara Suresi 26-27. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/19 Bakara Suresi 26-27. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

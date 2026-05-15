@@ -5,7 +5,7 @@ section_id: "sozler.028.yirmiyedinci-soz"
 section_order: 28
 section_slug: "yirmiyedinci-soz"
 section_title: "Yirmiyedinci Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/027 - Yirmiyedinci Söz.md"
+source_section_path: "books/sozler/by_heading/027 - Yirmiyedinci Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

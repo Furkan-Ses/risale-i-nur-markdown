@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.009.bakara-suresi-8-ayet"
 section_order: 9
 section_slug: "bakara-suresi-8-ayet"
 section_title: "Bakara Suresi 8. âyet"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/09 Bakara Suresi 8. âyet.md"
+source_section_path: "books/isaratul-icaz/by_heading/09 Bakara Suresi 8. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

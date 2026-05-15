@@ -1,8 +1,8 @@
 ---
 book_id: "mesnevi-i-nuriye"
 book_title: "Mesnevi-i Nuriye"
-canonical_merged_path: "canonical/furkan/mesnevi-i-nuriye/Mesnevi-i Nuriye.md"
-canonical_section_dir: "canonical/furkan/mesnevi-i-nuriye/by_heading"
+source_book_path: "books/mesnevi-i-nuriye/Mesnevi-i Nuriye.md"
+source_section_dir: "books/mesnevi-i-nuriye/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "almost-identical"

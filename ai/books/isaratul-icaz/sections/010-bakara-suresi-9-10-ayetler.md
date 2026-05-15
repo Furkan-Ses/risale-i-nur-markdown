@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.010.bakara-suresi-9-10-ayetler"
 section_order: 10
 section_slug: "bakara-suresi-9-10-ayetler"
 section_title: "Bakara Suresi 9-10. âyetler"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/10 Bakara Suresi 9-10. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/10 Bakara Suresi 9-10. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

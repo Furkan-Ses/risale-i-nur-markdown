@@ -5,7 +5,7 @@ section_id: "sualar.015.yirmi-dokuzuncu-lemadan-ikinci-bab"
 section_order: 15
 section_slug: "yirmi-dokuzuncu-lemadan-ikinci-bab"
 section_title: "Yirmi Dokuzuncu Lem’a’dan İkinci Bab"
-canonical_source_path: "canonical/furkan/sualar/by_heading/15 Yirmi Dokuzuncu Lem’a’dan İkinci Bab.md"
+source_section_path: "books/sualar/by_heading/15 Yirmi Dokuzuncu Lem’a’dan İkinci Bab.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

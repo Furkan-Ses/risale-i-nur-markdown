@@ -2,7 +2,7 @@
   "book": {
     "title": "Mektubat",
     "slug": "mektubat",
-    "path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat"
+    "path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat"
   },
   "source": {
     "name": "Hizmet Vakfı official site",
@@ -19,7 +19,7 @@
   "sections": [
     {
       "title": "Altıncı Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/06 Altıncı Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/06 Altıncı Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/altinci-mektup/",
       "similarity": 0.9975980784627703,
       "content_overlap": 0.9968,
@@ -36,7 +36,7 @@
     },
     {
       "title": "Beşinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/05 Beşinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/05 Beşinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/besinci-mektup/",
       "similarity": 0.9962264150943396,
       "content_overlap": 0.9924812030075187,
@@ -63,7 +63,7 @@
     },
     {
       "title": "Birinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/01 Birinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/01 Birinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/birinci-mektup/",
       "similarity": 0.9950738916256158,
       "content_overlap": 0.9959695476936856,
@@ -90,7 +90,7 @@
     },
     {
       "title": "Dokuzuncu Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/09 Dokuzuncu Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/09 Dokuzuncu Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -101,7 +101,7 @@
     },
     {
       "title": "Dördüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/04 Dördüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/04 Dördüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-mektup/",
       "similarity": 0.9942857142857143,
       "content_overlap": 0.9905123339658444,
@@ -123,7 +123,7 @@
     },
     {
       "title": "Dua (Mektubat)",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/39 Dua (Mektubat).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/39 Dua (Mektubat).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dua-mektubat/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -134,7 +134,7 @@
     },
     {
       "title": "Fihriste-i Mektubat",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/37 Fihriste-i Mektubat.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/37 Fihriste-i Mektubat.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/fihriste-i-mektubat/",
       "similarity": 0.993629012496937,
       "content_overlap": 0.9924131179637787,
@@ -161,7 +161,7 @@
     },
     {
       "title": "Gönüller Fatihi Büyük Üstada",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/36 Gönüller Fatihi Büyük Üstada.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/36 Gönüller Fatihi Büyük Üstada.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/gonuller-fatihi-buyuk-ustada/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -172,7 +172,7 @@
     },
     {
       "title": "Hakikat Çekirdekleri",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/35 Hakikat Çekirdekleri.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/35 Hakikat Çekirdekleri.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/hakikat-cekirdekleri/",
       "similarity": 0.9555707450444293,
       "content_overlap": 0.95525956284153,
@@ -199,7 +199,7 @@
     },
     {
       "title": "Hakikat Işıkları",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/38 Hakikat Işıkları.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/38 Hakikat Işıkları.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/hakikat-isiklari/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -210,7 +210,7 @@
     },
     {
       "title": "İkinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/02 İkinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/02 İkinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -221,7 +221,7 @@
     },
     {
       "title": "İşarat-ı Gaybiye Hakkında Bir Takriz",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/34 İşarat-ı Gaybiye Hakkında Bir Takriz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/34 İşarat-ı Gaybiye Hakkında Bir Takriz.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/isarat-i-gaybiye-hakkinda-bir-takriz/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -232,7 +232,7 @@
     },
     {
       "title": "On Altıncı Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/16 On Altıncı Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/16 On Altıncı Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-altinci-mektup/",
       "similarity": 0.9987520798668885,
       "content_overlap": 0.9979218620116376,
@@ -259,7 +259,7 @@
     },
     {
       "title": "On Beşinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/15 On Beşinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/15 On Beşinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-besinci-mektup/",
       "similarity": 0.9985253154186465,
       "content_overlap": 0.9980347199475925,
@@ -286,7 +286,7 @@
     },
     {
       "title": "On Birinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/11 On Birinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/11 On Birinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -297,7 +297,7 @@
     },
     {
       "title": "On Dokuzuncu Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/19 On Dokuzuncu Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/19 On Dokuzuncu Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-dokuzuncu-mektup/",
       "similarity": 0.9916866665017195,
       "content_overlap": 0.9894832991828573,
@@ -324,7 +324,7 @@
     },
     {
       "title": "On Dördüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/14 On Dördüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/14 On Dördüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -335,7 +335,7 @@
     },
     {
       "title": "On İkinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/12 On İkinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/12 On İkinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -346,7 +346,7 @@
     },
     {
       "title": "On Sekizinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/18 On Sekizinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/18 On Sekizinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -357,7 +357,7 @@
     },
     {
       "title": "On Üçüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/13 On Üçüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/13 On Üçüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-mektup/",
       "similarity": 0.9949409780775716,
       "content_overlap": 0.9932659932659933,
@@ -384,7 +384,7 @@
     },
     {
       "title": "Onuncu Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/10 Onuncu Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/10 Onuncu Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/onuncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -395,7 +395,7 @@
     },
     {
       "title": "On Yedinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/17 On Yedinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/17 On Yedinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-yedinci-mektup/",
       "similarity": 0.9983489268024216,
       "content_overlap": 0.9977997799779978,
@@ -412,7 +412,7 @@
     },
     {
       "title": "Otuz Birinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/31 Otuz Birinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/31 Otuz Birinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -423,7 +423,7 @@
     },
     {
       "title": "Otuz İkinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/32 Otuz İkinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/32 Otuz İkinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ikinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -434,7 +434,7 @@
     },
     {
       "title": "Otuz Üçüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/33 Otuz Üçüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/33 Otuz Üçüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuz-ucuncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -445,7 +445,7 @@
     },
     {
       "title": "Otuzuncu Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/30 Otuzuncu Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/30 Otuzuncu Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/otuzuncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -456,7 +456,7 @@
     },
     {
       "title": "Sekizinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/08 Sekizinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/08 Sekizinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -467,7 +467,7 @@
     },
     {
       "title": "Üçüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/03 Üçüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/03 Üçüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -478,7 +478,7 @@
     },
     {
       "title": "Yedinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/07 Yedinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/07 Yedinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -489,7 +489,7 @@
     },
     {
       "title": "Yirmi Altıncı Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/26 Yirmi Altıncı Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/26 Yirmi Altıncı Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-altinci-mektup/",
       "similarity": 0.9977764110327861,
       "content_overlap": 0.9973517450108768,
@@ -516,7 +516,7 @@
     },
     {
       "title": "Yirmi Beşinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/25 Yirmi Beşinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/25 Yirmi Beşinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-besinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -527,7 +527,7 @@
     },
     {
       "title": "Yirmi Birinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/21 Yirmi Birinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/21 Yirmi Birinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-birinci-mektup/",
       "similarity": 0.9962073324905183,
       "content_overlap": 0.9949494949494949,
@@ -549,7 +549,7 @@
     },
     {
       "title": "Yirmi Dokuzuncu Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/29 Yirmi Dokuzuncu Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/29 Yirmi Dokuzuncu Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-mektup/",
       "similarity": 0.9989318141356596,
       "content_overlap": 0.9984874099119139,
@@ -576,7 +576,7 @@
     },
     {
       "title": "Yirmi Dördüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/24 Yirmi Dördüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/24 Yirmi Dördüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dorduncu-mektup/",
       "similarity": 0.9996573230073333,
       "content_overlap": 0.9993148807892573,
@@ -603,7 +603,7 @@
     },
     {
       "title": "Yirmi İkinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/22 Yirmi İkinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/22 Yirmi İkinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ikinci-mektup/",
       "similarity": 0.9981562572021203,
       "content_overlap": 0.9974666052510364,
@@ -630,7 +630,7 @@
     },
     {
       "title": "Yirminci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/20 Yirminci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/20 Yirminci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirminci-mektup/",
       "similarity": 0.999501454092231,
       "content_overlap": 0.9995014955134596,
@@ -657,7 +657,7 @@
     },
     {
       "title": "Yirmi Sekizinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/28 Yirmi Sekizinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/28 Yirmi Sekizinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-mektup/",
       "similarity": 0.9986180755715245,
       "content_overlap": 0.9979482323232324,
@@ -684,7 +684,7 @@
     },
     {
       "title": "Yirmi Üçüncü Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/23 Yirmi Üçüncü Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/23 Yirmi Üçüncü Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-ucuncu-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -695,7 +695,7 @@
     },
     {
       "title": "Yirmi Yedinci Mektup",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/02 Mektubat/27 Yirmi Yedinci Mektup.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/27 Yirmi Yedinci Mektup.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-mektup/",
       "similarity": 1.0,
       "content_overlap": 1.0,

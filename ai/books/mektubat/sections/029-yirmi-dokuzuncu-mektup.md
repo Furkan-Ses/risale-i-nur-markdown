@@ -5,7 +5,7 @@ section_id: "mektubat.029.yirmi-dokuzuncu-mektup"
 section_order: 29
 section_slug: "yirmi-dokuzuncu-mektup"
 section_title: "Yirmi Dokuzuncu Mektup"
-canonical_source_path: "canonical/furkan/mektubat/by_heading/29 Yirmi Dokuzuncu Mektup.md"
+source_section_path: "books/mektubat/by_heading/29 Yirmi Dokuzuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

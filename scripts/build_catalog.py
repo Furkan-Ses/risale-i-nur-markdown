@@ -10,8 +10,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-UPSTREAM_ROOT = ROOT / "upstream" / "alitekdemir" / "obsidian-markdown"
-CANONICAL_OWNER_ROOT = ROOT / "canonical" / "furkan"
+UPSTREAM_ROOT = ROOT / "sources" / "official-markdown-mirror" / "obsidian-markdown"
+BOOKS_ROOT = ROOT / "books"
 GENERATED_ROOT = ROOT / "generated"
 GENERATED_JSON_ROOT = GENERATED_ROOT / "json"
 INDEX_ROOT = ROOT / "indexes"
@@ -168,34 +168,34 @@ def collect_books() -> list[dict[str, object]]:
 
 def collect_reference_sources() -> list[dict[str, object]]:
     references: list[dict[str, object]] = []
-    if not CANONICAL_OWNER_ROOT.exists():
+    if not BOOKS_ROOT.exists():
         return references
 
-    for canonical_dir in sorted(CANONICAL_OWNER_ROOT.iterdir()):
-        if not canonical_dir.is_dir():
+    for book_dir in sorted(BOOKS_ROOT.iterdir()):
+        if not book_dir.is_dir():
             continue
 
-        by_heading_dir = canonical_dir / "by_heading"
+        by_heading_dir = book_dir / "by_heading"
         merged_files = sorted(
-            path for path in canonical_dir.glob("*.md") if path.name != "README.source.md"
+            path for path in book_dir.glob("*.md") if path.name != "README.source.md"
         )
         if not merged_files or not by_heading_dir.exists():
             continue
 
         merged_path = merged_files[0]
         section_files = sorted(by_heading_dir.glob("*.md"))
-        reference_slug = slugify(canonical_dir.name)
+        reference_slug = slugify(book_dir.name)
         merged_title = merged_path.stem
         references.append(
             {
-                "id": f"furkan-canonical-{reference_slug}",
+                "id": f"verified-book-{reference_slug}",
                 "slug": reference_slug,
-                "title": f"Furkan canonical {merged_title} reference",
+                "title": f"Verified {merged_title}",
                 "merged_title": merged_title,
                 "merged_path": merged_path.relative_to(ROOT).as_posix(),
                 "section_dir": by_heading_dir.relative_to(ROOT).as_posix(),
                 "section_count": len(section_files),
-                "source_readme": (canonical_dir / "README.source.md").relative_to(ROOT).as_posix(),
+                "source_readme": (book_dir / "README.source.md").relative_to(ROOT).as_posix(),
                 "sections": [
                     {
                         "title": extract_title(path),
@@ -214,19 +214,19 @@ def write_catalog(books: list[dict[str, object]], references: list[dict[str, obj
     catalog = {
         "sources": [
             {
-                "id": "ali-tekdemir",
-                "title": "Ali Tekdemir / Risale-i-Nur-Diyanet",
+                "id": "source-mirror",
+                "title": "Upstream source mirror",
                 "license": "CC BY-ND 4.0",
-                "provenance_readme": "upstream/alitekdemir/README.upstream.md",
-                "path": "upstream/alitekdemir/obsidian-markdown",
+                "provenance_readme": "sources/official-markdown-mirror/README.upstream.md",
+                "path": "sources/official-markdown-mirror/obsidian-markdown",
                 "structure": "Obsidian-style hierarchy with top-level contents and per-book 00 index files.",
             },
             {
-                "id": "furkan-sozler",
-                "title": "Furkan canonical references",
+                "id": "verified-books",
+                "title": "Verified books",
                 "license": "Repository-local text source",
-                "path": "canonical/furkan",
-                "structure": "Canonical merged book files plus stable by_heading split files.",
+                "path": "books",
+                "structure": "Verified merged book files plus stable by_heading split files.",
             },
         ],
         "books": books,
@@ -243,13 +243,14 @@ def write_top_level_index(books: list[dict[str, object]], references: list[dict[
     rows = [
         "# Corpus Index",
         "",
-        "Bu indeks, Ali Tekdemir'in Obsidian tipi içindekiler mantığını korurken daha sade ve AI-dostu bir erişim katmanı ekler.",
+        "Bu indeks, okuma katmanı, AI katmanı ve kaynak aynası arasında net geçiş sağlayan gezinme katmanıdır.",
         "",
         "## İndeks mantığı",
         "",
-        "1. **Ali modeli:** `01 İçindekiler.md` -> kitap klasörü -> kitap içi `00` index -> bölüm dosyaları",
-        "2. **Bu repo modeli:** `README.md` -> `indexes/README.md` -> `indexes/books/*.md` -> kanonik / upstream metinler -> `generated/json/catalog.json`",
-        "3. **Sözler için ek katman:** düzeltilmiş yerel kanonik `Sozler.md` ve `by_heading/` dosyaları ayrıca indekslenir",
+        "1. **Kaynak aynası:** `sources/official-markdown-mirror/obsidian-markdown/` altında korunan giriş yapısı",
+        "2. **Okuma katmanı:** `books/` altında birleşik kitap dosyaları ve `by_heading/` bölümleri",
+        "3. **AI katmanı:** `ai/` altında frontmatter, manifest ve passage dosyaları",
+        "4. **Makine kataloğu:** `generated/json/catalog.json`",
         "",
         "## Upstream books",
         "",
@@ -274,7 +275,7 @@ def write_top_level_index(books: list[dict[str, object]], references: list[dict[
     rows.extend(
         [
             "",
-            "## Canonical references",
+            "## Verified books",
             "",
             "| Kaynak | Birleşik dosya | Bölüm klasörü |",
             "| --- | --- | --- |",
@@ -322,7 +323,7 @@ def write_book_indexes(books: list[dict[str, object]]) -> None:
         rows = [
             f"# {book['title']}",
             "",
-            f"- Upstream klasör: `/{book['path']}`",
+            f"- Kaynak aynası klasörü: `/{book['path']}`",
             f"- Bölüm sayısı: **{book['section_count']}**",
         ]
 
@@ -357,9 +358,9 @@ def write_book_indexes(books: list[dict[str, object]]) -> None:
             rows.extend(
                 [
                     "",
-                    f"## Canonical {reference['merged_title']} reference",
+                    f"## Verified {reference['merged_title']}",
                     "",
-                    f"- Birleşik kanonik dosya: [{canonical_merged.name}]({repo_link(canonical_merged, BOOK_INDEX_ROOT).as_posix()})",
+                    f"- Birleşik kitap dosyası: [{canonical_merged.name}]({repo_link(canonical_merged, BOOK_INDEX_ROOT).as_posix()})",
                     f"- Bölüm klasörü: [{canonical_section_dir.name}]({repo_link(canonical_section_dir, BOOK_INDEX_ROOT).as_posix()})",
                     "",
                     "| # | Kayıt | Dosya |",

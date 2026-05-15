@@ -1,8 +1,8 @@
 ---
 book_id: "kastamonu-lahikasi"
 book_title: "Kastamonu Lahikasi"
-canonical_merged_path: "canonical/furkan/kastamonu-lahikasi/Kastamonu Lahikasi.md"
-canonical_section_dir: "canonical/furkan/kastamonu-lahikasi/by_heading"
+source_book_path: "books/kastamonu-lahikasi/Kastamonu Lahikasi.md"
+source_section_dir: "books/kastamonu-lahikasi/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

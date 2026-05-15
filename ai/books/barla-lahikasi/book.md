@@ -1,8 +1,8 @@
 ---
 book_id: "barla-lahikasi"
 book_title: "Barla Lahikasi"
-canonical_merged_path: "canonical/furkan/barla-lahikasi/Barla Lahikasi.md"
-canonical_section_dir: "canonical/furkan/barla-lahikasi/by_heading"
+source_book_path: "books/barla-lahikasi/Barla Lahikasi.md"
+source_section_dir: "books/barla-lahikasi/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "almost-identical"

@@ -5,7 +5,7 @@ section_id: "barla-lahikasi.009.barla-lahikasi-s-146-159"
 section_order: 9
 section_slug: "barla-lahikasi-s-146-159"
 section_title: "Barla Lâhikası s.146-159"
-canonical_source_path: "canonical/furkan/barla-lahikasi/by_heading/09 Barla Lâhikası s.146-159.md"
+source_section_path: "books/barla-lahikasi/by_heading/09 Barla Lâhikası s.146-159.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

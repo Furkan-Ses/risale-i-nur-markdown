@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.003.lemalar-risalesi"
 section_order: 3
 section_slug: "lemalar-risalesi"
 section_title: "Lem’alar Risalesi"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/03 Lem’alar Risalesi.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/03 Lem’alar Risalesi.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

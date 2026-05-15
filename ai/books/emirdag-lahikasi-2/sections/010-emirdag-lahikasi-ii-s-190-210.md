@@ -5,7 +5,7 @@ section_id: "emirdag-lahikasi-2.010.emirdag-lahikasi-ii-s-190-210"
 section_order: 10
 section_slug: "emirdag-lahikasi-ii-s-190-210"
 section_title: "Emirdağ Lâhikası - II s.190-210"
-canonical_source_path: "canonical/furkan/emirdag-lahikasi-2/by_heading/10 Emirdağ Lâhikası - II s.190-210.md"
+source_section_path: "books/emirdag-lahikasi-2/by_heading/10 Emirdağ Lâhikası - II s.190-210.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

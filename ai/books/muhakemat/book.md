@@ -1,8 +1,8 @@
 ---
 book_id: "muhakemat"
 book_title: "Muhakemat"
-canonical_merged_path: "canonical/furkan/muhakemat/Muhakemat.md"
-canonical_section_dir: "canonical/furkan/muhakemat/by_heading"
+source_book_path: "books/muhakemat/Muhakemat.md"
+source_section_dir: "books/muhakemat/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

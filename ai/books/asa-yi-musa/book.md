@@ -1,8 +1,8 @@
 ---
 book_id: "asa-yi-musa"
 book_title: "Asa-yi Musa"
-canonical_merged_path: "canonical/furkan/asa-yi-musa/Asa-yi Musa.md"
-canonical_section_dir: "canonical/furkan/asa-yi-musa/by_heading"
+source_book_path: "books/asa-yi-musa/Asa-yi Musa.md"
+source_section_dir: "books/asa-yi-musa/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "almost-identical"

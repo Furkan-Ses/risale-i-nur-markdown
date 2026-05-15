@@ -5,7 +5,7 @@ section_id: "lemalar.031.otuz-birinci-lema"
 section_order: 31
 section_slug: "otuz-birinci-lema"
 section_title: "Otuz Birinci Lem’a"
-canonical_source_path: "canonical/furkan/lemalar/by_heading/31 Otuz Birinci Lem’a.md"
+source_section_path: "books/lemalar/by_heading/31 Otuz Birinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

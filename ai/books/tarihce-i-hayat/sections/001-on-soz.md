@@ -5,7 +5,7 @@ section_id: "tarihce-i-hayat.001.on-soz"
 section_order: 1
 section_slug: "on-soz"
 section_title: "Ön söz"
-canonical_source_path: "canonical/furkan/tarihce-i-hayat/by_heading/01 Ön söz.md"
+source_section_path: "books/tarihce-i-hayat/by_heading/01 Ön söz.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

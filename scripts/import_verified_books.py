@@ -11,8 +11,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-UPSTREAM_ROOT = ROOT / "upstream" / "alitekdemir" / "obsidian-markdown"
-CANONICAL_OWNER_ROOT = ROOT / "canonical" / "furkan"
+UPSTREAM_ROOT = ROOT / "sources" / "official-markdown-mirror" / "obsidian-markdown"
+BOOKS_ROOT = ROOT / "books"
 SUMMARY_PATH = ROOT / "generated" / "json" / "all-upstream-public-summary.json"
 
 ACCEPTED_STATUSES = {"very-high", "almost-identical"}
@@ -101,9 +101,9 @@ def write_readme(
     summary_item: dict[str, object],
 ) -> None:
     rows = [
-        f"# Risale-i Nur - {merged_name} by Heading",
+        f"# {merged_name}",
         "",
-        f"Bu klasör, **{merged_name}** metninin repo içindeki kanonik referans kopyasını içerir.",
+        f"Bu klasör, **{merged_name}** metninin repo içindeki doğrulanmış okuma kopyasını içerir.",
         "",
         "## İçerik",
         "",
@@ -112,7 +112,7 @@ def write_readme(
         "",
         "## Provenans",
         "",
-        f"- Başlangıç kanonik kopya, `{upstream_dir.relative_to(ROOT).as_posix()}` kaynağından alınmıştır.",
+        f"- Başlangıç kopyası, `{upstream_dir.relative_to(ROOT).as_posix()}` altındaki kaynak aynasından alınmıştır.",
         "- Upstream set, resmi Hizmet Vakfı public kaynağı ile karşılaştırılmıştır.",
         f"- Genel sıra benzerliği: **{float(summary_item['overall_similarity']):.4f}**",
         f"- Genel içerik örtüşmesi: **{float(summary_item['overall_content_overlap']):.4f}**",
@@ -132,7 +132,7 @@ def write_readme(
 
 
 def import_book(slug: str, upstream_dir: Path, summary_item: dict[str, object], overwrite: bool) -> str:
-    canonical_dir = CANONICAL_OWNER_ROOT / slug
+    canonical_dir = BOOKS_ROOT / slug
     if canonical_dir.exists() and slug in PROTECTED_EXISTING and not overwrite:
         return f"skip-protected:{slug}"
     if canonical_dir.exists() and not overwrite:
@@ -170,7 +170,7 @@ def main() -> None:
 
     summary = load_summary()
     upstream_dirs = load_upstream_dirs()
-    CANONICAL_OWNER_ROOT.mkdir(parents=True, exist_ok=True)
+    BOOKS_ROOT.mkdir(parents=True, exist_ok=True)
 
     results = []
     for slug, item in summary.items():

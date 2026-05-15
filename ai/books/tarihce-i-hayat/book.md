@@ -1,8 +1,8 @@
 ---
 book_id: "tarihce-i-hayat"
 book_title: "Tarihce-i Hayat"
-canonical_merged_path: "canonical/furkan/tarihce-i-hayat/Tarihce-i Hayat.md"
-canonical_section_dir: "canonical/furkan/tarihce-i-hayat/by_heading"
+source_book_path: "books/tarihce-i-hayat/Tarihce-i Hayat.md"
+source_section_dir: "books/tarihce-i-hayat/by_heading"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

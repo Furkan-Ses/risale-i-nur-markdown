@@ -5,7 +5,7 @@ section_id: "asa-yi-musa.007.altinci-mesele"
 section_order: 7
 section_slug: "altinci-mesele"
 section_title: "Altıncı Mesele"
-canonical_source_path: "canonical/furkan/asa-yi-musa/by_heading/106 Altıncı Mesele.md"
+source_section_path: "books/asa-yi-musa/by_heading/106 Altıncı Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

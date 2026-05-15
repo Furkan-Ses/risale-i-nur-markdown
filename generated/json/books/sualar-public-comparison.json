@@ -2,7 +2,7 @@
   "book": {
     "title": "Şuâlar",
     "slug": "sualar",
-    "path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar"
+    "path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar"
   },
   "source": {
     "name": "Hizmet Vakfı official site",
@@ -19,7 +19,7 @@
   "sections": [
     {
       "title": "Altıncı Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/06 Altıncı Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/06 Altıncı Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/altinci-sua/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -30,7 +30,7 @@
     },
     {
       "title": "Beşinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/05 Beşinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/05 Beşinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/besinci-sua/",
       "similarity": 0.9972412383774395,
       "content_overlap": 0.9969356486210419,
@@ -57,7 +57,7 @@
     },
     {
       "title": "Birinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/01 Birinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/01 Birinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/birinci-sua/",
       "similarity": 0.9967538667175864,
       "content_overlap": 0.9967557251908397,
@@ -84,7 +84,7 @@
     },
     {
       "title": "Dokuzuncu Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/09 Dokuzuncu Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/09 Dokuzuncu Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-sua/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -95,7 +95,7 @@
     },
     {
       "title": "Dördüncü Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/04 Dördüncü Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/04 Dördüncü Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dorduncu-sua/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -106,7 +106,7 @@
     },
     {
       "title": "Dua (Şuâlar)",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/17 Dua (Şuâlar).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/17 Dua (Şuâlar).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/dua-sualar/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -117,7 +117,7 @@
     },
     {
       "title": "Eddâî",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/16 Eddâî.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/16 Eddâî.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/eddai/",
       "similarity": 0.9259259259259259,
       "content_overlap": 0.8928571428571429,
@@ -144,7 +144,7 @@
     },
     {
       "title": "İÇİNDEKİLER",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/18 İçindekiler (Şuâlar).md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/18 İçindekiler (Şuâlar).md",
       "official_url": "https://risaleinur.hizmetvakfi.org/icindekiler-sualar/",
       "similarity": 0.34269662921348315,
       "content_overlap": 0.2175925925925926,
@@ -171,7 +171,7 @@
     },
     {
       "title": "İkinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/02 İkinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/02 İkinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ikinci-sua/",
       "similarity": 0.9994358781496804,
       "content_overlap": 0.9990601503759399,
@@ -198,7 +198,7 @@
     },
     {
       "title": "On Beşinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/14 On Beşinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/14 On Beşinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-besinci-sua/",
       "similarity": 0.9983301888838289,
       "content_overlap": 0.9981786643538595,
@@ -225,7 +225,7 @@
     },
     {
       "title": "On Birinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/10 On Birinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/10 On Birinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-birinci-sua/",
       "similarity": 0.9975930613769349,
       "content_overlap": 0.9975522734815798,
@@ -252,7 +252,7 @@
     },
     {
       "title": "On Dördüncü Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/13 On Dördüncü Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/13 On Dördüncü Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-sua/",
       "similarity": 0.9993761907170435,
       "content_overlap": 0.9990224828934506,
@@ -279,7 +279,7 @@
     },
     {
       "title": "On İkinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/11 On İkinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/11 On İkinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-sua/",
       "similarity": 0.9988470066518848,
       "content_overlap": 0.9982272646693848,
@@ -306,7 +306,7 @@
     },
     {
       "title": "On Üçüncü Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/12 On Üçüncü Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/12 On Üçüncü Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-sua/",
       "similarity": 0.9996136690900151,
       "content_overlap": 0.9993679775280899,
@@ -333,7 +333,7 @@
     },
     {
       "title": "Sekizinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/08 Sekizinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/08 Sekizinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/sekizinci-sua/",
       "similarity": 0.9977542011925966,
       "content_overlap": 0.9967507349528083,
@@ -360,7 +360,7 @@
     },
     {
       "title": "Üçüncü Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/03 Üçüncü Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/03 Üçüncü Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/ucuncu-sua/",
       "similarity": 1.0,
       "content_overlap": 1.0,
@@ -371,7 +371,7 @@
     },
     {
       "title": "Yedinci Şuâ",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/07 Yedinci Şuâ.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/07 Yedinci Şuâ.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yedinci-sua/",
       "similarity": 0.9988611974946345,
       "content_overlap": 0.9988174491941135,
@@ -398,7 +398,7 @@
     },
     {
       "title": "Yirmi Dokuzuncu Lem’a’dan İkinci Bab",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/04 Şuâlar/15 Yirmi Dokuzuncu Lem’a’dan İkinci Bab.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/15 Yirmi Dokuzuncu Lem’a’dan İkinci Bab.md",
       "official_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-lemadan-ikinci-bab/",
       "similarity": 0.9970660146699266,
       "content_overlap": 0.9965786901270772,

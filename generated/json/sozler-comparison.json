@@ -5,12 +5,12 @@
   "local_only_sections": [
     {
       "title": "Anglikan Kilisesine Cevab",
-      "path": "canonical/furkan/sozler/by_heading/035 - Anglikan Kilisesine Cevab.md",
+      "path": "books/sozler/by_heading/035 - Anglikan Kilisesine Cevab.md",
       "normalized": "Anglikan Kilisesine Cevab Anglikan Kilisesine Cevab Bir zaman bî-aman İslâmın düşmanı, siyasî bir dessas, yüksekte kendini göstermek isteyen vesvas bir papaz, desise niyetiyle hem inkâr suretinde, Hem de boğazımızı pençesiyle sıktığı bir zaman-ı elîmde pek şematetkârane bir istifham ile dört şey sordu bizden. Altıyüz kelime istedi. Şematetine karşı: Yüzüne \"tuh!\" demek. Desisesine karşı: Küsmekle sükût etmek, inkârına karşı da: Tokmak gibi bir cevab-ı müskit vermek lâzımdı. Onu muhatab etmem. Bir hak-perest adama böyle cevabımız var. O dedi birincide: \"Muhammed (Aleyhissalâtü Vesselâm) dini nedir?\" Dedim: İşte Kur'andır. Erkân-ı sitte-i iman, erkân-ı hamse-i İslâm, esas maksad-ı Kur'an. Der ikincisinde: \"Fikir ve hayata ne vermiş?\" Dedim: \"Fikre tevhid, hayata istikamet. Buna dair şahidim: فَاسْتَقِمْ كَمَا اُمِرْتَ قُلْ هُوَ اللّٰهُ اَحَدٌ Der üçüncüsünde: \"Mezahim-i hazıra nasıl tedavi eder?\" Derim: \"Hurmet-i riba, hem vücub-u zekatla. Buna dair şahidim: اَللّٰهُ يَمْحَقُ الرِّبٰوا وَاَحَلَّ اللّٰهُ الْبَيْعَ وَحَرَّمَ الرِّبٰوا وَاَقٖيمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ Der dördüncüsünde: \"İhtilal-i beşere ne nazarla bakıyor?\" Derim: Sa'y, asıl esastır. Servet-i insaniye, zalimlerde toplanmaz, saklanmaz ellerinde. Buna dair şahidim: وَاَنْ لَيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰى وَالَّذٖينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا فٖى سَبٖيلِ اللّٰهِ فَبَشِّرْهُمْ بِعَذَابٍ اَلٖيمٍ Yüz mâşâallah bu cevaba."
     },
     {
       "title": "Kapak ve Giriş",
-      "path": "canonical/furkan/sozler/by_heading/000 - Kapak ve Giriş.md",
+      "path": "books/sozler/by_heading/000 - Kapak ve Giriş.md",
       "normalized": "Kapak ve Giriş Risale-i Nur Külliyatından Sözler ENVÂR Neşriyat Müellifi Bediüzzaman Said Nursi Neşreden: ENVAR NEŞRİYAT Piyerloti Cad. Hacıbey Apt. 10/3 Tel: 516 20 14 – 518 62 71 Fax: 516 20 42 – İST. Baskı: Cihan Neşriyat ve Matbaacılık Tel: 507 27 33 1995 – İST. Her Hakkı Mahfuzdur. Risale-i Nur Külliyatından Sözler Müellifi Bediüzzaman Said Nursi Diyanet İşleri Müşavere Kurulu'nun 23.05.1956 gün ve sayısız ehl-i vukuf raporuna istinaden Afyon Ağır Ceza Mahkemesince Bediüzzaman Said Nursi'nin Kitab ve sair evraklarının kanuni mevzuata muhalif siyasi ve idari hiçbir mahzuru görülmemiş olmakla sözü geçen eserler 23.06.1956 gün ve 954/278 esas ve 955/218 karar sayılı ve kaziye-i muhkeme haline gelen beraet karariyle ve yine Isparta Sorgu Hakimliğinin 11.09.1956 gün, 954/28 esas ve 956/65 karar sayılı ve aynen kazıye-i muhkeme haline gelen men'i muhakeme karariyle bilumum Nur Risaleleri sahiplerine iade edilmiştir. Her hakkı mahfuzdur."
     }
   ],
@@ -18,253 +18,253 @@
   "sections": [
     {
       "title": "Altıncı Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/006 - Altıncı Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/06 Altıncı Söz.md",
+      "local_path": "books/sozler/by_heading/006 - Altıncı Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/06 Altıncı Söz.md",
       "similarity": 0.8535433070866142,
       "diff_tokens": 197
     },
     {
       "title": "Beşinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/005 - Beşinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/05 Beşinci Söz.md",
+      "local_path": "books/sozler/by_heading/005 - Beşinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/05 Beşinci Söz.md",
       "similarity": 0.8364831552999178,
       "diff_tokens": 113
     },
     {
       "title": "Birinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/001 - Birinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/01 Birinci Söz.md",
+      "local_path": "books/sozler/by_heading/001 - Birinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/01 Birinci Söz.md",
       "similarity": 0.8020271374856957,
       "diff_tokens": 740
     },
     {
       "title": "Dokuzuncu Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/009 - Dokuzuncu Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/09 Dokuzuncu Söz.md",
+      "local_path": "books/sozler/by_heading/009 - Dokuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/09 Dokuzuncu Söz.md",
       "similarity": 0.847450110864745,
       "diff_tokens": 366
     },
     {
       "title": "Dördüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/004 - Dördüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/04 Dördüncü Söz.md",
+      "local_path": "books/sozler/by_heading/004 - Dördüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/04 Dördüncü Söz.md",
       "similarity": 0.8568527918781725,
       "diff_tokens": 81
     },
     {
       "title": "Fihrist",
-      "local_path": "canonical/furkan/sozler/by_heading/037 - Fihrist.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md",
+      "local_path": "books/sozler/by_heading/037 - Fihrist.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md",
       "similarity": 0.9770253929866989,
       "diff_tokens": 92
     },
     {
       "title": "İkinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/002 - İkinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/02 İkinci Söz.md",
+      "local_path": "books/sozler/by_heading/002 - İkinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/02 İkinci Söz.md",
       "similarity": 0.8767361111111112,
       "diff_tokens": 80
     },
     {
       "title": "Konferans",
-      "local_path": "canonical/furkan/sozler/by_heading/036 - Konferans.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/35 Konferans (Sözler).md",
+      "local_path": "books/sozler/by_heading/036 - Konferans.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/35 Konferans (Sözler).md",
       "similarity": 0.9988485158648925,
       "diff_tokens": 12
     },
     {
       "title": "Lemaat",
-      "local_path": "canonical/furkan/sozler/by_heading/034 - Lemaat.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/34 Lemaat (Sözler).md",
+      "local_path": "books/sozler/by_heading/034 - Lemaat.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/34 Lemaat (Sözler).md",
       "similarity": 0.9751530713015999,
       "diff_tokens": 581
     },
     {
       "title": "Onaltıncı Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/016 - Onaltıncı Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/16 On Altıncı Söz.md",
+      "local_path": "books/sozler/by_heading/016 - Onaltıncı Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/16 On Altıncı Söz.md",
       "similarity": 0.9984387197501952,
       "diff_tokens": 6
     },
     {
       "title": "Onbeşinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/015 - Onbeşinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/15 On Beşinci Söz.md",
+      "local_path": "books/sozler/by_heading/015 - Onbeşinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/15 On Beşinci Söz.md",
       "similarity": 0.8712532689599678,
       "diff_tokens": 948
     },
     {
       "title": "Onbirinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/011 - Onbirinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/11 On Birinci Söz.md",
+      "local_path": "books/sozler/by_heading/011 - Onbirinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/11 On Birinci Söz.md",
       "similarity": 0.8557440111907676,
       "diff_tokens": 481
     },
     {
       "title": "Ondokuzuncu Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/019 - Ondokuzuncu Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/19 On Dokuzuncu Söz.md",
+      "local_path": "books/sozler/by_heading/019 - Ondokuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/19 On Dokuzuncu Söz.md",
       "similarity": 0.9980756895445798,
       "diff_tokens": 9
     },
     {
       "title": "Ondördüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/014 - Ondördüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md",
+      "local_path": "books/sozler/by_heading/014 - Ondördüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/14 On Dördüncü Söz.md",
       "similarity": 0.80672748004561,
       "diff_tokens": 850
     },
     {
       "title": "Onikinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/012 - Onikinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/12 On İkinci Söz.md",
+      "local_path": "books/sozler/by_heading/012 - Onikinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/12 On İkinci Söz.md",
       "similarity": 0.8235930735930735,
       "diff_tokens": 363
     },
     {
       "title": "Onsekizinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/018 - Onsekizinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/18 On Sekizinci Söz.md",
+      "local_path": "books/sozler/by_heading/018 - Onsekizinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/18 On Sekizinci Söz.md",
       "similarity": 0.9956672443674177,
       "diff_tokens": 6
     },
     {
       "title": "Onüçüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/013 - Onüçüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/13 On Üçüncü Söz.md",
+      "local_path": "books/sozler/by_heading/013 - Onüçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/13 On Üçüncü Söz.md",
       "similarity": 0.8320317851760515,
       "diff_tokens": 1464
     },
     {
       "title": "Onuncu Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/010 - Onuncu Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/10 Onuncu Söz.md",
+      "local_path": "books/sozler/by_heading/010 - Onuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/10 Onuncu Söz.md",
       "similarity": 0.2696789430296549,
       "diff_tokens": 31783
     },
     {
       "title": "Onyedinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/017 - Onyedinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md",
+      "local_path": "books/sozler/by_heading/017 - Onyedinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/17 On Yedinci Söz.md",
       "similarity": 0.986232790988736,
       "diff_tokens": 110
     },
     {
       "title": "Otuzbirinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/031 - Otuzbirinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/31 Otuz Birinci Söz.md",
+      "local_path": "books/sozler/by_heading/031 - Otuzbirinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/31 Otuz Birinci Söz.md",
       "similarity": 0.9969614099058037,
       "diff_tokens": 38
     },
     {
       "title": "Otuzikinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/032 - Otuzikinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/32 Otuz İkinci Söz.md",
+      "local_path": "books/sozler/by_heading/032 - Otuzikinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/32 Otuz İkinci Söz.md",
       "similarity": 0.9942340012928248,
       "diff_tokens": 148
     },
     {
       "title": "Otuzüçüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/033 - Otuzüçüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/33 Otuz Üçüncü Söz.md",
+      "local_path": "books/sozler/by_heading/033 - Otuzüçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/33 Otuz Üçüncü Söz.md",
       "similarity": 0.9986562751948401,
       "diff_tokens": 20
     },
     {
       "title": "Otuzuncu Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/030 - Otuzuncu Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/30 Otuzuncu Söz.md",
+      "local_path": "books/sozler/by_heading/030 - Otuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/30 Otuzuncu Söz.md",
       "similarity": 0.992753150094666,
       "diff_tokens": 74
     },
     {
       "title": "Sekizinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/008 - Sekizinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/08 Sekizinci Söz.md",
+      "local_path": "books/sozler/by_heading/008 - Sekizinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/08 Sekizinci Söz.md",
       "similarity": 0.8681863230921705,
       "diff_tokens": 278
     },
     {
       "title": "Üçüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/003 - Üçüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md",
+      "local_path": "books/sozler/by_heading/003 - Üçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/03 Üçüncü Söz.md",
       "similarity": 0.849772382397572,
       "diff_tokens": 110
     },
     {
       "title": "Yedinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/007 - Yedinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/07 Yedinci Söz.md",
+      "local_path": "books/sozler/by_heading/007 - Yedinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/07 Yedinci Söz.md",
       "similarity": 0.8295739348370927,
       "diff_tokens": 214
     },
     {
       "title": "Yirmialtıncı Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/026 - Yirmialtıncı Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/26 Yirmi Altıncı Söz.md",
+      "local_path": "books/sozler/by_heading/026 - Yirmialtıncı Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/26 Yirmi Altıncı Söz.md",
       "similarity": 0.9964221824686941,
       "diff_tokens": 24
     },
     {
       "title": "Yirmibeşinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/025 - Yirmibeşinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/25 Yirmi Beşinci Söz.md",
+      "local_path": "books/sozler/by_heading/025 - Yirmibeşinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/25 Yirmi Beşinci Söz.md",
       "similarity": 0.9963331938049393,
       "diff_tokens": 136
     },
     {
       "title": "Yirmibirinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/021 - Yirmibirinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/21 Yirmi Birinci Söz.md",
+      "local_path": "books/sozler/by_heading/021 - Yirmibirinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/21 Yirmi Birinci Söz.md",
       "similarity": 0.9972273567467652,
       "diff_tokens": 13
     },
     {
       "title": "Yirmidokuzuncu Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/029 - Yirmidokuzuncu Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/29 Yirmi Dokuzuncu Söz.md",
+      "local_path": "books/sozler/by_heading/029 - Yirmidokuzuncu Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/29 Yirmi Dokuzuncu Söz.md",
       "similarity": 0.9938274605103281,
       "diff_tokens": 80
     },
     {
       "title": "Yirmidördüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/024 - Yirmidördüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/24 Yirmi Dördüncü Söz.md",
+      "local_path": "books/sozler/by_heading/024 - Yirmidördüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/24 Yirmi Dördüncü Söz.md",
       "similarity": 0.9936580882352941,
       "diff_tokens": 84
     },
     {
       "title": "Yirmiikinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/022 - Yirmiikinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md",
+      "local_path": "books/sozler/by_heading/022 - Yirmiikinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/22 Yirmi İkinci Söz.md",
       "similarity": 0.9897457910049124,
       "diff_tokens": 156
     },
     {
       "title": "Yirminci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/020 - Yirminci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/20 Yirminci Söz.md",
+      "local_path": "books/sozler/by_heading/020 - Yirminci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/20 Yirminci Söz.md",
       "similarity": 0.9976379643547348,
       "diff_tokens": 19
     },
     {
       "title": "Yirmisekizinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/028 - Yirmisekizinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/28 Yirmi Sekizinci Söz.md",
+      "local_path": "books/sozler/by_heading/028 - Yirmisekizinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/28 Yirmi Sekizinci Söz.md",
       "similarity": 0.9940202391904324,
       "diff_tokens": 18
     },
     {
       "title": "Yirmiüçüncü Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/023 - Yirmiüçüncü Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/23 Yirmi Üçüncü Söz.md",
+      "local_path": "books/sozler/by_heading/023 - Yirmiüçüncü Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/23 Yirmi Üçüncü Söz.md",
       "similarity": 0.9991001799640072,
       "diff_tokens": 8
     },
     {
       "title": "Yirmiyedinci Söz",
-      "local_path": "canonical/furkan/sozler/by_heading/027 - Yirmiyedinci Söz.md",
-      "upstream_path": "upstream/alitekdemir/obsidian-markdown/01 Sözler/27 Yirmi Yedinci Söz.md",
+      "local_path": "books/sozler/by_heading/027 - Yirmiyedinci Söz.md",
+      "upstream_path": "sources/official-markdown-mirror/obsidian-markdown/01 Sözler/27 Yirmi Yedinci Söz.md",
       "similarity": 0.9937279498235986,
       "diff_tokens": 39
     }

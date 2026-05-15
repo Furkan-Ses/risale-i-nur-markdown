@@ -5,7 +5,7 @@ section_id: "sualar.005.besinci-sua"
 section_order: 5
 section_slug: "besinci-sua"
 section_title: "Beşinci Şuâ"
-canonical_source_path: "canonical/furkan/sualar/by_heading/05 Beşinci Şuâ.md"
+source_section_path: "books/sualar/by_heading/05 Beşinci Şuâ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

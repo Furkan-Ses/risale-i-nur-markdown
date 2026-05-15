@@ -5,7 +5,7 @@ section_id: "mesnevi-i-nuriye.011.semme-risalesi"
 section_order: 11
 section_slug: "semme-risalesi"
 section_title: "Şemme Risalesi"
-canonical_source_path: "canonical/furkan/mesnevi-i-nuriye/by_heading/11 Şemme Risalesi.md"
+source_section_path: "books/mesnevi-i-nuriye/by_heading/11 Şemme Risalesi.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "almost-identical"

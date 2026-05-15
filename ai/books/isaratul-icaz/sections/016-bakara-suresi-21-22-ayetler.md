@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.016.bakara-suresi-21-22-ayetler"
 section_order: 16
 section_slug: "bakara-suresi-21-22-ayetler"
 section_title: "Bakara Suresi 21-22. âyetler"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/16 Bakara Suresi 21-22. âyetler.md"
+source_section_path: "books/isaratul-icaz/by_heading/16 Bakara Suresi 21-22. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

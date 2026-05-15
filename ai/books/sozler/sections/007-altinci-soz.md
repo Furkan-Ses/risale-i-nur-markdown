@@ -5,7 +5,7 @@ section_id: "sozler.007.altinci-soz"
 section_order: 7
 section_slug: "altinci-soz"
 section_title: "Altıncı Söz"
-canonical_source_path: "canonical/furkan/sozler/by_heading/006 - Altıncı Söz.md"
+source_section_path: "books/sozler/by_heading/006 - Altıncı Söz.md"
 source_name: null
 source_url: null
 official_alignment_status: "very-high"

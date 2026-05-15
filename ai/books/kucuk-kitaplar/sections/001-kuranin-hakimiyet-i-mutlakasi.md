@@ -5,7 +5,7 @@ section_id: "kucuk-kitaplar.001.kuranin-hakimiyet-i-mutlakasi"
 section_order: 1
 section_slug: "kuranin-hakimiyet-i-mutlakasi"
 section_title: "Kur’an’ın Hâkimiyet-i Mutlakası"
-canonical_source_path: "canonical/furkan/kucuk-kitaplar/by_heading/01 SÜNUHAT.md"
+source_section_path: "books/kucuk-kitaplar/by_heading/01 SÜNUHAT.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

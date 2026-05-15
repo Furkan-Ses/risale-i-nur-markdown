@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.007.bakara-suresi-6-ayet"
 section_order: 7
 section_slug: "bakara-suresi-6-ayet"
 section_title: "Bakara Suresi 6. âyet"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/07 Bakara Suresi 6. âyet.md"
+source_section_path: "books/isaratul-icaz/by_heading/07 Bakara Suresi 6. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"

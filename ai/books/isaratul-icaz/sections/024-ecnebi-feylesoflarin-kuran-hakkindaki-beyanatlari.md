@@ -5,7 +5,7 @@ section_id: "isaratul-icaz.024.ecnebi-feylesoflarin-kuran-hakkindaki-beyanatlari
 section_order: 24
 section_slug: "ecnebi-feylesoflarin-kuran-hakkindaki-beyanatlari"
 section_title: "Ecnebi Feylesofların Kur’an Hakkındaki Beyanatları"
-canonical_source_path: "canonical/furkan/isaratul-icaz/by_heading/24 Ecnebi Feylesofların Kur’an Hakkındaki Beyanatları.md"
+source_section_path: "books/isaratul-icaz/by_heading/24 Ecnebi Feylesofların Kur’an Hakkındaki Beyanatları.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
 official_alignment_status: "very-high"
