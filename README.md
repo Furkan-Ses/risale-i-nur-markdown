@@ -108,6 +108,8 @@ Graphify, bu korpus üzerinde bilgi grafı, GraphRAG, konu kümeleri ve keşif o
 make setup-optional
 ```
 
+Bu kurulum, repo ile uyumlu **Graphify 0.7.x hattını** yükler. `make graphify`, `make graphify-deep` ve `make graphify-tree` hedefleri repo içindeki uyumluluk sarmalayıcısını kullanır; uyumsuz bir global Graphify CLI kurulu olsa bile desteklenen sürüme geçerek devam eder.
+
 Hazır komutlar:
 
 ```bash
@@ -116,11 +118,18 @@ make compare
 make ai
 make audit-public
 make verify-public
-make graphify GRAPHIFY_PATH=books/sozler
-make graphify-deep GRAPHIFY_PATH=books/mektubat
+make graphify GRAPHIFY_PATH=books/sozler GRAPHIFY_BACKEND=gemini
+make graphify-deep GRAPHIFY_PATH=books/mektubat GRAPHIFY_BACKEND=gemini
+make graphify-tree GRAPHIFY_PATH=books/sozler
 ```
 
-Not: graphify hedefi varsayılan olarak tek bir kitap veya alt klasör üzerinde çalıştırılmalıdır. Tüm repo ağacı yerine konu bazlı veya kitap bazlı grafik üretmek daha temiz ve daha anlamlı sonuç verir.
+Notlar:
+
+- Graphify shell CLI, extraction için bir backend ister. `GRAPHIFY_BACKEND=gemini|claude|openai|ollama|kimi` şeklinde verilebilir.
+- `make graphify` repo kökünde `graphify-out/` üretir.
+- `make graphify-deep`, aynı extraction akışını daha yüksek token bütçesi ve daha düşük concurrency ile çalıştırır.
+- `make graphify-tree`, mevcut `graphify-out/graph.json` üzerinden tarayıcıda açılabilir ağaç görünümü üretir.
+- Graphify hedefi varsayılan olarak tek bir kitap veya alt klasör üzerinde çalıştırılmalıdır. Tüm repo ağacı yerine konu bazlı veya kitap bazlı grafik üretmek daha temiz ve daha anlamlı sonuç verir.
 
 ## Yeniden üretim
 

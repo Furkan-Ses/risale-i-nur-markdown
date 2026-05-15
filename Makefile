@@ -1,6 +1,16 @@
-.PHONY: setup setup-optional compare catalog ai audit-public verify-public graphify graphify-deep
+.PHONY: setup setup-optional compare catalog ai audit-public verify-public graphify graphify-deep graphify-tree
 
 GRAPHIFY_PATH ?= books/sozler
+GRAPHIFY_BACKEND ?=
+GRAPHIFY_MODEL ?=
+
+GRAPHIFY_ARGS = extract $(GRAPHIFY_PATH) --out .
+ifneq ($(strip $(GRAPHIFY_BACKEND)),)
+GRAPHIFY_ARGS += --backend $(GRAPHIFY_BACKEND)
+endif
+ifneq ($(strip $(GRAPHIFY_MODEL)),)
+GRAPHIFY_ARGS += --model $(GRAPHIFY_MODEL)
+endif
 
 setup:
 	python3 -m pip install -r requirements.txt
@@ -26,7 +36,10 @@ audit-public:
 verify-public: catalog ai audit-public
 
 graphify:
-	graphify $(GRAPHIFY_PATH)
+	./scripts/run_graphify.sh $(GRAPHIFY_ARGS)
 
 graphify-deep:
-	graphify $(GRAPHIFY_PATH) --mode deep
+	./scripts/run_graphify.sh $(GRAPHIFY_ARGS) --token-budget 90000 --max-concurrency 1
+
+graphify-tree:
+	./scripts/run_graphify.sh tree --graph graphify-out/graph.json --root $(GRAPHIFY_PATH) --label "$(GRAPHIFY_PATH)"

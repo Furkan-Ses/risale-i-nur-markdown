@@ -1,1 +1,1 @@
-graphifyy
+graphifyy>=0.7.13,<0.8.0
