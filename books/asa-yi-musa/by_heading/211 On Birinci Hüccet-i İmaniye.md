@@ -175,4 +175,3 @@ Tevhidin hakikat-i uzmasına ve “âmentü billah” imanına işaret eden hik�
 [^hâşiye23]: Hâşiye: Nurani ferman Kur’an’a ve üstündeki turra ise i’cazına işarettir.
 
 [^hâşiye24]: Bu kısım, Yirmi İkinci Söz’dedir.
-

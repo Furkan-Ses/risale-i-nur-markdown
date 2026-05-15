@@ -243,4 +243,3 @@ Tabiatı bırakan ve hakikate geçen zat diyor ki: Cenab-ı Hakk’a zerrat aded
 Yoksa Risale-i Nur’un mesleği, nezihane ve nazikane ve kavl-i leyyindir.
 
 [^hâşiye2]: Evet, eğer intisap olsa o çekirdek, kader-i İlahîden bir emir alır, o hârika işlere mazhar olur. Eğer o intisap kesilse o çekirdeğin hilkati, koca çam ağacının hilkatinden daha ziyade cihazat ve iktidar ve sanatı iktiza eder. Çünkü dağdaki, kudret eseri olan mücessem çam ağacının bütün azaları ve cihazatıyla o çekirdekteki, kader eseri olan manevî ağaçta mevcud bulunması lâzım gelir. Çünkü o koca ağacın fabrikası, o çekirdektir. İçindeki kaderî ağaç, kudretle hariçte tezahür eder, cismanî çam ağacı olur.
-

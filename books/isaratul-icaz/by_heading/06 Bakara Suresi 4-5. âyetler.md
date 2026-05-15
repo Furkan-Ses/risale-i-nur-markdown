@@ -296,4 +296,3 @@ Nasıl ki Zeyd’i ele almakla “Zeyd âlimdir, Zeyd fâzıldır, Zeyd güzeldi
 Kur’an’a muhatap olan, matlubları ve istekleri muhtelif pek çok tabakalardır ki bir kısmı, ateşten necat istiyorlar; bir kısmı, cennete girmek istiyorlar; bir kısmı, rü’yete mazhar olmak istiyorlar. Ve bunlar gibi o tabakaların pek çok dilekleri vardır. Kur’an-ı Kerîm <span class="arabic" dir="rtl">اَلْمُفْلِحُونَ</span> kelimesini âmm ve mutlak bırakmıştır ki herkes istediğini takip etsin.
 
 ***
-

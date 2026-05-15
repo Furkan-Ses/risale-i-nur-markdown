@@ -50,4 +50,3 @@ Hattâ bir bahtiyar mazlum, idam olunurken bedbaht zalimlere demiş: “Ben idam
 <p class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</p>
 
 ***
-

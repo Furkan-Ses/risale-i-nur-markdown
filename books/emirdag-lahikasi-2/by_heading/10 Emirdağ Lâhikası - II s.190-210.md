@@ -291,4 +291,3 @@ Said Nursî
 [^hâşiye2]: İslâmiyet milleti her şeye kâfidir. Din, dil bir ise millet de birdir. Din bir ise yine millet birdir.
 
 [^hâşiye3]: Denizli’de bütün Risale-i Nur eczaları iade edilmesi ve İstanbul’da ve Ankara’da ele geçen bütün risaleleri iade etmeleri ve Tarsus-Mersin’de ellerine geçen umum risaleleri iade etmeleri ve dört ay Ankara bütün risaleleri tetkik ile iadesine ve beraetine karar vermeleri ve o beraet ve iadeyi Temyiz dört defa tasdik etmesi ve en ziyade uğraşan Afyon, dört sene sonra iki defa beraet ve iadesine karar vermesi gösteriyor ki adliyeler tamamıyla hakiki adaletle iş görmüşler ki yeni şeylerin ehemmiyeti kalmıyor.
-

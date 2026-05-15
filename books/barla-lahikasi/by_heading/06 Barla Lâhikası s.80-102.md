@@ -463,4 +463,3 @@ Ahmed Galib
 [^hâşiye1]: Latîf bir tevafuktur ki birinci Hulusi ile ikinci Hulusi unvanını alan Sabri Efendi, buradaki –birbirinden çok uzak oldukları halde– aynı fıkrayı mektuplarında bana karşı yazıyorlar.
 
 [^hâşiye2]: Ben kardeşim Hüsrev’in bu makamdaki hissiyatına iştirak edemiyorum. İnsanların nazarında mevki kazanmak ve dillerinde yâd edilmek, hakikatbîn olanlarca bir şeref değildir. Eğer rıza-yı İlahî varsa o rızanın cilvesi olarak insanlarda teveccüh görünse, bir derece emare-i rıza olmak noktasında makbul olabilir. Yoksa arzu edilmemeli. Madem Hüsrev hakikatbîndir, elbette benim şahsıma havale ettiği şerefi, risaleleri niyet ediyor. Zaten o şerefte umum talebeler hissedardırlar, tek birisine verilmez.
-

@@ -3,8 +3,6 @@ title: "Onbirinci Söz"
 slug: "onbirinci-soz"
 start_page: 120
 end_page: 129
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Onbirinci Söz

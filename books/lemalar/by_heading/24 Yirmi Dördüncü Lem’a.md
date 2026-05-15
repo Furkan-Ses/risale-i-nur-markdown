@@ -125,4 +125,3 @@ Duanıza muhtaç kardeşiniz
 [^hâşiye1]: Mahkemeye karşı ve mahkemeyi susturan lâyiha-i Temyizin müdafaatından bir parça:
 
 “Ben de adliyenin mahkemesine derim ki: Bin üç yüz elli senede ve her asırda üç yüz elli milyon insanların hayat-ı içtimaiyesinde en kudsî ve hakiki ve hakikatli bir düstur-u İlahîyi, üç yüz elli bin tefsirin tasdiklerine ve ittifaklarına istinaden ve bin üç yüz elli sene zarfında geçmiş ecdadımızın itikadlarına iktidaen tefsir eden bir adamı mahkûm eden haksız bir kararı, elbette rûy-i zeminde adalet varsa o kararı red ve bu hükmü nakzedecektir!”
-

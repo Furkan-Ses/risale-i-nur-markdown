@@ -1,8 +1,8 @@
 # İşaratü'l-i'caz
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/07 İşaratü'l-i'caz`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/07 İşaratü'l-i'caz`
 - Bölüm sayısı: **27**
-- Upstream indeks: [00 İŞARATÜ’L-İ’CAZ.md](../../sources/official-markdown-mirror/obsidian-markdown/07 İşaratü'l-i'caz/00 İŞARATÜ’L-İ’CAZ.md)
+- Kaynak aynası indeksi: [00 İŞARATÜ’L-İ’CAZ.md](../../sources/official-markdown-mirror/obsidian-markdown/07 İşaratü'l-i'caz/00 İŞARATÜ’L-İ’CAZ.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -36,7 +36,7 @@
 | 26 | Dua (İşaratü’l-İ’caz) | [26 Dua (İşaratü’l-İ’caz).md](../../sources/official-markdown-mirror/obsidian-markdown/07 İşaratü'l-i'caz/26 Dua (İşaratü’l-İ’caz).md) |
 | 27 | Fihrist (İşaratü’l-İ’caz) | [27 Fihrist (İşaratü’l-İ’caz).md](../../sources/official-markdown-mirror/obsidian-markdown/07 İşaratü'l-i'caz/27 Fihrist (İşaratü’l-İ’caz).md) |
 
-## Verified Isaratul-icaz
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Isaratul-icaz.md](../../books/isaratul-icaz/Isaratul-icaz.md)
 - Bölüm klasörü: [by_heading](../../books/isaratul-icaz/by_heading)

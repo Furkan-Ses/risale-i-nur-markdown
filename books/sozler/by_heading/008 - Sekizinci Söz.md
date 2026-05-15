@@ -3,8 +3,6 @@ title: "Sekizinci Söz"
 slug: "sekizinci-soz"
 start_page: 34
 end_page: 39
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Sekizinci Söz

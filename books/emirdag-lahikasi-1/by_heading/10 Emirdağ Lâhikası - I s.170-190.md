@@ -292,4 +292,3 @@ Hapishanede, hakikaten şahsıma ve Nurcuların ittihadına ve mahpusların Nurc
 [^hâşiye5]: Bu defaki yirmi dört sahifede yalnız iki üç noktada <span class="arabic" dir="rtl">خ , ح</span> olmuş, başka yok. Bir “çok” kelimesi noksan, mana anlaşılır; daha tamamına bakamadım.
 
 [^hâşiye6]: Bu merhum kardeşimizin Nur’a ait müteaddid vazifelerini tamamen görecek ve şakirdlerin tensibiyle ve meşveretiyle intihab edilecek bir yeni kahraman bulununcaya kadar, o vazifeleri taksimü’l-a’mal suretinde her bir şakird bir vazifesini yapmaya başlasın. Demirbaş Ali Osman, bu vazife Isparta’da sana düştü. Hem oradaki kardeşlerin meşvereti ile onun yeri boş kalmamak için Nur’la onun gibi çok alâkadar birisi, şimdilik Denizli Hüsrev’i vaziyetini alsın. Ona hediye ettiğim takkeyi muhafaza etsin tâ hakiki sahib çıkasıya kadar.
-

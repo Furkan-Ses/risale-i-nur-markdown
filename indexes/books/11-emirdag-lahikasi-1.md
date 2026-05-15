@@ -1,8 +1,8 @@
 # Emirdağ Lâhikası 1
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1`
 - Bölüm sayısı: **15**
-- Upstream indeks: [00 EMİRDAĞ LÂHİKASI - I.md](../../sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/00 EMİRDAĞ LÂHİKASI - I.md)
+- Kaynak aynası indeksi: [00 EMİRDAĞ LÂHİKASI - I.md](../../sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/00 EMİRDAĞ LÂHİKASI - I.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -24,7 +24,7 @@
 | 14 | Emirdağ Lâhikası - I s.251-270 | [14 Emirdağ Lâhikası - I s.251-270.md](../../sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/14 Emirdağ Lâhikası - I s.251-270.md) |
 | 15 | Emirdağ Lâhikası - I s.271-288 | [15 Emirdağ Lâhikası - I s.271-288.md](../../sources/official-markdown-mirror/obsidian-markdown/11 Emirdağ Lâhikası 1/15 Emirdağ Lâhikası - I s.271-288.md) |
 
-## Verified Emirdag Lahikasi 1
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Emirdag Lahikasi 1.md](../../books/emirdag-lahikasi-1/Emirdag Lahikasi 1.md)
 - Bölüm klasörü: [by_heading](../../books/emirdag-lahikasi-1/by_heading)

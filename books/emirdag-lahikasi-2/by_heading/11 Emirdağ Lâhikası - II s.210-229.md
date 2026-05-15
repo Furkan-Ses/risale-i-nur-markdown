@@ -244,4 +244,3 @@ Cevaben dedi ki: “Benim ile görüşmek isteyenler, ya muarızdır veya dosttu
 Şiddetli hastalığı ve çok ihtiyarlığı için zarurî işlerini gören hizmetkârları
 
 ***
-

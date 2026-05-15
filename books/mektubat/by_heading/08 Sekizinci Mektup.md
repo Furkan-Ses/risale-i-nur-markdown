@@ -32,4 +32,3 @@ Demek, suver-i Kur’aniyenin en parlağı olan Sure-i Yusuf’un en parlak nuru
 **Said Nursî**
 
 ***
-

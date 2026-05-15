@@ -244,4 +244,3 @@ Evet sanki sevgili, müşfik Üstadımız İhtiyarlar Risalesi’ni gençlere, H
 Çok kusurlu ve hasta talebeniz Mehmed Feyzi
 
 ***
-

@@ -188,9 +188,9 @@ def collect_reference_sources() -> list[dict[str, object]]:
         merged_title = merged_path.stem
         references.append(
             {
-                "id": f"verified-book-{reference_slug}",
+                "id": f"reading-book-{reference_slug}",
                 "slug": reference_slug,
-                "title": f"Verified {merged_title}",
+                "title": merged_title,
                 "merged_title": merged_title,
                 "merged_path": merged_path.relative_to(ROOT).as_posix(),
                 "section_dir": by_heading_dir.relative_to(ROOT).as_posix(),
@@ -215,18 +215,18 @@ def write_catalog(books: list[dict[str, object]], references: list[dict[str, obj
         "sources": [
             {
                 "id": "source-mirror",
-                "title": "Upstream source mirror",
+                "title": "Source mirror",
                 "license": "CC BY-ND 4.0",
                 "provenance_readme": "sources/official-markdown-mirror/README.upstream.md",
                 "path": "sources/official-markdown-mirror/obsidian-markdown",
                 "structure": "Obsidian-style hierarchy with top-level contents and per-book 00 index files.",
             },
             {
-                "id": "verified-books",
-                "title": "Verified books",
+                "id": "reading-layer-books",
+                "title": "Reading layer books",
                 "license": "Repository-local text source",
                 "path": "books",
-                "structure": "Verified merged book files plus stable by_heading split files.",
+                "structure": "Merged book files plus stable by_heading split files for human reading and downstream indexing.",
             },
         ],
         "books": books,
@@ -252,9 +252,9 @@ def write_top_level_index(books: list[dict[str, object]], references: list[dict[
         "3. **AI katmanı:** `ai/` altında frontmatter, manifest ve passage dosyaları",
         "4. **Makine kataloğu:** `generated/json/catalog.json`",
         "",
-        "## Upstream books",
+        "## Kaynak aynası kitapları",
         "",
-        "| # | Kitap | Bölüm | Upstream index | Yeni indeks |",
+        "| # | Kitap | Bölüm | Kaynak indeks | Repo indeksi |",
         "| --- | --- | ---: | --- | --- |",
     ]
 
@@ -275,7 +275,7 @@ def write_top_level_index(books: list[dict[str, object]], references: list[dict[
     rows.extend(
         [
             "",
-            "## Verified books",
+            "## Okuma katmanı kitapları",
             "",
             "| Kaynak | Birleşik dosya | Bölüm klasörü |",
             "| --- | --- | --- |",
@@ -298,7 +298,7 @@ def write_top_level_index(books: list[dict[str, object]], references: list[dict[
             "## Generated assets",
             "",
             "- `generated/json/catalog.json`: kitap ve bölüm kataloğu",
-            "- `generated/json/all-upstream-public-summary.json`: tüm upstream kitaplar için toplu uyum özeti",
+            "- `generated/json/all-upstream-public-summary.json`: tüm kaynak karşılaştırmaları için toplu uyum özeti",
             "- `generated/json/books/`: kitap bazlı official scrape ve karşılaştırma verileri",
             "- `reports/comparisons/all-upstream-public-summary.md`: insan-okur toplu özet raporu",
             "- `reports/comparisons/books/`: kitap bazlı karşılaştırma raporları",
@@ -323,13 +323,13 @@ def write_book_indexes(books: list[dict[str, object]]) -> None:
         rows = [
             f"# {book['title']}",
             "",
-            f"- Kaynak aynası klasörü: `/{book['path']}`",
+            f"- Kaynak aynası klasörü: `{book['path']}`",
             f"- Bölüm sayısı: **{book['section_count']}**",
         ]
 
         if source_index is not None:
             rows.append(
-                f"- Upstream indeks: [{source_index.name}]({repo_link(source_index, BOOK_INDEX_ROOT).as_posix()})"
+                f"- Kaynak aynası indeksi: [{source_index.name}]({repo_link(source_index, BOOK_INDEX_ROOT).as_posix()})"
             )
         if book.get("source_name"):
             rows.append(f"- Kaynak: {book['source_name']}")
@@ -358,7 +358,7 @@ def write_book_indexes(books: list[dict[str, object]]) -> None:
             rows.extend(
                 [
                     "",
-                    f"## Verified {reference['merged_title']}",
+                    "## Okuma katmanı kopyası",
                     "",
                     f"- Birleşik kitap dosyası: [{canonical_merged.name}]({repo_link(canonical_merged, BOOK_INDEX_ROOT).as_posix()})",
                     f"- Bölüm klasörü: [{canonical_section_dir.name}]({repo_link(canonical_section_dir, BOOK_INDEX_ROOT).as_posix()})",

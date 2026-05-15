@@ -6,4 +6,3 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 Hatt-ı Kur’an Lem’alar mecmuasında neşredilmiştir.
 
 ***
-

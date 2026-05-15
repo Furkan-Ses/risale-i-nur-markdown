@@ -372,4 +372,3 @@ Said Nursî
 [^hâşiye2]: Cây-ı dikkattir ki sekiz dokuz seneden beri zulüm ve tazyikat altında gizlemeye mecbur olduğum en eski ve en mahrem evrakları âni olarak taharri edip hiçbir şey bırakmayarak alındığı halde, mûcib-i telaş ve dâî-i endişe ve medar-ı hicab ve hacalet bir şey bulunmaması; garazkâr, sû-i zanlı ehl-i dünyanın ona karşı ettikleri haksız tazyikat ve tarassud ne kadar çirkin ve hata olduğunu gösteriyor.
 
 Acaba onu ittiham eden ve kendini vatana ve millete sadık tevehhüm eden ehl-i dünyanın en büyük memurundan en küçüğüne kadar, değil sekiz dokuz sene, belki sekiz dokuz ay zarfında en mahrem ve en gizli evrakı meydana atılıp tetkik edilse ona telaş verecek ve utandıracak sekiz dokuz madde çıkmaz mı?
-

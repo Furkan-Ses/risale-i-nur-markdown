@@ -309,4 +309,3 @@ Said Nursî
 [^hâşiye5]: Hem iman ile gideceğini haber veriyor.
 
 [^hâşiye6]: Âhir nefesteki kelimat-ı imaniyeyi âhir-i mektubunda zikretmesi, dünyadan kahramancasına imanını kurtarıp öyle gideceğine işaret eder.
-

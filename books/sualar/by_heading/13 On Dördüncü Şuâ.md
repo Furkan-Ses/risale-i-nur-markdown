@@ -1921,4 +1921,3 @@ Sungur
 [^hâşiye5]: Bu fırtına ise Afyon hapsinde bir isyan çıktı, hiçbir Nur talebesi karışmadı.
 
 [^hâşiye6]: Kardeşlerim namına âcizane diyorum ki: Lüzum olursa inşâallah çok ileri geçeceğiz. Bizler dinde olduğu gibi kahramanlıkta da ecdadımızın vârisleri olduğumuzu göstereceğiz.
-

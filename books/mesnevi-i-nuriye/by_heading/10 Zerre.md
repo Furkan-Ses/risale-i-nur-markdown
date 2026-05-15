@@ -147,4 +147,3 @@ Kezalik esma-i İlahiyeden bir hüceyreye veya bir mikroba tecelli eden bir isim
 Binaenaleyh faaliyette lezzet olduğu gibi ahval ve şuunatta da bir tebeddül olup bu tahavvül ve tebeddülden neş’et eden teessürat, teellümat, bir cihetten çirkin ise de birkaç cihetten de güzeldir. Evet, bir şeyin şekillerinde vukua gelen devir ve teslim sırasında gidenler müteessir, gelenler de memnun olurlar. Ve bu sayede hayat tasaffi eder, temizlenir. Vücud da teceddüd eder.
 
 ***
-

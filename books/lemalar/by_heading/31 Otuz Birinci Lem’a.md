@@ -8,4 +8,3 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 [^hâşiye1]: Bilâhare Üstadımızın tensibi ile On Dördüncü Şuâ Afyon Mahkemesi Müdafaası ve mektupları ve On Beşinci Şuâ ise “El-Hüccetü’z-Zehra” olarak tesmiye edilmiş ve neşredilmiştir.
 
 Bedîüzzaman’ın Hizmetkârları
-

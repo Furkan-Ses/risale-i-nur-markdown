@@ -696,4 +696,3 @@ Nazif, Hüsrev
 [^hâşiye8]: O zaman meşrutiyet, şimdi o kelime yerine cumhuriyet konulmuş.
 
 [^hâşiye9]: Evet, daha dehşetli bir istibdat ile pek acı ve zehirli bir esareti bize içirdiler.
-

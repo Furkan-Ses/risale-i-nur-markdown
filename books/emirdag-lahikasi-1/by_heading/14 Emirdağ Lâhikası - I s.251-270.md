@@ -264,4 +264,3 @@ Safranbolu kahramanı berber Hıfzı; Hüsnü, Yılmaz iki masum Nurcu mahdumlar
 ***
 
 [^hâşiye1]: Risale-i Nur’dan Arabî İşaratü’l-İ’caz tefsiri otuz sene evvel, onun bu kıymetli hakperestane hükmüne işaret etmiş.
-

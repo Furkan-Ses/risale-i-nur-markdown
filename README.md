@@ -49,12 +49,28 @@ Doğrulanmış **Risale-i Nur Markdown korpusu**. Bu repo iki ana kullanım sena
 | `sources/official-markdown-mirror/` | Kaynak aynası ve yeniden üretim referansı |
 | `scripts/` | Katalog, karşılaştırma ve AI build scriptleri |
 
+## Neden bazı kitaplar birden fazla yerde görünüyor?
+
+Bu repo içinde aynı metin üç farklı amaç için bulunur:
+
+- `books/` - **ana okuma katmanı**; insanlar için esas kaynak budur
+- `ai/books/` - **AI katmanı**; aynı metnin frontmatter, sabit kimlik ve section yapısı eklenmiş türetilmiş kopyasıdır
+- `sources/official-markdown-mirror/` - **kaynak aynası**; yeniden üretim, karşılaştırma ve provenans kontrolü için tutulur
+
+Yani bu tekrarlar rastgele çoğaltma değildir. İnsan okuması için **`books/`**, retrieval ve chatbot entegrasyonu için **`ai/`**, kaynak takibi için ise **`sources/`** kullanılır.
+
 ## Editoryal ilke
 
 - anlam bozucu OCR kalıntıları kabul edilmez
 - kelime ve cümle sadakati önceliklidir
 - noktalama, başlık veya edisyon farkları saklanmaz; raporlanır
 - AI katmanı metni yeniden yazmaz; yalnızca daha güvenli erişim için yapılandırır
+
+## Public repo güvenliği
+
+- repo içine kullanıcıya özel çalışma notları, local path'ler ve makineye özgü klasör referansları alınmaz
+- kişi bazlı atıf yalnızca bu README içinde tutulur
+- `make audit-public` komutu public sürümde local path veya kullanıcıya özel isim sızıntısı kalmadığını denetler
 
 ## Provenans
 
@@ -64,7 +80,6 @@ Metin hattı daha sonra repo içinde resmi Hizmet Vakfı yayımlarıyla karşıl
 
 Kısaca:
 
-- kişi ve repo atfı: **Ali Tekdemir / Risale-i-Nur-Diyanet**
 - teknik kaynak aynası: `sources/official-markdown-mirror/`
 - doğrulanmış insan okuma katmanı: `books/`
 - AI için türetilmiş kullanım katmanı: `ai/`
@@ -81,6 +96,7 @@ Obsidian uygulaması repoya gömülü gelmez; ancak repo düz Markdown yapısıy
 
 - bütün repoyu vault olarak açıp `books/`, `ai/`, `indexes/` arasında gezinmek
 - veya yalnızca `books/` klasörünü ayrı bir vault olarak kullanmak
+- günlük okuma için `books/`, kaynak takibi için `indexes/`, AI bağlamı için `ai/` kullanılmalıdır
 
 ### Graphify
 
@@ -89,8 +105,7 @@ Graphify, bu korpus üzerinde bilgi grafı, GraphRAG, konu kümeleri ve keşif o
 İsteğe bağlı kurulum:
 
 ```bash
-python3 -m pip install -r requirements.txt
-python3 -m pip install -r requirements-optional.txt
+make setup-optional
 ```
 
 Hazır komutlar:
@@ -99,9 +114,13 @@ Hazır komutlar:
 make catalog
 make compare
 make ai
-make graphify
-make graphify-deep
+make audit-public
+make verify-public
+make graphify GRAPHIFY_PATH=books/sozler
+make graphify-deep GRAPHIFY_PATH=books/mektubat
 ```
+
+Not: graphify hedefi varsayılan olarak tek bir kitap veya alt klasör üzerinde çalıştırılmalıdır. Tüm repo ağacı yerine konu bazlı veya kitap bazlı grafik üretmek daha temiz ve daha anlamlı sonuç verir.
 
 ## Yeniden üretim
 

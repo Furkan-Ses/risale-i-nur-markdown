@@ -155,4 +155,3 @@ Eğer Cenab-ı Hak muvaffak etse mugayyebat-ı hamseye dair bazı nükteler yaz�
 [^hâşiye2]: <span class="arabic" dir="rtl">فٖى عَيْنٍ حَمِئَةٍ</span> deki <span class="arabic" dir="rtl">عَيْنٍ</span> tabiri, esrar-ı belâgatça latîf bir manayı remzen ihtar ediyor. Şöyle ki: “Sema ve yüzü, Güneş gözüyle zeminin yüzündeki cemal-i rahmeti seyirden sonra, zemin dahi deniz gözüyle yukarıdaki azamet-i İlahiyeyi temaşayı müteakip; o iki göz birbiri içine kapanırken rûy-i zemindeki gözleri kapıyor.” diye mu’cizane bir kelime ile hatırlatıyor ve gözler vazifesine paydos işaretine işaret ediyor.
 
 [^hâşiye3]: Rûy-i zeminde mürur-u zamanla dağ şeklini almış, tanınmayacak bir surete gelmiş çok sun’î setler vardır.
-

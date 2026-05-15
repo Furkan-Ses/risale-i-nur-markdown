@@ -739,4 +739,3 @@ Bu hâşiyenin mealini gözümüzle gördük.
 Bekir, Tevfik, Süleyman, Galib, Said
 
 [^hâşiye5]: Tevafukat ise ittifaka işarettir; ittifak ise ittihada emaredir, vahdete alâmettir; vahdet ise tevhidi gösterir; tevhid ise Kur’an’ın dört esasından en büyük esasıdır.
-

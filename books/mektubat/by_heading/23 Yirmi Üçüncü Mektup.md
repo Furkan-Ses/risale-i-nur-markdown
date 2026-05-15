@@ -102,4 +102,3 @@ Hem Hazret-i Yusuf’un âlî sıddıkıyetini gösteriyor ve diyor: Dünyanın 
 <span class="arabic" dir="rtl">اَلْبَاقٖى هُوَ الْبَاقٖى</span>
 
 **Said Nursî**
-

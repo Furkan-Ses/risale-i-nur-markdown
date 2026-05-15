@@ -336,4 +336,3 @@ Süleyman Rüşdü namındaki kardeşimiz, bu hâdise gecesinden evvel –sabahl
 Elhasıl: Risale-i Nur’un şakirdlerinin şahs-ı manevîsi kerametkârane bir hassasiyet gösteriyor ki Hâfız Ali ulvi sadakatiyle, birinci Süleyman selim kalbiyle, ikinci Süleyman Rüşdü müstakim aklıyla, Küçük Lütfü latîf nuruyla üstadlarının imdadına manen koşmuşlar, sıkıntısına iştirak ile tahfifine çalışmışlar.
 
 Said
-

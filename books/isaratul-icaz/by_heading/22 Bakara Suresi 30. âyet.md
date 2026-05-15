@@ -142,4 +142,3 @@ Melaikeye verilen o icmalî cevabın tahkiki hakkında <span class="arabic" dir=
 Ve keza Cenab-ı Hak hayr-ı mahz olarak melaikeyi yaratmıştır, şerr-i mahz olarak da şeytanı yaratmıştır, hayır ve şerden mahrum olarak behaim ve hayvanatı halk etmiştir. Hikmetin iktizasına göre, hayır ve şerre kādir ve câmi’ olarak dördüncü kısmı teşkil eden beşerin yaratılması da lâzımdır ki beşerin şeheviye ve gazabiye kuvvetleri kuvve-i akliyesine münkad ve mağlup olursa beşer, mücahedesinden dolayı melaikeye tefevvuk eder. Aksi halde hayvanattan daha aşağı olur çünkü özrü yoktur.
 
 ***
-

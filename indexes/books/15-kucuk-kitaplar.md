@@ -1,8 +1,8 @@
 # Küçük Kitaplar
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar`
 - Bölüm sayısı: **12**
-- Upstream indeks: [00 KÜÇÜK KİTAPLAR.md](../../sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/00 KÜÇÜK KİTAPLAR.md)
+- Kaynak aynası indeksi: [00 KÜÇÜK KİTAPLAR.md](../../sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/00 KÜÇÜK KİTAPLAR.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -21,7 +21,7 @@
 | 11 | KONFERANS | [11 KONFERANS.md](../../sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/11 KONFERANS.md) |
 | 12 | Tılsımlar | [12 Tılsımlar.md](../../sources/official-markdown-mirror/obsidian-markdown/15 Küçük Kitaplar/12 Tılsımlar.md) |
 
-## Verified Kucuk Kitaplar
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Kucuk Kitaplar.md](../../books/kucuk-kitaplar/Kucuk Kitaplar.md)
 - Bölüm klasörü: [by_heading](../../books/kucuk-kitaplar/by_heading)

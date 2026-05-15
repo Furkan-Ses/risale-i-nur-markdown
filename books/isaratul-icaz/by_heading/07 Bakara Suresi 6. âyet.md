@@ -140,4 +140,3 @@ Eğer o göz küfür zulmetiyle kör olursa dünya, genişliğiyle beraber bir h
 <span class="arabic" dir="rtl">لَا يُؤْمِنُونَ</span> kelimesi ise inzar ile adem-i inzar arasındaki müsavata nassederek <span class="arabic" dir="rtl">سَوَٓاءٌ</span> kelimesine tekiddir.
 
 ***
-

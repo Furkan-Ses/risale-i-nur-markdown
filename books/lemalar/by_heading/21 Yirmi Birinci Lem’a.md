@@ -153,4 +153,3 @@ Ey tembellik damarıyla yazıdan usanan ve ey sofi-meşrep kardeşler! Bu iki ha
 5. Bazen bir saati bir sene ibadet hükmüne geçen tefekkürî olan ibadeti yapmaktır.
 
 **Rüşdü, Hüsrev, Re’fet**
-

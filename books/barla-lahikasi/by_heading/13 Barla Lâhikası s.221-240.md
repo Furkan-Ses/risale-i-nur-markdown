@@ -289,4 +289,3 @@ Nasıl ki Kur’an-ı Hakîm bütün dünyaya, ins ve cinne bin küsur seneden b
 Hâfız Ali
 
 ***
-

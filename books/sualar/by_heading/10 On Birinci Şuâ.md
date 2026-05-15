@@ -947,4 +947,3 @@ Ben bu mektubu, bu tadilat ile yazdığımız halde iki defa bir güvercin yanı
 [^hâşiye4]: Denizli Hapsinin meyvesine Onuncu Mesele olarak Emirdağı’nın ve bu ramazan-ı şerifin nurlu bir küçük çiçeğidir. Tekrarat-ı Kur’aniyenin bir hikmetini beyanla ehl-i dalaletin ufunetli ve zehirli evhamlarını izale eder.
 
 [^hâşiye5]: Bu risalenin telifinden on iki sene evvel. (Nâşir)
-

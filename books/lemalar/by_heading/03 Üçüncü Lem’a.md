@@ -75,4 +75,3 @@ Hem şu hakikate bina edilen beyne’l-evliya kesretle vuku bulmuş olan “bast
 ***
 
 [^hâşiye1]: <span class="arabic" dir="rtl">قَالَ قَٓائِلٌ مِنْهُمْ كَمْ لَبِثْتُمْ قَالُوا لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍ</span> âyetiyle <span class="arabic" dir="rtl">وَلَبِثُوا فٖى كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنٖينَ وَازْدَادُوا تِسْعًا</span> âyeti “tayy-ı zaman”ı gösterdiği gibi <span class="arabic" dir="rtl">وَاِنَّ يَوْمًا عِنْدَ رَبِّكَ كَاَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ</span> âyeti de “bast-ı zaman”ı gösterir.
-

@@ -1063,4 +1063,3 @@ Hulusi
 [^hâşiye56]: Adaletin tevziinde adalet olmazsa zulüm görünür. Bir hatır için bin hatır kırılmaz. Şiddet ayrı, hamiyet ayrıdır. Bir hodpesend hakkı iltizam etse çokları haksızlığa sevk eder belki mecbur eder.
 
 [^hâşiye57]: Şimdi anlıyorum ki ne dediğimi anlamıyorsunuz. Zira ben siz oluyorum, anlamıyorum. Şunun büyük kardeşi olan “Ulema Reçetesi” daha mübhem konuşuyor. Demek beraber gezmekliğim lâzım. İşte ben de hayalimi terfik ettim.
-

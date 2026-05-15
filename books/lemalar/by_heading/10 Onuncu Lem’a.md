@@ -114,4 +114,3 @@ Yoksa mü’min bu dünyada dahi kâfirden manen ve hakikat nokta-i nazarında �
 [^hâşiye2]: Yani Türkçe ezan gibi şeair-i İslâmiyeye muhalif bid’atlardır.
 
 [^hâşiye3]: Tevafuk mu’cizesini gösterir bir surette demektir.
-

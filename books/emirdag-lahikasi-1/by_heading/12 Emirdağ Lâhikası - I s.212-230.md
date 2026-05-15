@@ -236,4 +236,3 @@ Nurların birinci medresesi olan ve ben ruhen çok alâkadar olduğum Barla’n�
 Nur Santralı kardeşimiz Hoca Sabri’nin, eskiden beri onun gibi Nurcu refikasının ve mübarek mahdumu Nureddin’in (Yaşar) küçük bir mektuplarını aldım. Cenab-ı Hak, onlara sıhhat ve âfiyet ve saadet ihsan eylesin, âmin!
 
 ***
-

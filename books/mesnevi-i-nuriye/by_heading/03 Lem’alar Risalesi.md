@@ -165,4 +165,3 @@ Kezalik kâinatta görünen âsârın kemali, hadsî bir müşahede ile ef’ali
 ***
 
 [^hâşiye1]: İhtar: Kâinatın eczasından her bir cüzün elli beş lisanla Vâhid-i Ehad ve Vâcibü’l-vücud’u ilan etmekte olduğunu, Kur’an’ın feyzinden fehmedip icmalen Katre namındaki eserimde beyan etmişimdir. Arzu eden oraya müracaat etsin.
-

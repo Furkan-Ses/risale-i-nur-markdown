@@ -94,4 +94,3 @@ Cenab-ı Hak hadsiz kudret ve nihayetsiz rahmetini göstermek için insanda hads
 Öyle de musibetlerle, hastalıklarla, âlâm ile sair müheyyic ve muharrik arızalar ile o makinenin diğer çarklarını harekete getirir, tehyic eder. Mahiyet-i insaniyede münderic olan acz ve zaaf ve fakr madenini işlettiriyor. Bir lisan ile değil belki her bir azanın lisanıyla bir iltica, bir istimdad vaziyeti verir. Güya insan o arızalar ile ayrı ayrı binler kalemi tazammun eden müteharrik bir kalem olur. Sahife-i hayatında veyahut Levh-i Misalî’de mukadderat-ı hayatını yazar, esma-i İlahiyeye bir ilanname yapar ve bir kaside-i manzume-i Sübhaniye hükmüne geçip, vazife-i fıtratını îfa eder.
 
 ***
-

@@ -326,4 +326,3 @@ Kardeşiniz Said Nursî
 [^hâşiye1]: Üstadımız has hizmetçilerinden başka, hiç kimseyi ihtiyarıyla kabul etmez. Hattâ daimî hizmetinde bulunan iki üçümüzün beraber bulunduğunu istemez. Şimdiye kadar hizmet edenlerden maadasını, beş on günde bir defa bile kabul etmez, geri gönderir. Eski zamanını düşünüp, şimdi dahi siyasetle ve ahval-i âlemle münasebettar olduğunu tevehhüm edenlerin, asılsız vehimlerini kat’î reddedecek şu halidir ki on üç sene evvel, günde belki dokuz gazete okurken, dokuz senedir biz şehadet ediyoruz ki bir tek gazeteyi bile ne okudu ve ne de okutturdu, ne istedi ve ne de arzu ettirdi.
 
 Münavebe ile yanında bulunan **Süleyman Rüşdü**, Münavebe ile yanında bulunan **Hüsrev**, Münavebe ile yanında bulunan **Re’fet**, Sekiz senelik bir arkadaşı **Bekir**, Barla’da daimî hizmetkârı **Mustafa Çavuş**, Sekiz senelik hizmetinde bulunan bir arkadaşı **Barlalı Süleyman**
-

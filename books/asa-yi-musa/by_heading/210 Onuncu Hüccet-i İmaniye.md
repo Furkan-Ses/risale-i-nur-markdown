@@ -73,4 +73,3 @@ Ey insan! Bilir misin nereye gidiyorsun ve nereye sevk olunuyorsun? Otuz İkinci
 Hem şu kelime şöyle müjde veriyor, diyor ki: Ey insan! Fenaya, ademe, hiçliğe, zulümata, nisyana, çürümeye, dağılmaya ve kesrette boğulmaya gittiğinizi tevehhüm edip düşünmeyiniz. Siz fenaya değil, bekaya gidiyorsunuz. Ademe değil, vücud-u daimîye sevk olunuyorsunuz. Zulümata değil, âlem-i nura giriyorsunuz. Sahip ve Mâlik-i Hakiki’nin tarafına gidiyorsunuz ve Sultan-ı Ezelî’nin payitahtına dönüyorsunuz. Kesrette boğulmaya değil, vahdet dairesinde teneffüs edeceksiniz. Firaka değil, visale müteveccihsiniz.
 
 ***
-

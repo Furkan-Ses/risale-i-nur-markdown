@@ -131,4 +131,3 @@ Evet, sevgili üstadım, biz; Allah’tan, Kur’an’dan, Habib-i Zîşan’dan
 [^hâşiye1]: Denizli Hapsinin meyvesine Onuncu Mesele olarak Emirdağı’nın ve bu ramazan-ı şerifin nurlu bir küçük çiçeğidir. Tekrarat-ı Kur’aniyenin bir hikmetini beyanla ehl-i dalaletin ufunetli ve zehirli evhamlarını izale eder.
 
 [^hâşiye2]: Bu risalenin telifinden on iki sene evvel.
-

@@ -272,4 +272,3 @@ Kuleönü’nden Ali
 ***
 
 [^hâşiye1]: Mektubun bundan sonraki “Hâmisen” kısmı, Mektubat’ta Üçüncü Mektup’tadır.
-

@@ -1148,4 +1148,3 @@ Aynen öyle de cenneti ihbar edenler, yüz binler tereşşuhatını, meyvelerini
 [^hâşiye8]: Telif tarihine göredir.
 
 [^hâşiye9]: Askerlerin “Annem beni yetiştirdi, bu vatana yolladı.” marşına bir nazire olarak yazılan bu kaside, o makamda ve Gazalî Hazretlerinin “Ey risalet tahtının hurşid-i mâh-ı enveri” naat-ı şerifi makamında okunabilir.
-

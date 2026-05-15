@@ -373,4 +373,3 @@ Doktor Yusuf Kemal
 ***
 
 [^hâşiye1]: O tefekkürde bir günlük işi bir dakikada yapmış.
-

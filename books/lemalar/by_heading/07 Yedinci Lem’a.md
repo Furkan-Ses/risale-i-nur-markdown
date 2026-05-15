@@ -153,4 +153,3 @@ Acaba böyle latîf, zarif, muntazam, mevzun, i’cazlı bu tevafukat; nüktesiz
 ***
 
 [^hâşiye1]: Kardeşlerim her ikisini faydalı bulmasından iki izahı beraber kaydetmişler, yoksa biri kâfi idi.
-

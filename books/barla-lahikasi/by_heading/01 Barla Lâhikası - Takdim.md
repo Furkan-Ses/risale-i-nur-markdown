@@ -62,4 +62,3 @@ Ancak son kısımlara doğru, el yazmalarda bulunmayan Hulusi ve Re’fet Ağabe
 “Re’fet kardeş! Sen de çok safalar geldin ve Risale-i Nur yazısı ile meşguliyetin beni cidden sevindirdi. Hulusi ve Sabri gibi senin de suallerinin Risale-i Nur’da ehemmiyetli neticeleri ve tatlı meyveleri var. Senin yanında bulunan ve risalelerde kaydedilmeyen ilmî parçaları münasip yerlerde veya Lâhika’da yazarsınız.”
 
 ***
-

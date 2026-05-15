@@ -589,4 +589,3 @@ Bu üç tabaka dahi beni manevî dua ve kazançlarında dâhil etmek şarttır.
 ***
 
 [^hâşiye1]: Kur’an-ı Hakîm, kâfirlerin küfriyatlarını ve galiz tabiratlarını iptal etmek için zikrettiğine istinaden, ehl-i dalaletin fikr-i küfrîlerinin bütün bütün muhaliyetini ve bütün bütün çürüklüğünü göstermek için şu tabiratı farz-ı muhal suretinde, titreyerek kullanmaya mecbur oldum.
-

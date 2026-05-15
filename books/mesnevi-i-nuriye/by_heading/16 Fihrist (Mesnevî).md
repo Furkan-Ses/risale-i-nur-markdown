@@ -189,4 +189,3 @@ Hem bu mecmuada bulunan yüzlerce i’lemlerden yalnız pek az bir kısmının p
 Mustafa Gül ve Tahirî Mutlu
 
 ***
-

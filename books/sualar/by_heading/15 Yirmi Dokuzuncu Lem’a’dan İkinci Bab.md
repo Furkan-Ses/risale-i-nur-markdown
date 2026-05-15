@@ -116,4 +116,3 @@ Said Nursî
 Mütercim
 
 Abdülmecid Nursî
-

@@ -38,4 +38,3 @@ Hamza, Mehmed Şefik, Mehmed Mihri
 [^hâşiye2]: Yeni Said, Risale-i Nur’daki hakiki ihlas ile yine o ihlası buldu. Yeni Said, aynı ihlas ile baktı, tashih yerini bulamadı. Demek sünuhat-ı Kur’aniye olduğundan i’caz-ı Kur’aniye onu yanlışlardan himaye etmiş.
 
 Nur talebeleri
-

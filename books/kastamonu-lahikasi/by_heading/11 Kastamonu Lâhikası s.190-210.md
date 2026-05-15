@@ -287,4 +287,3 @@ Hem kahraman Tahir’in bana yazdığı Müdafaat Risalesi’nde, İhtiyar Lem�
 [^hâşiye2]: Risale-i Nur’un bir vazifesi; huruf-u Kur’aniyeyi muhafaza olduğundan yeni hurufa, zaruret derecesinde inşâallah müsaade olur.
 
 [^hâşiye3]: Evet, maddiyyunluk taununun hastalığı nev-i beşere bu dehşetli sıtmayı ve küre-i arza bu titremeyi vermiştir.
-

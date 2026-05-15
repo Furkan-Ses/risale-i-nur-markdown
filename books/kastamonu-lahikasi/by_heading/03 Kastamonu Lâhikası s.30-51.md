@@ -305,4 +305,3 @@ Bu havanın zararından kurtulmak çaresi, Risale-i Nur’un gözüyle bakmak ve
 [^hâşiye1]: Yani elması elmas bildiği halde, camı ona tercih eder.
 
 [^hâşiye2]: Evet, bazı ehl-i velayetin ileride talebesi olacak zatlar, daha dünyaya gelmeden, hiss-i kable’l-vukuun inkişafıyla kerametkârane keşfettikleri gibi Risale-i Nur’un talebelerinin mühimlerinden birkaç zat dahi çok zaman evvel, bir hiss-i kable’l-vuku ile ileride Said ile alâkadar bir surette bir Nur’a hizmet edeceğini hissetmişler. İşte onların birisi de Nazif’tir.
-

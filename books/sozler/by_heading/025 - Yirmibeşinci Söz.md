@@ -3,8 +3,6 @@ title: "Yirmibeşinci Söz"
 slug: "yirmibesinci-soz"
 start_page: 365
 end_page: 462
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Yirmibeşinci Söz

@@ -265,4 +265,3 @@ Yine o şahıs, ecram-ı ulviye ile öyle bir kesb-i muarefe eder ki hangi bir c
 <p class="arabic" dir="rtl">اَللّٰهُمَّ بِحُرْمَةِ هٰذِهِ السُّورَةِ اِجْعَلْنَا مِنْ اَصْحَابِ الصِّرَاطِ الْمُسْتَقٖيمِ اٰمٖينَ</p>
 
 ***
-

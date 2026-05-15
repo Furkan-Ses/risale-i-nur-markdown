@@ -1502,4 +1502,3 @@ Said Nursî
 [^hâşiye1]: O hanım “Âsiye”dir.
 
 [^hâşiye2]: İhtar: Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
-

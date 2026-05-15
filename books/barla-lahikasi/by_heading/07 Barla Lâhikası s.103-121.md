@@ -332,4 +332,3 @@ Sabri
 [^hâşiye2]: Benim bedelime şehit olacağını hissetmiş. Kuvvet-i ihlasının kerameti olarak haber veriyor. Haber verdiği gibi şehit oldu.
 
 Said Nursî
-

@@ -8,6 +8,7 @@ import shutil
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
+from tempfile import TemporaryDirectory
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -124,6 +125,10 @@ def write_frontmatter(data: dict[str, object], body: str) -> str:
     lines.append(body.strip())
     lines.append("")
     return "\n".join(lines)
+
+
+def final_ai_relpath(*parts: str) -> str:
+    return Path("ai", *parts).as_posix()
 
 
 def normalize_written_path(path: Path) -> Path:
@@ -254,7 +259,7 @@ def make_chunk(
     section: dict[str, object],
     chunk_index: int,
     blocks: list[ContentBlock],
-    ai_section_path: Path,
+    ai_section_relpath: str,
 ) -> dict[str, object]:
     heading_paths = []
     seen = set()
@@ -285,7 +290,7 @@ def make_chunk(
         "char_count": len(text),
         "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
         "source_section_path": section["source_path"].relative_to(ROOT).as_posix(),
-        "ai_section_path": ai_section_path.relative_to(ROOT).as_posix(),
+        "ai_section_path": ai_section_relpath,
         "source_name": section["meta"].get("source_name"),
         "source_url": section["meta"].get("source_url"),
         "official_alignment_status": summary_item.get("status"),
@@ -301,7 +306,11 @@ def make_chunk(
     }
 
 
-def build_chunks(book: dict[str, object], section: dict[str, object], ai_section_path: Path) -> list[dict[str, object]]:
+def build_chunks(
+    book: dict[str, object],
+    section: dict[str, object],
+    ai_section_relpath: str,
+) -> list[dict[str, object]]:
     blocks = parse_blocks(section["title"], section["body"])
     if not blocks:
         return []
@@ -323,7 +332,7 @@ def build_chunks(book: dict[str, object], section: dict[str, object], ai_section
             elif current_words >= TARGET_WORDS and heading_changed:
                 should_split = True
         if should_split:
-            chunks.append(make_chunk(book, section, len(chunks) + 1, current, ai_section_path))
+            chunks.append(make_chunk(book, section, len(chunks) + 1, current, ai_section_relpath))
             current = []
             current_words = 0
         current.append(block)
@@ -331,7 +340,7 @@ def build_chunks(book: dict[str, object], section: dict[str, object], ai_section
         previous_headings = block.headings
 
     if current:
-        chunks.append(make_chunk(book, section, len(chunks) + 1, current, ai_section_path))
+        chunks.append(make_chunk(book, section, len(chunks) + 1, current, ai_section_relpath))
 
     for index, chunk in enumerate(chunks):
         chunk["previous_chunk_id"] = chunks[index - 1]["chunk_id"] if index > 0 else None
@@ -340,7 +349,7 @@ def build_chunks(book: dict[str, object], section: dict[str, object], ai_section
     return chunks
 
 
-def write_ai_policy() -> None:
+def write_ai_policy(ai_root: Path) -> None:
     rows = [
         "# AI Answering Policy",
         "",
@@ -363,10 +372,10 @@ def write_ai_policy() -> None:
         "3. Gerekirse `previous_chunk_id` ve `next_chunk_id` ile bağlamı genişlet.",
         "4. Cevabı yalnız doğruladığın chunk'lara dayandır.",
     ]
-    (AI_ROOT / "ANSWERING_POLICY.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
+    (ai_root / "ANSWERING_POLICY.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
-def write_ai_readme(catalog: dict[str, object]) -> None:
+def write_ai_readme(ai_root: Path, catalog: dict[str, object]) -> None:
     rows = [
         "# AI Corpus Layer",
         "",
@@ -400,166 +409,213 @@ def write_ai_readme(catalog: dict[str, object]) -> None:
         "python3 scripts/build_ai_corpus.py",
         "```",
     ]
-    (AI_ROOT / "README.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
+    (ai_root / "README.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
+
+
+def validate_ai_book_output(
+    book: dict[str, object],
+    ai_sections_dir: Path,
+    section_entries: list[dict[str, object]],
+) -> None:
+    expected_sections = len(list(book["by_heading_dir"].glob("*.md")))
+    written_sections = len(list(ai_sections_dir.glob("*.md")))
+    if written_sections != expected_sections or len(section_entries) != expected_sections:
+        raise RuntimeError(
+            f"AI build drift detected for {book['slug']}: expected {expected_sections} sections, "
+            f"wrote {written_sections} files and {len(section_entries)} manifest entries."
+        )
+
+
+def validate_ai_root(ai_books_root: Path, expected_books: int) -> None:
+    duplicate_dirs = sorted(path.name for path in ai_books_root.iterdir() if path.is_dir() and path.name.endswith(" 2"))
+    if duplicate_dirs:
+        joined = ", ".join(duplicate_dirs)
+        raise RuntimeError(f"Unexpected duplicate AI directories detected: {joined}")
+    actual_books = len([path for path in ai_books_root.iterdir() if path.is_dir()])
+    if actual_books != expected_books:
+        raise RuntimeError(f"AI build drift detected: expected {expected_books} book directories, found {actual_books}.")
 
 
 def main() -> None:
-    if AI_ROOT.exists():
-        shutil.rmtree(AI_ROOT)
-    AI_BOOKS_ROOT.mkdir(parents=True, exist_ok=True)
-    AI_MANIFESTS_ROOT.mkdir(parents=True, exist_ok=True)
-    AI_PASSAGES_ROOT.mkdir(parents=True, exist_ok=True)
+    books = collect_books()
+    with TemporaryDirectory(dir=ROOT, prefix=".tmp-ai-build-") as temp_dir:
+        temp_ai_root = Path(temp_dir) / "ai"
+        temp_ai_books_root = temp_ai_root / "books"
+        temp_ai_manifests_root = temp_ai_root / "manifests"
+        temp_ai_passages_root = temp_ai_root / "passages"
+        temp_ai_books_root.mkdir(parents=True, exist_ok=True)
+        temp_ai_manifests_root.mkdir(parents=True, exist_ok=True)
+        temp_ai_passages_root.mkdir(parents=True, exist_ok=True)
 
-    catalog_books = []
-    all_chunks: list[dict[str, object]] = []
-    total_sections = 0
+        catalog_books = []
+        all_chunks: list[dict[str, object]] = []
+        total_sections = 0
 
-    for book in collect_books():
-        ai_book_dir = AI_BOOKS_ROOT / str(book["slug"])
-        ai_sections_dir = ai_book_dir / "sections"
-        ai_sections_dir.mkdir(parents=True, exist_ok=True)
+        for book in books:
+            ai_book_dir = temp_ai_books_root / str(book["slug"])
+            ai_sections_dir = ai_book_dir / "sections"
+            ai_book_dir.mkdir(parents=True, exist_ok=True)
+            ai_sections_dir.mkdir(parents=True, exist_ok=True)
 
-        merged_body = book["merged_path"].read_text(encoding="utf-8")
-        merged_meta, merged_body_stripped = parse_frontmatter(merged_body)
-        book_frontmatter = {
-            "book_id": book["slug"],
-            "book_title": book["title"],
-            "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
-            "source_section_dir": book["by_heading_dir"].relative_to(ROOT).as_posix(),
-            "source_name": merged_meta.get("source_name") or merged_meta.get("source name"),
-            "source_url": merged_meta.get("source_url") or merged_meta.get("source url"),
-            "official_alignment_status": book["summary"].get("status"),
-            "official_similarity": book["summary"].get("overall_similarity"),
-            "official_content_overlap": book["summary"].get("overall_content_overlap"),
-            "overlap_sections": book["summary"].get("overlap_sections"),
-            "upstream_only_sections": book["summary"].get("upstream_only_sections"),
-            "official_only_sections": book["summary"].get("official_only_sections"),
-        }
-        (ai_book_dir / "book.md").write_text(
-            write_frontmatter(book_frontmatter, merged_body_stripped),
-            encoding="utf-8",
-        )
-
-        section_entries = []
-        book_chunks: list[dict[str, object]] = []
-        for order, section_path in enumerate(sorted(book["by_heading_dir"].glob("*.md")), start=1):
-            raw = section_path.read_text(encoding="utf-8")
-            meta, body = parse_frontmatter(raw)
-            title = extract_title(section_path, body)
-            section_slug = slugify(title)
-            section_id = f"{book['slug']}.{order:03d}.{section_slug}"
-            ai_section_filename = f"{order:03d}-{section_slug}.md"
-            ai_section_path = ai_sections_dir / ai_section_filename
-            comparison_entry = book["comparison"].get(title_key(title), {})
-            section_frontmatter = {
+            merged_body = book["merged_path"].read_text(encoding="utf-8")
+            merged_meta, merged_body_stripped = parse_frontmatter(merged_body)
+            book_frontmatter = {
                 "book_id": book["slug"],
                 "book_title": book["title"],
-                "section_id": section_id,
-                "section_order": order,
-                "section_slug": section_slug,
-                "section_title": title,
-                "source_section_path": section_path.relative_to(ROOT).as_posix(),
-                "source_name": meta.get("source_name") or meta.get("source name"),
-                "source_url": meta.get("source_url") or meta.get("source url"),
+                "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
+                "source_section_dir": book["by_heading_dir"].relative_to(ROOT).as_posix(),
+                "source_name": merged_meta.get("source_name") or merged_meta.get("source name"),
+                "source_url": merged_meta.get("source_url") or merged_meta.get("source url"),
                 "official_alignment_status": book["summary"].get("status"),
                 "official_similarity": book["summary"].get("overall_similarity"),
                 "official_content_overlap": book["summary"].get("overall_content_overlap"),
-                "official_section_url": comparison_entry.get("official_url"),
-                "official_section_similarity": comparison_entry.get("similarity"),
-                "official_section_content_overlap": comparison_entry.get("content_overlap"),
-                "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
+                "overlap_sections": book["summary"].get("overlap_sections"),
+                "upstream_only_sections": book["summary"].get("upstream_only_sections"),
+                "official_only_sections": book["summary"].get("official_only_sections"),
             }
-            ai_section_path.write_text(write_frontmatter(section_frontmatter, body), encoding="utf-8")
-            ai_section_path = normalize_written_path(ai_section_path)
+            (ai_book_dir / "book.md").write_text(
+                write_frontmatter(book_frontmatter, merged_body_stripped),
+                encoding="utf-8",
+            )
 
-            section = {
-                "title": title,
-                "order": order,
-                "section_id": section_id,
-                "section_slug": section_slug,
-                "source_path": section_path,
-                "body": body.strip(),
-                "meta": meta,
-                "official_url": comparison_entry.get("official_url"),
-                "official_similarity": comparison_entry.get("similarity"),
-                "official_content_overlap": comparison_entry.get("content_overlap"),
-                "official_diff_tokens": comparison_entry.get("diff_tokens"),
-            }
-            chunks = build_chunks(book, section, ai_section_path)
-            book_chunks.extend(chunks)
-            section_entries.append(
-                {
+            section_entries = []
+            book_chunks: list[dict[str, object]] = []
+            for order, section_path in enumerate(sorted(book["by_heading_dir"].glob("*.md")), start=1):
+                raw = section_path.read_text(encoding="utf-8")
+                meta, body = parse_frontmatter(raw)
+                title = extract_title(section_path, body)
+                section_slug = slugify(title)
+                section_id = f"{book['slug']}.{order:03d}.{section_slug}"
+                ai_section_filename = f"{order:03d}-{section_slug}.md"
+                ai_section_path = ai_sections_dir / ai_section_filename
+                ai_section_relpath = final_ai_relpath("books", str(book["slug"]), "sections", ai_section_filename)
+                comparison_entry = book["comparison"].get(title_key(title), {})
+                section_frontmatter = {
+                    "book_id": book["slug"],
+                    "book_title": book["title"],
                     "section_id": section_id,
+                    "section_order": order,
                     "section_slug": section_slug,
                     "section_title": title,
-                    "section_order": order,
                     "source_section_path": section_path.relative_to(ROOT).as_posix(),
-                    "ai_section_path": ai_section_path.relative_to(ROOT).as_posix(),
-                    "chunk_count": len(chunks),
-                    "first_chunk_id": chunks[0]["chunk_id"] if chunks else None,
-                    "last_chunk_id": chunks[-1]["chunk_id"] if chunks else None,
+                    "source_name": meta.get("source_name") or meta.get("source name"),
+                    "source_url": meta.get("source_url") or meta.get("source url"),
+                    "official_alignment_status": book["summary"].get("status"),
+                    "official_similarity": book["summary"].get("overall_similarity"),
+                    "official_content_overlap": book["summary"].get("overall_content_overlap"),
                     "official_section_url": comparison_entry.get("official_url"),
                     "official_section_similarity": comparison_entry.get("similarity"),
                     "official_section_content_overlap": comparison_entry.get("content_overlap"),
                     "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
                 }
-            )
+                ai_section_path.write_text(write_frontmatter(section_frontmatter, body), encoding="utf-8")
+                ai_section_path = normalize_written_path(ai_section_path)
+                if not ai_section_path.exists():
+                    raise RuntimeError(f"AI section file could not be materialized: {ai_section_relpath}")
 
-        passages_path = AI_PASSAGES_ROOT / f"{book['slug']}.jsonl"
-        with passages_path.open("w", encoding="utf-8") as handle:
-            for chunk in book_chunks:
-                handle.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+                section = {
+                    "title": title,
+                    "order": order,
+                    "section_id": section_id,
+                    "section_slug": section_slug,
+                    "source_path": section_path,
+                    "body": body.strip(),
+                    "meta": meta,
+                    "official_url": comparison_entry.get("official_url"),
+                    "official_similarity": comparison_entry.get("similarity"),
+                    "official_content_overlap": comparison_entry.get("content_overlap"),
+                    "official_diff_tokens": comparison_entry.get("diff_tokens"),
+                }
+                chunks = build_chunks(book, section, ai_section_relpath)
+                book_chunks.extend(chunks)
+                section_entries.append(
+                    {
+                        "section_id": section_id,
+                        "section_slug": section_slug,
+                        "section_title": title,
+                        "section_order": order,
+                        "source_section_path": section_path.relative_to(ROOT).as_posix(),
+                        "ai_section_path": ai_section_relpath,
+                        "chunk_count": len(chunks),
+                        "first_chunk_id": chunks[0]["chunk_id"] if chunks else None,
+                        "last_chunk_id": chunks[-1]["chunk_id"] if chunks else None,
+                        "official_section_url": comparison_entry.get("official_url"),
+                        "official_section_similarity": comparison_entry.get("similarity"),
+                        "official_section_content_overlap": comparison_entry.get("content_overlap"),
+                        "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
+                    }
+                )
 
-        manifest = {
-            "book_id": book["slug"],
-            "book_title": book["title"],
-            "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
-            "ai_book_path": (ai_book_dir / "book.md").relative_to(ROOT).as_posix(),
-            "passages_path": passages_path.relative_to(ROOT).as_posix(),
-            "section_count": len(section_entries),
-            "chunk_count": len(book_chunks),
-            "official_alignment_status": book["summary"].get("status"),
-            "official_similarity": book["summary"].get("overall_similarity"),
-            "official_content_overlap": book["summary"].get("overall_content_overlap"),
-            "sections": section_entries,
-        }
-        (AI_MANIFESTS_ROOT / f"{book['slug']}.json").write_text(
-            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
-        )
+            validate_ai_book_output(book, ai_sections_dir, section_entries)
 
-        catalog_books.append(
-            {
+            passages_path = temp_ai_passages_root / f"{book['slug']}.jsonl"
+            with passages_path.open("w", encoding="utf-8") as handle:
+                for chunk in book_chunks:
+                    handle.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+
+            manifest_path = temp_ai_manifests_root / f"{book['slug']}.json"
+            manifest_relpath = final_ai_relpath("manifests", f"{book['slug']}.json")
+            passages_relpath = final_ai_relpath("passages", f"{book['slug']}.jsonl")
+            ai_book_relpath = final_ai_relpath("books", str(book["slug"]), "book.md")
+            manifest = {
                 "book_id": book["slug"],
                 "book_title": book["title"],
-                "ai_book_path": (ai_book_dir / "book.md").relative_to(ROOT).as_posix(),
-                "manifest_path": (AI_MANIFESTS_ROOT / f"{book['slug']}.json").relative_to(ROOT).as_posix(),
-                "passages_path": passages_path.relative_to(ROOT).as_posix(),
+                "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
+                "ai_book_path": ai_book_relpath,
+                "passages_path": passages_relpath,
                 "section_count": len(section_entries),
                 "chunk_count": len(book_chunks),
                 "official_alignment_status": book["summary"].get("status"),
                 "official_similarity": book["summary"].get("overall_similarity"),
                 "official_content_overlap": book["summary"].get("overall_content_overlap"),
+                "sections": section_entries,
             }
+            manifest_path.write_text(
+                json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+
+            catalog_books.append(
+                {
+                    "book_id": book["slug"],
+                    "book_title": book["title"],
+                    "ai_book_path": ai_book_relpath,
+                    "manifest_path": manifest_relpath,
+                    "passages_path": passages_relpath,
+                    "section_count": len(section_entries),
+                    "chunk_count": len(book_chunks),
+                    "official_alignment_status": book["summary"].get("status"),
+                    "official_similarity": book["summary"].get("overall_similarity"),
+                    "official_content_overlap": book["summary"].get("overall_content_overlap"),
+                }
+            )
+            total_sections += len(section_entries)
+            all_chunks.extend(book_chunks)
+
+        all_passages_path = temp_ai_passages_root / "all-passages.jsonl"
+        with all_passages_path.open("w", encoding="utf-8") as handle:
+            for chunk in all_chunks:
+                handle.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+
+        catalog = {
+            "book_count": len(catalog_books),
+            "section_count": total_sections,
+            "chunk_count": len(all_chunks),
+            "books": catalog_books,
+            "all_passages_path": final_ai_relpath("passages", "all-passages.jsonl"),
+        }
+        (temp_ai_root / "catalog.json").write_text(
+            json.dumps(catalog, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
         )
-        total_sections += len(section_entries)
-        all_chunks.extend(book_chunks)
+        write_ai_policy(temp_ai_root)
+        write_ai_readme(temp_ai_root, catalog)
+        validate_ai_root(temp_ai_books_root, len(books))
 
-    all_passages_path = AI_PASSAGES_ROOT / "all-passages.jsonl"
-    with all_passages_path.open("w", encoding="utf-8") as handle:
-        for chunk in all_chunks:
-            handle.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+        if AI_ROOT.exists():
+            shutil.rmtree(AI_ROOT)
+        shutil.move(str(temp_ai_root), str(AI_ROOT))
 
-    catalog = {
-        "book_count": len(catalog_books),
-        "section_count": total_sections,
-        "chunk_count": len(all_chunks),
-        "books": catalog_books,
-        "all_passages_path": all_passages_path.relative_to(ROOT).as_posix(),
-    }
-    (AI_ROOT / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    write_ai_policy()
-    write_ai_readme(catalog)
     print(f"Built AI corpus for {len(catalog_books)} books, {total_sections} sections, {len(all_chunks)} chunks.")
 
 

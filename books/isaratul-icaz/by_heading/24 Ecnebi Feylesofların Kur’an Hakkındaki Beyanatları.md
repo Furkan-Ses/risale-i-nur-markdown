@@ -204,4 +204,3 @@ Ehl-i İslâm’a göre İslâmiyet’in esas akaidi, şu suretle hülâsa oluna
 **Edouard Montet**
 
 ***
-

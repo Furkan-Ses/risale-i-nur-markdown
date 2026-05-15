@@ -329,4 +329,3 @@ Hulusi
 [^hâşiye3]: Garibdir ki Hulusi’nin bu sözünü belki yirmi defa tekrar etmişim. Süleyman gibi dostlar şahittirler. Demek, bir hakikat var ki ikimizi böyle söyletmiş.
 
 Said
-

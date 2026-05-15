@@ -222,4 +222,3 @@ Ve keza <span class="arabic" dir="rtl">مُطَهَّرَةٌ</span> kelimesi m�
 ***
 
 [^hâşiye1]: Horhor, Van’da müellifin medresesinin adıdır.
-

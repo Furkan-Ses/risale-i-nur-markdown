@@ -270,4 +270,3 @@ Said Nursî
 ***
 
 [^hâşiye1]: On bin liradır.
-

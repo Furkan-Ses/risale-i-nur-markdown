@@ -270,4 +270,3 @@ Said Nursî
 Horhor’daki eski talebeleri namına Medresetü’l-Vaizîn mezunlarından:
 
 Mehmed Sadık, Sabri, Mehmed Şefik, Mehmed Mihri, Hamza
-

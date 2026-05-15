@@ -36,4 +36,3 @@ Elbette böyle bir insanın Mabud’u, Rabb’i, melcei, halâskârı, maksudu �
 <p class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</p>
 
 ***
-

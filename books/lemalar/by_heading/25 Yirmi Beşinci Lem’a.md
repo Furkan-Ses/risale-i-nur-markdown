@@ -302,4 +302,3 @@ Evet Rüşdü, Evet Re’fet, Evet Hüsrev, Evet Said
 [^hâşiye6]: Madem Keramet-i Aleviye’de ve Gavsiye’de, Said’in âhirinde nida için vaz’edilmiş bir elif var (Saidâ) olmuş belki fazla olan bu elif, o elife bakıyor.
 
 Re’fet, Hüsrev
-

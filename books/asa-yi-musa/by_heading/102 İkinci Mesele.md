@@ -26,4 +26,3 @@ Madem hakikat-i hal budur; biz mahpuslar, bu hapis musibetinden intikamımızı 
 ***
 
 [^hâşiye1]: O muhakkiklerden tek birisi Risale-i Nur’dur. Yirmi senedir en muannid feylesofları ve mütemerrid zındıkları susturan eczaları meydandadır. Herkes okuyabilir ve kimse itiraz etmez.
-

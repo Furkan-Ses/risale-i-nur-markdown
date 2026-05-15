@@ -158,4 +158,3 @@ Demek, bütün yıldızlara sözünü geçiremeyen, bir tek zerreye rububiyetini
 [^hâşiye6]: Cenab-ı Hakk’ın acayib-i masnuatına bakıp, temaşa edip ve ettiren işaretleriz. Yani semavat, hadsiz gözlerle zemindeki acayib-i sanat-ı İlahiyeyi temaşa eder gibi görünüyor. Semanın melaikeleri gibi yıldızlar dahi mahşer-i acayip ve garaib olan arza bakıyorlar ve zîşuurları dikkatle baktırıyorlar, demektir.
 
 [^hâşiye7]: Fakat sukuttan sonra tabiat tövbe etti. Hakiki vazifesi, tesir ve fiil olmadığını, belki kabul ve infial olduğunu anladı. Ve kendisi kader-i İlahînin bir nevi defteri –fakat tebeddül ve tagayyüre kabil bir defteri– ve kudret-i Rabbaniyenin bir nevi programı ve Kadîr-i Zülcelal’in bir nevi fıtrî şeriatı ve bir nevi mecmua-i kavanini olduğunu bildi. Kemal-i acz ve inkıyad ile vazife-i ubudiyetini takındı. Ve fıtrat-ı İlahiye ve sanat-ı Rabbaniye ismini aldı.
-

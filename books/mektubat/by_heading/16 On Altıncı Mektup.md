@@ -242,4 +242,3 @@ Hey bedbahtlar! Ben size ne yaptım ve ne yapıyorum? İmanınızın kurtulması
 [^hâşiye1]: Bir sene devam etti.
 
 [^hâşiye2]: Bu mademler içindir ki şahsıma karşı olan zulümlere, sıkıntılara aldırmıyorum ve ehemmiyet vermiyorum. “Meraka değmiyor.” diyorum ve dünyaya karışmıyorum.
-

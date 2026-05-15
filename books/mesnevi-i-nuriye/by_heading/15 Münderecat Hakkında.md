@@ -16,4 +16,3 @@ Bu Mesnevî-i Nuriye’deki risalelerin isimleri “Reşhalar, Katre, Hubab, Hab
 “O bir lem’a değil, bir şemstir. O bir reşha değil, bir bahirdir. O bir zühre değil, bir cinandır. O bir hubab değil, bir ummandır.”
 
 ***
-

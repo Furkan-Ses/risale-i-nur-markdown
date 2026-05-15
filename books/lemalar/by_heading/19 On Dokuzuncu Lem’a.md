@@ -162,4 +162,3 @@ Cevaben demiş ki: “Ulemanın ilminden, ümeranın cehlindendir.” Yani ümer
 [^hâşiye5]: Evet, hangi müsrif ile görüşsen şekvalar işiteceksin. Ne kadar zengin olsa da yine dili şekva edecektir. En fakir fakat kanaatkâr bir adamla görüşsen şükür işiteceksin.
 
 [^hâşiye6]: Yani vücuda en muzır, dört beş saat fâsıla vermeden yemek yemek veyahut telezzüz için mütenevvi yemekleri birbiri üstüne mideye doldurmaktır.
-

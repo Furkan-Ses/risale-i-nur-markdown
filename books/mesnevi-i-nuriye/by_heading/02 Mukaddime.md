@@ -28,4 +28,3 @@ Hem “İ’lem”ler birbirine bakmayarak muhtelif ilimlerin ve hakikatlerin fi
 Said Nursî
 
 ***
-

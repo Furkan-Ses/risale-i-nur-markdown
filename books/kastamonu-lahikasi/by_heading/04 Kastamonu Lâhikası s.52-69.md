@@ -229,4 +229,3 @@ Bu hakikate binaen bu şehre bir kutub, bir gavs-ı a’zam gelse seni on günde
 [^hâşiye3]: **Haşiye: **Okunmayan iki hemze sayılmaz.
 
 [^hâşiye4]: Avustralya nazara alınmamış.
-

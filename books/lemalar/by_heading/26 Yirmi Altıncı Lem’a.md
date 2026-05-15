@@ -611,4 +611,3 @@ Evet Hüsrev’in yazdığı doğrudur, tasdik ediyorum. Kapı bu mübarek Musta
 [^hâşiye10]: Yani zelzele, fırtına, tufan, taun, ateş gibi.
 
 [^hâşiye11]: Nur’un telif zamanı üç sene evvel bitmiş olmasından, bu On Beşinci Rica, ileride bir Nurcu tarafından İhtiyarlar Lem’asının tekmiline –telifine– me’haz olmak üzere yazıldı.
-

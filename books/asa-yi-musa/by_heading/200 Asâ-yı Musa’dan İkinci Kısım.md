@@ -11,4 +11,3 @@ Bu risaleyi Ankara Ehl-i Vukufu çok takdir ettikleri gibi; bu defa da beraetimi
 **Said Nursî**
 
 ***
-

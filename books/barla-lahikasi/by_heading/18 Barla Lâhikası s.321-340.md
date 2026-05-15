@@ -328,4 +328,3 @@ Kardeşiniz Said Nursî
 [^hâşiye1]: Bu hesap Şamlı Hâfız, Kuleönü’nden Mustafa ve arkadaşı Hâfız Mustafa’nın şehadetiyle bir dakika zarfında ezber yapılmıştır. (Sene 360 gün hesabına göredir, kusur varsa bakılmamak gerektir.)
 
 [^hâşiye2]: Re’fet Bey’e vürûd tarihidir.
-

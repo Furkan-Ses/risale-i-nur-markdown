@@ -35,4 +35,3 @@ Bir sineğin hakk-ı hayatını rahîmane muhafaza eden bir rahmet, bir hikmet; 
 Evet, âhireti inkâr etmek isteyen adam, evvelce bütün dünyayı bütün hakaikiyle inkâr etmeli. Yoksa, dünya bütün hakaikiyle yüz bin lisanla onu tekzip ederek bu yalanında yüz bin derece yalancılığını ispat edecek. Onuncu Söz, kat’î delillerle ispat etmiştir ki âhiretin vücudu, dünyanın vücudu kadar kat’î ve şüphesizdir.
 
 ***
-

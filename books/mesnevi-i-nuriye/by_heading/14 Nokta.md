@@ -231,4 +231,3 @@ Said Nursî
 [^hâşiye2]: Dikkat, dikkat!
 
 [^hâşiye3]: Delâletçe siması bir “Hû” lafzına benzer ki o “Hû”nun her bir cüzü küçük “Hû”lardan, her bir küçük “Hû” da küçücük “Hû”lardan teşekkül etmiştir.
-

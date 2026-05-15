@@ -249,4 +249,3 @@ Ben bu mektubu, bu tadilat ile yazdığımız halde iki defa bir güvercin yanı
 Said Nursî
 
 ***
-

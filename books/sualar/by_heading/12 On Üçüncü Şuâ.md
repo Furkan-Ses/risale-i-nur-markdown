@@ -990,4 +990,3 @@ Ehl-i vukuf raporundan anlaşılıyor ki: Risale-i Nur, bize karşı bütün mua
 Talebeleri
 
 [^hâşiye2]: Günahlar demek.
-

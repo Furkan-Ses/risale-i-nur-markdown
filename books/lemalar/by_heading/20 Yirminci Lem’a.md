@@ -176,4 +176,3 @@ Aynen öyle de fakat binler derece yüksek, her bir mü’min için binler kası
 Evet, bu dünyada bir adam, bir saatlik bir bahçeden ve bir günlük bir seyrangâhtan ve bir aylık bir memleketten ve bir senelik bir mesiregâhta seyahatinden; ağzıyla, kulağıyla, gözüyle, zevkiyle, zaikasıyla, sair duygularıyla istifade ettiği gibi; aynen öyle de fakat bir saatlik bir bahçeden ancak istifade eden bu fâni memleketteki kuvve-i şâmme ve kuvve-i zaika, o bâki memlekette bir senelik bahçeden aynı istifadeyi eder. Ve burada bir senelik mesiregâhtan ancak istifade edebilen bir kuvve-i bâsıra ve kuvve-i sâmia, orada beş yüz senelik mesiregâhındaki seyahatten; o haşmetli, baştan başa ziynetli memlekete lâyık bir tarzda istifade eder.
 
 Her mü’min derecesine ve dünyada kazandığı sevaplar, haseneler nisbetinde inbisat ve inkişaf eden duygularıyla zevk alır, telezzüz eder, müstefid olur.
-

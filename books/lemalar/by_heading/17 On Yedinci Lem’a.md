@@ -382,4 +382,3 @@ Evet bu ehemmiyetsiz, zâil, fâni tavırlarda bu derece kusursuz, galatsız haf
 [^hâşiye1]: On iki sene evvel denilen tarih; hicri 1340, miladî 1921 seneleridir.
 
 [^hâşiye2]: Bu risalenin telifinden on üç sene evvel.
-

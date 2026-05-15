@@ -2,18 +2,18 @@
   "sources": [
     {
       "id": "source-mirror",
-      "title": "Upstream source mirror",
+      "title": "Source mirror",
       "license": "CC BY-ND 4.0",
       "provenance_readme": "sources/official-markdown-mirror/README.upstream.md",
       "path": "sources/official-markdown-mirror/obsidian-markdown",
       "structure": "Obsidian-style hierarchy with top-level contents and per-book 00 index files."
     },
     {
-      "id": "verified-books",
-      "title": "Verified books",
+      "id": "reading-layer-books",
+      "title": "Reading layer books",
       "license": "Repository-local text source",
       "path": "books",
-      "structure": "Verified merged book files plus stable by_heading split files."
+      "structure": "Merged book files plus stable by_heading split files for human reading and downstream indexing."
     }
   ],
   "books": [
@@ -2280,9 +2280,9 @@
   ],
   "reference_sources": [
     {
-      "id": "verified-book-asa-yi-musa",
+      "id": "reading-book-asa-yi-musa",
       "slug": "asa-yi-musa",
-      "title": "Verified Asa-yi Musa",
+      "title": "Asa-yi Musa",
       "merged_title": "Asa-yi Musa",
       "merged_path": "books/asa-yi-musa/Asa-yi Musa.md",
       "section_dir": "books/asa-yi-musa/by_heading",
@@ -2392,9 +2392,9 @@
       ]
     },
     {
-      "id": "verified-book-barla-lahikasi",
+      "id": "reading-book-barla-lahikasi",
       "slug": "barla-lahikasi",
-      "title": "Verified Barla Lahikasi",
+      "title": "Barla Lahikasi",
       "merged_title": "Barla Lahikasi",
       "merged_path": "books/barla-lahikasi/Barla Lahikasi.md",
       "section_dir": "books/barla-lahikasi/by_heading",
@@ -2484,9 +2484,9 @@
       ]
     },
     {
-      "id": "verified-book-emirdag-lahikasi-1",
+      "id": "reading-book-emirdag-lahikasi-1",
       "slug": "emirdag-lahikasi-1",
-      "title": "Verified Emirdag Lahikasi 1",
+      "title": "Emirdag Lahikasi 1",
       "merged_title": "Emirdag Lahikasi 1",
       "merged_path": "books/emirdag-lahikasi-1/Emirdag Lahikasi 1.md",
       "section_dir": "books/emirdag-lahikasi-1/by_heading",
@@ -2556,9 +2556,9 @@
       ]
     },
     {
-      "id": "verified-book-emirdag-lahikasi-2",
+      "id": "reading-book-emirdag-lahikasi-2",
       "slug": "emirdag-lahikasi-2",
-      "title": "Verified Emirdag Lahikasi 2",
+      "title": "Emirdag Lahikasi 2",
       "merged_title": "Emirdag Lahikasi 2",
       "merged_path": "books/emirdag-lahikasi-2/Emirdag Lahikasi 2.md",
       "section_dir": "books/emirdag-lahikasi-2/by_heading",
@@ -2616,9 +2616,9 @@
       ]
     },
     {
-      "id": "verified-book-isaratul-icaz",
+      "id": "reading-book-isaratul-icaz",
       "slug": "isaratul-icaz",
-      "title": "Verified Isaratul-icaz",
+      "title": "Isaratul-icaz",
       "merged_title": "Isaratul-icaz",
       "merged_path": "books/isaratul-icaz/Isaratul-icaz.md",
       "section_dir": "books/isaratul-icaz/by_heading",
@@ -2736,9 +2736,9 @@
       ]
     },
     {
-      "id": "verified-book-kastamonu-lahikasi",
+      "id": "reading-book-kastamonu-lahikasi",
       "slug": "kastamonu-lahikasi",
-      "title": "Verified Kastamonu Lahikasi",
+      "title": "Kastamonu Lahikasi",
       "merged_title": "Kastamonu Lahikasi",
       "merged_path": "books/kastamonu-lahikasi/Kastamonu Lahikasi.md",
       "section_dir": "books/kastamonu-lahikasi/by_heading",
@@ -2800,9 +2800,9 @@
       ]
     },
     {
-      "id": "verified-book-kucuk-kitaplar",
+      "id": "reading-book-kucuk-kitaplar",
       "slug": "kucuk-kitaplar",
-      "title": "Verified Kucuk Kitaplar",
+      "title": "Kucuk Kitaplar",
       "merged_title": "Kucuk Kitaplar",
       "merged_path": "books/kucuk-kitaplar/Kucuk Kitaplar.md",
       "section_dir": "books/kucuk-kitaplar/by_heading",
@@ -2860,9 +2860,9 @@
       ]
     },
     {
-      "id": "verified-book-lemalar",
+      "id": "reading-book-lemalar",
       "slug": "lemalar",
-      "title": "Verified Lemalar",
+      "title": "Lemalar",
       "merged_title": "Lemalar",
       "merged_path": "books/lemalar/Lemalar.md",
       "section_dir": "books/lemalar/by_heading",
@@ -3016,9 +3016,9 @@
       ]
     },
     {
-      "id": "verified-book-mektubat",
+      "id": "reading-book-mektubat",
       "slug": "mektubat",
-      "title": "Verified Mektubat",
+      "title": "Mektubat",
       "merged_title": "Mektubat",
       "merged_path": "books/mektubat/Mektubat.md",
       "section_dir": "books/mektubat/by_heading",
@@ -3184,9 +3184,9 @@
       ]
     },
     {
-      "id": "verified-book-mesnevi-i-nuriye",
+      "id": "reading-book-mesnevi-i-nuriye",
       "slug": "mesnevi-i-nuriye",
-      "title": "Verified Mesnevi-i Nuriye",
+      "title": "Mesnevi-i Nuriye",
       "merged_title": "Mesnevi-i Nuriye",
       "merged_path": "books/mesnevi-i-nuriye/Mesnevi-i Nuriye.md",
       "section_dir": "books/mesnevi-i-nuriye/by_heading",
@@ -3260,9 +3260,9 @@
       ]
     },
     {
-      "id": "verified-book-muhakemat",
+      "id": "reading-book-muhakemat",
       "slug": "muhakemat",
-      "title": "Verified Muhakemat",
+      "title": "Muhakemat",
       "merged_title": "Muhakemat",
       "merged_path": "books/muhakemat/Muhakemat.md",
       "section_dir": "books/muhakemat/by_heading",
@@ -3292,9 +3292,9 @@
       ]
     },
     {
-      "id": "verified-book-sikke-i-tasdik-i-gaybi",
+      "id": "reading-book-sikke-i-tasdik-i-gaybi",
       "slug": "sikke-i-tasdik-i-gaybi",
-      "title": "Verified Sikke-i Tasdik-i Gaybi",
+      "title": "Sikke-i Tasdik-i Gaybi",
       "merged_title": "Sikke-i Tasdik-i Gaybi",
       "merged_path": "books/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md",
       "section_dir": "books/sikke-i-tasdik-i-gaybi/by_heading",
@@ -3336,9 +3336,9 @@
       ]
     },
     {
-      "id": "verified-book-sozler",
+      "id": "reading-book-sozler",
       "slug": "sozler",
-      "title": "Verified Sozler",
+      "title": "Sozler",
       "merged_title": "Sozler",
       "merged_path": "books/sozler/Sozler.md",
       "section_dir": "books/sozler/by_heading",
@@ -3500,9 +3500,9 @@
       ]
     },
     {
-      "id": "verified-book-sualar",
+      "id": "reading-book-sualar",
       "slug": "sualar",
-      "title": "Verified Sualar",
+      "title": "Sualar",
       "merged_title": "Sualar",
       "merged_path": "books/sualar/Sualar.md",
       "section_dir": "books/sualar/by_heading",
@@ -3584,9 +3584,9 @@
       ]
     },
     {
-      "id": "verified-book-tarihce-i-hayat",
+      "id": "reading-book-tarihce-i-hayat",
       "slug": "tarihce-i-hayat",
-      "title": "Verified Tarihce-i Hayat",
+      "title": "Tarihce-i Hayat",
       "merged_title": "Tarihce-i Hayat",
       "merged_path": "books/tarihce-i-hayat/Tarihce-i Hayat.md",
       "section_dir": "books/tarihce-i-hayat/by_heading",

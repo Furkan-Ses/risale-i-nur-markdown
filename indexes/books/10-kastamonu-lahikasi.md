@@ -1,8 +1,8 @@
 # Kastamonu Lâhikası
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası`
 - Bölüm sayısı: **13**
-- Upstream indeks: [00 KASTAMONU LÂHİKASI.md](../../sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/00 KASTAMONU LÂHİKASI.md)
+- Kaynak aynası indeksi: [00 KASTAMONU LÂHİKASI.md](../../sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/00 KASTAMONU LÂHİKASI.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -22,7 +22,7 @@
 | 12 | Kastamonu Lâhikası s.211-230 | [12 Kastamonu Lâhikası s.211-230.md](../../sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/12 Kastamonu Lâhikası s.211-230.md) |
 | 13 | Kastamonu Lâhikası s.231-255 | [13 Kastamonu Lâhikası s.231-255.md](../../sources/official-markdown-mirror/obsidian-markdown/10 Kastamonu Lâhikası/13 Kastamonu Lâhikası s.231-255.md) |
 
-## Verified Kastamonu Lahikasi
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Kastamonu Lahikasi.md](../../books/kastamonu-lahikasi/Kastamonu Lahikasi.md)
 - Bölüm klasörü: [by_heading](../../books/kastamonu-lahikasi/by_heading)

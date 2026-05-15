@@ -60,4 +60,3 @@ Bu sebepten, bütün tefsirlerde görünen ve sarahat, işaret, remiz, îma, tel
 Nur talebelerinden
 
 Zübeyr, Bayram
-

@@ -1,8 +1,8 @@
 # Sikke-i Tasdik-i Gaybî
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/08 Sikke-i Tasdik-i Gaybî`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/08 Sikke-i Tasdik-i Gaybî`
 - Bölüm sayısı: **8**
-- Upstream indeks: [00 SİKKE-İ TASDİK-İ GAYBÎ.md](../../sources/official-markdown-mirror/obsidian-markdown/08 Sikke-i Tasdik-i Gaybî/00 SİKKE-İ TASDİK-İ GAYBÎ.md)
+- Kaynak aynası indeksi: [00 SİKKE-İ TASDİK-İ GAYBÎ.md](../../sources/official-markdown-mirror/obsidian-markdown/08 Sikke-i Tasdik-i Gaybî/00 SİKKE-İ TASDİK-İ GAYBÎ.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -17,7 +17,7 @@
 | 7 | Parlak Fıkralar ve Güzel Mektuplar 2 | [07 Parlak Fıkralar ve Güzel Mektuplar 2.md](../../sources/official-markdown-mirror/obsidian-markdown/08 Sikke-i Tasdik-i Gaybî/07 Parlak Fıkralar ve Güzel Mektuplar 2.md) |
 | 8 | Dua (Sikke-i Tasdik-i Gaybî) | [08 Dua (Sikke-i Tasdik-i Gaybî).md](../../sources/official-markdown-mirror/obsidian-markdown/08 Sikke-i Tasdik-i Gaybî/08 Dua (Sikke-i Tasdik-i Gaybî).md) |
 
-## Verified Sikke-i Tasdik-i Gaybi
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Sikke-i Tasdik-i Gaybi.md](../../books/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md)
 - Bölüm klasörü: [by_heading](../../books/sikke-i-tasdik-i-gaybi/by_heading)

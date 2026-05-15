@@ -13,4 +13,3 @@ Umum Nur şakirdleri namına
 **Said Nursî**
 
 ***
-

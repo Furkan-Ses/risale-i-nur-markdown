@@ -594,4 +594,3 @@ Eğer arza “Sen dur, karışma!” denilse ve o netice ve o vaziyetin istihsal
 ***
 
 [^hâşiye1]: Hazret-i İbrahim aleyhisselâmın Nemrut’a karşı imate ve ihyada güneşin tulû ve gurûbuna intikali, cüz’î imate ve ihyadan küllî imate ve ihyaya intikaldir ve bir terakkidir. O delilin en parlak ve en geniş dairesini göstermektir. Yoksa bir kısım ehl-i tefsirin dedikleri gibi hafî delili bırakıp zahir delile çıkmak değildir.
-

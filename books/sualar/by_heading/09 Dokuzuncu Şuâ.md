@@ -121,4 +121,3 @@ Hem haşir gelmezse kader kalemiyle yazılan bu kitab-ı kâinatın bütün muha
 (Mukaddime nihayet buldu.)
 
 ***
-

@@ -1590,4 +1590,3 @@ Said Nursî
 [^hâşiye1]: Kapı çalmak demektir.
 
 [^hâşiye2]: Bu kısım, Üçüncü Ders’ten tâ Sekizinci Ders’in nihayetine kadar tafsilen yazıldığı halde, ehemmiyeti için burada bir hülâsası tekrar yazılması münasiptir.
-

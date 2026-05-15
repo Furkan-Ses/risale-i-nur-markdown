@@ -184,4 +184,3 @@ Ey hadsiz acz ve nihayetsiz fakr içinde yuvarlanan bîçare insan! Rahmet, ne k
 ***
 
 [^hâşiye1]: Evet küre-i arz, bahr-i muhit-i havaîde bir sefine-i Rabbaniye ve nass-ı hadîsle âhiretin bir mezraası, yani fidanlık tarlası olduğundan, o camid ve şuursuz büyük gemiyi o denizde emr-i İlahî ile intizam ile hikmet ile yüzdüren, kaptanlık eden melaikeye “Hut” namı ve o tarlaya izn-i İlahî ile nezaret eden melaikeye “Sevr” ismi ne kadar yakıştığı zahirdir.
-

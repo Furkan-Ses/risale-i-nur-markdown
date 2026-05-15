@@ -1,8 +1,8 @@
 # Mektubat
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/02 Mektubat`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/02 Mektubat`
 - Bölüm sayısı: **39**
-- Upstream indeks: [00 MEKTUBAT.md](../../sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/00 MEKTUBAT.md)
+- Kaynak aynası indeksi: [00 MEKTUBAT.md](../../sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/00 MEKTUBAT.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -48,7 +48,7 @@
 | 38 | Hakikat Işıkları | [38 Hakikat Işıkları.md](../../sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/38 Hakikat Işıkları.md) |
 | 39 | Dua (Mektubat) | [39 Dua (Mektubat).md](../../sources/official-markdown-mirror/obsidian-markdown/02 Mektubat/39 Dua (Mektubat).md) |
 
-## Verified Mektubat
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Mektubat.md](../../books/mektubat/Mektubat.md)
 - Bölüm klasörü: [by_heading](../../books/mektubat/by_heading)

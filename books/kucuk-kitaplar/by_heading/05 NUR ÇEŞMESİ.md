@@ -1587,4 +1587,3 @@ Demek, bütün yıldızlara sözünü geçiremeyen, bir tek zerreye rububiyetini
 [^hâşiye33]: Hâşiye: Fakat sukuttan sonra tabiat tövbe etti. Hakiki vazifesi, tesir ve fiil olmadığını, belki kabul ve infial olduğunu anladı. Ve kendisi kader-i İlahînin bir nevi defteri –fakat tebeddül ve tagayyüre kabil bir defteri– ve kudret-i Rabbaniyenin bir nevi programı ve Kadîr-i Zülcelal’in bir nevi fıtrî şeriatı ve bir nevi mecmua-i kavanini olduğunu bildi. Kemal-i acz ve inkıyad ile vazife-i ubudiyetini takındı. Ve fıtrat-ı İlahiye ve sanat-ı Rabbaniye ismini aldı.
 
 [^hâşiye34]: * Bu hakikati Üstadımız İstanbul Adliyesinde beyan etmiştir.
-

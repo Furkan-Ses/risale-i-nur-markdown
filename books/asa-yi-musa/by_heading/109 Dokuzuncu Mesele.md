@@ -61,4 +61,3 @@ Bu makamın başında, altı nokta ve her bir nokta dahi beş nükte olarak alt�
 Ben de baktım, tam mutabıktır. Şöyle ki:…
 
 ***
-

@@ -315,4 +315,3 @@ Ey birader! “Unsur-u Hakikat”ı kübra gibi ve “Unsur-u Belâgat”ı suğ
 [^hâşiye2]: Bu kelime Kürtçedir.
 
 [^hâşiye3]: Kürtçedir.
-

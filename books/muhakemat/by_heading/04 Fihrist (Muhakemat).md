@@ -119,4 +119,3 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 (Haşr-i cismanîdir.)
 
 Kardeşi Abdülmecid’in Takrizi
-

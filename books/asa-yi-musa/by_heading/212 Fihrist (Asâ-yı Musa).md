@@ -66,4 +66,3 @@ Dokuzuncu Hüccet-i İmaniye (Dokuzuncu Şuâ)
 Onuncu Hüccet-i İmaniye (Yirminci Mektup’un Birinci Makamı)
 
 On Birinci Hüccet-i İmaniye (Yirmi İkinci Söz’ün Birinci Makamı)
-

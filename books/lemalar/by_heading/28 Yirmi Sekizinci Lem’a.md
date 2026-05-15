@@ -276,4 +276,3 @@ Ve hakaik-i imaniye ve Kur’aniye ve hâdisat-ı Muhammediye (asm) ise ne kadar
 [^hâşiye3]: Bu parçanın da herkese faydası var.
 
 [^hâşiye4]: Cây-ı dikkattir ki Risale-i Nur şakirdlerinin tevkiflerinin bir kısmı 25 Nisan 1935 tarihinde başlamış olup, kararnamede suçlu gösterilen 117 kimse ise de ikisinin ismi mükerrer olmasına nazaran bu suretle şakirdlerin adedi 117 adedine o kısmın tevkifinden hüküm tarihine kadar 117 gün olmakla tevafuk edip evvelki tevafukata bir letafet daha katmıştır.
-

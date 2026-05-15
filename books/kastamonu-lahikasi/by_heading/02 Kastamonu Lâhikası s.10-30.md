@@ -340,4 +340,3 @@ Benimle hakikat meşrebinde sohbet etmek ve görüşmek isteyen adam, hangi risa
 [^hâşiye1]: Medar-ı hayret bir lütf-u bereket: Gül Fabrikasının kâtipliğiyle Risaletü’n-Nur’a intisap eden Hüsrev, iki buçuk sene evvel bir küçük şişe gül yağı göndermişti. Mütemadiyen istimal ettiğim halde daha bitmedi, devam eder. Kardeşiniz Emin yanımdadır, bu berekete şehadet eder hem size selâm eder.
 
 [^hâşiye2]: Âyetü’l-Kübra’nın üçüncü menzilinin başında, Ahmed-i Farukî Risale-i Nur hakkında demiş ki: “Mütekellimînden biri gelecek, bütün hakaik-i imaniyeyi kemal-i vuzuh ile beyan ve ispat edecek.” Zaman ispat etti ki o adam, adam değil belki Risale-i Nur’dur. Ehl-i keşif Risale-i Nur’u, ehemmiyetsiz olan tercümanı suretinde keşiflerinde müşahede etmişler, bir adam demişler.
-

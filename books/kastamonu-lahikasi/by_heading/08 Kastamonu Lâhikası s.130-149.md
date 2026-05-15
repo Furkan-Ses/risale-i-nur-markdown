@@ -281,4 +281,3 @@ Demek biz müflis olduğumuz halde, gayet zengin bir mücevherat dükkânının 
 Said Nursî
 
 ***
-

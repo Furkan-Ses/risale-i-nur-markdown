@@ -185,4 +185,3 @@ Bütün sünen-i seniyesinde, ahval-i fıtriyesinde ve ahkâm-ı şer’iyesinde
 سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</p>
 
 ***
-

@@ -324,4 +324,3 @@ Umum kardeşlerimize birer birer selâm ve dua ediyoruz.
 [^hâşiye2]: Bu mübarek emaneti, Risale-i Nur talebelerinden ve âhiret hemşirelerimizden Âsiye namında bir muhterem hanımın eliyle aldım.
 
 [^hâşiye3]: Hastalık o kadar şiddetli idi ki dört gecede hemen bir saat kadar uyku geldi.
-

@@ -1,8 +1,8 @@
 # Lem'alar
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/03 Lem'alar`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/03 Lem'alar`
 - Bölüm sayısı: **36**
-- Upstream indeks: [00 LEM’ALAR.md](../../sources/official-markdown-mirror/obsidian-markdown/03 Lem'alar/00 LEM’ALAR.md)
+- Kaynak aynası indeksi: [00 LEM’ALAR.md](../../sources/official-markdown-mirror/obsidian-markdown/03 Lem'alar/00 LEM’ALAR.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -45,7 +45,7 @@
 | 35 | Fihrist (Lem’alar) | [35 Fihrist (Lem’alar).md](../../sources/official-markdown-mirror/obsidian-markdown/03 Lem'alar/35 Fihrist (Lem’alar).md) |
 | 36 | Dua (Lem’alar) | [36 Dua (Lem’alar).md](../../sources/official-markdown-mirror/obsidian-markdown/03 Lem'alar/36 Dua (Lem’alar).md) |
 
-## Verified Lemalar
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Lemalar.md](../../books/lemalar/Lemalar.md)
 - Bölüm klasörü: [by_heading](../../books/lemalar/by_heading)

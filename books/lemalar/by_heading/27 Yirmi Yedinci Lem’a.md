@@ -6,4 +6,3 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 Eskişehir Mahkeme Müdafaası olup Hatt-ı Kur’an Lem’alar mecmuasında ve kısmen de Tarihçe-i Hayat’ta neşredilmiştir.
 
 ***
-

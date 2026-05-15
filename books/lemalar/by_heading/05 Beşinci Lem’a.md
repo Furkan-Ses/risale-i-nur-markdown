@@ -10,4 +10,3 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 [^hâşiye1]: Hazret-i Üstadımız Yirmi Dokuzuncu Arabî Lem’a’nın Altıncı Bab’ının hâşiyesinde bu iki cümle hakkında: “Bu iki mübarek kelâmın meratibi, ilimden ziyade fikir ve zikir olduğundan Arabî zikredildi.” diye beyanda bulunmaktadır.
 
 <u>Hz. Üstad</u>’ın Hizmetkârları
-

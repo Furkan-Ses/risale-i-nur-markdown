@@ -11,4 +11,3 @@ Yâ Erhame’r-râhimîn! Umum Risale-i Nur şakirdlerini iki cihanda mesud eyle
 Umum Nur Şakirdleri namına
 
 Said Nursî
-

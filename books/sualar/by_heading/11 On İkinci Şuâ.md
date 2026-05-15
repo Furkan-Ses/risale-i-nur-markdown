@@ -330,4 +330,3 @@ Hem madem her şey geçici ve fânidir ve ölüm ölmüyor ve kabir kapısı kap
 [^hâşiye1]: Bu istida, Kastamonu zelzelesinden yirmi gün evvel yazılmıştı. Risale-i Nur bereketiyle her vilayetten ziyade âfattan mahfuz kalmıştı. Şimdi âfat başladı ve davamızı tasdik etti.
 
 [^hâşiye2]: Radyo gibi azîm bir nimet-i İlahiyeye karşı azîm bir şükür olmak için: “Radyo Kur’an’ı okuyup bütün zemin yüzündeki insanlara dinlettirip küre-i havanın bir hâfız-ı Kur’an olmasıdır.” demiştim.
-

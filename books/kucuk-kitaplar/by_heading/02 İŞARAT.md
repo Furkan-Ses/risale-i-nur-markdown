@@ -195,4 +195,3 @@ Hayat-ı din, nur-u hayattır.
 [^hâşiye2]: Tulûat’ın âhirine dikkat.
 
 [^hâşiye3]: Mugaddilikte ikisi bir iken hevesî sanatlar birinin kıymetine vergiler ilâve ediyor.
-

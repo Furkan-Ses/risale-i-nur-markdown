@@ -24,4 +24,3 @@ Hem korkmayınız, Risale-i Nur yasak olmaz; hükûmet-i cumhuriyenin mebusları
 ***
 
 [^hâşiye1]: Parantez içindeki not, 1946 senesine aittir.
-

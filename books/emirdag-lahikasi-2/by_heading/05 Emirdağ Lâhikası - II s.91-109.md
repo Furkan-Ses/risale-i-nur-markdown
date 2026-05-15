@@ -263,4 +263,3 @@ Aziz, sıddık kardeşlerim!
 Hasta kardeşiniz Said Nursî
 
 ***
-

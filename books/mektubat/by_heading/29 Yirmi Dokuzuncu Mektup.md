@@ -1132,4 +1132,3 @@ Hem bu tarîk daha umumî ve cadde-i kübradır. Çünkü kâinatı ehl-i vahdet
 [^hâşiye5]: İlm-i sarf kaidesince feilün, fe’lün okunur. Ketifün, ketfün okunması gibi. Buna binaen elifün, elfün okunur. O halde 1351 olur.
 
 [^hâşiye6]: Hattâ onlardan bir tanesi olan Seyyid Ahmedü’s-Sünûsî, milyonlar müride kumandanlık ediyor. Seyyid İdris gibi diğer bir zat, yüz binden fazla Müslümanlara kumandanlık ediyor. Seyyid Yahya gibi bir başka seyyid, yüz binler adamlara emirlik ediyor ve hâkeza… Bu seyyidler kabilesinin efradlarında böyle zahirî kahramanlar çok olduğu gibi; Seyyid Abdülkadir-i Geylanî, Seyyid Ebu’l-Hasan-ı Şazelî, Seyyid Ahmed-i Bedevî gibi manevî kahramanların kahramanları dahi varlarmış.
-

@@ -38,4 +38,3 @@ Bir büyük âmir, raiyetine pederane bir şefkat ile bakar. Eğer o âmir, zahi
 **Said Nursî**
 
 ***
-

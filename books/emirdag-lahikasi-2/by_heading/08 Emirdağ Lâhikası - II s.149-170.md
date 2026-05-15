@@ -243,4 +243,3 @@ Amma İhvan-ı Müslimîn ise: Onlar da hakikaten maksat itibarıyla aynı mahiy
 ***
 
 [^hâşiye1]: Yirmi beş sene müddetle el yazması ile Anadolu’da neşri bu şekilde olmuştur.
-

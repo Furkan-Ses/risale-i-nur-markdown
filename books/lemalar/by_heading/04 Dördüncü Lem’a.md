@@ -106,4 +106,3 @@ Ey ehl-i hak olan Ehl-i Sünnet ve Cemaat! Ve ey Âl-i Beyt’in muhabbetini mes
 ***
 
 [^hâşiye1]: Bu İkinci Makam, On Birinci Lem’a olarak telif edilmiştir.
-

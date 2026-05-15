@@ -422,4 +422,3 @@ Mütercim
 ABDÜLMECİD
 
 [^hâşiye2]: On iki sene evvel denilen tarih hicrî 1340, miladî 1921 seneleridir. (Nâşir)
-

@@ -330,4 +330,3 @@ Evet, kahraman kardeşimiz Hacı Ali; Hazret-i Üstad daima sizin fedakârlığ�
 Üstadın hizmetinde bulunan kusurlu Sungur, Zübeyr, Ziya
 
 ***
-

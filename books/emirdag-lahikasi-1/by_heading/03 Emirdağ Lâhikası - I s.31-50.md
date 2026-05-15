@@ -265,4 +265,3 @@ Hem cümlenize birer birer selâm eden kardeşiniz Said Nursî
 [^hâşiye1]: Âyetü’l-Kübra’nın başındaki ihtarın âhirinde “Nazar-ı dikkati celbetmiş.” cümlesine hâşiyedir:
 
 Evet İmam-ı Ali’nin (ra) Âyetü’l-Kübra hakkında verdiği haberi, tam tamına Denizli Hâdisesi tasdik etti. Çünkü bu risalenin gizli tabı hapsimize bir vesile oldu. Ve onun kudsî ve çok kuvvetli hakikati galebesiyle, beraet ve necatımıza ehemmiyetli bir sebep oldu. İmam-ı Ali’nin (ra) keramet-i gaybiyesini körlere de gösterdi. <span class="arabic" dir="rtl">وَ بِالْاٰيَةِ الْكُبْرٰى اَمِنّٖى مِنَ الْفَجَتْ</span> hakkımızdaki duasının kabulünü ispat etti.
-

@@ -303,4 +303,3 @@ Tahirî’nin Hizbü’l-Ekber ve Virdü’l-A’zam’ı tab için İstanbul’
 [^hâşiye1]: Şimdi ben tahmin ediyorum, o bal da onun imiş fakat tam tahattur edemiyorum.
 
 [^hâşiye2]: Ve her biri “sad berk” olarak yani her bir çiçekte yüz parça yaprak.
-

@@ -341,4 +341,3 @@ Yâ Rab! Habib-i Ekrem aleyhissalâtü vesselâm hürmetine ve ism-i a’zam hak
 **Said Nursî**
 
 ***
-

@@ -126,4 +126,3 @@ Baştaki âyetin mu’cizane işaret ettikleri dokuz tabaka berahin-i haşriyeye
 olan fıkradaki ferman-ı haşre dair buradaki gösterdiği bürhan-ı bâhiri ve hüccet-i kātıası beyan ve izah edilecek. İnşâallahu’r-Rahman.
 
 ***
-

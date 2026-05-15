@@ -635,4 +635,3 @@ Ve insanın kıymetini ve vazifelerini ve kemalâtını bildiren rehber-i a’za
 [^hâşiye5]: Otuzuncu Lem’a’nın altı risaleciğinin esası ve mevzuu ve ism-i a’zamın sırrını taşıyan altı mukaddes isimlerin gayet kısa bir hülâsalarıdır.
 
 [^hâşiye6]: Evet, nasıl ki insanın anâsırları, kâinatın unsurlarından; ve kemikleri, taş ve kayalarından; ve saçları, nebat ve eşcarından; ve bedeninde cereyan eden kan ve gözünden, kulağından, burnundan ve ağzından akan ayrı ayrı suları, Arzın çeşmelerinden ve madenî sularından haber veriyorlar, delâlet edip onlara işaret ediyorlar. Aynen öyle de insanın ruhu âlem-i ervahtan ve hâfızaları Levh-i Mahfuz’dan ve kuvve-i hayaliyeleri âlem-i misalden ve hâkeza her bir cihazı bir âlemden haber veriyorlar ve onların vücudlarına kat’î şehadet ederler.
-

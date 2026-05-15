@@ -511,4 +511,3 @@ Said’in küçük kardeşi, yirmi senelik talebesi **Abdülmecid**
 Ve keza bu nakış, başı kesilmiş bir yılanın kuyruğunu müellif Bedîüzzaman’a sarmış olduğuna ve müellifin yaralı olarak otuz saat ölüme muntazıran su arkının içinde kaldığı yere benziyor ve o vaziyeti andırıyor.
 
 Eski Said’in ehemmiyetli talebesi **Hamza**
-

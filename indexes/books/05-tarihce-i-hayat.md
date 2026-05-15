@@ -1,8 +1,8 @@
 # Tarihçe-i Hayat
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat`
 - Bölüm sayısı: **12**
-- Upstream indeks: [00 TARİHÇE-İ HAYAT.md](../../sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/00 TARİHÇE-İ HAYAT.md)
+- Kaynak aynası indeksi: [00 TARİHÇE-İ HAYAT.md](../../sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/00 TARİHÇE-İ HAYAT.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -21,7 +21,7 @@
 | 11 | Bedîüzzaman ve Risale-i Nur | [11 Bedîüzzaman ve Risale-i Nur.md](../../sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/11 Bedîüzzaman ve Risale-i Nur.md) |
 | 12 | Dua (Tarihçe-i Hayatı) | [12 Dua (Tarihçe-i Hayatı).md](../../sources/official-markdown-mirror/obsidian-markdown/05 Tarihçe-i Hayat/12 Dua (Tarihçe-i Hayatı).md) |
 
-## Verified Tarihce-i Hayat
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Tarihce-i Hayat.md](../../books/tarihce-i-hayat/Tarihce-i Hayat.md)
 - Bölüm klasörü: [by_heading](../../books/tarihce-i-hayat/by_heading)

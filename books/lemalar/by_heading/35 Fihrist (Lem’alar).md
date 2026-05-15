@@ -859,4 +859,3 @@ Hem Kaside-i Celcelutiye’nin bir kerameti olan <span class="arabic" dir="rtl">
 ***
 
 [^hâşiye1]: Bu devanın tesirindendir ki misafireten bir köye gittiğimde; orada gözsüz Mehmed Ağa isminde bir zat, gözünün hastalığından şikayeti üzerine, yanımda bulunan Hastalar Risalesi’nin On Dördüncü Devasını okuyunca, onun manevî tesiriyle o zat dedi: “Keşke ben bu sevabı ve manevî bu kazancı bana açan bu hastalığımdan şikayet etmeseydim.” diye nedametkârane, bir şükür kapısına döndü. Onun için o hastalık, onun hakkında bir rahmet-i İlahiye olduğunu kat’î anladı.
-

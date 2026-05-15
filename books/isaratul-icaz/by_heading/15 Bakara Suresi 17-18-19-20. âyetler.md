@@ -417,4 +417,3 @@ Mevcud ve mevcudata şey ve eşya denilmesi, meşiet-i İlahiyenin taallukundan 
 <span class="arabic" dir="rtl">قَادِرٌ</span> kelimesine bedel sübut ve devamı ifade eden <span class="arabic" dir="rtl">قَدٖيرٌ</span> sîgasından anlaşılır ki kudret, makdurat nisbetinde olmayıp, daire-i tasarrufu pek geniştir. Ve kudret zatiyedir, tagayyürü kabul etmez. Ve kudret lâzımedir, ziyade ve noksana kabiliyeti yoktur. Ve kudret, “Rezzak, Gaffar, Muhyî, Mümit” gibi sıfât-ı fiiliyenin merci ve mizanıdır.
 
 ***
-

@@ -298,4 +298,3 @@ Mütercim Abdülmecid
 [^hâşiye3]: Bir a’rabînin taptığı bir sanemi varmış. Bir gün ibadete gitmiş. Bakmış ki bir tilki sanemin başına bevletmiş. Bu hali görünce <span class="arabic" dir="rtl">اَرَبٌّ يَبُولُ الثَّعْلَبَانُ بِرَاْسِهٖ</span> demekle sanemi kırmış atmış. Demek sanemlerin hakaretinden yalnız sinekler değil, tilkiler de başlarına çıkar, telvis eder.
 
 Mütercim Abdülmecid
-

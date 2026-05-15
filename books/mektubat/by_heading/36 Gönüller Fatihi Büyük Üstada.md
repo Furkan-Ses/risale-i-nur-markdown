@@ -138,4 +138,3 @@ Acaba bu yirmi sene zarfında iman-ı tahkikîyi pek kuvvetli bir surette bu vat
 **Said Nursî**
 
 ***
-

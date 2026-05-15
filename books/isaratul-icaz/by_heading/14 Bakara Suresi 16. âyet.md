@@ -54,4 +54,3 @@ Cevap: Onların bu ticaretlerinde, ne eczasında ve ne ahvalinde ve ne vesaitind
 <span class="arabic" dir="rtl">وَمَا كَانُوا مُهْتَدٖينَ</span> Yani “Re’sü’l-mallarını zayi etmekle hüsrana maruz kaldıkları gibi yollarını da kaybetmişlerdir.” Bu cümlede surenin başındaki <span class="arabic" dir="rtl">هُدًى لِلْمُتَّقٖينَ</span> cümlesine gizli bir remiz vardır ki Kur’an-ı Kerim, hidayeti vermemiş değildir. Hidayeti vermiş de bunlar kabul etmemişlerdir.
 
 ***
-

@@ -235,4 +235,3 @@ Kur’an’dan ve münâcat-ı Nebeviye olan Cevşenü’l-Kebir’den aldığı
 Said Nursî
 
 ***
-

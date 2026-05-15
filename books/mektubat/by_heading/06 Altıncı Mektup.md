@@ -64,4 +64,3 @@ deyip ulvi bir gurbeti arayabilir miyim?” diye sizi o sualler ile tasdi’ etm
 **Said Nursî**
 
 ***
-

@@ -40,4 +40,3 @@ Fakat vesile-i saadet-i dâreyn olan iman ve İslâmiyet, mü’mine der ki: Şu
 **Said Nursî**
 
 ***
-

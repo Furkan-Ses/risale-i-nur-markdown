@@ -245,4 +245,3 @@ Said Nursî
 Sonra aynı talebe tâli’sizliğinden sırf maddî fünun-u cedide okumuş. Sonra ben dört sene sonra onun ile görüştüm. Hamiyet-i milliye bahsi oldu. O dedi ki: “Ben şimdi Râfızî bir Kürt’ü, salih bir Türk hocasına tercih ederim.” Ben de “Eyvah!” dedim. “Sen ne kadar bozulmuşsun.” Bir hafta çalıştım, onu kurtardım, eski hakikatli hamiyetine çevirdim.
 
 Sonra Meclis-i Mebusandaki bana muhalefet eden mebuslara dedim: “O talebenin evvelki hali Türk milletine ne kadar lüzumu var ve ikinci halinin ne kadar vatan menfaatine uygun olmadığını fikrinize havale ediyorum. Demek farz-ı muhal olarak siz başka yerde dünyayı dine tercih edip siyasetçe dine ehemmiyet vermeseniz de herhalde şark vilayetlerinde din tedrisatına a’zamî ehemmiyet vermek lâzım.” O vakit bana muhalif mebuslar da çıkıp o lâyihamı yüz altmış üç mebus imza ettiler. Bu kadar imzayı taşıyan bir istidayı, elbette yirmi yedi sene istibdad-ı mutlak onu bozamamış.
-

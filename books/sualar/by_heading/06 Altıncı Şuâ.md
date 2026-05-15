@@ -66,4 +66,3 @@ Hem Hazret-i Muhammed aleyhissalâtü vesselâma Makam-ı Mahmud verilmesi, umum
 <p class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</p>
 
 ***
-

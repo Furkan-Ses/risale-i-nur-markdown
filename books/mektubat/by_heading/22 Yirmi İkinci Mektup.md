@@ -279,4 +279,3 @@ Eğer gıybet etti veyahut isteyerek dinledi; o vakit <span class="arabic" dir="
 [^hâşiye1]: Yani her sene taze verdiği buğday gibi mallardan onda bir.
 
 [^hâşiye2]: Yani eskiden verdiği kırktan ki her senede galiben ve lâekall ribh-i ticarî ve nesl-i hayvanî cihetiyle o kırktan taze olarak on adet verir.
-

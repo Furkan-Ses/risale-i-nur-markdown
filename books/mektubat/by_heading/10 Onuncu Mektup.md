@@ -44,4 +44,3 @@ Evet, nasıl ki nurani bir nokta, sürat-i hareketiyle nurani bir hat olur veya 
 **Said Nursî**
 
 ***
-

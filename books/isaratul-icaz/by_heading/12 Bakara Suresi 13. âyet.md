@@ -76,4 +76,3 @@ Hasrı ifade eden <span class="arabic" dir="rtl">هُمْ</span> kelimesi nefisl
 3. Onlardan i’raz etmek ve onlara itimad etmemek lâzımdır. Çünkü cehillerini bilmediklerinden nasihatin onlara tesiri olmuyor.
 
 ***
-

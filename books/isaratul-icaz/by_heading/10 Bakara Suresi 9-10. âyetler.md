@@ -168,4 +168,3 @@ Ashab-ı Kiram’ı bütün insanlara tefevvuk ettiren sıdktır.
 Muhammed-i Hâşimî’yi (aleyhisselâm) meratib-i beşeriyenin en yükseğine çıkaran sıdktır.
 
 ***
-

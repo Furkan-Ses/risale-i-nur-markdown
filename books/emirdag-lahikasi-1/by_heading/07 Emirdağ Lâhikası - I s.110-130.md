@@ -695,4 +695,3 @@ Benim mektuplarımı yazan, şimdilik yanıma gerçi gelemiyor fakat şahsî hiz
 ***
 
 [^hâşiye1]: Merhum Abdullah Çalışkan’dır. Demokrat Partiye, muhalefette iken intisap etmişti.
-

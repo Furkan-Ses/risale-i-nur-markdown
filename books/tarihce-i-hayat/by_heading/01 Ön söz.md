@@ -291,4 +291,3 @@ Kur’an’a her zaman beşerin ihtiyacı var.
 Ali Ulvi Kurucu
 
 ***
-

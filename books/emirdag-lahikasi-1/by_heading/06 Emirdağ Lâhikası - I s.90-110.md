@@ -401,4 +401,3 @@ Umuma binler selâm ve dua ediyoruz.
 ***
 
 [^hâşiye1]: İstanbul’da hâdiseyi gören Risale-i Nur talebelerinin mektubundan bir parçadır. (Naşir)
-

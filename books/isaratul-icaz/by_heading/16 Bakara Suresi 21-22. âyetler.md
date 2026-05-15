@@ -360,4 +360,3 @@ Ve keza Vesenî, Sabiî, ehl-i teslis, ehl-i tabiat gibi fırak-ı dâllenin tev
 <span class="arabic" dir="rtl">تَعْلَمُونَ</span> ye bir mef’ulün terki, çok mef’ullerin takdirine sebep olmuştur. Demek, îcaz ve ihtisarı yapmakla itnab ve uzatmaktan kaçar iken daha ziyade itnaba, tatvile sebep olmuştur. Yani Allah’tan başka mabudunuz olmadığını, hâlıkınızın bulunmadığını, başka bir kādir-i mutlak olmadığını ve mün’iminizin bulunmadığını bilirsiniz. Keza bilirsiniz ki onların uydurdukları âlihe ve esnam, bir şeye kādir olmayıp onlar da mahluk ve mec’ul şeylerdir.
 
 ***
-

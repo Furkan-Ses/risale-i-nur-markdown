@@ -566,4 +566,3 @@ Evet, insanın her ferdi, birer nevi gibidir. Zira nur-u fikir onun âmâline ö
 [^hâşiye6]: Mâşâallah, güzel bir cevap.
 
 [^hâşiye7]: Rus’u mağlup eden Japon’un başkumandanı Meşihat-ı İslâmiyeden bu suali sormuş. Eski Said bu makam-ı sâlisle cevap vermiş.
-

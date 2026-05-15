@@ -291,4 +291,3 @@ Bir tek cümle olan kısacık bir hadîsin beş lem’a-i i’caziyesine dair bi
 Hem mesela, ikinci mertebede <span class="arabic" dir="rtl">يٰسٓ</span> kelimesiyle hem İkinci Söz’e hem İkinci Mektup’a hem İkinci Lem’a’ya hem İkinci Şuâ’ya baktığından münasebet genişlendiğinden gizlenmiş.
 
 Hem mesela <span class="arabic" dir="rtl">وَ كَافٍ وَ هَا يَاءٍ وَ عَيْنٍ وَ صَادِهَا</span> yani <span class="arabic" dir="rtl">كٓهٰيٰعٓصٓ</span> beşinci mertebede bulunması hem Beşinci Söz’e hem Beşinci Mektup’a hem Beşinci Lem’a’ya ve Dördüncü Şuâ olan Âyet-i Hasbiye Risalesi’ne hem Üçüncü Şuâ olan Münâcat’a baktığı cihetle münasebet genişlenmiş, gizlenmiş. Buna başkaları kıyas edilsin.
-

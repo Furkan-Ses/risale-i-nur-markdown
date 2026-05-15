@@ -1320,4 +1320,3 @@ Tahirî, Zübeyr, Bayram, Ceylan, Sungur, Abdullah, Ziya, Sadık, Salih, Hüsnü
 [^hâşiye12]: Hâşiye: Hesapta malûmdur ki darb ve cem’, ziyadeleştirir. Dört kere dört, on altı olur. Fakat kesirlerde darb ve cem’, bilakis küçültür. Sülüsü sülüs ile darbetmek, tüsü’ olur; yani dokuzda bir olur. Aynen onun gibi insanlarda sıhhat ve istikamet ile vahdet olmazsa ziyadeleşmekle küçülür, bozuk olur, kıymetsiz olur.
 
 [^hâşiye13]: Hâşiye: Nakşibendî rabıtası bu sırra bina edilmiştir.
-

@@ -3,8 +3,6 @@ title: "Yirmisekizinci Söz"
 slug: "yirmisekizinci-soz"
 start_page: 497
 end_page: 503
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Yirmisekizinci Söz

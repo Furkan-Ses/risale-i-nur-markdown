@@ -74,4 +74,3 @@ Cins ve hakikati ifade eden <span class="arabic" dir="rtl">اَلْمُفْسِ�
 Şuurdan mahrum olduklarını ifade eden <span class="arabic" dir="rtl">وَلٰكِنْ لَا يَشْعُرُونَ</span> cümlesi, onların zu’mlarınca davalarının malûmiyeti dolayısıyla, nasihate ihtiyaçları olmadığına ve nasihat edenleri tezyif ettiklerine karşı bir müdafaadır.
 
 ***
-

@@ -20,4 +20,3 @@ Ve uhrevî mukadderat-ı beşer piyangosunda, hüsn-ü hâtimeye mazhar ehl-i im
 Bu meselede hapishane müdürleri ve ser-gardiyanları ve belki memleketin idare müdebbirleri ve asayiş muhafızları, Risale-i Nur’un bu dersinden memnun olmaları gerektir. Çünkü bin mütedeyyin ve cehennem hapsini her vakit tahattur eden adamların idare ve inzibatı, on namazsız ve itikadsız, yalnız dünyevî hapsi düşünen ve haram helâl bilmeyen ve kısmen serseriliğe alışan adamlardan daha kolay olduğu, çok tecrübelerle görülmüş.
 
 ***
-

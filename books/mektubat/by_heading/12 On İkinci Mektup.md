@@ -72,4 +72,3 @@ O gece burada beraber bulunan bütün dostlara selâm ve dua ederim.
 **Said Nursî**
 
 ***
-

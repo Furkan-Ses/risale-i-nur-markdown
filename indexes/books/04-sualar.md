@@ -1,8 +1,8 @@
 # Şuâlar
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar`
 - Bölüm sayısı: **18**
-- Upstream indeks: [00 ŞUÂLAR.md](../../sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/00 ŞUÂLAR.md)
+- Kaynak aynası indeksi: [00 ŞUÂLAR.md](../../sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/00 ŞUÂLAR.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -27,7 +27,7 @@
 | 17 | Dua (Şuâlar) | [17 Dua (Şuâlar).md](../../sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/17 Dua (Şuâlar).md) |
 | 18 | İÇİNDEKİLER | [18 İçindekiler (Şuâlar).md](../../sources/official-markdown-mirror/obsidian-markdown/04 Şuâlar/18 İçindekiler (Şuâlar).md) |
 
-## Verified Sualar
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Sualar.md](../../books/sualar/Sualar.md)
 - Bölüm klasörü: [by_heading](../../books/sualar/by_heading)

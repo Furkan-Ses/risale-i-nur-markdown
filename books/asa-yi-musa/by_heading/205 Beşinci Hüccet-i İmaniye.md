@@ -89,4 +89,3 @@ Mesela, ism-i Rahman’ın cilvesi olan rahmet-i vâsia, o Rahmeten li’l-âlem
 ***
 
 [^hâşiye1]: Acaba dünya sarayını ısındıran Güneş sobasına veyahut lambasına ne kadar odun ve kömür ve gaz yağı lâzım olduğu hesap edilsin. Her gün yanması için –kozmoğrafyanın sözüne bakılsa– bir milyon küre-i arz kadar odun yığınları ve binler denizler kadar gaz yağı gerektir. Şimdi düşün; onu odunsuz, gazsız daimî ışıklandıran Kadîr-i Zülcelal’in haşmetine, hikmetine, kudretine Güneşin zerreleri adedince “Sübhanallah, mâşâallah, bârekellah” de.
-

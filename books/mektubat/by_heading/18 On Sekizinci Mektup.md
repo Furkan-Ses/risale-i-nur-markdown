@@ -103,4 +103,3 @@ Hem o lezzet-i mukaddeseden gelen hadsiz terahhumdan, mahlukatın faaliyet-i kud
 **Said Nursî**
 
 ***
-

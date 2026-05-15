@@ -80,4 +80,3 @@ Emekli Yüzbaşı
 (Hâşiye): Bu müdafaanın serdedildiği muhakeme, beraetle neticelenmiştir.
 
 ***
-

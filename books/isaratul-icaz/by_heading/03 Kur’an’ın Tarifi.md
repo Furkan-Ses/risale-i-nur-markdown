@@ -80,4 +80,3 @@ Kur’an, asırları muhtelif bütün enbiyanın kütüblerini ve meşrepleri mu
 **Said Nursî**
 
 ***
-

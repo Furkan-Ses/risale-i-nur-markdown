@@ -1,8 +1,8 @@
 # Barla Lâhikası
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası`
 - Bölüm sayısı: **20**
-- Upstream indeks: [00 BARLA LÂHİKASI.md](../../sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/00 BARLA LÂHİKASI.md)
+- Kaynak aynası indeksi: [00 BARLA LÂHİKASI.md](../../sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/00 BARLA LÂHİKASI.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -29,7 +29,7 @@
 | 19 | Barla Lâhikası s.340-362 | [19 Barla Lâhikası s.340-362.md](../../sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/19 Barla Lâhikası s.340-362.md) |
 | 20 | Barla Lâhikası s.363-392 | [20 Barla Lâhikası s.363-392.md](../../sources/official-markdown-mirror/obsidian-markdown/09 Barla Lâhikası/20 Barla Lâhikası s.363-392.md) |
 
-## Verified Barla Lahikasi
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Barla Lahikasi.md](../../books/barla-lahikasi/Barla Lahikasi.md)
 - Bölüm klasörü: [by_heading](../../books/barla-lahikasi/by_heading)

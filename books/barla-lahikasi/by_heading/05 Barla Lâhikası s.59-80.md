@@ -356,4 +356,3 @@ Said
 [^hâşiye7]: Bu kardeşimin bu hissine iştirak etmiyorum. Rıza-yı İlahî kâfidir. Eğer o yâr ise her şey yârdır. Eğer o yâr değilse bütün dünya alkışlasa beş para değmez. İnsanların takdiri, istihsanı, eğer böyle işte, böyle amel-i uhrevîde illet ise o ameli iptal eder. Eğer müreccih ise o ameldeki ihlası kırar. Eğer müşevvik ise safvetini izale eder. Eğer sırf alâmet-i makbuliyet olarak, istemeyerek Cenab-ı Hak ihsan etse o amelin ve ilmin insanlarda hüsn-ü tesiri namına kabul etmek güzeldir ki <span class="arabic" dir="rtl">وَ اجْعَلْ لٖى لِسَانَ صِدْقٍ فِى الْاٰخِرٖينَ</span> buna işarettir.
 
 Said
-

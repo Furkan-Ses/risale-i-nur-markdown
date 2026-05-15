@@ -357,4 +357,3 @@ Feyzi
 [^hâşiye4]: Kardeşimiz Salahaddin burada, Isparta’da olduğu gibi bunlara da Risale-i Nur’u aramak için evlerini taharri edip sıkıştırdıkları zaman, hıfz-ı İlahî ile bir şey bulamadıkları zamanki hâdiseye işaret ediyor.
 
 Feyzi
-

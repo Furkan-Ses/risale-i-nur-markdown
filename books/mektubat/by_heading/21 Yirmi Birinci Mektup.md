@@ -36,4 +36,3 @@ Ey insan! Madem canavar suretinde bir hayvan, insanların hanesine misafir geldi
 <p class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</p>
 
 ***
-

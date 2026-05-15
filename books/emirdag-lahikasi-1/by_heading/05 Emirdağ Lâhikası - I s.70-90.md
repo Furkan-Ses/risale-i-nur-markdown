@@ -336,4 +336,3 @@ Ceylan, İbrahim
 [^hâşiye3]: Bu mektubu Üstadımızdan yeni almıştık. Ben yani Hüsrev okuyordum, arkadaşım Tahirî yazıyordu. Gül kahraman kuşu odamızın penceresine konup Hüsrev’in başını görmekle bırakıp gitti.
 
 Hüsrev, Tahirî
-

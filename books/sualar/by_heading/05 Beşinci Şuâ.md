@@ -243,4 +243,3 @@ Garibdir hem çok garibdir yedi yüz sene müddetinde İslâmiyet’in ve Kur’
 ***
 
 [^hâşiye1]: Şimdi kırk seneden geçmiş.
-

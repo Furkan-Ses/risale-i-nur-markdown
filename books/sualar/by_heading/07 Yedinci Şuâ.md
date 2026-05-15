@@ -983,4 +983,3 @@ Bugünlerde, manevî bir muhaverede bir sual ve cevabı dinledim. Size bir hül�
 [^hâşiye2]: **İhtar:** Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
 
 [^hâşiye3]: Zaman ispat etti ki o adam, adam değil, Risale-i Nur’dur. Belki ehl-i keşif, Risale-i Nur’u ehemmiyetsiz olan tercümanı ve nâşiri suretinde –keşiflerinde– müşahede etmişler “bir adam” demişler.
-

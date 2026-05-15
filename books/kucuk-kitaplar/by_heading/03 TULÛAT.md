@@ -248,4 +248,3 @@ Lâkin şems binler âyinede temessül etse her bir timsal çendan şemsin azame
 [^hâşiye5]: Musibet geldikçe bana bağırıyorlar, tatlı yendikçe Cündüb çağrılıyor.
 
 [^hâşiye6]: Erkek galiben yüz yaşına kadar telkîh eder. Karı, yarı vakti hayz olduğu halde elliye kadar telakkuh eder.
-

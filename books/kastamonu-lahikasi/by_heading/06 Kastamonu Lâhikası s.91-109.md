@@ -273,4 +273,3 @@ Ben tahmin ediyorum ki: Bütün küre-i arzın bu yangınında ve fırtınaları
 Emin, Feyzi
 
 [^hâşiye2]: Bilhassa Risale-i Nur kahramanlarından Şükrü Efe ve bilhassa dağ kumandanı Çoban Veli’nin ve yörük aşiretlerinden Bahadır Süleyman’ın ve emsalinin gayretlerine işarettir.
-

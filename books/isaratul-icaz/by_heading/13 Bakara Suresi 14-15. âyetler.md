@@ -120,4 +120,3 @@ Allah tarafından yardımın yapılmasını ifade eden <span class="arabic" dir=
 <span class="arabic" dir="rtl">يَعْمَهُونَ</span> Yani “Tuğyan ve dalaletlerinde mütehayyir ve mütereddid şahıslardır. Ne meslekleri var ve ne muayyen bir maksatları vardır.”
 
 ***
-

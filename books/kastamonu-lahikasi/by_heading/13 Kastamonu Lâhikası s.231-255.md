@@ -333,4 +333,3 @@ Ben de dedim: Rejimi reddetmek ne vazifemizdir, ne de kuvvetimiz var ve ne de d�
 İşte bu nokta-i nazardan, Risale-i Nur’un şakirdlerinden en müthiş bir muhalif ve rejim müessisini tel’in de etse bilfiil idareye ilişmese onun mefkûresine kanunen ilişilmez. Hürriyet-i vicdan ve hürriyet-i fikir, onları tebrie eder.
 
 [^hâşiye2]: Şimdi aldığımız haber: Denizli valisi, ehemmiyetli bir şifre ile buranın valisine, Âtıf meselesini i’zam ederek şifre yazmış. Hâfız-ı Hakiki’nin hıfzına dayanıp telaş etmeyiniz fakat ihtiyat ediniz. Hapsolan Âtıf ve arkadaşlarına teselli veriniz. Ve merak etmesinler, Allah Kerîm’dir ve Rahîm’dir.
-

@@ -11,4 +11,3 @@ Bu risale, Denizli Hapishanesinin bir meyvesi ve bir hatırası ve iki cuma gün
 Said Nursî
 
 ***
-

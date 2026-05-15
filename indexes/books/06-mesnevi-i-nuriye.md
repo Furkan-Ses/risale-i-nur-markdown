@@ -1,8 +1,8 @@
 # Mesnevî-i Nuriye
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye`
 - Bölüm sayısı: **16**
-- Upstream indeks: [00 MESNEVÎ-İ NURİYE.md](../../sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/00 MESNEVÎ-İ NURİYE.md)
+- Kaynak aynası indeksi: [00 MESNEVÎ-İ NURİYE.md](../../sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/00 MESNEVÎ-İ NURİYE.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -25,7 +25,7 @@
 | 15 | Münderecat Hakkında | [15 Münderecat Hakkında.md](../../sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/15 Münderecat Hakkında.md) |
 | 16 | Fihrist (Mesnevî) | [16 Fihrist (Mesnevî).md](../../sources/official-markdown-mirror/obsidian-markdown/06 Mesnevî-i Nuriye/16 Fihrist (Mesnevî).md) |
 
-## Verified Mesnevi-i Nuriye
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Mesnevi-i Nuriye.md](../../books/mesnevi-i-nuriye/Mesnevi-i Nuriye.md)
 - Bölüm klasörü: [by_heading](../../books/mesnevi-i-nuriye/by_heading)

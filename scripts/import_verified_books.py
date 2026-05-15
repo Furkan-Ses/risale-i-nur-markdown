@@ -20,6 +20,7 @@ PROTECTED_EXISTING = {"sozler"}
 
 BOOK_DIR_RE = re.compile(r"^(?P<order>\d+)\s+(?P<title>.+)$")
 FRONTMATTER_RE = re.compile(r"\A---\n.*?\n---\n", re.DOTALL)
+LOCAL_SOURCE_RE = re.compile(r'^(source_(?:pdf|markdown)):\s*"?((?:/Users/|/home/|[A-Za-z]:\\\\Users\\\\).*)"?\s*$')
 TRANSLATION_TABLE = str.maketrans(
     {
         "ı": "i",
@@ -74,6 +75,15 @@ def slugify(value: str) -> str:
 
 def strip_frontmatter(text: str) -> str:
     return FRONTMATTER_RE.sub("", text, count=1).strip()
+
+
+def sanitize_public_frontmatter(text: str) -> str:
+    lines = []
+    for line in text.splitlines():
+        if LOCAL_SOURCE_RE.match(line.strip()):
+            continue
+        lines.append(line)
+    return "\n".join(lines).strip() + "\n"
 
 
 def load_summary() -> dict[str, dict[str, object]]:
@@ -149,7 +159,10 @@ def import_book(slug: str, upstream_dir: Path, summary_item: dict[str, object], 
         if path.stem.startswith("00"):
             continue
         destination = by_heading_dir / path.name
-        shutil.copy2(path, destination)
+        destination.write_text(
+            sanitize_public_frontmatter(path.read_text(encoding="utf-8")),
+            encoding="utf-8",
+        )
         section_paths.append(destination)
 
     merged_name = MERGED_NAME_MAP.get(slug, upstream_dir.name)

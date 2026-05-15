@@ -1298,4 +1298,3 @@ Daimî hizmetinde bulunan talebeleri
 [^hâşiye7]: Evet, buradaki Nur şakirdleri namına tasdik ediyoruz, hâdise aynen vuku buldu.
 
 evet Terzi Mustafa, evet İsmail, evet Mustafa, evet Hizmetkârı Nuri, evet Hayri, evet Halil
-

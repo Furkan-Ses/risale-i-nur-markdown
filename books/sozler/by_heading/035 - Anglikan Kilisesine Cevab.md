@@ -3,8 +3,6 @@ title: "Anglikan Kilisesine Cevab"
 slug: "anglikan-kilisesine-cevab"
 start_page: 746
 end_page: 746
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Anglikan Kilisesine Cevab

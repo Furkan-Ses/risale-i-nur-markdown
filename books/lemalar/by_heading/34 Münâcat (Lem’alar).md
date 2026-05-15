@@ -222,4 +222,3 @@ Gökleri yıldızlarıyla, zemini müştemilatıyla ve bütün mahlukatı bütü
 Kur’an’dan ve münâcat-ı Nebeviye olan Cevşenü’l-Kebir’den aldığım bu dersimi, bir ibadet-i tefekküriye olarak, Rabb-i Rahîm’imin dergâhına arz etmekte kusur etmişsem, kusurumun affı için Kur’an’ı ve Cevşenü’l-Kebir’i şefaatçi ederek rahmetinden affımı niyaz ediyorum.
 
 ***
-

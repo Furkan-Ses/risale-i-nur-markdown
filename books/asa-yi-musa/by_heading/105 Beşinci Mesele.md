@@ -14,4 +14,3 @@ Eğer istikamet dairesinde gitse gençlik gayet şirin ve güzel bir nimet-i İl
 Madem hakikat budur. Ve madem helâl dairesi keyfe kâfidir. Ve madem haram dairesindeki bir saat lezzet, bazen bir sene ve on sene hapis cezasını çektirir. Elbette gençlik nimetine bir şükür olarak o tatlı nimeti iffette, istikamette sarf etmek lâzım ve elzemdir.
 
 ***
-

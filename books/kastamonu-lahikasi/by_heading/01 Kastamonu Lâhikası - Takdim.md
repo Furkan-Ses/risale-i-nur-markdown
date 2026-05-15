@@ -48,4 +48,3 @@ Bedîüzzaman Said Nursî Hazretleri’nin Hizmetkârları
 Tahirî, Zübeyr, Hüsnü Bayram, Mustafa Sungur, Bayram
 
 ***
-

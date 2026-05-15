@@ -56,4 +56,3 @@ Senin valideynine pek çok selâm ve arz-ı hürmet ederim. Onlar da bana dua et
 **Said Nursî**
 
 ***
-

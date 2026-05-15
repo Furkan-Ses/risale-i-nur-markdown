@@ -91,4 +91,3 @@ Bu Arabî Lem’a, yeni yazılı Lem’alar arasına girmesi dolayısıyla, sahi
 [^hâşiye5]: Bu Mertebe-i Sâdise, sair mertebeler gibi yazılsaydı pek çok uzun olacaktı. Çünkü İmam-ı Mübin, Kitab-ı Mübin kısa ifade ile beyan edilemez. Otuzuncu Söz’de bir nebze zikredildiğinden burada kitabeten kısa kesip, derste izahat verdik.
 
 [^hâşiye6]: Bu esma-i mübareke dürbünleri ile mevcudattaki cilveleri altında ef’al-i İlahiye ve âsârına bakmakla, Müsemma-i Zülcelal’e intikal edilir.
-

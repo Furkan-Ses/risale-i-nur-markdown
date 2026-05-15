@@ -381,4 +381,3 @@ Talebeniz Mustafa Hulusi (rh)
 **Elhasıl:** Asırlardan beri beklenilen ve muntazır kalınan zat, Risale-i Nur imiş. Hattâ Üstadın kendisi de bir zaman böyle bir zatın geleceğine muntazır imiş. Halbuki ne ağabeyim Mustafa’nın ve ne de benim haddim değil ki Risale-i Nur’un kıymetini ve vazifesini beyan edeyim, heyhat! Risale-i Nur, Kur’an’ın has tefsiri olduğundan Kur’an’a bağlıdır. Kur’an ise arş-ı a’zama bağlıdır. Onun için Risale-i Nur’u Kur’an medh ü sena edebilir. Birinci Şuâ’da otuz üç âyetiyle işaret etmiş.  
 Bunu yazmaktan maksadım; ağabeyim Mustafa’ya, Risale-i Nur’dan meded ve Kur’an’dan şefaat ve Üstadımdan dua istemektir.  
 Talebeniz Küçük Ali
-

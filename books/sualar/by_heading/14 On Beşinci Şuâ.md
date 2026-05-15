@@ -878,4 +878,3 @@ Ben firaktan, zevalden çok inciniyorum. Halbuki sevdiğim dünya ve dünyeviyel
 [^hâşiye5]: Pek şiddetli hastalığım müsaade etmiyor. Hüsrev’in tercüme vazifesine yalnız bir me’haz ve yardımdır.
 
 [^hâşiye6]: Hâşiyecik: Bazı müstensihler, bu bîçare Said hakkında (ra) kelimesini bir dua niyetiyle yazmışlar. Ben bozmak istedim, hatıra geldi ki: “Allah razı olsun.” manasında bir duadır, ilişme. Ben de bozmadım.
-

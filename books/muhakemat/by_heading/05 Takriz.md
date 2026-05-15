@@ -40,4 +40,3 @@ Müzehheb basamaklı şu semavat-ı kemalâta
 Urûc etmek için hakkıyla bir nurani mirkattır.
 
 Abdülmecid
-

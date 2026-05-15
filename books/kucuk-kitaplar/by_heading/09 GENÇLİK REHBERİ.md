@@ -1539,4 +1539,3 @@ Nasıl ki senin gayet sevdiğin bir zatı bir tehlikede ölüyorken gördüğün
 [^hâşiye11]: Hâşiye: Lillah için bir saniye mülakat, bir senedir. Dünya için olsa bir sene, bir saniyedir.
 
 [^hâşiye12]: Hâşiye: Hadîsin nassıyla “O şuhud, bütün lezaiz-i cennetin o derece fevkindedir ki onları unutturur. Ve şuhuddan sonra ehl-i şuhudun hüsn-ü cemali o derece fazlalaşır ki döndükleri vakit, saraylarındaki aileleri çok dikkat ile zor ile onları tanıyabilirler.” hadîste vârid olmuştur.
-

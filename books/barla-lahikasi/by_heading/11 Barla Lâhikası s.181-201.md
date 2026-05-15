@@ -359,4 +359,3 @@ Ben de dedim: Sana iyidir, hizmet-i Kur’an’a zarardır. Onun için hakikat-i
 Said Nursî
 
 ***
-

@@ -449,4 +449,3 @@ Cenab-ı Hakk’a hadsiz şükrolsun ki kahraman Demokratlar o ümit ve ihbarlar
 Said Nursî
 
 ***
-

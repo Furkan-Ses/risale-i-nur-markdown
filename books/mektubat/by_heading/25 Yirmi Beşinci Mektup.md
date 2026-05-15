@@ -6,4 +6,3 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 Telif edilmemiştir.
 
 ***
-

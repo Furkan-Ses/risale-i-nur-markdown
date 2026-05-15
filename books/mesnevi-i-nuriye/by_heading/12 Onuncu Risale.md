@@ -459,4 +459,3 @@ Ve keza izzet-i İlahiyeye de münafî değildir. Çünkü maksat, sıfât ve ah
 Evet masnuattaki kemalât, Cenab-ı Hakk’ın kemalinden in’ikas eden bir gölge olduğuna nazaran masnuat, sıfât-ı İlahiye ile muvazene hakkına mâlik değildir.
 
 ***
-

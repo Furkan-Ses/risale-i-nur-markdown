@@ -837,4 +837,3 @@ Bu hâşiyenin mealini gözümüzle gördük.
 Bekir, Tevfik, Süleyman, Galib, Said
 
 [^hâşiye6]: Şimdi yüz otuza bâliğ olmuştur.
-

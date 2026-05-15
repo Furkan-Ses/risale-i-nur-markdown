@@ -172,4 +172,3 @@ Takdir-i kelâm: <span class="arabic" dir="rtl">نَوَّعَهَا وَنَظ�
 <span class="arabic" dir="rtl">عَلٖيمٌ</span> : Yani zatı ile ilim arasında zarurî, lüzumî bir sübut vardır.
 
 ***
-

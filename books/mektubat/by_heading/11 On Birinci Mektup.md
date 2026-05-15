@@ -42,4 +42,3 @@ Evet, rahmet-i Rabbaniyenin en hürmetli en halâvetli en latîf ve en şirin bi
 **Said Nursî**
 
 ***
-

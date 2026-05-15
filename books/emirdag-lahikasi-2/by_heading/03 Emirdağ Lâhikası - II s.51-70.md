@@ -332,4 +332,3 @@ Kardeşiniz Said Nursî
 ***
 
 [^hâşiye1]: İşte mühim bir numunesi: Seydişehirli Hacı Abdullah’ın bütün mensupları hem Kastamonu’da hem Isparta’da hem Eskişehir’de Risale-i Nur dairesini kendi tarîkat daireleri telakki etmişler ki onlardan Nurlara rastlayanlar, takdirkârane sahib çıkıyorlar. Onlara bin bârekellah!
-

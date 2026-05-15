@@ -161,4 +161,3 @@ Bu hakikati gözün ile gördükten sonra, rububiyet ve ubudiyet dairelerinin re
 Ey insan! Bu süslü masnuatı enva-ı mehasinle tezyin eden ve bütün zîhayat olanların zevklerine, iştihalarına göre bu kadar nimetleri in’am eden Sâni’in en kâmil en cemil ve ibadetine kemal-i iştiyakla teveccüh eden ve Sâni’in mehasin-i sanatına takdir ve istihsanatıyla arş ve ferşi taraba, sevinmeye getiren ve Sâni’in ihsanatına yaptığı teşekkürat ve tekbirat ile berr ve bahri cezbeye getiren şu güzel mahluk ve masnuuna iltifat edip sözünü nazar-ı itibara almaması ve teşekküratına mukabele etmemesi ve teveccüh edip kendisiyle konuşmaması ve iktidarına göre bütün mahlukata bir imam ve mürşid yapmaması imkânı var mıdır?
 
 ***
-

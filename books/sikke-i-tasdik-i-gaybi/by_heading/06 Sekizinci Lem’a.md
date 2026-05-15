@@ -344,4 +344,3 @@ Nâşirler
 [^hâşiye6]: Çünkü hadîste vardır ki <span class="arabic" dir="rtl">لَا تَزَالُ طَائِفَةٌ مِنْ اُمَّتٖى ظَاهِرٖينَ عَلَى الْحَقِّ اِلٰى قِيَامِ السَّاعَةِ</span> Bu hadîs, diğer hadîsi takyid ediyor.
 
 [^hâşiye7]: Yedi sene evvel yazılan bu işaret-i gaybiye aynen vukua geldi. Herkes gördü. Evet bu geçen zelzele, kıyametin zelzele-i kübrasından haber verir gibi sarstı fakat akılları başlarına gelmedi.
-

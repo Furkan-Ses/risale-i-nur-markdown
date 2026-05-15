@@ -3,8 +3,6 @@ title: "Yirmibirinci Söz"
 slug: "yirmibirinci-soz"
 start_page: 269
 end_page: 278
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Yirmibirinci Söz

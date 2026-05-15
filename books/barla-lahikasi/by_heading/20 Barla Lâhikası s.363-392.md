@@ -511,4 +511,3 @@ Câmî’nin bu fıkrasının mealine işaret etmek istiyorum.
 [^hâşiye5]: Yani Türkçe ezan gibi şeair-i İslâmiyeye muhalif bid’atlardır.
 
 [^hâşiye6]: Tevafuk mu’cizesini gösterir bir surette demektir.
-

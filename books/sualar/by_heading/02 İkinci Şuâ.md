@@ -327,4 +327,3 @@ Hazret-i İmam-ı Ali radıyallahu anh ve kerremallahu vechehu Kaside-i Celcelut
 [^hâşiye1]: Bu ikinci şıkkın cevabı çok mühimdir, çok evhamı izale eder.
 
 [^hâşiye2]: Eski zamandan beri darb-ı mesel olarak umumun dilinde ve lisan-ı nâsta gezen şu “Çekirdekten yetişme” sözü bu risalenin müellifine bir işaret-i gaybiye-i örfiye denilebilir. Çünkü Risale-i Nur hâdimi olan şahıs Kur’an’ın feyziyle, çekirdek ve çiçekte tevhid için iki mi’rac-ı marifet keşfederek tabiiyyunları boğan aynı yerde âb-ı hayat bulmuş ve çekirdekten hakikate ve nur-u marifete yetişmiş ve bu iki şeyin Risale-i Nur’da ziyade tekrarları bu hikmete binaendir.
-

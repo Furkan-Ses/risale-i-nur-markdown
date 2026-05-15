@@ -118,4 +118,3 @@ Hattâ ezcümle, bu defa ramazandan sonra, eski zamanda gayet büyük, kudsî bi
 ***
 
 [^hâşiye1]: Yeni Said diyor ki: Şu makamda Eski Said’in iftiharkârane söylediği şu sözlere ben iştirak etmiyorum. Bu risalede sözü ona verdiğim için susturamıyorum. Enaniyetlilere karşı bir parça enaniyetini göstersin diye sükût ediyorum.
-

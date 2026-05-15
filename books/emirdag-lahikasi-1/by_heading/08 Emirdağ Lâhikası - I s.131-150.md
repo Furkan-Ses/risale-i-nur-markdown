@@ -301,4 +301,3 @@ Umum kardeşlerime selâm…
 ***
 
 [^hâşiye1]: Kardeşim Abdülmecid, Zübeyr, Mustafa Sungur, Ceylan, Mehmed Kaya, Hüsnü, Bayram, Rüşdü, Abdullah, Ahmed Aytimur, Âtıf, Tillolu Said, Mustafa, Mustafa, Seyyid Salih.
-

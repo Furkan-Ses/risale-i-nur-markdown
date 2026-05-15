@@ -303,4 +303,3 @@ Abdülbâki
 ***
 
 [^hâşiye1]: Elhasıl, bazı esrar-ı gaybiye için tevafukat şeklini değiştiriyor. Lafza-i Celal’in diğer latîf ve cazibedar ve manidar bir tevafuku şudur ki: Başta Fatiha sahifesiyle beraber yüz elli bir sahifede, elli bir defa yedi ile sekiz geliyor.
-

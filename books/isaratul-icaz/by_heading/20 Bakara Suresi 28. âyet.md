@@ -122,4 +122,3 @@ Sual: Allah’a rücû etmek, Allah’tan gelmeyi iktiza eder. Bunun için bir k
 Cevap: Dünyada insanın vücud ve bekası olduğu gibi âhirette de vücud ve bekası vardır. Dünyadaki vücud, vasıtasız dest-i kudretten çıkar. Dünyada terkip, tahlil, tasarruf, tahavvül ile karışık beka meselesi sâbıkan zikredilen hikmet üzerine esbab, vesait, ilel, meseleye müdahale edip araya girerler. Âhirette ise vücud ve beka, her ikisi de levazımatıyla, terkibatıyla bizzat dest-i kudretten çıkarlar ve herkes hakiki Mâlik’ini bilir. İşte bunu anlayan, rücûun ne demek olduğunu anlar.
 
 ***
-

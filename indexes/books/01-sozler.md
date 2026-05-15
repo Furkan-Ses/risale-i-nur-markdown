@@ -1,8 +1,8 @@
 # Sözler
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/01 Sözler`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/01 Sözler`
 - Bölüm sayısı: **36**
-- Upstream indeks: [00 SÖZLER.md](../../sources/official-markdown-mirror/obsidian-markdown/01 Sözler/00 SÖZLER.md)
+- Kaynak aynası indeksi: [00 SÖZLER.md](../../sources/official-markdown-mirror/obsidian-markdown/01 Sözler/00 SÖZLER.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -45,7 +45,7 @@
 | 35 | KONFERANS | [35 Konferans (Sözler).md](../../sources/official-markdown-mirror/obsidian-markdown/01 Sözler/35 Konferans (Sözler).md) |
 | 36 | Fihrist | [36 Fihrist (Sözler).md](../../sources/official-markdown-mirror/obsidian-markdown/01 Sözler/36 Fihrist (Sözler).md) |
 
-## Verified Sozler
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Sozler.md](../../books/sozler/Sozler.md)
 - Bölüm klasörü: [by_heading](../../books/sozler/by_heading)

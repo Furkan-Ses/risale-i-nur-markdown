@@ -143,4 +143,3 @@ Hem sırr-ı temsil penceresiyle; hakaik-i gaybiyeye, esasat-ı İslâmiyeye şu
 ***
 
 [^hâşiye1]: Şimdi yüz otuzdur.
-

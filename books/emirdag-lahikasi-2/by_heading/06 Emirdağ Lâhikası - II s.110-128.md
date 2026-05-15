@@ -248,4 +248,3 @@ Hasta kardeşiniz Said Nursî
 Hâşiyenin hâşiyesi: Bu asırda ecnebiler aynı Firavun’un cesedini bulmuşlar. Müzehanelerine götürdükleri, ceridelerle neşredilmiştir.
 
 [^hâşiye4]: Size bera-yı malûmat bilâhare gönderilecektir.
-

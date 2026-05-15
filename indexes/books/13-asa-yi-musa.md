@@ -1,8 +1,8 @@
 # Asâ-yı Musa
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa`
 - Bölüm sayısı: **25**
-- Upstream indeks: [000 ASÂ-YI MUSA.md](../../sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/000 ASÂ-YI MUSA.md)
+- Kaynak aynası indeksi: [000 ASÂ-YI MUSA.md](../../sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/000 ASÂ-YI MUSA.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -34,7 +34,7 @@
 | 211 | On Birinci Hüccet-i İmaniye | [211 On Birinci Hüccet-i İmaniye.md](../../sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/211 On Birinci Hüccet-i İmaniye.md) |
 | 212 | Fihrist (Asâ-yı Musa) | [212 Fihrist (Asâ-yı Musa).md](../../sources/official-markdown-mirror/obsidian-markdown/13 Asâ-yı Musa/212 Fihrist (Asâ-yı Musa).md) |
 
-## Verified Asa-yi Musa
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Asa-yi Musa.md](../../books/asa-yi-musa/Asa-yi Musa.md)
 - Bölüm klasörü: [by_heading](../../books/asa-yi-musa/by_heading)

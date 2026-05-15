@@ -25,4 +25,3 @@ Hem ehemmiyetsizliği, kıymetsizliği iktiza eden gayet derecede mebzuliyet ve 
 Şimdi ey bîçare cahil, gafil, muannid, muattıl! Bu hakikat-i uzmayı ne ile tefsir edebilirsin? Bu nihayet derecede mu’cize ve hârika keyfiyeti ne ile izah edebilirsin? Bu hadsiz derecede acib şu sanatları neye isnad edebilirsin? Bu yeryüzü derecesinde geniş bu pencereye hangi perde-i gafleti atıp kapatabilirsin? Senin tesadüfün nerede, tabiat dediğin ve güvendiğin şuursuz yoldaşın ve dalalette istinadgâhın ve arkadaşın nerede? Bu işlere tesadüfün karışması yüz derece muhal değil mi? Ve şu hârika işlerin binden birinin tabiata havalesi, bin derece muhal olmuyor mu? Yoksa camid, âciz tabiatın; her bir şeyin içinde o şeyden yapılan eşya adedince manevî makine ve matbaaları mı var?
 
 ***
-

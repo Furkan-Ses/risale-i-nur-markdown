@@ -1,8 +1,8 @@
 # Muhakemat
 
-- Kaynak aynası klasörü: `/sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat`
+- Kaynak aynası klasörü: `sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat`
 - Bölüm sayısı: **6**
-- Upstream indeks: [00 MUHAKEMAT.md](../../sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/00 MUHAKEMAT.md)
+- Kaynak aynası indeksi: [00 MUHAKEMAT.md](../../sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/00 MUHAKEMAT.md)
 - Kaynak: Hizmet Vakfı & DİB asıl nüsha metni 2016
 - Kaynak URL: https://www.risaleinur.hizmetvakfi.org/
 
@@ -15,7 +15,7 @@
 | 4 | FİHRİST | [04 Fihrist (Muhakemat).md](../../sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/04 Fihrist (Muhakemat).md) |
 | 5 | Takriz | [05 Takriz.md](../../sources/official-markdown-mirror/obsidian-markdown/14 Muhakemat/05 Takriz.md) |
 
-## Verified Muhakemat
+## Okuma katmanı kopyası
 
 - Birleşik kitap dosyası: [Muhakemat.md](../../books/muhakemat/Muhakemat.md)
 - Bölüm klasörü: [by_heading](../../books/muhakemat/by_heading)

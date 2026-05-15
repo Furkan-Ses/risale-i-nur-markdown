@@ -321,4 +321,3 @@ Umum kardeşlerimize binler selâm ve dua ediyoruz.
 [^hâşiye2]: Medresetü’z-Zehranın maddî tesisine çok maniler bulunduğundan şimdilik Nur şakirdlerinin heyet-i mecmuasının dairesinden ibarettir.
 
 [^hâşiye3]: Şayet biri biliyor, taallüm etmeye muhtaç değilse ibadete muhtaç veya marifete müştak veya huzur ister. Onun için herkese lüzumlu bir derstir.
-

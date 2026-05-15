@@ -141,4 +141,3 @@ Hem bu hakikate binaen bazı evliya bir dakikada bir günlük işi görmüş. Ba
 Ezcümle: On Dokuzuncu Mektup yüz elli sahifedir. Üç yüzden fazla mu’cizatı, kitaplara müracaat edilmeden ezber olarak dağ, bağ köşelerinde dört gün zarfında her gün üçer saat meşgul olmakla mecmuu on iki saatte telif edilmesi; Ramazan Risalesi, kırk dakikada telif edilmesi; Yirmi Sekizinci Söz, yirmi dakikada telif edilmesi bast-ı zamanın vukuunu ispat etmiştir.
 
 <span class="arabic" dir="rtl">قَالَ قَٓائِلٌ مِنْهُمْ كَمْ لَبِثْتُمْ قَالُوا لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍ</span> âyeti tayy-ı zamanı gösterdiği gibi<span class="arabic" dir="rtl">وَاِنَّ يَوْمًا عِنْدَ رَبِّكَ كَاَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ</span> âyeti de bast-ı zamanı gösterir.
-

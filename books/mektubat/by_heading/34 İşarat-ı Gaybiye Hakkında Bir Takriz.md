@@ -86,4 +86,3 @@ Bu hususta kat’î ve yakîn derecesindeki kanaatimin bir sebebi şudur ki: Mü
 **Said Nursî**
 
 ***
-

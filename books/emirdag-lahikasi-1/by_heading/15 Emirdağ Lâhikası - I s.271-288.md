@@ -233,4 +233,3 @@ Cemiyet ise uhuvvet-i İslâmiye cihetinde bir uhrevî kardeşliktir. Yoksa siya
 [^hâşiye3]: İslâm hükûmetlerde Hristiyan ve Yahudi bulunması ve Hristiyan ve Mecusi hükûmetlerde Müslümanlar bulunduğu gösteriyor ki idare ve asayişe bilfiil ilişmeyen muhaliflere kanunca ilişilmez. Hem imkânat, medar-ı mes’uliyet olamaz. Yoksa herkes bir adamı öldürebilir, herkesi bu imkânatla mahkemeye vermek lâzım gelir.
 
 [^hâşiye4]: İşte yazık oldu.
-

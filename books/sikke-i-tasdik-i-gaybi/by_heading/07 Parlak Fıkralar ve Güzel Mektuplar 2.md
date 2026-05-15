@@ -1840,4 +1840,3 @@ Ali Ulvi
 [^hâşiye7]: Hem bu kuşların Risale-i Nur’la alâkadarlıklarını teyid eden çok emareler var. Ezcümle: O kuşların alâkadarlığını gösteren mektup Milas’a gittiği aynı vakitte garib bir tarzda kuddüs kuşu o mektubun mealini vaziyetiyle teyid ettiği gibi; aynı mektup İnebolu’da geceleyin okunurken büyük bir gece kuşu hârika bir tarzda pencereye gelip kanadıyla vurup durup dinlemesi; aynı mektup Sava’da okunurken bir defa iki çekirge üstüne gelip durup neticeye kadar durmaları; bir defa da serçe ve bülbül kuşları aynı mektubun okunmasında pervane gibi uçup alâkadarlık göstermeleri ve Isparta’da Hüsrev’in evinde aynı mektup okunurken bülbül kuşu hilaf-ı âdet salona gelmesi, alâkadarlığını göstermesi gibi çok emareler, bu keramet-i Nuriyeyi teyid ediyor.
 
 [^hâşiye8]: “Gönüller Fatihi Büyük Üstada” başlıklı olan bu manzume, Mektubat’ın ve İhlas Risaleleri’nin âhirindedir.
-

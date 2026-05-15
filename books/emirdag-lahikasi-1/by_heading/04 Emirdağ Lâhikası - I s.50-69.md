@@ -261,4 +261,3 @@ Said Nursî
 ***
 
 [^hâşiye1]: Evet Risale-i Nur’un tercümanı hem fakir hem âdi iken şansız ve âmî bir haneden olduğu halde, tarihçe-i hayatında yazıldığı gibi; fevkalâde istiğna ve hediye ve sadakaları kabul etmemek ve emsalsiz bir izzet-i ilmiye namıyla kimseye baş eğmemek ve tenezzül etmemek ve haddinden bin derece ziyade işlere girişmek gibi haller, bu mezkûr sırdan ileri gelmiştir.
-

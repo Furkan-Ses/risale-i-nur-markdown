@@ -820,4 +820,3 @@ Ve madem Kur’an’ın dörtten birisi haşir ve âhirettir ve bin âyetiyle ha
 [^hâşiye5]: Üstadımızın senelerce evvel haber verdiği ve temenni ettiği bir hakikat, memleketimizde de tahakkuk etmiş bulunuyor. Elhamdülillah, şimdi radyomuzda Kur’an okunuyor. İnşâallah öyle bir zaman gelecektir ki Kur’an hakikatleri olan Risale-i Nur radyolarla ders verilecek, beşeriyet büyük istifadelere nâil olacaktır.
 
 [^hâşiye6]: Sâbık her bir bahar; kıyameti kopmuş, ölmüş ve karşısındaki bahar, onun haşri hükmündedir.
-

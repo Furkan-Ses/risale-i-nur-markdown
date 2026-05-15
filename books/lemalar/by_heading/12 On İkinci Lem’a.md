@@ -142,4 +142,3 @@ Evet, cin fikirli feylesofların felsefesiyle o semavat-ı Kur’aniyeye çıkı
 ***
 
 [^hâşiye1]: Seb’a ile beraber yedi kelimesi yedi kere tevafuku pek güzel düşmüş.
-

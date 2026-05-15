@@ -90,4 +90,3 @@ Sual: <span class="arabic" dir="rtl">وَمَا هُمْ بِمُؤْمِنٖي�
 Cevap: Onların zahiren imanları varsa da, hakikatte imana ehil ve lâyık insanlar olup mü’minîn sınıfından addedilmediklerine delâlet için <span class="arabic" dir="rtl">مَا</span> nın haberi üzerine <span class="arabic" dir="rtl">ب</span> dâhil olmuştur.
 
 ***
-

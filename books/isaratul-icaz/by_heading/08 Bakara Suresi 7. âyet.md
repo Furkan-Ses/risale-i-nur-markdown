@@ -192,4 +192,3 @@ Fakat kâfir, kendi ameliyle bu duruma kesb-i istihkak etmiş ise de amelinin ce
 Maahâzâ cinayetin lekesini izale veya hacaletini tahfif veyahut icra-yı adalete iştiyak için cezayı hüsn-ü rıza ile kabul etmek, ruhun fıtrî olan şe’nidir. Evet, dünyada çok namus sahipleri, cinayetlerinin hicabından kurtulmak için kendilerine cezanın tatbikini istemişlerdir ve isteyenler de vardır.
 
 ***
-

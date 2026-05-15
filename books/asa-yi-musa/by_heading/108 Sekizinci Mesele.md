@@ -160,4 +160,3 @@ Bu risalenin başında Birinci Meselesi namaza dair güzel bir ders olduğu gibi
 <p class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</p>
 
 ***
-

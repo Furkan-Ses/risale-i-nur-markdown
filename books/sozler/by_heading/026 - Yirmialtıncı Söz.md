@@ -3,8 +3,6 @@ title: "Yirmialtıncı Söz"
 slug: "yirmialtinci-soz"
 start_page: 463
 end_page: 479
-source_pdf: "/Users/furkanses/Desktop/Risale-i Nur/Sozler.pdf"
-source_markdown: "/Users/furkanses/Desktop/Risale-i Nur/07_Sessions/sozler_cleanup_archive/sozler_markdown_archive/Sozler.md"
 ---
 
 # Yirmialtıncı Söz

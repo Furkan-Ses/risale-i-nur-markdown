@@ -162,4 +162,3 @@ Ve madem Kur’an’ın dörtten birisi haşir ve âhirettir ve bin âyâtıyla 
 ***
 
 [^hâşiye1]: Sâbık her bir bahar; kıyameti kopmuş, ölmüş ve karşısındaki bahar, onun haşri hükmündedir.
-

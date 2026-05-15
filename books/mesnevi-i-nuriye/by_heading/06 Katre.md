@@ -522,4 +522,3 @@ Mütercim
 Abdülmecid
 
 [^hâşiye3]: İhtar: Kur’an’ın delâletiyle bulduğum yola gitmek isteyen için ve ona o yolu güzelce tarif etmek için Risale-i Nur Külliyatı güzel bir tarifçidir.
-

@@ -14,4 +14,3 @@ Risale-i Nur müellifinin neseben küçük kardeşi ve on beş sene ondan ders a
 Abdülmecid Nursî
 
 ***
-

@@ -193,4 +193,3 @@ Yirminci Mektup’u elimde götürürken meydanda idi. Karşımda muhtar odası 
 Âciz talebeniz Hacı Mehmed
 
 ***
-

@@ -47,4 +47,3 @@ Demek, şüphesiz dünya bir mezraadır. Mahşer ise bir beyderdir, harmandır. 
 [^hâşiye1]: Evet küfür, mevcudatın kıymetini ıskat ve manasızlıkla ittiham ettiğinden, bütün kâinata karşı bir tahkir ve mevcudat âyinelerinde cilve-i esmayı inkâr olduğundan, bütün esma-i İlahiyeye karşı bir tezyif ve mevcudatın vahdaniyete olan şehadetlerini reddettiğinden, bütün mahlukata karşı bir tekzip olduğundan; istidad-ı insanîyi öyle ifsad eder ki salah ve hayrı kabule liyakati kalmaz. Hem bir zulm-ü azîmdir ki umum mahlukatın ve bütün esma-i İlahiyenin hukukuna bir tecavüzdür.
 
 İşte şu hukukun muhafazası ve nefs-i kâfir hayra kabiliyetsizliği, küfrün adem-i affını iktiza eder. <span class="arabic" dir="rtl">اِنَّ الشِّرْكَ لَظُلْمٌ عَظٖيمٌ</span> şu manayı ifade eder.
-

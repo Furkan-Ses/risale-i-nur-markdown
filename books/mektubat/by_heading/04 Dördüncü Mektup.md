@@ -60,4 +60,3 @@ Sonra senin yazdığın: “Bak kitab-ı kâinatın safha-i rengînine, ilâ âh
 ***
 
 [^hâşiye1]: Yani cennet çiçeklerinin fidanlık ve mezraacığı olan zeminin yüzünde hadsiz mu’cizat-ı kudret teşhir edildiğinden, semavat âlemindeki melaikeler o mu’cizatı ve o hârikaları temaşa ettikleri gibi; ecram-ı semaviyenin gözleri hükmünde olan yıldızlar dahi güya melaikeler gibi zemin yüzündeki nâzenin masnuatı gördükçe cennet âlemine bakıyorlar ve o muvakkat hârikaları bâki bir surette cennette dahi temaşa ediyorlar gibi bir zemine, bir cennete bakıyorlar. Yani o iki âleme nezaretleri var, demektir.
-

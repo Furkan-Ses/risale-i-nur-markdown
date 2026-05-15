@@ -119,4 +119,3 @@ Ve keza fevkalâde bir suhuletle, hârika bir süratle, mu’ciz bir itkan ve in
 Yahu her şeyi sahib-i hakikisine ver veya ona isnad et. Onun ismiyle al ki rahat edesin. Ve illâ bu kadar eşyayı vücuda getirip nizam ve intizamlarını temin edecek o kadar ilahları kabule muztar kalacaksın.
 
 ***
-

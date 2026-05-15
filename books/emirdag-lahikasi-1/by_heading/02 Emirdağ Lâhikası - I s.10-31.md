@@ -281,4 +281,3 @@ Said Nursî
 **Üçüncüsü:** Aynı günde İstanbul’da bir münafık, İhtiyar Risalesi’ni bahane ederek aleyhimizde propaganda etmiş, adliyeye aksettirmiş.
 
 Bu gibi hâdiselerden müştaklar çekinmeye başladılar. Ben de <span class="arabic" dir="rtl">لِكُلِّ مُصٖيبَةٍ قَالُٓوا اِنَّا لِلّٰهِ وَ اِنَّٓا اِلَيْهِ رَاجِعُونَ</span> dedim <span class="arabic" dir="rtl">حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيلُ</span> siperine girdim.
-

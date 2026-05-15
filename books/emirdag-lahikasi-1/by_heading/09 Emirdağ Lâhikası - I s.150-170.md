@@ -317,4 +317,3 @@ Ben dedim: Madem şimdi her tarafta Nurlara kuvvetli ve kesretli eller sahip ç�
 [^hâşiye1]: Evet her biri yüze mukabil binler Türk gençleri, masumları, ihtiyarları Risale-i Nur’a şakird olmalarından bu acib asırda, Türk milletinin Devlet-i Abbasiye inkırazından İslâm yardımına koşmaları gibi bu şakirdler dahi aynen koştular. Değil yalnız Said belki bütün ehl-i hakikat tahsin eder, Türk’e dost olur.
 
 [^hâşiye2]: Demokrat çıktı, bir derece kırdı.
-
