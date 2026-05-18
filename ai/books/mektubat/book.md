@@ -15,7 +15,6 @@ tags:
   - "dunya"
   - "beka"
   - "icaz"
-  - "teslimiyet"
   - "sunnet"
 source_book_path: "books/mektubat/Mektubat.md"
 source_section_dir: "books/mektubat/by_heading"

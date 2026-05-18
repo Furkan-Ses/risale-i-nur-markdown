@@ -15,8 +15,6 @@ tags:
   - "icaz"
   - "beka"
   - "sunnet"
-  - "teslimiyet"
-  - "peygamberlik"
 source_book_path: "books/barla-lahikasi/Barla Lahikasi.md"
 source_section_dir: "books/barla-lahikasi/by_heading"
 source_name: null

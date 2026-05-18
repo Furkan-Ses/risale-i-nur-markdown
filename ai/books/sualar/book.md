@@ -16,7 +16,6 @@ tags:
   - "dunya"
   - "kulluk"
   - "hasir"
-  - "yeniden diriliş"
 source_book_path: "books/sualar/Sualar.md"
 source_section_dir: "books/sualar/by_heading"
 source_name: null

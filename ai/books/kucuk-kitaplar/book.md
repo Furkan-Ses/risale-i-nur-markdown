@@ -4,7 +4,6 @@ book_title: "Kucuk Kitaplar"
 keywords:
   - "Kur’an"
   - "bekâ"
-  - "ruh"
   - "tevhid"
   - "nefis"
   - "i’caz"
@@ -14,9 +13,7 @@ tags:
   - "kuran"
   - "beka"
   - "icaz"
-  - "kardeşlik"
   - "hasir"
-  - "yeniden diriliş"
 source_book_path: "books/kucuk-kitaplar/Kucuk Kitaplar.md"
 source_section_dir: "books/kucuk-kitaplar/by_heading"
 source_name: null

@@ -5,18 +5,13 @@ keywords:
   - "iman"
   - "Kur’an"
   - "hizmet"
-  - "kaza"
   - "ihlas"
   - "dua"
   - "i’caz"
   - "ubudiyet"
 tags:
   - "kuran"
-  - "dunya"
-  - "hurriyet"
   - "icaz"
-  - "kulluk"
-  - "beka"
 source_book_path: "books/emirdag-lahikasi-2/Emirdag Lahikasi 2.md"
 source_section_dir: "books/emirdag-lahikasi-2/by_heading"
 source_name: null

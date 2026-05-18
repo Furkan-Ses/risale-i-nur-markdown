@@ -5,18 +5,14 @@ keywords:
   - "iman"
   - "Kur’an"
   - "hizmet"
-  - "rahmet"
   - "ihlas"
   - "dua"
   - "i’caz"
   - "sadakat"
 tags:
   - "kuran"
-  - "dunya"
-  - "beka"
   - "icaz"
   - "tesanud"
-  - "kulluk"
 source_book_path: "books/kastamonu-lahikasi/Kastamonu Lahikasi.md"
 source_section_dir: "books/kastamonu-lahikasi/by_heading"
 source_name: null

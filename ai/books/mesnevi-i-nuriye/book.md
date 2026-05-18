@@ -5,7 +5,6 @@ keywords:
   - "Kur’an"
   - "tevhid"
   - "rububiyet"
-  - "hikmet"
   - "bekâ"
   - "nefis"
   - "uluhiyet"

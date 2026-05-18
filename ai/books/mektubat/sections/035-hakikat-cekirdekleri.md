@@ -18,6 +18,7 @@ keywords:
   - "i’caz"
   - "sünnet"
   - "tevekkül"
+  - "tefviz"
   - "bekâ"
   - "kader"
 tags:

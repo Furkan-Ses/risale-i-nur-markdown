@@ -12,10 +12,7 @@ keywords:
   - "ahiret"
 tags:
   - "kuran"
-  - "dunya"
   - "beka"
-  - "benlik"
-  - "ego"
   - "asayis"
 source_book_path: "books/emirdag-lahikasi-1/Emirdag Lahikasi 1.md"
 source_section_dir: "books/emirdag-lahikasi-1/by_heading"

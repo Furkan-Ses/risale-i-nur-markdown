@@ -12,10 +12,7 @@ keywords:
   - "i’caz"
 tags:
   - "kuran"
-  - "peygamberlik"
   - "icaz"
-  - "benlik"
-  - "ego"
   - "munacat"
 source_book_path: "books/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md"
 source_section_dir: "books/sikke-i-tasdik-i-gaybi/by_heading"

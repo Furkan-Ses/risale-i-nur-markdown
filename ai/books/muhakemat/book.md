@@ -12,9 +12,7 @@ keywords:
 tags:
   - "kuran"
   - "nubuvvet"
-  - "peygamberlik"
   - "mesveret"
-  - "nefis terbiyesi"
 source_book_path: "books/muhakemat/Muhakemat.md"
 source_section_dir: "books/muhakemat/by_heading"
 source_name: null

@@ -17,6 +17,7 @@ keywords:
   - "vahdaniyet"
   - "ehadiyet"
   - "haşir"
+  - "marifetullah"
   - "tezkiye"
   - "enaniyet"
   - "risalet"
