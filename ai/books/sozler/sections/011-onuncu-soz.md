@@ -1404,7 +1404,6 @@ Altıncı Esas: Hem anlarsın ki: İnsan, ipi boğazına sarılıp, istediği
 yerde otlamak için başıboş bırakılmamıştır; belki bütün amellerinin
 suretleri alınıp yazılır ve bütün fiillerinin neticeleri muhasebe için
 zabtedilir.
-
 ## Yedinci Esas
 
 Yedinci Esas: Hem anlarsın ki: Güz mevsiminde yaz-bahar âleminin

@@ -38,7 +38,6 @@ Ey kozmoğrafyanın ruhsuz mes'eleleriyle zihni darlaşan ve aklı
 gözüne inen ve şu âyetin azametli sırrını, o sıkışmış zihninde
 yerleştiremeyen mektebli efendi! Şu âyetin semasına yedi basamaklı bir
 merdivenle çıkılabilir. Gel, beraber çıkacağız!
-
 ## Birinci Basamak
 
 Birinci Basamak: Hakikat ve hikmet ister ki: Zemin gibi,
@@ -79,7 +78,6 @@ zulmet bahrinden bir kısım zîşuur mahlukları vardır. Hem çok kesretli
 olarak vardır. Melaike ve ruhaniyatın vücudlarına dair "Nokta" namında
 bir risalemde ve Yirmidokuzuncu Söz'de iki kerre iki dört eder
 derecesinde bir kat'iyyetle isbat edilmiştir. Eğer istersen ona müracaat et.
-
 ## İkinci Basamak
 
 İkinci Basamak: Zemin ile gökler, bir hükûmetin iki memleketi
@@ -95,7 +93,6 @@ veya cesedlerini çıkaran ervah-ı emvat, izn-i ilahî ile oraya giderler.
 Madem hiffet ve letafet bulanlar oraya giderler. Elbette cesed-i misalî
 giyen ve ervah gibi hafif ve latif bir kısım sekene-i arz ve hava, semaya
 gidebilirler.
-
 ## Üçüncü Basamak
 
 Üçüncü Basamak: Semanın sükût ve sükûneti ve intizam ve
@@ -197,7 +194,6 @@ anunlar misillü, kanun-u mübarezenin dahi bir derece tamimin
 sterler... Kalb etrafindaki ilhamat ve vesveselerin mübarezelerinden tu
 tâ sema âfâkında melaike ve şeytanların mübarezesine kadar o kanunun
 şümulünü iktiza eder.
-
 ## Beşinci Basamak
 
 Beşinci Basamak: Madem arzdan semaya gidip gelmek var. Semadan
@@ -231,7 +227,6 @@ bedaheten anlaşılır. Halbuki şu hâdisenin, bu hikmetten ve şu gayeden
 başka ona münasib bir hikmeti bilinmiyor. Sair hâdisat öyle değil. Hem
 şu hikmet, zaman-ı Âdem'den beri meşhurdur ve ehl-i hakikat için
 meşhuddur.
-
 ## Altıncı Basamak
 
 Altıncı Basamak: Beşer ve cin, nihayetsiz şerre ve cühuda
@@ -281,7 +276,6 @@ Ne kadar Nebi hakkına hürmet ve ne kadar ezvacın hukukuna merhamet
 var. Şu mühim tahşidat, yalnız hürmet-i Nebinin azametini ve iki zaîfenin
 şekalarının ehemmiyetini ve haklarının riayetini, rahîmane ifade etmek
 içindir.
-
 ## Yedinci Basamak
 
 Yedinci Basamak: Melekler ve semekler gibi, yıldızların dahi

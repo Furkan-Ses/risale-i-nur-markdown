@@ -57,6 +57,8 @@ Mesela deniliyor ki: “Cenab-ı Hak اَقْرَبُ اِلَيْهِ مِنْ 
 
 Elcevap: Şu sırr-ı gamızı iki temsil ile fehme takrib ediyoruz. On İkinci Söz’ün sırr-ı i’caz-ı Kur’an ve sırr-ı mi’rac hakkında olan şu iki temsili dinle:
 
+## Birinci Temsil
+
 Birinci Temsil: Bir sultanın iki çeşit mükâlemesi, sohbeti, görüşmesi vardır. İki tarzda hitabı, iltifatı vardır.
 
 Birisi: Âmî bir raiyetiyle cüz’î bir iş için hususi bir hâcete dair, has bir telefonla sohbet etmektir.
@@ -68,6 +70,8 @@ Diğeri: Saltanat-ı uzma unvanıyla ve hilafet-i kübra namıyla ve hâkimiyet-
 ---
 
 [Page 562]
+
+## İkinci Temsil
 
 İkinci Temsil: Bir adam elindeki bir âyineyi güneşe karşı tutar. O âyine kendi miktarınca bir ışık ve yedi rengi hâvi bir ziyayı, bir aksi, şemsten alır. Onun nisbetinde güneşle münasebettar olur, sohbet eder. Ve o ışıklı âyineyi karanlıklı hanesine veya dam altındaki küçük, hususi bağına tevcih etse güneşin kıymeti nisbetinde değil belki o âyinenin kabiliyeti miktarınca istifade edebilir. Diğeri ise âyineyi bırakır, doğrudan doğruya güneşe karşı çıkar, haşmetini görür, azametini anlar. Sonra pek yüksek bir dağa çıkar, güneşin pek geniş şaşaa-i saltanatını görür ve bizzat perdesiz onunla görüşür. Sonra döner, hanesinden veya bağının damından geniş pencereler açar, gökteki güneşe karşı yollar yapar, hakiki güneşin daimî ziyası ile sohbet eder, konuşur. Ve böylece minnettarane bir sohbet edebilir ve diyebilir: “Ey yeryüzünü ışığıyla yaldızlayan ve zeminin vechini ve bütün çiçeklerin yüzlerini güldüren dünya güzeli, gök nazdarı olan nâzenin güneş! Onlar gibi benim haneciğimi, bahçeciğimi ısındırdın ve ışıklandırdın, bütün dünyayı ışıklandırdığın ve yeryüzünü ısındırdığın gibi.” Halbuki evvelki âyine sahibi böyle diyemez. O âyine kaydı altında güneşin aksi ise âsârı mahduddur, o kayda göredir.
 
@@ -122,6 +126,8 @@ Mesela, adliye dairesinde hâkim-i âdil ve mülkiyede sultan ve askeriyede kuma
 Mesela, ism-i Kadîr’e mazhar Hazret-i İsa aleyhisselâm, hangi semada Peygamber aleyhissalâtü vesselâm ile görüştü ise işte o sema dairesinde Cenab-ı Hak, Kadîr unvanıyla bizzat orada mütecellidir. Mesela, Hazret-i Musa aleyhisselâmın makamı olan sema dairesinde en ziyade hüküm-ferma, Hazret-i Musa aleyhisselâmın mazhar olduğu “Mütekellim” unvanıdır ve hâkeza…
 
 İşte Zat-ı Ahmediye aleyhissalâtü vesselâm, çünkü ism-i a’zama mazhardır ve nübüvveti umumîdir ve bütün esmaya mazhardır, elbette bütün devair-i rububiyetle alâkadardır. Elbette o dairelerde makam sahibi olan enbiyalarla görüşmek ve umum tabakattan geçmek, hakikat-i mi’racı iktiza ediyor.
+
+## İkinci Temsil
 
 İkinci Temsil: Nasıl ki bir sultanın unvanlarından olan “kumandan-ı a’zam” unvanı, devair-i askeriyenin serasker dairesi gibi küllî ve geniş daireden tut, tâ onbaşı dairesi gibi cüz’î ve hususi her bir dairede bir zuhuru, bir cilvesi vardır. Mesela bir nefer; o kumandanlık unvan-ı a’zamının numunesini onbaşı şahsında görür, ona bakar, ondan emir alır. O nefer onbaşı olduğunda; çavuş dairesindeki kumandanlık dairesi nazarına çarpar, ona bakar. Sonra çavuş olsa o vakit kumandanlık numunesini ve cilvesini mülazım dairesinde görür. O makamda ona mahsus bir iskemle bulunur ve hâkeza… Yüzbaşı, binbaşı, ferik, müşir dairelerinden her birinde, dairelerin büyük ve küçüklüğü nisbetinde o kumandanlık unvanını görür.
 
@@ -263,6 +269,8 @@ Hem Sâni’-i âlem’in, âsârın şehadetiyle nihayetsiz cemal ve kemali var
 
 Şimdi şu hikmet-i âliyeye bakmak için iki temsil dürbünüyle tarassud edeceğiz.
 
+## Birinci temsil
+
 Birinci temsil: On Birinci Söz’ün hikâye-i temsiliyesinde tafsilen beyan edildiği gibi nasıl ki bir sultan-ı zîşanın, pek çok hazineleri ve o hazinelerde pek çok cevahirlerin envaı bulunsa hem sanayi-i garibede çok mahareti olsa ve hesapsız fünun-u acibeye marifeti, ihatası bulunsa, nihayetsiz ulûm-u bedîaya ilim ve ıttılaı olsa; her cemal ve kemal sahibi, kendi cemal ve kemalini görüp ve göstermek istemesi sırrınca elbette o sultan-ı zîfünun dahi bir meşher açmak ister ki içinde sergiler dizsin, tâ nâsın enzarına saltanatının haşmetini hem servetinin şaşaasını hem kendi sanatının hârikalarını hem kendi marifetinin garibelerini izhar edip göstersin; tâ cemal ve kemal-i manevîsini iki vecihle müşahede etsin. Bir vechi: Bizzat nazar-ı dekaik-aşinasıyla görsün. Diğeri: Gayrın nazarıyla baksın. Ve şu hikmete binaen elbette cesîm, muhteşem, geniş bir saray yapmaya başlar. Şahane bir surette dairelere, menzillere taksim eder. Hazinelerinin türlü türlü murassaatıyla süslendirip kendi dest-i sanatının en güzel, en latîf sanatlarıyla ziynetlendirir. Fünun ve hikmetinin en incelikleriyle tanzim eder. Ve ulûmunun âsâr-ı mu’cizekâraneleriyle donatır, tekmil eder. Sonra nimetlerinin çeşitleriyle, taamlarının lezizleriyle, her taifeye lâyık sofraları serer. Bir ziyafet-i âmme ihzar eder. Sonra raiyetine kendi kemalâtını göstermek için onları seyre ve ziyafete davet eder.
 
 Sonra birisini yaver-i ekrem yapar, aşağıki tabakat ve menzillerden yukarıya davet eder; daireden daireye, üst üstteki tabakalarda gezdirir. O acib sanatının makinelerini ve tezgâhlarını ve aşağıdan gelen mahsulatın mahzenlerini göstere göstere, tâ daire-i hususiyesine kadar getirir. Bütün o kemalâtının madeni olan mübarek zatını ona göstermekle ve huzuruyla onu müşerref eder. Kasrın hakaikini ve kendi kemalâtını ona bildirir. Seyircilere rehber tayin eder, gönderir. Tâ o sarayın sâni’ini, o sarayın müştemilatıyla, nukuşuyla, acayibiyle, ahaliye tarif etsin. Ve sarayın nakışlarındaki rumuzunu bildirip ve içindeki sanatlarının işaretlerini öğretip, derûnundaki manzum murassalar ve mevzun nukuş nedir ve saray sahibinin kemalâtını ve hünerlerini nasıl gösterirler, o saraya girenlere tarif etsin ve girmenin âdabını ve seyrin merasimini bildirip ve görünmeyen sultan-ı zîfünun ve zîşuuna karşı, marziyatı ve arzuları dairesinde teşrifat merasimini tarif etsin.
@@ -276,6 +284,8 @@ Aynen öyle de وَ لِلّٰهِ الْمَثَلُ الْاَعْلٰى ezel 
 İşte şöyle bir saray-ı âlemi, kendi kemalât ve cemal-i manevîsini görmek ve göstermek için bir meşher hükmünde açan Celil-i Zülcemal, Cemil-i Zülcelal, Sâni’-i Zülkemal’in hikmeti iktiza ediyor ki şu âlem-i arzdaki zîşuurlara nisbeten abes ve faydasız olmamak için o sarayın âyetlerinin manasını birisine bildirsin. O saraydaki acayibin menbalarını ve netaicinin mahzenleri olan avâlim-i ulviyede birisini gezdirsin. Ve bütün onların fevkine çıkarsın ve kurb-u huzuruna müşerref etsin ve âhiret âlemlerinde gezdirsin, umum ibadına bir muallim ve saltanat-ı rububiyetine bir dellâl ve marziyat-ı İlahiyesine bir mübelliğ ve saray-ı âlemindeki âyât-ı tekviniyesine bir müfessir gibi çok vazifeler ile tavzif etsin. Mu’cizat nişanlarıyla imtiyazını göstersin. Kur’an gibi bir ferman ile o şahsı, Zat-ı Zülcelal’in has ve sadık bir tercümanı olduğunu bildirsin.
 
 İşte mi’racın pek çok hikmetlerinden şu temsil dürbünüyle bir ikisini numune olarak gösterdik. Sairlerini kıyas edebilirsin.
+
+## İkinci Temsil
 
 İkinci Temsil: Nasıl ki bir zat-ı zîfünun, mu’ciz-nüma bir kitabı telif edip yazsa; öyle bir kitap ki her sahifesinde yüz kitap kadar hakaik, her satırında yüz sahife kadar latîf manalar, her bir kelimesinde yüz satır kadar hakikatler, her harfinde yüz kelime kadar manalar bulunsa bütün o kitabın maânî ve hakaikleri, o kâtib-i mu’ciz-nümanın kemalât-ı maneviyesine baksa, işaret etse elbette öyle bitmez bir hazineyi kapalı bırakıp abes etmez. Her halde o kitabı, bazılara ders verecek. Tâ o kıymettar kitap, manasız kalıp beyhude olmasın. Onun gizli kemalâtı zahir olup kemalini bulsun ve cemal-i manevîsi görünsün. O da sevinsin ve sevdirsin. Hem o acib kitabı bütün maânîsiyle, hakaikiyle ders verecek birisini, en birinci sahifeden tâ nihayete kadar üstünde ders vere vere geçirecektir.
 
@@ -393,9 +403,13 @@ Mi’racın semeratı ve faydası nedir?
 
 Elcevap: Şu şecere-i tûba-i maneviye olan mi’racın beş yüzden fazla meyvelerinden numune olarak yalnız beş tanesini zikredeceğiz.
 
+## Birinci Meyve
+
 Birinci Meyve: Erkân-ı imaniyenin hakaikini göz ile görüp melaikeyi, cenneti, âhireti, hattâ Zat-ı Zülcelal’i göz ile müşahede etmek; kâinata ve beşere öyle bir hazine ve bir nur-u ezelî ve ebedî bir hediye getirmiştir ki şu kâinatı, perişan ve fâni ve karmakarışık bir vaziyet-i mevhumeden çıkarıp, o nur ve o meyve ile o kâinatı kudsî mektubat-ı Samedaniye, güzel âyine-i cemal-i Zat-ı Ehadiye vaziyeti olan hakikatini göstermiş. Kâinatı ve bütün zîşuuru sevindirip mesrur etmiş.
 
 Hem o nur ve o meyve ile beşeri müşevveş, perişan, âciz, fakir, hâcatı hadsiz, a’dası nihayetsiz ve fâni, bekasız bir vaziyet-i dalaletkâraneden o insanı o nur, o meyve-i kudsiye ile ahsen-i takvimde bir mu’cize-i kudret-i Samedaniyesi ve mektubat-ı Samedaniyenin bir nüsha-i câmiası ve Sultan-ı ezel ve ebed’in bir muhatabı, bir abd-i hâssı, kemalâtının istihsancısı, halili ve cemalinin hayretkârı, habibi ve cennet-i bâkiyesine namzet bir misafir-i azizi suret-i hakikisinde göstermiş. İnsan olan bütün insanlara, nihayetsiz bir sürur, hadsiz bir şevk vermiştir.
+
+## İkinci Meyve
 
 İkinci Meyve: Sâni’-i mevcudat ve Sahib-i kâinat ve Rabbü’l-âlemîn olan Hâkim-i ezel ve ebed’in marziyat-ı Rabbaniyesi olan İslâmiyet’in –başta namaz olarak– esasatını, cin ve inse hediye getirmiştir ki o marziyatı anlamak, o kadar merak-âver ve saadet-averdir ki tarif edilmez. Çünkü herkes, büyükçe bir veliyy-i nimet, yahut muhsin bir padişahının uzaktan arzularını anlamaya ne kadar arzukeş ve anlasa ne kadar memnun olur. Temenni eder ki: “Keşke bir vasıta-i muhabere olsa idi doğrudan doğruya o zat ile konuşsa idim. Benden ne istiyor, anlasa idim. Benden onun hoşuna gideni bilse idim.” der.
 
@@ -411,7 +425,11 @@ Evet beşer, kamerdeki hali anlamak için ne kadar merak eder ki biri gidip, dö
 
 İşte Zat-ı Ahmediye (asm) öyle bir Zat-ı Zülcelal’in şuunatını ve acayib-i sanatını ve âlem-i bekada hazain-i rahmetini görmüş, gelmiş, beşere söylemiş. İşte beşer, bu zatı kemal-i merak ve hayret ve muhabbetle dinlemezse, ne kadar hilaf-ı akıl ve hikmetle hareket ettiğini anlarsın.
 
+## Üçüncü Meyve
+
 Üçüncü Meyve: Saadet-i ebediyenin definesini görüp, anahtarını alıp getirmiş; cin ve inse hediye etmiştir. Evet, mi’rac vasıtasıyla ve kendi gözüyle cenneti görmüş ve Rahman-ı Zülcemal’in rahmetinin bâki cilvelerini müşahede etmiş ve saadet-i ebediyeyi kat’iyen hakkalyakîn anlamış, saadet-i ebediyenin vücudunun müjdesini cin ve inse hediye etmiştir ki bîçare cin ve ins, kararsız bir dünyada ve zelzele-i zeval ve firak içindeki mevcudatı, seyl-i zaman ve harekât-ı zerrat ile adem ve firak-ı ebedî denizine döküldüğü olan vaziyet-i mevhume-i can-hıraşanede oldukları hengâmda; şöyle bir müjde, ne kadar kıymettar olduğu ve idam-ı ebedî ile kendilerini mahkûm zanneden fâni cin ve insin kulağında öyle bir müjde, ne kadar saadet-aver olduğu tarif edilmez. Bir adama, idam edileceği anda, onun affıyla kurb-u şahanede bir saray verilse, ne kadar sürura sebeptir. Bütün cin ve ins adedince böyle sürurları topla, sonra bu müjdeye kıymet ver.
+
+## Dördüncü Meyve
 
 Dördüncü Meyve: Rü’yet-i cemalullah meyvesini kendi aldığı gibi o meyvenin her mü’mine dahi mümkün olduğunu, cin ve inse hediye getirmiştir ki o meyve, ne derece leziz ve hoş ve güzel bir meyve olduğunu bununla kıyas edebilirsin. Yani her kalp sahibi bir insan; zîcemal, zîkemal, zîihsan bir zatı sever. Ve o sevmek dahi cemal ve kemal ve ihsanın derecatına nisbeten tezayüd eder, perestiş derecesine gelir, canını feda eder derecede muhabbet bağlar. Yalnız bir defa görmesine, dünyasını feda etmek derecesine çıkar. Halbuki bütün mevcudattaki cemal ve kemal ve ihsan, onun cemal ve kemal ve ihsanına nisbeten; küçük birkaç lemaatın, güneşe nisbeti gibi de olmaz.
 
@@ -420,6 +438,8 @@ Dördüncü Meyve: Rü’yet-i cemalullah meyvesini kendi aldığı gibi o meyve
 [Page 583]
 
 Demek, nihayetsiz bir muhabbete lâyık ve nihayetsiz rü’yete ve nihayetsiz bir iştiyaka elyak bir Zat-ı Zülcelali ve’l-kemal’in saadet-i ebediyede rü’yetine muvaffak olması, ne kadar saadet-aver ve medar-ı sürur ve hoş ve güzel bir meyve olduğunu insan isen anlarsın.
+
+## Beşinci Meyve
 
 Beşinci Meyve: İnsan kâinatın kıymettar bir meyvesi ve Sâni’-i kâinat’ın nazdar sevgilisi olduğu, mi’rac ile anlaşılmış ve o meyveyi cin ve inse getirmiştir. Küçük bir mahluk, zayıf bir hayvan ve âciz bir zîşuur olan insanı, o meyve ile o kadar yüksek bir makama çıkarır ki kâinatın bütün mevcudatı üstünde bir makam-ı fahir veriyor. Ve öyle bir sevinç ve sürur-u mesudiyetkârane veriyor ki tasvir edilmez. Çünkü âdi bir nefere denilse: “Sen müşir oldun.” Ne kadar memnun olur.
 
@@ -436,6 +456,8 @@ Mesela: Senin ile biz beraber bir memlekette bulunuyoruz. Görüyoruz ki her şe
 [Page 584]
 
 İşte mi’rac-ı Ahmediyenin (asm) bir meyvesi olan nur-u imandan evvel, şu kâinatın mevcudatı, nazar-ı dalaletle bakıldığı vakit; yabancı, muzır, müz’iç, muvahhiş ve dağ gibi cirmler birer müthiş cenaze, ecel herkesin başını kesip adem-âbâd kuyusuna atar. Bütün sadâlar, firak ve zevalden gelen vaveylâlar olduğu halde, dalaletin öyle tasvir ettiği hengâmda; meyve-i mi’rac olan hakaik-i erkân-ı imaniye nasıl mevcudatı sana kardeş, dost ve Sâni’-i Zülcelal’ine zâkir ve müsebbih; ve mevt ve zeval, bir nevi terhis ve vazifeden âzad etmek; ve sadâlar, birer tesbihat hakikatinde olduğunu sana gösterir. Bu hakikati tamam görmek istersen İkinci ve Sekizinci Sözlere bak.
+
+## İkinci Temsil
 
 İkinci Temsil: Senin ile biz, sahra-yı kebir gibi bir mevkideyiz. Kum denizi fırtınasında, gece o kadar karanlık olduğundan elimizi bile göremiyoruz. Kimsesiz, hâmisiz, aç ve susuz, meyus ve ümitsiz bir vaziyette olduğumuz dakikada, birden bir zat, o karanlık perdesinden geçip; sonra gelip, bir otomobil hediye getirse ve bizi bindirse, birden cennet-misal bir yerde istikbalimiz temin edilmiş, gayet merhametkâr bir hâmimiz bulunmuş, yiyecek ve içecek ihzar edilmiş bir yerde bizi koysa ne kadar memnun oluruz, bilirsin.
 
@@ -479,6 +501,8 @@ Elcevap: İnşikak-ı kamer, dava-yı nübüvvete delil olmak için o davayı i�
 
 Şakk-ı kamer yüzünden bu evham bulutlarını dağıtacak çok noktalardan şimdilik beş noktayı dinle:
 
+## Birinci Nokta
+
 Birinci Nokta: O zaman, o zemindeki küffarın gayet şedit derecede inatları tarihen malûm ve meşhur olduğu halde, Kur’an-ı Hakîm’in وَ انْشَقَّ الْقَمَرُ demesiyle şu vak’ayı umum âleme ihbar ettiği halde, Kur’an’ı inkâr eden o küffardan hiçbir kimse, şu âyetin tekzibine, yani ihbar ettiği şu vakıanın inkârına ağız açmamışlar. Eğer o zamanda o hâdise, o küffarca kat’î ve vaki bir hâdise olmasa idi, şu sözü serrişte ederek gayet dehşetli bir tekzibe ve Peygamber’in (asm) iptal-i davasına hücum göstereceklerdi.
 
 Halbuki şu vak’aya dair siyer ve tarih, o vak’a ile münasebettar küffarın adem-i vukuuna dair hiçbir şeyini nakletmemişlerdir. Yalnız وَ يَقُولُوا سِحْرٌ مُسْتَمِرٌّ âyetinin beyan ettiği gibi tarihçe menkul olan şudur ki: O hâdiseyi gören küffar “Sihirdir.” demişler ve “Bize sihir gösterdi. Eğer sair taraflardaki kervan ve kafileler görmüşlerse hakikattir. Yoksa bize sihir etmiş.” demişler. Sonra sabahleyin Yemen ve başka taraflardan gelen kafileler ihbar ettiler ki: “Böyle bir hâdiseyi gördük.” Sonra küffar, Fahr-i Âlem (asm) hakkında –hâşâ– “Yetim-i Ebu Talib’in sihri semaya da tesir etti.” dediler.
@@ -487,13 +511,19 @@ Halbuki şu vak’aya dair siyer ve tarih, o vak’a ile münasebettar küffarı
 
 [Page 587]
 
+## İkinci Nokta
+
 İkinci Nokta: Sa’d-ı Taftazanî gibi eâzım-ı muhakkikînin ekseri demişler ki: İnşikak-ı kamer; parmaklarından su akması umum bir orduya su içirmesi, camide hutbe okurken dayandığı kuru direğin müfarakat-ı Ahmediyeden (asm) ağlaması umum cemaatin işitmesi gibi mütevatirdir. Yani öyle tabakadan tabakaya bir cemaat-i kesîre nakletmiştir ki kizbe ittifakları muhaldir. “Hâle” gibi meşhur bir kuyruklu yıldızın bin sene evvel çıkması gibi mütevatirdir. Görmediğimiz Serendip Adası’nın vücudu gibi tevatürle vücudu kat’îdir, demişler. İşte böyle gayet kat’î ve şuhudî mesailde teşkikat-ı vehmiye yapmak, akılsızlıktır. Yalnız muhal olmamak kâfidir. Halbuki şakk-ı kamer, bir volkanla inşikak eden bir dağ gibi mümkündür.
+
+## Üçüncü Nokta
 
 Üçüncü Nokta: Mu’cize, dava-yı nübüvvetin ispatı için münkirleri ikna etmek içindir, icbar için değildir. Öyle ise dava-yı nübüvveti işitenler için ikna edecek bir derecede mu’cize göstermek lâzımdır. Sair taraflara göstermek veyahut icbar derecesinde bir bedahetle izhar etmek, Hakîm-i Zülcelal’in hikmetine münafî olduğu gibi sırr-ı teklife dahi muhaliftir. Çünkü “Akla kapı açmak, ihtiyarı elinden almamak” sırr-ı teklif iktiza ediyor.
 
 Eğer Fâtır-ı Hakîm inşikak-ı kameri, feylesofların hevesatına göre bütün âleme göstermek için bir iki saat öyle bıraksa idi ve beşerin umum tarihlerine geçse idi o vakit sair hâdisat-ı semaviye gibi; ya dava-yı nübüvvete delil olmazdı, risalet-i Ahmediyeye (asm) hususiyeti kalmazdı veyahut bedahet derecesinde öyle bir mu’cize olacaktı ki aklı icbar edecek, aklın ihtiyarını elinden alacak, ister istemez nübüvveti tasdik edecek. Ebucehil gibi kömür ruhlu, Ebubekir-i Sıddık gibi elmas ruhlu adamlar bir seviyede kalıp sırr-ı teklif zayi olacaktı.
 
 İşte bu sır içindir ki hem âni hem gece hem vakt-i gaflet hem ihtilaf-ı metali’, sis ve bulut gibi sair mevanii perde ederek umum âleme gösterilmedi veyahut tarihlere geçirilmedi.
+
+## Dördüncü Nokta
 
 Dördüncü Nokta: Şu hâdise, gece vakti herkes gaflette iken âni bir surette vuku bulduğundan etraf-ı âlemde elbette görülmeyecek. Bazı efrada görünse de gözüne inanmayacak. İnandırsa da elbette böyle mühim bir hâdise, haber-i vâhid ile tarihlere bâki bir sermaye olmayacak.
 
@@ -504,6 +534,8 @@ Bazı kitaplarda: “Kamer, iki parça olduktan sonra yere inmiş.” ilâvesi i
 [Page 588]
 
 Hem mesela o vakit, cehalet sisiyle muhat İngiltere, İspanya’da yeni gurûb; Amerika’da gündüz; Çin’de, Japonya’da sabah olduğu gibi başka yerlerde başka esbab-ı maniaya binaen elbette görülmeyecek. Şimdi bu akılsız muterize bak, diyor ki: “İngiltere, Çin, Japon, Amerika gibi akvamın tarihleri bundan bahsetmiyor. Öyle ise vuku bulmamış.” Bin nefrin onun gibi Avrupa kâselislerinin başına…
+
+## Beşinci Nokta
 
 Beşinci Nokta: İnşikak-ı kamer, kendi kendine bazı esbaba binaen vuku bulmuş, tesadüfî, tabiî bir hâdise değil ki âdi ve tabiî kanunlarına tatbik edilsin. Belki şems ve kamerin Hâlık-ı Hakîm’i, resulünün risaletini tasdik ve davasını tenvir için hârikulâde olarak o hâdiseyi îka etmiştir. Sırr-ı irşad ve sırr-ı teklif ve hikmet-i risaletin iktizasıyla, hikmet-i rububiyetin istediği insanlara ilzam-ı hüccet için gösterilmiştir.
 

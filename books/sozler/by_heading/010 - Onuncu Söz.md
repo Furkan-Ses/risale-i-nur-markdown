@@ -96,10 +96,14 @@ mahkeme-i kübra var, bir dâr-ı mükâfat ve ihsan ve bir dâr-ı mücazat ve
 zindan var ve bu memleket her gün bir derece boşandığı gibi, bir gün
 gelir ki, bütün bütün boşanıp harab edilecek.
 
+## Birinci Suret
+
 Birinci Suret: Hiç mümkün müdür ki: Bir saltanat, bâhusus böyle
 muhteşem bir saltanat, hüsn-ü hizmet eden mutilere mükâfatı ve isyan
 edenlere mücazatı bulunmasın. Burada yok hükmündedir. Demek başka
 yerde bir mahkeme-i kübra vardır.
+
+## İkinci Suret
 
 İkinci Suret: Bu gidişata, icraata bak! Nasıl en fakir, en zaîften
 tut, tâ herkese mükemmel, mükellef erzak veriliyor; kimsesiz hastalara
@@ -117,6 +121,8 @@ izzetinde, mazlum zilletinde kalıp buradan göçüp gidiyorlar.
 
 Demek bir mahkeme-i kübraya bırakılıyor.
 
+## Üçüncü Suret
+
 Üçüncü Suret: Bak ne kadar âlî bir hikmet, bir intizamla işler
 dönüyor. Hem ne kadar hakikî bir adalet, bir mizanla muameleler
 görülüyor. Halbuki hikmet-i hükûmet ise, saltanatın cenah-ı himayesine
@@ -133,6 +139,8 @@ gidiyorlar.
 [Page 51]
 
 Demek bir mahkeme-i kübraya bırakılıyor...
+
+## Dördüncü Suret
 
 Dördüncü Suret: Bak hadd ü hesaba gelmeyen şu sergilerde olan
 misilsiz mücevherat, şu sofralarda olan emsalsiz mat'umat gösteriyorlar
@@ -161,6 +169,8 @@ herkes çabuk gidip, kayboluyor. O kemal ve o cemalin bir ışığını belki
 zayıf bir gölgesini, bir anda bakıp doymadan gidiyor.
 
 Demek bir seyrangâh-ı daimîye gidiliyor...
+
+## Beşinci Suret
 
 Beşinci Suret: Bak bu işler içinde görünüyor ki, o misilsiz zâtın
 pek büyük bir şefkati vardır. Çünki her musibetzedenin imdadına
@@ -199,6 +209,8 @@ açacak ki, akılları hayrette bırakacak.
 
 Demek bu meydan-ı imtihanda olanlar, başı boş değiller; saadet
 sarayları ve zindanlar onları bekliyorlar...
+
+## Altıncı Suret
 
 Altıncı Suret: İşte gel bak, bu muhteşem şimendiferler,
 tayyareler, techizatlar, depolar, sergiler, icraatlar gösteriyorlar ki, perde
@@ -245,6 +257,8 @@ asıllarıyla dolu bağ ve hazineler vardır.
 Demek burada çabalamak onlar içindir. Şurada çalıştırır, orada
 ücret verir. Herkesin istidadına göre orada bir saadeti var...
 
+## Yedinci Suret
+
 Yedinci Suret: Gel, bir parça gezelim. Şu medenî ahali içinde ne
 var, ne yok görelim. İşte bak! Her yerde, her köşede, müteaddid
 fotoğraflar kurulmuş, suret alıyorlar. Bak, her yerde müteaddid kâtibler
@@ -282,6 +296,8 @@ cezaya çarpmıyor.
 
 Demek, bir mahkeme-i kübraya bırakılıyor...
 
+## Sekizinci Suret
+
 Sekizinci Suret: Gel, ondan gelen bu fermanları sana
 okuyacağım. Bak, mükerrer va'dediyor ve şiddetli tehdid ediyor ki:
 "Sizleri oradan alıp, makarr-ı saltanatıma getireceğim ve mutileri mes'ud,
@@ -300,6 +316,8 @@ Halbuki îfası ona çok rahat ve bize ve herşeye ve ona ve saltanatına pek
 çok lâzımdır.
 
 Demek bir mahkeme-i kübra, bir saadet-i uzma vardır.
+
+## Dokuzuncu Suret
 
 Dokuzuncu Suret: Şimdi gel! Bu dairelerin ve cemaatlerin bazı
 rüesalarına ki, (Haşiye) her biri bizzât padişahla görüşecek hususî birer
@@ -329,6 +347,8 @@ Demek ona lâyık, daimî, müstekar, zevalsiz, müstemir, mükemmel,
 muhteşem umûrlar üzerinde duruyor.
 
 Demek bir diyar-ı âher var; elbette o makarra gidilecektir...
+
+## Onuncu Suret
 
 Onuncu Suret: Gel, bugün nevruz-u sultanîdir. (Haşiye)Bir
 tebeddülat olacak, acib işler çıkacak. Şu baharın şu güzel gününde, şu
@@ -714,6 +734,8 @@ ve Kadîr ve Rahîm olan Fâtır'ı onu yaratsın, onun bütün gayelerine
 mazhar olan dâr-ı âhireti halk etmesin? Bu hakikata oniki kapı ile girilir.
 Oniki hakikat ile o kapılar açılır. En kısa ve basitten başlarız:
 
+## Birinci Hakikat
+
 Birinci Hakikat: Bâb-ı rububiyet ve saltanattır ki, ism-i
 Rabb'in cilvesidir.
 
@@ -722,6 +744,8 @@ bâhusus böyle bir kâinatı, kemalâtını göstermek için gayet âlî gayele
 yüksek maksadlar ile icad etsin, onun gayat ve makasıdına karşı iman ve
 ubudiyetle mukabele eden mü'minlere mükâfatı bulunmasın. Ve o
 makasıdı red ve tahkir ile mukabele eden ehl-i dalalete mücazat etmesin?
+
+## İkinci Hakikat
 
 İkinci Hakikat: Bâb-ı kerem ve rahmettir ki, Kerim ve Rahîm
 isminin cilvesidir.
@@ -809,6 +833,8 @@ ibadetle sevmek ve sevdirmekle ve rahmetine mukabil, şükür ile hürmet
 etmekle mukabele eden mü'minlere bir dâr-ı mükâfatı, bir saadet-i
 ebediyeyi vermesin?
 
+## Üçüncü Hakikat
+
 Üçüncü Hakikat: Bâb-ı hikmet ve adalet olup, ism-i Hakîm ve
 Âdil'in cilvesidir.
 
@@ -894,6 +920,8 @@ fâni, geçici dünya; ebed için halk olunan insan hususunda öyle bir adalet
 ve hikmete mazhariyetten çok uzaktır. Elbette âdil olan o Zât-ı Celil-i
 Zülcemal'in ve Hakîm olan o Zât-ı Cemil-i Zülcelal'in daimî bir
 Cehennem'i ve ebedî bir Cennet'i bulunacaktır.
+
+## Dördüncü Hakikat
 
 Dördüncü Hakikat: Bâb-ı cûd ve cemaldir. İsm-i Cevvad ve
 Cemil'in cilvesidir.
@@ -1004,6 +1032,8 @@ seyrangâh-ı daimîye gidiliyor.
 Elhasıl: Nasılki şu âlem bütün mevcudatıyla Sâni'-i Zülcelal'ine
 kat'î delalet eder; Sâni'-i Zülcelal'in de sıfât ve esma-i kudsiyesi, dâr-ı
 âhirete delalet eder ve gösterir ve ister.
+
+## Beşinci Hakikat
 
 Beşinci Hakikat: Bâb-ı şefkat ve ubudiyet-i Muhammediyedir
 (Aleyhissalâtü Vesselâm). İsm-i Mucîb ve Rahîm'in cilvesidir.
@@ -1176,6 +1206,8 @@ ubudiyetiyle de âhiretin kapısını açar.
 وَعَلٰٓى اٰلِهِ وَصَحْبِهِ اَجْمَعٖينَ وَعَلٰٓى
 اِخْوَانِهِ مِنَ النَّبِيّٖينَ وَالْمُرْسَلٖينَ اٰمٖينَ
 
+## Altıncı Hakikat
+
 Altıncı Hakikat: Bâb-ı haşmet ve sermediyet olup, ism-i Celil
 ve Bâki cilvesidir.
 
@@ -1233,13 +1265,19 @@ kendi yanında bulunan şeylere iştihalarını açıyor ve onlara hazırladığ
 hediyelere rağbetlerini uyandırıyor. Aynen onun gibi, şu misafirhane-i
 dünyadaki vaziyeti, sarhoş olmadan dikkat etsen; şu dokuz esası anlarsın:
 
+## Birinci Esas
+
 Birinci Esas: Anlarsın ki: O han gibi bu dünya dahi kendi için
 değil. Kendi kendine de bu sureti alması muhaldir. Belki kafile-i
 mahlukatın gelip konmak ve göçmek için dolup boşanan, hikmetle
 yapılmış bir misafirhanesidir.
 
+## İkinci Esas
+
 İkinci Esas: Hem anlarsın ki: Şu hanın içinde oturanlar
 misafirlerdir. Onların Rabb-ı Kerim'i, onları Dâr-üs Selâm'a davet eder.
+
+## Üçüncü Esas
 
 Üçüncü Esas: Hem anlarsın ki: Şu dünyadaki tezyinat, yalnız
 telezzüz veya tenezzüh için değil. Çünki bir zaman lezzet verse, firakıyla
@@ -1253,6 +1291,8 @@ Demek kıymeti yüksek, müddeti kısa olan şu tezyinat; ibret içindir
 
 (Haşiye-1), şükür içindir, usûl-ü daimîsine teşvik içindir. Başka gayet
 ulvî gayeler içindir.
+
+## Dördüncü Esas
 
 Dördüncü Esas: Hem anlarsın ki: Şu dünyadaki müzeyyenat ise
 (Haşiye-2) Cennet'te ehl-i iman için rahmet-i Rahman'la iddihar olunan
@@ -1304,6 +1344,8 @@ halde, o askerlikte fazlalık yoktur denilebilir.
 
 [Page 76]
 
+## Beşinci Esas
+
 Beşinci Esas: Hem anlarsın ki: Şu fâni masnuat fena için değil, bir
 parça görünüp mahvolmak için yaratılmamışlar. Belki vücudda kısa bir
 zaman toplanıp, matlub bir vaziyet alıp; tâ suretleri alınsın, timsalleri
@@ -1331,10 +1373,14 @@ cem'iyetli ve yüksek bir mahiyete mâlik, haricî bir vücud giydirilmiş,
 zîşuur nuranî bir kanun-u emrî olan ruh-u beşer; ne derece beka ile merbut
 ve alâkadar olduğu anlaşılır.
 
+## Altıncı Esas
+
 Altıncı Esas: Hem anlarsın ki: İnsan, ipi boğazına sarılıp, istediği
 yerde otlamak için başıboş bırakılmamıştır; belki bütün amellerinin
 suretleri alınıp yazılır ve bütün fiillerinin neticeleri muhasebe için
 zabtedilir.
+## Yedinci Esas
+
 Yedinci Esas: Hem anlarsın ki: Güz mevsiminde yaz-bahar âleminin
 güzel mahlukatının tahribatı, i'dam değil. Belki vazifelerinin tamamıyla
 terhisatıdır (Haşiye). Hem yeni baharda gelecek mahlukata yer
@@ -1357,12 +1403,18 @@ mevcudatın gelmesine yer hazırlamaktır ve ihzarattır.
 Hem zîşuura vazifesini unutturan gafletten ve şükrünü unutturan
 sarhoşluktan ikazat-ı Sübhaniyedir.
 
+## Sekizinci Esas
+
 Sekizinci Esas: Hem anlarsın ki: Şu fâni âlemin sermedî Sânii
 için başka ve bâki bir âlemi var ki, ibadını oraya sevk ve ona teşvik eder.
+
+## Dokuzuncu Esas
 
 Dokuzuncu Esas: Hem anlarsın ki: Öyle bir Rahman, öyle bir
 âlemde, öyle has ibadına öyle ikramlar edecek; ne göz görmüş, ne kulak
 işitmiş, ne kalb-i beşere hutur etmiştir. Âmennâ...
+
+## Yedinci Hakikat
 
 Yedinci Hakikat: Bâb-ı hıfz ve hafîziyet olup, ism-i Hafîz ve
 Rakib'in cilvesidir.
@@ -1475,6 +1527,8 @@ nasıl ademe gidip kaçabilir, toprağa girip saklanabilir? Madem bu
 dünyada ona lâyık muhasebe görülüp, hüküm verilmiyor. Elbette bir
 mahkeme-i kübra, bir saadet-i uzmaya gidecektir.
 
+## Sekizinci Hakikat
+
 Sekizinci Hakikat: Bâb-ı va'd ve vaîddir. İsm-i Cemil ve
 Celil'in cilvesidir.
 
@@ -1511,6 +1565,8 @@ yıldız böceği gibi kafa fenerinin ışığıyla dehşetli yolunu tenvir etme
 istiyor. Madem şu mevcudat; hak söyleyen sadık kelimeleri, şu hâdisat-ı
 kâinat; doğru söyleyen nâtık âyetleri olan Cenab-ı Hak va'd etmiş, elbette
 yapacaktır. Bir mahkeme-i kübra açacaktır, bir saadet-i uzma verecektir.
+
+## Dokuzuncu Hakikat
 
 Dokuzuncu Hakikat: Bâb-ı ihya ve imatedir. İsm-i Hayy-ı
 Kayyum'un, Muhyî ve Mümit'in cilvesidir.
@@ -1654,6 +1710,8 @@ Elhasıl: Dünyada bundan daha doğru bir haber, daha sağlam bir
 dava, daha zahir bir hakikat olamaz. Demek, şübhesiz dünya bir
 mezraadır. Mahşer ise bir beyderdir, harmandır. Cennet, Cehennem ise
 birer mahzendir.
+
+## Onuncu Hakikat
 
 Onuncu Hakikat: Bâb-ı hikmet, inayet, rahmet, adalettir.
 İsm-i Hakîm, Kerim, Âdil, Rahîm'in cilvesidir.
@@ -2150,6 +2208,8 @@ tek hüccet-i külliyeyi icmal ile göstermek ve o akide-i haşriye ne derece
 bedihî ve şübhesiz bulunduğunu ifade etmekten ibaret olarak "İki
 Nokta"dır.)
 
+## Birinci Nokta
+
 Birinci Nokta: Âhiret akidesi, hayat-ı içtimaiye ve şahsiye-i
 insaniyenin üss-ül esası ve saadetinin ve kemalâtının esasatı olduğuna
 yüzer delillerinden bir mikyas olarak yalnız dört tanesine işaret edeceğiz.
@@ -2166,6 +2226,8 @@ büyüklerin ölümleri, o zaîf bîçarelerin endişeli nazarlarına çarpması
 mukavemetlerini ve kuvve-i maneviyelerini zîr ü zeber ederek gözleriyle
 beraber ruh, kalb, akıl gibi bütün letaifini dahi öyle ağlattıracak, ya
 mahvolup veya divane bir bedbaht hayvan olacaktı.
+
+## İkinci delil
 
 İkinci delil: Nev-i insanın nısfı olan ihtiyarlar, yalnız hayat-ı
 uhreviye ile yakınlarında bulunan kabre karşı tahammül edebilirler. Ve
@@ -2184,6 +2246,8 @@ analar, öyle bir vaveylâ-i ruhî ve bir dağdağa-i kalbî hissedeceklerdi ki;
 bu dünya onlara zulmetli bir zindan ve hayat dahi kasavetli bir azab
 olurdu.
 
+## Üçüncü delil
+
 Üçüncü delil: İnsanların hayat-ı içtimaiyesinin en kuvvetli medarı
 olan gençler, delikanlılar, şiddet-i galeyanda olan hissiyatlarını ve ifratkâr
 bulunan nefis ve hevalarını tecavüzattan ve zulümlerden ve tahribattan
@@ -2192,6 +2256,8 @@ Cehennem fikridir. Yoksa Cehennem endişesi olmazsa, "El-hükmü lil-
 galib" kaidesiyle o sarhoş delikanlılar, hevesatları peşinde bîçare zaîflere,
 âcizlere, dünyayı Cehennem'e çevireceklerdi ve yüksek insaniyeti gayet
 süflî bir hayvaniyete döndüreceklerdi.
+
+## Dördüncü delil
 
 Dördüncü delil: Nev-i beşerin hayat-ı dünyeviyesinde en
 cem'iyetli merkez ve en esaslı zenberek ve dünyevî saadet için bir Cennet,
@@ -2232,6 +2298,8 @@ edeceğini isbat eder. Beşerin idare ve ahlâk ve içtimaiyatı ile çok
 alâkadar olan içtimaiyyun ve siyasiyyun ve ahlâkiyyunun kulakları
 çınlasın! Gelsinler, bu boşluğu ne ile doldurabilirler ve bu derin yaraları
 ne ile tedavi edebilirler?
+
+## İkinci Nokta
 
 İkinci Nokta: Hakikat-ı haşriyenin hadsiz bürhanlarından sair
 erkân-ı imaniyeden gelen şehadetlerin hülâsasından çıkan bir bürhanı,

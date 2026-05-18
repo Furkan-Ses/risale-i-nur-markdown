@@ -97,12 +97,16 @@ ON ÜÇÜNCÜ SÖZ:
 
 İki Makamdır
 
+## Birinci Makam
+
 Birinci Makam: وَنُنَزِّلُ مِنَ الْقُرْاٰنِ مَا هُوَ شِفَٓاءٌ وَرَحْمَةٌ لِلْمُؤْمِنٖينَ âyetiyle وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغٖى لَهُ âyetinin mealinde ve hikmet-i Kur’aniyenin kudsiyeti ve vüs’ati ve şiirden istiğnası hakkındaki âyâtın mühim bir sırrını tefsir etmekle beraber, Kur’an-ı Mu’cizü’l-Beyan’ın yüksek mu’cizane hikmetini, felsefenin aşağı ve dar hikmeti ile muvazene ediyor. Hikmet-i Kur’aniyedeki kesret ve vüs’ati ve felsefenin fakr ve iflasını muhtasar beyan etmekle beraber, Kur’an’ın şiirden istiğnasının ve adem-i tenezzülünün sebebi, hakaik-i Kur’aniyenin yüksekliği ve parlaklığı olduğunu gösterir. Ve mühim bir temsil ile bir nevi i’caz-ı Kur’aniyeyi beyan eder.
 
 
 ---
 
 [Page 780]
+
+## İkinci Makam
 
 İkinci Makam:
 
@@ -222,6 +226,8 @@ YİRMİ İKİNCİ SÖZ:
 
 فَاعْلَمْ اَنَّهُ لَٓا اِلٰهَ اِلَّا اللّٰهُ ۞ اَللّٰهُ خَالِقُ كُلِّ شَىْءٍ mealinde ve tevhid-i hakiki hakkındaki yüzer âyâtın mühim bir hakikatini iki makam ile tefsir eder.
 
+## Birinci Makam
+
 Birinci Makam: Gayet güzel ve parlak ve muhkem bir hikâye-i temsiliye ile on iki basamak hükmünde on iki bürhan ile vahdaniyet-i İlahiyeyi, o kadar kat’î bir surette ispat eder ki en mütemerrid müşrikleri de tevhide mecbur ediyor. Ve kolay fakat kuvvetli ve basit fakat parlak bir surette Vâcibü’l-vücud’un vücudunu ve vahdetini ve ehadiyetini bütün sıfât ve esmasıyla ispat eder.
 
 İkinci Makamı ise: Hakikat-i tevhidi ve tevhid-i hakikiyi, on iki lem’a namıyla hikâye-i temsiliyenin perdesi altında on iki bürhan-ı bâhire ile vahdaniyet-i İlahiyeyi ispat etmekle beraber, evsaf-ı celaliye ve cemaliye ve kemaliyesini vahdaniyet içinde ispat ediyor. O Lem’alardaki deliller o kadar kat’îdir ki hiçbir şüphe yeri kalmıyor. Ve o kadar küllîdirler ki mevcudat adedince, belki zerrat sayısınca marifetullaha pencereler açıyor. Ve onun ile Vâcibü’l-vücud’un vücudunu, umum sıfât ve esmasıyla en muannidlere karşı ispat ediyor.
@@ -293,12 +299,16 @@ YİRMİ SEKİZİNCİ SÖZ:
 
 âyetinin cennete ve saadet-i ebediyeye dair hakikatini teyid eden yüzer âyâtın mühim bir hakikatini iki makam la tefsir eder.
 
+## Birinci Makam
+
 Birinci Makam: “Beş Sual ve Cevap” namıyla cennetin lezaiz-i cismaniyesine ve huriler hakkında medar-ı tenkit olmuş meseleleri öyle güzel bir surette beyan eder ki herkesi ikna eder.
 
 
 ---
 
 [Page 788]
+
+## İkinci Makam
 
 İkinci Makam: Arabiyyü’l-ibare olarak on iki lâsiyyema kelimesiyle başlar ve gayet kuvvetli ve kat’î ve hiçbir cihette sarsılmaz, haşre dair, cennet ve cehennemin hakkaniyetine medar binler bürhanı tazammun eden bir bürhan-ı bâhirdir ki o bürhan, Onuncu Söz’ün menşei ve esası ve hülâsasıdır.
 
@@ -344,7 +354,11 @@ OTUZ İKİNCİ SÖZ:
 
 Üç mevkıftır.
 
+## Birinci Mevkıf
+
 Birinci Mevkıf: لَوْ كَانَ فٖيهِمَٓا اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَا âyetinin mealindeki yüzer âyâtın vahdaniyete dair en mühim hakikatini öyle bir surette ispat eder ki şirk ve küfür yolunu muhal ve mümteni gösterir. Kâinatın etrafından küfür ve şirki tard eder. Zerrat adedince vahdaniyetin delilleri bulunduğunu beyan eder. Gayet latîf ve yüksek ve mantıkî bir muhavere-i temsiliye suretinde, hadsiz geniş mesaili o temsil içinde dercedip gösterir. Ve zeylinde gayet latîf birkaç mesele var ki hakikat oldukları halde şiirin en parlak ve geniş hayalinden daha parlak, daha geniştir.
+
+## İkinci Mevkıf
 
 İkinci Mevkıf: قُلْ هُوَ اللّٰهُ اَحَدٌ ۞ اَللّٰهُ الصَّمَدُ in hakikatine dair sırr-ı ehadiyete ve vahdete gelen teşkikat ve evhamı izale eder. Ehl-i dalaletin ehl-i tevhide karşı ettikleri itirazatı kat’î bir surette reddediyor. Birinci Mevkıf’tan daha kuvvetli, âyât-ı Kur’aniyenin vahdaniyete dair mu’cizane ispatlarını gösterir. Ehadiyet-i Zatiye ile bütün eşyayı birden bir anda tedbir ve terbiye etmek olan hakikat-i muazzama-i Kur’aniyeyi gayet güzel ve vâzıh bir temsil ile ispat eder. Aklı ikna ve kalbi teslime mecbur eder.
 
@@ -361,6 +375,8 @@ Bu İkinci Mevkıf’ın hâtimesinde sırr-ı ehadiyete dair Arabiyyü’l-ibar
 ---
 
 [Page 792]
+
+## Üçüncü Mevkıf
 
 Üçüncü Mevkıf: وَمَا الْحَيٰوةُ الدُّنْيَٓا اِلَّا مَتَاعُ الْغُرُورِ ۞ وَ اِنَّ الدَّارَ الْاٰخِرَةَ لَهِىَ الْحَيَوَانُ âyetlerinin mealindeki yüzer âyâtın mühim bir hakikatini gayet mühim bir muvazene ile beyan eder. Ehl-i dalalet hakkında hayat-ı dünyeviye ne kadar müthiş neticeler getirdiğini ve ehl-i hidayet hakkında ne kadar güzel neticeler ve gayeler verdiğini gösterir. Hususan, muhabbet hakkındaki semerat-ı dünyeviye ve uhreviye; ehl-i dalalet için ne kadar elîm, ehl-i hidayet için ne kadar hoş olduğunu gösterir. Bu Üçüncü Mevkıf hakkında bazı müdakkik kardeşlerimiz demişler ki: “Sair risaleler yıldızlar olsa bu güneştir.” Diğer biri ona mukabil demiş: “Her bir risale, kendi âleminde ve kendine mahsus sema-i hakikatte birer güneştir. Uzak olanlara yıldız, yakın olanlara şemstirler.”
 

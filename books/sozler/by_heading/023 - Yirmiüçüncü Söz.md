@@ -299,6 +299,8 @@ Beşinci Nükte
 
 İşte insan, şu kâinata geldikten sonra iki cihet ile ubudiyeti var: Bir ciheti; gaibane bir surette bir ubudiyeti, bir tefekkürü var. Diğeri; hazırane, muhataba suretinde bir ubudiyeti, bir münâcatı vardır.
 
+## Birinci vecih şudur ki
+
 Birinci vecih şudur ki: Kâinatta görünen saltanat-ı rububiyeti, itaatkârane tasdik edip kemalâtına ve mehasinine hayretkârane nezaretidir.
 
 Sonra, esma-i kudsiye-i İlahiyenin nukuşlarından ibaret olan bedî’ sanatları, birbirinin nazar-ı ibretlerine gösterip dellâllık ve ilancılıktır.
@@ -335,7 +337,11 @@ Ey ahsen-i takvimde yaratılan ve sû-i ihtiyarıyla esfel-i safilîn tarafına 
 
 [Page 331]
 
+## Birinci Levha
+
 Birinci Levha: Ehl-i dalalet gibi fakat sarhoş olmadan gaflet perdesiyle eskiden gördüğüm ehl-i gaflet dünyasının hakikatini tasvir eder.
+
+## İkinci Levha
 
 İkinci Levha: Ehl-i hidayet ve huzurun hakikat-i dünyalarına işaret eder. Eskiden ne tarzda yazılmış, o tarzda bıraktım. Şiire benzer fakat şiir değillerdir.
 

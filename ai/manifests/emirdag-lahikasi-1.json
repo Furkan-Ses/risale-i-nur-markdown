@@ -23,7 +23,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-takdim/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Emirdag Lahikasi - I - Takdim"
+      ],
+      "keywords": [
+        "lahika",
+        "iman",
+        "takdim",
+        "risale-i nur",
+        "hapishane",
+        "kalp",
+        "ihlas",
+        "dünya"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.002.emirdag-lahikasi-i-s-10-31",
@@ -38,7 +51,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-10-31/",
       "official_section_similarity": 0.9983938323160938,
       "official_section_content_overlap": 0.9977528089887641,
-      "official_section_diff_tokens": 14
+      "official_section_diff_tokens": 14,
+      "aliases": [
+        "Emirdag Lahikasi - I s.10-31"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "hayat",
+        "dünya",
+        "iman",
+        "lahika",
+        "hapishane",
+        "hüccet",
+        "müdafaa"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.003.emirdag-lahikasi-i-s-31-50",
@@ -53,7 +79,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-31-50/",
       "official_section_similarity": 0.9988915573619065,
       "official_section_content_overlap": 0.9987070557813077,
-      "official_section_diff_tokens": 9
+      "official_section_diff_tokens": 9,
+      "aliases": [
+        "Emirdag Lahikasi - I s.31-50"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "ayet",
+        "rahmet",
+        "dua",
+        "lahika",
+        "hayat",
+        "dünya"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.004.emirdag-lahikasi-i-s-50-69",
@@ -68,7 +107,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-50-69/",
       "official_section_similarity": 0.9975843249530285,
       "official_section_content_overlap": 0.9973166368515206,
-      "official_section_diff_tokens": 19
+      "official_section_diff_tokens": 19,
+      "aliases": [
+        "Emirdag Lahikasi - I s.50-69"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "kalp",
+        "keramet",
+        "lahika",
+        "dua",
+        "insan",
+        "ruh"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.005.emirdag-lahikasi-i-s-70-90",
@@ -83,7 +135,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-70-90/",
       "official_section_similarity": 0.9980575666607805,
       "official_section_content_overlap": 0.9973530968766543,
-      "official_section_diff_tokens": 17
+      "official_section_diff_tokens": 17,
+      "aliases": [
+        "Emirdag Lahikasi - I s.70-90"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "lahika",
+        "keramet",
+        "kalp",
+        "dünya",
+        "hayat",
+        "ihlas"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.006.emirdag-lahikasi-i-s-90-110",
@@ -98,7 +163,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-90/",
       "official_section_similarity": 0.9991676685471192,
       "official_section_content_overlap": 0.9990752727945256,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Emirdag Lahikasi - I s.90-110"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "lahika",
+        "dua",
+        "ruh",
+        "ayet",
+        "hüccet",
+        "dünya"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.007.emirdag-lahikasi-i-s-110-130",
@@ -113,7 +191,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-110-130/",
       "official_section_similarity": 0.9993765586034913,
       "official_section_content_overlap": 0.9989613626921479,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Emirdag Lahikasi - I s.110-130"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "lahika",
+        "kalp",
+        "gaybi",
+        "dua",
+        "ruh",
+        "musa"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.008.emirdag-lahikasi-i-s-131-150",
@@ -128,7 +219,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-131-150/",
       "official_section_similarity": 0.999515644676935,
       "official_section_content_overlap": 0.9992252566337401,
-      "official_section_diff_tokens": 4
+      "official_section_diff_tokens": 4,
+      "aliases": [
+        "Emirdag Lahikasi - I s.131-150"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "lahika",
+        "iman",
+        "dua",
+        "musa",
+        "hayat",
+        "dünya",
+        "hüccet"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.009.emirdag-lahikasi-i-s-150-170",
@@ -143,7 +247,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-150-170/",
       "official_section_similarity": 0.9988538681948425,
       "official_section_content_overlap": 0.9980912387860279,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Emirdag Lahikasi - I s.150-170"
+      ],
+      "keywords": [
+        "dua",
+        "lahika",
+        "musa",
+        "risale-i nur",
+        "dünya",
+        "hayat",
+        "ruh",
+        "hapishane"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.010.emirdag-lahikasi-i-s-170-190",
@@ -158,7 +275,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-170-190/",
       "official_section_similarity": 0.9969109318688862,
       "official_section_content_overlap": 0.9948621339270423,
-      "official_section_diff_tokens": 30
+      "official_section_diff_tokens": 30,
+      "aliases": [
+        "Emirdag Lahikasi - I s.170-190"
+      ],
+      "keywords": [
+        "musa",
+        "risale-i nur",
+        "lahika",
+        "hayat",
+        "dua",
+        "ruh",
+        "dünya",
+        "iman"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.011.emirdag-lahikasi-i-s-190-211",
@@ -173,7 +303,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-190-211/",
       "official_section_similarity": 0.995186617217707,
       "official_section_content_overlap": 0.9944803658728907,
-      "official_section_diff_tokens": 38
+      "official_section_diff_tokens": 38,
+      "aliases": [
+        "Emirdag Lahikasi - I s.190-211"
+      ],
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "hayat",
+        "ruh",
+        "lahika",
+        "dünya",
+        "rahmet",
+        "ihlas"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.012.emirdag-lahikasi-i-s-212-230",
@@ -188,7 +331,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-212-230/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Emirdag Lahikasi - I s.212-230"
+      ],
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "lahika",
+        "musa",
+        "hüccet",
+        "dua",
+        "kalp",
+        "ölüm"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.013.emirdag-lahikasi-i-s-230-251",
@@ -203,7 +359,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-230-251/",
       "official_section_similarity": 0.9979522184300341,
       "official_section_content_overlap": 0.9971014492753624,
-      "official_section_diff_tokens": 19
+      "official_section_diff_tokens": 19,
+      "aliases": [
+        "Emirdag Lahikasi - I s.230-251"
+      ],
+      "keywords": [
+        "dünya",
+        "iman",
+        "musa",
+        "hayat",
+        "lahika",
+        "risale-i nur",
+        "dua",
+        "rahmet"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.014.emirdag-lahikasi-i-s-251-270",
@@ -218,7 +387,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-251-270/",
       "official_section_similarity": 0.9994618834080717,
       "official_section_content_overlap": 0.9991034606419221,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Emirdag Lahikasi - I s.251-270"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "lahika",
+        "iman",
+        "musa",
+        "dua",
+        "ruh",
+        "hapishane",
+        "keramet"
+      ]
     },
     {
       "section_id": "emirdag-lahikasi-1.015.emirdag-lahikasi-i-s-271-288",
@@ -233,7 +415,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-lahikasi-i-s-271-288/",
       "official_section_similarity": 0.9965504024530472,
       "official_section_content_overlap": 0.9954058192955589,
-      "official_section_diff_tokens": 28
+      "official_section_diff_tokens": 28,
+      "aliases": [
+        "Emirdag Lahikasi - I s.271-288"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "dünya",
+        "lahika",
+        "musa",
+        "iman",
+        "ruh",
+        "ihlas",
+        "şefkat"
+      ]
     }
   ]
 }

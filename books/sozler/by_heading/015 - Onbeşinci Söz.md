@@ -15,6 +15,8 @@ Ey kozmoğrafyanın ruhsuz mes'eleleriyle zihni darlaşan ve aklı
 gözüne inen ve şu âyetin azametli sırrını, o sıkışmış zihninde
 yerleştiremeyen mektebli efendi! Şu âyetin semasına yedi basamaklı bir
 merdivenle çıkılabilir. Gel, beraber çıkacağız!
+## Birinci Basamak
+
 Birinci Basamak: Hakikat ve hikmet ister ki: Zemin gibi,
 semavatın da kendine münasib sekeneleri bulunsun. Lisan-ı şer'îde o
 ecnas-ı muhtelifeye, melaike ve ruhaniyat tesmiye edilir. Evet, hakikat
@@ -53,6 +55,8 @@ zulmet bahrinden bir kısım zîşuur mahlukları vardır. Hem çok kesretli
 olarak vardır. Melaike ve ruhaniyatın vücudlarına dair "Nokta" namında
 bir risalemde ve Yirmidokuzuncu Söz'de iki kerre iki dört eder
 derecesinde bir kat'iyyetle isbat edilmiştir. Eğer istersen ona müracaat et.
+## İkinci Basamak
+
 İkinci Basamak: Zemin ile gökler, bir hükûmetin iki memleketi
 gibi birbirine alâkadardırlar. Ortalarında ehemmiyetli irtibat ve mühim
 muameleler vardır. Zemine lâzım olan ziya, hararet ve bereket ve rahmet
@@ -66,6 +70,8 @@ veya cesedlerini çıkaran ervah-ı emvat, izn-i ilahî ile oraya giderler.
 Madem hiffet ve letafet bulanlar oraya giderler. Elbette cesed-i misalî
 giyen ve ervah gibi hafif ve latif bir kısım sekene-i arz ve hava, semaya
 gidebilirler.
+## Üçüncü Basamak
+
 Üçüncü Basamak: Semanın sükût ve sükûneti ve intizam ve
 ıttıradı ve vüs'at ve nuraniyeti gösterir ki: Sekenesi, zeminin sekenesi gibi
 değiller; belki bütün ahalisi mut'dirler. Ne emrolunsa onu işlerler.
@@ -128,6 +134,8 @@ noksan da kalmaz. İşte رَبُّ السَّمٰوَاتِ وَ الْاَرْ
 
 [Page 179]
 
+## Dördüncü Basamak
+
 Dördüncü Basamak: Bütün âlemlerin Rabbi ve Müdebbiri ve
 Hâlıkı olan Zât-ı Zülcelal'in, ahkâmları ayrı ayrı pek çok namları ve
 ünvanları ve esma-i hüsnası vardır. Meselâ: Ashab-ı Nebi safinda küffara
@@ -163,6 +171,8 @@ anunlar misillü, kanun-u mübarezenin dahi bir derece tamimin
 sterler... Kalb etrafindaki ilhamat ve vesveselerin mübarezelerinden tu
 tâ sema âfâkında melaike ve şeytanların mübarezesine kadar o kanunun
 şümulünü iktiza eder.
+## Beşinci Basamak
+
 Beşinci Basamak: Madem arzdan semaya gidip gelmek var. Semadan
 arza inip çıkmak oluyor. Ehemmiyetli levazımat-ı arziye, oradan
 gönderiliyor ve madem ervah-ı tayyibeler semaya gidiyorlar. Elbette
@@ -194,6 +204,8 @@ bedaheten anlaşılır. Halbuki şu hâdisenin, bu hikmetten ve şu gayeden
 başka ona münasib bir hikmeti bilinmiyor. Sair hâdisat öyle değil. Hem
 şu hikmet, zaman-ı Âdem'den beri meşhurdur ve ehl-i hakikat için
 meşhuddur.
+## Altıncı Basamak
+
 Altıncı Basamak: Beşer ve cin, nihayetsiz şerre ve cühuda
 müstaid olduklarından, nihayetsiz bir temerrüd ve bir tuğyan yaparlar.
 İşte bunun için Kur'an-ı Kerim, öyle i'cazkâr bir belâgatla ve öyle âlî ve
@@ -241,6 +253,8 @@ Ne kadar Nebi hakkına hürmet ve ne kadar ezvacın hukukuna merhamet
 var. Şu mühim tahşidat, yalnız hürmet-i Nebinin azametini ve iki zaîfenin
 şekalarının ehemmiyetini ve haklarının riayetini, rahîmane ifade etmek
 içindir.
+## Yedinci Basamak
+
 Yedinci Basamak: Melekler ve semekler gibi, yıldızların dahi
 gayet muhtelif efradları vardır. Bir kısmı nihayet küçük, bir kısmı gayet
 büvüktür. Hattâ gök yüzünde her parlayana yıldız denilir. İşte bu yıldız

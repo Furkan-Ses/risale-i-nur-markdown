@@ -185,7 +185,6 @@ kabiliyeti olmayan zaîf bir kesb ile mücehhez benî-âdeme karşı şedid
 binaendir ve ne vecihle tevfik edilir?. ne suretle münasib düşer?. demek
 olan derin ve yüksek hakikata kanaat getirmek için şu gelecek iki temsile
 bak:
-
 ## Birinci Temsil
 
 Birinci Temsil: Meselâ
@@ -199,7 +198,6 @@ Rabbaniyesinden ve Sultan'ın nezaret-i şahanesinden ve ziya ve hava ve
 toprağın hizmet-i bendeganesinden başka bütün hademelerin, o
 sersemden şekvaya hakları vardır. Zira hizmetlerini akîm bıraktı veya
 zarar verdi.
-
 ## İkinci Temsil
 
 İkinci Temsil: Meselâ cesîm bir sefine-i Sultaniyede, âdi bir
@@ -313,7 +311,6 @@ Bazan da titriyor.
 altı-yedi cüz'î suale karşı yine manevî ihtar yardımıyla cevabları kalbe geldi.
 Tafsilen yazmak kaç defa niyet ettimse de izin verilmedi. Yalnız icmalen
 kısacık yazılacak.]
-
 ## Birinci Sual
 
 Birinci Sual: Bu büyük zelzelenin maddî musibetinden daha elîm
@@ -325,7 +322,6 @@ vaktinde kemal-i neş'e ve sürur ile sarhoşçasına gayet heveskârane
 şarkıları ve bazan kızların sesleriyle radyo ağzıyla bu mübarek merkez-ı
 İslâmiyetin her köşesinde cazibedarane işittirilmesı, bu korku azabını
 netice verdi.
-
 ## İkinci Sual
 
 İkinci Sual: Niçin gavurların memleketlerinde bu semavî tokat
@@ -340,7 +336,6 @@ ve küçücük cinayetler ta'cil ile küçük merkezlerde verildiği gibi; mühi
 bir hikmete binaen ehl-i küfrün cinayetlerinin kısm-ı a'zamı, Mahkeme-i
 Kübra-yı Haşre te'hir edilerek ehl-i imanın hataları, kısmen bu dünyada
 cezası verilir. (Haşiye)
-
 ## Üçüncü Sual
 
 Üçüncü Sual: Bazı eşhasın hatasından gelen bu musibet bir
@@ -349,7 +344,6 @@ Elcevab: Umumî musibet, ekseriyetin hatasından ileri gelmesi
 cihetiyle ekser nâsın o zalim eşhasın harekâtına fülen veya iltizamen
 veya iltihaken taraftar olmasıyla manen iştirak eder, musibet-i âmmeye
 sebebiyet verir.
-
 ## Dördüncü Sual
 
 Dördüncü Sual: Madem bu zelzele musibeti, hataların neticesi ve
@@ -387,7 +381,6 @@ hayatları dahi bir bâki hayatı kazandıracak derecede bir nevi şehadet
 hükmünde olarak, nisbeten az ve muvakkat bir meşakkat ve azabdan
 büyük ve daimî bir kazancı kazandıran bu zelzele, onlar hakkında ayn-ı
 gazab içinde bir rahmettir.
-
 ## Beşinci Sual
 
 Beşinci Sual: Âdil ve Rahîm, Kadîr ve Hakîm, neden hususî
@@ -408,7 +401,6 @@ derecede bir şümullü isyandır ve çok mahlukatın hukukuna bir tahkirli
 tecavüzdür. Elbette o cinayetin fevkalâde çirkinliğini göstermek için,
 koca bir unsura, küllî vazifesi içinde "Onları terbiye et" diye emir
 verilmesi ayn-ı hikmettir ve adalettir ve mazlumlara ayn-ı rahmettir.
-
 ## Altıncı Sual
 
 Altıncı Sual: Zelzele, küre-i arzın içinde inkılabat-ı madeniyenin
@@ -493,7 +485,6 @@ yüz arşın muhtelif kumaşları yapsa; bir adam o odun parçasını gösterip
 dese: "Bu işler, tabiî ve tesadüfî olarak bundan olmuş." O ustanın hârika
 san'atlarını, hünerlerini hiçe indirse, ne derece bir hamakattır. Aynen öyle
 de...
-
 ## Yedinci Sual
 
 Yedinci Sual: Bu hâdise-i arziye, bu memleketin ahali-i

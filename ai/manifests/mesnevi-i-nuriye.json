@@ -23,7 +23,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/itizar/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "I'tizar"
+      ],
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "tizar",
+        "i̇’tizar",
+        "mesnevi-i nuriye"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.002.mukaddime",
@@ -38,7 +48,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/mukaddime/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "keywords": [
+        "kalp",
+        "risale-i nur",
+        "ruh",
+        "akıl",
+        "nefis",
+        "hikmet",
+        "tevhid",
+        "fihrist"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.003.lemalar-risalesi",
@@ -53,7 +73,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/lemalar-risalesi/",
       "official_section_similarity": 0.9991947173457884,
       "official_section_content_overlap": 0.9987121699935608,
-      "official_section_diff_tokens": 4
+      "official_section_diff_tokens": 4,
+      "aliases": [
+        "Lemalar Risalesi"
+      ],
+      "keywords": [
+        "tevhid",
+        "vahdet",
+        "şifa",
+        "hayat",
+        "ehadiyet",
+        "haşir",
+        "rububiyet",
+        "hikmet"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.004.reshalar",
@@ -68,7 +101,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/reshalar/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Reshalar"
+      ],
+      "keywords": [
+        "insan",
+        "dua",
+        "ubudiyet",
+        "iman",
+        "bürhan",
+        "kalp",
+        "akıl",
+        "musa"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.005.lasiyyemalar",
@@ -83,7 +129,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/lasiyyemalar/",
       "official_section_similarity": 0.998360991600082,
       "official_section_content_overlap": 0.998360991600082,
-      "official_section_diff_tokens": 8
+      "official_section_diff_tokens": 8,
+      "aliases": [
+        "Lasiyyemalar"
+      ],
+      "keywords": [
+        "insan",
+        "ahiret",
+        "hikmet",
+        "rububiyet",
+        "adalet",
+        "iman",
+        "dünya",
+        "merhamet"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.006.katre",
@@ -98,7 +157,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/katre/",
       "official_section_similarity": 0.9990769798781614,
       "official_section_content_overlap": 0.9985239852398524,
-      "official_section_diff_tokens": 12
+      "official_section_diff_tokens": 12,
+      "keywords": [
+        "insan",
+        "şifa",
+        "kalp",
+        "dünya",
+        "bürhan",
+        "nefis",
+        "hayat",
+        "iman"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.007.hubab",
@@ -113,7 +182,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/hubab/",
       "official_section_similarity": 0.9961614516691869,
       "official_section_content_overlap": 0.9945418650563234,
-      "official_section_diff_tokens": 57
+      "official_section_diff_tokens": 57,
+      "keywords": [
+        "insan",
+        "hayat",
+        "kalp",
+        "nimet",
+        "dünya",
+        "iman",
+        "vahdet",
+        "hikmet"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.008.habbe",
@@ -128,7 +207,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/habbe/",
       "official_section_similarity": 0.9932139145320047,
       "official_section_content_overlap": 0.9929104021513262,
-      "official_section_diff_tokens": 58
+      "official_section_diff_tokens": 58,
+      "keywords": [
+        "insan",
+        "dünya",
+        "kalp",
+        "nimet",
+        "ruh",
+        "şifa",
+        "ayet",
+        "hayat"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.009.zuhre",
@@ -143,7 +232,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/zuhre/",
       "official_section_similarity": 0.9992534925882478,
       "official_section_content_overlap": 0.9989339019189766,
-      "official_section_diff_tokens": 11
+      "official_section_diff_tokens": 11,
+      "aliases": [
+        "Zuhre"
+      ],
+      "keywords": [
+        "insan",
+        "dünya",
+        "kalp",
+        "hayat",
+        "nimet",
+        "ruh",
+        "rahmet",
+        "ubudiyet"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.010.zerre",
@@ -158,7 +260,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/zerre/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "keywords": [
+        "insan",
+        "hayat",
+        "ahiret",
+        "nefis",
+        "dünya",
+        "musa",
+        "hikmet",
+        "tevhid"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.011.semme-risalesi",
@@ -173,7 +285,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/semme-risalesi/",
       "official_section_similarity": 0.9979873045363059,
       "official_section_content_overlap": 0.9981424148606811,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Semme Risalesi"
+      ],
+      "keywords": [
+        "insan",
+        "ruh",
+        "ayet",
+        "bürhan",
+        "şifa",
+        "hayat",
+        "musa",
+        "rububiyet"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.012.onuncu-risale",
@@ -188,7 +313,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/onuncu-risale/",
       "official_section_similarity": 0.998914223669924,
       "official_section_content_overlap": 0.9991555072988297,
-      "official_section_diff_tokens": 11
+      "official_section_diff_tokens": 11,
+      "aliases": [
+        "10. Risale"
+      ],
+      "keywords": [
+        "insan",
+        "hayat",
+        "dua",
+        "nimet",
+        "ibadet",
+        "dünya",
+        "iman",
+        "ayet"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.013.sule",
@@ -203,7 +341,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sule/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Sule"
+      ],
+      "keywords": [
+        "şifa",
+        "dua",
+        "kalp",
+        "nimet",
+        "hikmet",
+        "zikir",
+        "ibadet",
+        "fikir"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.014.nokta",
@@ -218,7 +369,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/nokta/",
       "official_section_similarity": 0.996195575595322,
       "official_section_content_overlap": 0.995777027027027,
-      "official_section_diff_tokens": 21
+      "official_section_diff_tokens": 21,
+      "keywords": [
+        "bürhan",
+        "vahdet",
+        "tevhid",
+        "hikmet",
+        "i'caz",
+        "şifa",
+        "hayat",
+        "kalp"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.015.munderecat-hakkinda",
@@ -233,7 +394,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/munderecat-hakkinda/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Munderecat Hakkinda"
+      ],
+      "keywords": [
+        "bürhan",
+        "i'caz",
+        "takdim",
+        "tefsir",
+        "tevhid",
+        "münderecat hakkında",
+        "mesnevi-i nuriye",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mesnevi-i-nuriye.016.fihrist-mesnevi",
@@ -248,7 +422,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fihrist-mesnevi/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Fihrist (Mesnevi)"
+      ],
+      "keywords": [
+        "fihrist",
+        "iman",
+        "zikir",
+        "hikmet",
+        "insan",
+        "i'caz",
+        "risale-i nur",
+        "musa"
+      ]
     }
   ]
 }

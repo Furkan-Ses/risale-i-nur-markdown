@@ -23,7 +23,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-sua/",
       "official_section_similarity": 0.9967538667175864,
       "official_section_content_overlap": 0.9967557251908397,
-      "official_section_diff_tokens": 54
+      "official_section_diff_tokens": 54,
+      "aliases": [
+        "Birinci Sua",
+        "1. Şuâ",
+        "1. Sua"
+      ],
+      "keywords": [
+        "ayet",
+        "risale-i nur",
+        "iman",
+        "bürhan",
+        "hayat",
+        "i'caz",
+        "ölüm",
+        "tefsir"
+      ]
     },
     {
       "section_id": "sualar.002.ikinci-sua",
@@ -38,7 +53,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ikinci-sua/",
       "official_section_similarity": 0.9994358781496804,
       "official_section_content_overlap": 0.9990601503759399,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Ikinci Sua",
+        "2. Şuâ",
+        "2. Sua"
+      ],
+      "keywords": [
+        "tevhid",
+        "vahdet",
+        "insan",
+        "hüccet",
+        "kalp",
+        "iman",
+        "hikmet",
+        "rububiyet"
+      ]
     },
     {
       "section_id": "sualar.003.ucuncu-sua",
@@ -53,7 +83,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ucuncu-sua/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Ucuncu Sua",
+        "3. Şuâ",
+        "3. Sua"
+      ],
+      "keywords": [
+        "hikmet",
+        "vahdet",
+        "musa",
+        "rahmet",
+        "rububiyet",
+        "insan",
+        "iman",
+        "hüccet"
+      ]
     },
     {
       "section_id": "sualar.004.dorduncu-sua",
@@ -68,7 +113,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dorduncu-sua/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dorduncu Sua",
+        "4. Şuâ",
+        "4. Sua"
+      ],
+      "keywords": [
+        "iman",
+        "hayat",
+        "insan",
+        "ayet",
+        "şifa",
+        "hikmet",
+        "ruh",
+        "şefkat"
+      ]
     },
     {
       "section_id": "sualar.005.besinci-sua",
@@ -83,7 +143,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/besinci-sua/",
       "official_section_similarity": 0.9972412383774395,
       "official_section_content_overlap": 0.9969356486210419,
-      "official_section_diff_tokens": 19
+      "official_section_diff_tokens": 19,
+      "aliases": [
+        "Besinci Sua",
+        "5. Şuâ",
+        "5. Sua"
+      ],
+      "keywords": [
+        "iman",
+        "dünya",
+        "insan",
+        "hikmet",
+        "gaybi",
+        "musa",
+        "akıl",
+        "cehennem"
+      ]
     },
     {
       "section_id": "sualar.006.altinci-sua",
@@ -98,7 +173,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/altinci-sua/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Altinci Sua",
+        "6. Şuâ",
+        "6. Sua"
+      ],
+      "keywords": [
+        "dua",
+        "hikmet",
+        "takdim",
+        "hayat",
+        "gaybi",
+        "ruh",
+        "bereket",
+        "fatiha"
+      ]
     },
     {
       "section_id": "sualar.007.yedinci-sua",
@@ -113,7 +203,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yedinci-sua/",
       "official_section_similarity": 0.9988611974946345,
       "official_section_content_overlap": 0.9988174491941135,
-      "official_section_diff_tokens": 37
+      "official_section_diff_tokens": 37,
+      "aliases": [
+        "Yedinci Sua",
+        "7. Şuâ",
+        "7. Sua"
+      ],
+      "keywords": [
+        "iman",
+        "hikmet",
+        "hayat",
+        "insan",
+        "vahdet",
+        "ayet",
+        "musa",
+        "dünya"
+      ]
     },
     {
       "section_id": "sualar.008.sekizinci-sua",
@@ -128,7 +233,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-sua/",
       "official_section_similarity": 0.9977542011925966,
       "official_section_content_overlap": 0.9967507349528083,
-      "official_section_diff_tokens": 23
+      "official_section_diff_tokens": 23,
+      "aliases": [
+        "Sekizinci Sua",
+        "8. Şuâ",
+        "8. Sua"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "ayet",
+        "iman",
+        "keramet",
+        "zikir",
+        "hüccet",
+        "münacat",
+        "bürhan"
+      ]
     },
     {
       "section_id": "sualar.009.dokuzuncu-sua",
@@ -143,7 +263,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-sua/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dokuzuncu Sua",
+        "9. Şuâ",
+        "9. Sua"
+      ],
+      "keywords": [
+        "hayat",
+        "insan",
+        "iman",
+        "hüccet",
+        "ahiret",
+        "hikmet",
+        "cennet",
+        "adalet"
+      ]
     },
     {
       "section_id": "sualar.010.on-birinci-sua",
@@ -158,7 +293,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-birinci-sua/",
       "official_section_similarity": 0.9975930613769349,
       "official_section_content_overlap": 0.9975522734815798,
-      "official_section_diff_tokens": 80
+      "official_section_diff_tokens": 80,
+      "aliases": [
+        "On Birinci Sua",
+        "11. Şuâ",
+        "11. Sua"
+      ],
+      "keywords": [
+        "iman",
+        "insan",
+        "risale-i nur",
+        "ahiret",
+        "hayat",
+        "hüccet",
+        "hapishane",
+        "dünya"
+      ]
     },
     {
       "section_id": "sualar.011.on-ikinci-sua",
@@ -173,7 +323,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-sua/",
       "official_section_similarity": 0.9988470066518848,
       "official_section_content_overlap": 0.9982272646693848,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "On Ikinci Sua",
+        "12. Şuâ",
+        "12. Sua"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "müdafaa",
+        "dünya",
+        "hüccet",
+        "hayat",
+        "insan",
+        "adalet"
+      ]
     },
     {
       "section_id": "sualar.012.on-ucuncu-sua",
@@ -188,7 +353,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-sua/",
       "official_section_similarity": 0.9996136690900151,
       "official_section_content_overlap": 0.9993679775280899,
-      "official_section_diff_tokens": 9
+      "official_section_diff_tokens": 9,
+      "aliases": [
+        "On Ucuncu Sua",
+        "13. Şuâ",
+        "13. Sua"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "musibet",
+        "dünya",
+        "kalp",
+        "müdafaa",
+        "kader",
+        "hüccet"
+      ]
     },
     {
       "section_id": "sualar.013.on-dorduncu-sua",
@@ -203,7 +383,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-sua/",
       "official_section_similarity": 0.9993761907170435,
       "official_section_content_overlap": 0.9990224828934506,
-      "official_section_diff_tokens": 30
+      "official_section_diff_tokens": 30,
+      "aliases": [
+        "On Dorduncu Sua",
+        "14. Şuâ",
+        "14. Sua"
+      ],
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "hayat",
+        "hapishane",
+        "dünya",
+        "musa",
+        "müdafaa",
+        "insan"
+      ]
     },
     {
       "section_id": "sualar.014.on-besinci-sua",
@@ -218,7 +413,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-besinci-sua/",
       "official_section_similarity": 0.9983301888838289,
       "official_section_content_overlap": 0.9981786643538595,
-      "official_section_diff_tokens": 56
+      "official_section_diff_tokens": 56,
+      "aliases": [
+        "On Besinci Sua",
+        "15. Şuâ",
+        "15. Sua"
+      ],
+      "keywords": [
+        "hüccet",
+        "iman",
+        "insan",
+        "hikmet",
+        "risale-i nur",
+        "hayat",
+        "ayet",
+        "dünya"
+      ]
     },
     {
       "section_id": "sualar.015.yirmi-dokuzuncu-lemadan-ikinci-bab",
@@ -233,7 +443,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-lemadan-ikinci-bab/",
       "official_section_similarity": 0.9970660146699266,
       "official_section_content_overlap": 0.9965786901270772,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "Yirmi Dokuzuncu Lema'dan Ikinci Bab",
+        "29. Lem’a’dan İkinci Bab",
+        "29. Lema'dan Ikinci Bab"
+      ],
+      "keywords": [
+        "nimet",
+        "iman",
+        "insan",
+        "ruh",
+        "hayat",
+        "kalp",
+        "ahiret",
+        "rahmaniyet"
+      ]
     },
     {
       "section_id": "sualar.016.eddai",
@@ -248,7 +473,16 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/eddai/",
       "official_section_similarity": 0.9259259259259259,
       "official_section_content_overlap": 0.8928571428571429,
-      "official_section_diff_tokens": 13
+      "official_section_diff_tokens": 13,
+      "aliases": [
+        "Eddai"
+      ],
+      "keywords": [
+        "iman",
+        "eddâî",
+        "sualar",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "sualar.017.dua-sualar",
@@ -263,7 +497,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dua-sualar/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dua (Sualar)"
+      ],
+      "keywords": [
+        "dua",
+        "cennet",
+        "ihlas",
+        "iman",
+        "risale-i nur",
+        "şuâlar",
+        "dua (şuâlar)",
+        "sualar"
+      ]
     },
     {
       "section_id": "sualar.018.icindekiler",
@@ -278,7 +525,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/icindekiler-sualar/",
       "official_section_similarity": 0.34269662921348315,
       "official_section_content_overlap": 0.2175925925925926,
-      "official_section_diff_tokens": 681
+      "official_section_diff_tokens": 681,
+      "aliases": [
+        "ICINDEKILER"
+      ],
+      "keywords": [
+        "fihrist",
+        "lahika",
+        "risale-i nur",
+        "müdafaa",
+        "hapishane",
+        "hüccet",
+        "musa",
+        "ayet"
+      ]
     }
   ]
 }

@@ -23,7 +23,20 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Risale-i Nur'dan Parlak Fikralar ve Bir Kisim Guzel Mektuplar"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "ayet",
+        "keramet",
+        "bereket",
+        "kalp",
+        "dua",
+        "hayat"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.002.birinci-sua",
@@ -38,7 +51,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-sua-2/",
       "official_section_similarity": 0.9967526265520534,
       "official_section_content_overlap": 0.9963730075403264,
-      "official_section_diff_tokens": 53
+      "official_section_diff_tokens": 53,
+      "aliases": [
+        "Birinci Sua",
+        "1. Şuâ",
+        "1. Sua"
+      ],
+      "keywords": [
+        "ayet",
+        "risale-i nur",
+        "iman",
+        "bürhan",
+        "hayat",
+        "i'caz",
+        "ölüm",
+        "tefsir"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.003.sekizinci-sua",
@@ -53,7 +81,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-sua-2/",
       "official_section_similarity": 0.9974803829817868,
       "official_section_content_overlap": 0.9962611446649411,
-      "official_section_diff_tokens": 28
+      "official_section_diff_tokens": 28,
+      "aliases": [
+        "Sekizinci Sua",
+        "8. Şuâ",
+        "8. Sua"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "ayet",
+        "keramet",
+        "iman",
+        "zikir",
+        "hüccet",
+        "gaybi",
+        "münacat"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.004.on-sekizinci-lema",
@@ -68,7 +111,19 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-lema-2/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "On Sekizinci Lema",
+        "18. Lem’a",
+        "18. Lema"
+      ],
+      "keywords": [
+        "gaybi",
+        "keramet",
+        "sikke-i tasdik-i gaybi",
+        "risale-i nur",
+        "on sekizinci lem’a"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.005.yirmi-sekizinci-lema",
@@ -83,7 +138,19 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-lema-2/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Yirmi Sekizinci Lema",
+        "28. Lem’a",
+        "28. Lema"
+      ],
+      "keywords": [
+        "keramet",
+        "gaybi",
+        "sikke-i tasdik-i gaybi",
+        "risale-i nur",
+        "yirmi sekizinci lem’a"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.006.sekizinci-lema",
@@ -98,7 +165,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-lema-2/",
       "official_section_similarity": 0.9964481756538586,
       "official_section_content_overlap": 0.9945214308733483,
-      "official_section_diff_tokens": 35
+      "official_section_diff_tokens": 35,
+      "aliases": [
+        "Sekizinci Lema",
+        "8. Lem’a",
+        "8. Lema"
+      ],
+      "keywords": [
+        "keramet",
+        "gaybi",
+        "ayet",
+        "dua",
+        "hayat",
+        "kalp",
+        "ruh",
+        "gavsiye"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.007.parlak-fikralar-ve-guzel-mektuplar-2",
@@ -113,7 +195,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/parlak-fikralar-ve-guzel-mektuplar-2/",
       "official_section_similarity": 0.9988705845698485,
       "official_section_content_overlap": 0.9984818995718179,
-      "official_section_diff_tokens": 47
+      "official_section_diff_tokens": 47,
+      "aliases": [
+        "Parlak Fikralar ve Guzel Mektuplar 2"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "rahmet",
+        "kalp",
+        "keramet",
+        "insan",
+        "hayat",
+        "ruh"
+      ]
     },
     {
       "section_id": "sikke-i-tasdik-i-gaybi.008.dua-sikke-i-tasdik-i-gaybi",
@@ -128,7 +223,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dua-sikke-i-tasdik-i-gaybi/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dua (Sikke-i Tasdik-i Gaybi)"
+      ],
+      "keywords": [
+        "gaybi",
+        "sikke-i tasdik-i gaybi",
+        "dua",
+        "cennet",
+        "ihlas",
+        "iman",
+        "risale-i nur",
+        "sikke tasdik gaybî"
+      ]
     }
   ]
 }

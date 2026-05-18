@@ -23,7 +23,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-makale/",
       "official_section_similarity": 0.9991938192811555,
       "official_section_content_overlap": 0.999462546187437,
-      "official_section_diff_tokens": 18
+      "official_section_diff_tokens": 18,
+      "aliases": [
+        "BIRINCI MAKALE"
+      ],
+      "keywords": [
+        "hikmet",
+        "musa",
+        "tefsir",
+        "belagat",
+        "bürhan",
+        "akıl",
+        "hayat",
+        "insan"
+      ]
     },
     {
       "section_id": "muhakemat.002.ikinci-makale",
@@ -38,7 +51,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ikinci-makale/",
       "official_section_similarity": 0.9981704381319211,
       "official_section_content_overlap": 0.99788298691301,
-      "official_section_diff_tokens": 15
+      "official_section_diff_tokens": 15,
+      "aliases": [
+        "Ikinci Makale",
+        "2. Makale"
+      ],
+      "keywords": [
+        "belagat",
+        "kalp",
+        "musa",
+        "hayat",
+        "akıl",
+        "i'caz",
+        "hastalık",
+        "hikmet"
+      ]
     },
     {
       "section_id": "muhakemat.003.ucuncu-makale",
@@ -53,7 +80,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ucuncu-makale/",
       "official_section_similarity": 0.9969928290538977,
       "official_section_content_overlap": 0.9964863615349052,
-      "official_section_diff_tokens": 42
+      "official_section_diff_tokens": 42,
+      "aliases": [
+        "Ucuncu Makale",
+        "3. Makale"
+      ],
+      "keywords": [
+        "insan",
+        "musa",
+        "bürhan",
+        "hikmet",
+        "nübüvvet",
+        "kalp",
+        "akıl",
+        "hayat"
+      ]
     },
     {
       "section_id": "muhakemat.004.fihrist",
@@ -68,7 +109,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fihrist-muhakemat/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "FIHRIST"
+      ],
+      "keywords": [
+        "fihrist",
+        "belagat",
+        "hüccet",
+        "ruh",
+        "tefsir",
+        "akıl",
+        "cehennem",
+        "hikmet"
+      ]
     },
     {
       "section_id": "muhakemat.005.takriz",
@@ -83,7 +137,16 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/takriz/",
       "official_section_similarity": 0.9966480446927374,
       "official_section_content_overlap": 0.9955357142857143,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "keywords": [
+        "belagat",
+        "tefsir",
+        "şükür",
+        "ayet",
+        "risale-i nur",
+        "takriz",
+        "muhakemat"
+      ]
     }
   ]
 }

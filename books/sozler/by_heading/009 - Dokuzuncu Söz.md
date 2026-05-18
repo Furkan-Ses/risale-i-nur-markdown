@@ -23,6 +23,8 @@ ziyade tesbih ve ta'zim ve hadsiz nimetlerinin iki vakit ortasında
 toplanmış yekûnüne karşı şükür ve hamd demek olan namaza
 emredilmiştir. Şu ince ve derin manayı bir parça fehmetmek için "beş
 nükte"yi nefsimle beraber dinlemek lâzım...
+## Birinci Nükte
+
 Birinci Nükte: Namazın manası, Cenab-ı Hakk'ı tesbih ve ta'zim
 ve şükürdür. Yani, celaline karşı kavlen ve fiilen "Sübhanallah" deyip
 takdis etmek. Hem kemaline karşı, lafzan ve amelen "Allahü Ekber"
@@ -37,6 +39,8 @@ hülâsalarla te'kid edilir.
 ---
 
 [Page 41]
+
+## İkinci Nükte
 
 İkinci Nükte: İbadetin manası şudur ki: Dergâh-ı İlahîde abd,
 kendi kusurunu ve acz ve fakrını görüp kemal-i rububiyetin ve kudret-i
@@ -56,11 +60,15 @@ kendi ihtiyacını ve bütün mahlukatın fakr ve ihtiyacatını sual ve dua
 lisanıyla izhar ve Rabbının ihsan ve in'amatını, şükür ve sena ile ve
 Elhamdülillah ile ilân etsin. Demek, namazın ef'al ve akvali, bu manaları
 tazammun ediyor ve bunlar için taraf-ı İlahîden vaz'edilmişler.
+## Üçüncü Nükte
+
 Üçüncü Nükte: Nasılki insan, şu âlem-i kebirin bir misal-i
 musaggarıdır ve Fatiha-i Şerife, şu Kur'an-ı Azîmüşşan'ın bir timsal-i
 münevveridir. Namaz dahi bütün ibâdâtın enva'ını şamil bir fihriste-i
 nuraniyedir ve bütün esnaf-ı mahlukatın elvan-ı ibadetlerine işaret eden
 bir harita-i kudsiyedir.
+## Dördüncü Nükte
+
 Dördüncü Nükte: Nasılki haftalık bir saatin saniye ve dakika ve
 saat ve günlerini sayan milleri birbirine bakarlar, birbirinin misalidirler
 ve birbirinin hükmünü alırlar. Öyle de; Cenab-ı Hakk'ın bir saat-ı kübrası
@@ -110,6 +118,8 @@ azîme-i yevmiyesinin işaretiyle; hem senevî, hem asrî, hem dehrî,
 kudretin mu'cizatını ve rahmetin hedâyâsını hatırlatır. Demek asıl vazife-i
 fıtrat ve esas-ı ubudiyet ve kat'î borç olan farz namaz, şu vakitlerde
 lâyıktır ve ensebdir.
+## Beşinci Nükte
+
 Beşinci Nükte: İnsan fıtraten gayet zaîftir. Halbuki her şey ona
 ilişir, onu müteessir ve müteellim eder. Hem gayet âcizdir. Halbuki
 belaları ve düşmanları pek çoktur. Hem gayet fakirdir. Halbuki ihtiyacatı

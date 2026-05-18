@@ -23,7 +23,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-takdim/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Kastamonu Lahikasi - Takdim"
+      ],
+      "keywords": [
+        "lahika",
+        "iman",
+        "takdim",
+        "risale-i nur",
+        "hapishane",
+        "kalp",
+        "ihlas",
+        "dünya"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.002.kastamonu-lahikasi-s-10-30",
@@ -38,7 +51,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-10-30/",
       "official_section_similarity": 0.99768205524435,
       "official_section_content_overlap": 0.997296775439274,
-      "official_section_diff_tokens": 18
+      "official_section_diff_tokens": 18,
+      "aliases": [
+        "Kastamonu Lahikasi s.10-30"
+      ],
+      "keywords": [
+        "iman",
+        "dua",
+        "risale-i nur",
+        "lahika",
+        "kalp",
+        "musa",
+        "ruh",
+        "şükür"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.003.kastamonu-lahikasi-s-30-51",
@@ -53,7 +79,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-30-51/",
       "official_section_similarity": 0.9983471074380166,
       "official_section_content_overlap": 0.9977973568281938,
-      "official_section_diff_tokens": 14
+      "official_section_diff_tokens": 14,
+      "aliases": [
+        "Kastamonu Lahikasi s.30-51"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "dua",
+        "kalp",
+        "ayet",
+        "lahika",
+        "keramet",
+        "dünya"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.004.kastamonu-lahikasi-s-52-69",
@@ -68,7 +107,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-52-69/",
       "official_section_similarity": 0.9968546865170895,
       "official_section_content_overlap": 0.9956020942408377,
-      "official_section_diff_tokens": 23
+      "official_section_diff_tokens": 23,
+      "aliases": [
+        "Kastamonu Lahikasi s.52-69"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "lahika",
+        "şefkat",
+        "ruh",
+        "kalp",
+        "keramet",
+        "merhamet"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.005.kastamonu-lahikasi-s-70-91",
@@ -83,7 +135,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-70-91/",
       "official_section_similarity": 0.9958348424483883,
       "official_section_content_overlap": 0.9956545355784899,
-      "official_section_diff_tokens": 33
+      "official_section_diff_tokens": 33,
+      "aliases": [
+        "Kastamonu Lahikasi s.70-91"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "dua",
+        "lahika",
+        "rahmet",
+        "hayat",
+        "keramet",
+        "iman",
+        "ruh"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.006.kastamonu-lahikasi-s-91-109",
@@ -98,7 +163,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-91-109/",
       "official_section_similarity": 0.9988004798080767,
       "official_section_content_overlap": 0.9980023971234518,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Kastamonu Lahikasi s.91-109"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "hayat",
+        "iman",
+        "dua",
+        "musibet",
+        "lahika",
+        "ruh",
+        "kalp"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.007.kastamonu-lahikasi-s-110-129",
@@ -113,7 +191,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-110-129/",
       "official_section_similarity": 0.9988536492166603,
       "official_section_content_overlap": 0.9980908743795341,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Kastamonu Lahikasi s.110-129"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "dua",
+        "iman",
+        "lahika",
+        "dünya",
+        "musibet",
+        "hayat",
+        "hikmet"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.008.kastamonu-lahikasi-s-130-149",
@@ -128,7 +219,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-130-149/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Kastamonu Lahikasi s.130-149"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "hayat",
+        "lahika",
+        "gençlik",
+        "dua",
+        "hapishane",
+        "ihlas"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.009.lemaattan",
@@ -143,7 +247,20 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Lemaat'tan"
+      ],
+      "keywords": [
+        "i'caz",
+        "tevhid",
+        "ruh",
+        "iman",
+        "insan",
+        "bürhan",
+        "rahmet",
+        "kalp"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.010.kastamonu-lahikasi-s-167-189",
@@ -158,7 +275,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-167-189/",
       "official_section_similarity": 0.9974867839500823,
       "official_section_content_overlap": 0.9965373961218836,
-      "official_section_diff_tokens": 23
+      "official_section_diff_tokens": 23,
+      "aliases": [
+        "Kastamonu Lahikasi s.167-189"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "ayet",
+        "lahika",
+        "musibet",
+        "hayat",
+        "kalp",
+        "dua"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.011.kastamonu-lahikasi-s-190-210",
@@ -173,7 +303,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-190-210/",
       "official_section_similarity": 0.9984087694483734,
       "official_section_content_overlap": 0.997350759448958,
-      "official_section_diff_tokens": 15
+      "official_section_diff_tokens": 15,
+      "aliases": [
+        "Kastamonu Lahikasi s.190-210"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "lahika",
+        "gaybi",
+        "hikmet",
+        "insan",
+        "tılsım",
+        "hüccet"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.012.kastamonu-lahikasi-s-211-230",
@@ -188,7 +331,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-211-230/",
       "official_section_similarity": 0.9989067055393586,
       "official_section_content_overlap": 0.9981791697013839,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Kastamonu Lahikasi s.211-230"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "dünya",
+        "dua",
+        "lahika",
+        "ihlas",
+        "şükür",
+        "iman",
+        "hayat"
+      ]
     },
     {
       "section_id": "kastamonu-lahikasi.013.kastamonu-lahikasi-s-231-255",
@@ -203,7 +359,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-lahikasi-s-231-255/",
       "official_section_similarity": 0.9986669473093384,
       "official_section_content_overlap": 0.99845700659279,
-      "official_section_diff_tokens": 15
+      "official_section_diff_tokens": 15,
+      "aliases": [
+        "Kastamonu Lahikasi s.231-255"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "ihlas",
+        "hastalık",
+        "iman",
+        "dua",
+        "dünya",
+        "lahika",
+        "keramet"
+      ]
     }
   ]
 }

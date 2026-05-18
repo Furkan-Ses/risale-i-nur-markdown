@@ -5,7 +5,7 @@
   "ai_book_path": "ai/books/sozler/book.md",
   "passages_path": "ai/passages/sozler.jsonl",
   "section_count": 38,
-  "chunk_count": 371,
+  "chunk_count": 428,
   "official_alignment_status": "very-high",
   "official_similarity": 0.9953220733204761,
   "official_content_overlap": 0.9939144048753769,
@@ -23,7 +23,17 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Kapak ve Giris"
+      ],
+      "keywords": [
+        "musa",
+        "risale-i nur",
+        "kapak giriş",
+        "kapak ve giriş",
+        "sozler"
+      ]
     },
     {
       "section_id": "sozler.002.birinci-soz",
@@ -38,7 +48,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-soz/",
       "official_section_similarity": 0.9755154639175257,
       "official_section_content_overlap": 0.9531004091910608,
-      "official_section_diff_tokens": 151
+      "official_section_diff_tokens": 151,
+      "aliases": [
+        "Birinci Soz",
+        "1. Söz",
+        "1. Soz"
+      ],
+      "keywords": [
+        "rahmet",
+        "insan",
+        "bismillah",
+        "ehadiyet",
+        "vahdet",
+        "hikmet",
+        "kalp",
+        "şefkat"
+      ]
     },
     {
       "section_id": "sozler.003.ikinci-soz",
@@ -53,7 +78,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ikinci-soz-2/",
       "official_section_similarity": 0.9869678540399652,
       "official_section_content_overlap": 0.9742710120068611,
-      "official_section_diff_tokens": 15
+      "official_section_diff_tokens": 15,
+      "aliases": [
+        "Ikinci Soz",
+        "2. Söz",
+        "2. Soz"
+      ],
+      "keywords": [
+        "iman",
+        "zikir",
+        "cehennem",
+        "cennet",
+        "kalp",
+        "küfür",
+        "merhamet",
+        "musibet"
+      ]
     },
     {
       "section_id": "sozler.004.ucuncu-soz",
@@ -68,7 +108,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ucuncu-soz-2/",
       "official_section_similarity": 0.9878234398782344,
       "official_section_content_overlap": 0.9759398496240601,
-      "official_section_diff_tokens": 16
+      "official_section_diff_tokens": 16,
+      "aliases": [
+        "Ucuncu Soz",
+        "3. Söz",
+        "3. Soz"
+      ],
+      "keywords": [
+        "ibadet",
+        "kalp",
+        "ruh",
+        "ahiret",
+        "iman",
+        "musa",
+        "musibet",
+        "tevekkül"
+      ]
     },
     {
       "section_id": "sozler.005.dorduncu-soz",
@@ -83,7 +138,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dorduncu-soz/",
       "official_section_similarity": 0.998,
       "official_section_content_overlap": 0.9960079840319361,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Dorduncu Soz",
+        "4. Söz",
+        "4. Soz"
+      ],
+      "keywords": [
+        "akıl",
+        "ahiret",
+        "cennet",
+        "hikmet",
+        "ibadet",
+        "kalp",
+        "merhamet",
+        "musa"
+      ]
     },
     {
       "section_id": "sozler.006.besinci-soz",
@@ -98,7 +168,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/besinci-soz/",
       "official_section_similarity": 0.9983844911147012,
       "official_section_content_overlap": 0.9967741935483871,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Besinci Soz",
+        "5. Söz",
+        "5. Soz"
+      ],
+      "keywords": [
+        "hayat",
+        "ibadet",
+        "nefis",
+        "haşir",
+        "hidayet",
+        "hikmet",
+        "kalp",
+        "rahmet"
+      ]
     },
     {
       "section_id": "sozler.007.altinci-soz",
@@ -113,7 +198,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/altinci-soz/",
       "official_section_similarity": 0.9945011783189317,
       "official_section_content_overlap": 0.9906103286384976,
-      "official_section_diff_tokens": 12
+      "official_section_diff_tokens": 12,
+      "aliases": [
+        "Altinci Soz",
+        "6. Söz",
+        "6. Soz"
+      ],
+      "keywords": [
+        "akıl",
+        "nefis",
+        "rahmet",
+        "cennet",
+        "cehennem",
+        "hayat",
+        "hikmet",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.008.yedinci-soz",
@@ -128,7 +228,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yedinci-soz/",
       "official_section_similarity": 0.9920535340861564,
       "official_section_content_overlap": 0.9891576313594662,
-      "official_section_diff_tokens": 13
+      "official_section_diff_tokens": 13,
+      "aliases": [
+        "Yedinci Soz",
+        "7. Söz",
+        "7. Soz"
+      ],
+      "keywords": [
+        "tılsım",
+        "ölüm",
+        "insan",
+        "hikmet",
+        "iman",
+        "musa",
+        "rahmet",
+        "ahiret"
+      ]
     },
     {
       "section_id": "sozler.009.sekizinci-soz",
@@ -143,7 +258,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-soz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Sekizinci Soz",
+        "8. Söz",
+        "8. Soz"
+      ],
+      "keywords": [
+        "tılsım",
+        "dünya",
+        "kalp",
+        "ruh",
+        "akıl",
+        "cennet",
+        "hayat",
+        "iman"
+      ]
     },
     {
       "section_id": "sozler.010.dokuzuncu-soz",
@@ -152,13 +282,28 @@
       "section_order": 10,
       "source_section_path": "books/sozler/by_heading/009 - Dokuzuncu Söz.md",
       "ai_section_path": "ai/books/sozler/sections/010-dokuzuncu-soz.md",
-      "chunk_count": 4,
+      "chunk_count": 6,
       "first_chunk_id": "sozler.dokuzuncu-soz.0001",
-      "last_chunk_id": "sozler.dokuzuncu-soz.0004",
+      "last_chunk_id": "sozler.dokuzuncu-soz.0006",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-soz/",
       "official_section_similarity": 0.9944946047126184,
       "official_section_content_overlap": 0.9916556873078612,
-      "official_section_diff_tokens": 19
+      "official_section_diff_tokens": 19,
+      "aliases": [
+        "Dokuzuncu Soz",
+        "9. Söz",
+        "9. Soz"
+      ],
+      "keywords": [
+        "insan",
+        "dünya",
+        "rahmet",
+        "ubudiyet",
+        "rububiyet",
+        "ruh",
+        "nimet",
+        "şükür"
+      ]
     },
     {
       "section_id": "sozler.011.onuncu-soz",
@@ -167,13 +312,28 @@
       "section_order": 11,
       "source_section_path": "books/sozler/by_heading/010 - Onuncu Söz.md",
       "ai_section_path": "ai/books/sozler/sections/011-onuncu-soz.md",
-      "chunk_count": 35,
+      "chunk_count": 44,
       "first_chunk_id": "sozler.onuncu-soz.0001",
-      "last_chunk_id": "sozler.onuncu-soz.0035",
+      "last_chunk_id": "sozler.onuncu-soz.0044",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/onuncu-soz/",
       "official_section_similarity": 0.9937190082644628,
       "official_section_content_overlap": 0.9918180618484141,
-      "official_section_diff_tokens": 202
+      "official_section_diff_tokens": 202,
+      "aliases": [
+        "Onuncu Soz",
+        "10. Söz",
+        "10. Soz"
+      ],
+      "keywords": [
+        "hayat",
+        "insan",
+        "hikmet",
+        "dünya",
+        "ahiret",
+        "rahmet",
+        "adalet",
+        "iman"
+      ]
     },
     {
       "section_id": "sozler.012.onbirinci-soz",
@@ -188,7 +348,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-birinci-soz/",
       "official_section_similarity": 0.9970805426755968,
       "official_section_content_overlap": 0.9941780821917808,
-      "official_section_diff_tokens": 17
+      "official_section_diff_tokens": 17,
+      "aliases": [
+        "Onbirinci Soz"
+      ],
+      "keywords": [
+        "hayat",
+        "nimet",
+        "rahmet",
+        "ubudiyet",
+        "insan",
+        "hikmet",
+        "iman",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.013.onikinci-soz",
@@ -203,7 +376,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-soz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Onikinci Soz"
+      ],
+      "keywords": [
+        "hikmet",
+        "ayet",
+        "hayat",
+        "kalp",
+        "i'caz",
+        "ibadet",
+        "insan",
+        "musa"
+      ]
     },
     {
       "section_id": "sozler.014.onucuncu-soz",
@@ -212,13 +398,26 @@
       "section_order": 14,
       "source_section_path": "books/sozler/by_heading/013 - Onüçüncü Söz.md",
       "ai_section_path": "ai/books/sozler/sections/014-onucuncu-soz.md",
-      "chunk_count": 13,
+      "chunk_count": 14,
       "first_chunk_id": "sozler.onucuncu-soz.0001",
-      "last_chunk_id": "sozler.onucuncu-soz.0013",
+      "last_chunk_id": "sozler.onucuncu-soz.0014",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-soz/",
       "official_section_similarity": 0.9989924094847854,
       "official_section_content_overlap": 0.9986571773868672,
-      "official_section_diff_tokens": 11
+      "official_section_diff_tokens": 11,
+      "aliases": [
+        "Onucuncu Soz"
+      ],
+      "keywords": [
+        "iman",
+        "hayat",
+        "hapishane",
+        "insan",
+        "gençlik",
+        "dünya",
+        "hüccet",
+        "musibet"
+      ]
     },
     {
       "section_id": "sozler.015.ondorduncu-soz",
@@ -227,13 +426,26 @@
       "section_order": 15,
       "source_section_path": "books/sozler/by_heading/014 - Ondördüncü Söz.md",
       "ai_section_path": "ai/books/sozler/sections/015-ondorduncu-soz.md",
-      "chunk_count": 6,
+      "chunk_count": 9,
       "first_chunk_id": "sozler.ondorduncu-soz.0001",
-      "last_chunk_id": "sozler.ondorduncu-soz.0006",
+      "last_chunk_id": "sozler.ondorduncu-soz.0009",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-soz/",
       "official_section_similarity": 0.9933738266151297,
       "official_section_content_overlap": 0.992553778268064,
-      "official_section_diff_tokens": 29
+      "official_section_diff_tokens": 29,
+      "aliases": [
+        "Ondorduncu Soz"
+      ],
+      "keywords": [
+        "hikmet",
+        "iman",
+        "musibet",
+        "insan",
+        "musa",
+        "dünya",
+        "rahmet",
+        "rububiyet"
+      ]
     },
     {
       "section_id": "sozler.016.onbesinci-soz",
@@ -242,13 +454,26 @@
       "section_order": 16,
       "source_section_path": "books/sozler/by_heading/015 - Onbeşinci Söz.md",
       "ai_section_path": "ai/books/sozler/sections/016-onbesinci-soz.md",
-      "chunk_count": 10,
+      "chunk_count": 12,
       "first_chunk_id": "sozler.onbesinci-soz.0001",
-      "last_chunk_id": "sozler.onbesinci-soz.0010",
+      "last_chunk_id": "sozler.onbesinci-soz.0012",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-besinci-soz/",
       "official_section_similarity": 0.997043169722058,
       "official_section_content_overlap": 0.9964539007092199,
-      "official_section_diff_tokens": 20
+      "official_section_diff_tokens": 20,
+      "aliases": [
+        "Onbesinci Soz"
+      ],
+      "keywords": [
+        "i'caz",
+        "hikmet",
+        "ayet",
+        "insan",
+        "hüccet",
+        "musa",
+        "ruh",
+        "zikir"
+      ]
     },
     {
       "section_id": "sozler.017.onaltinci-soz",
@@ -263,7 +488,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-altinci-soz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Onaltinci Soz"
+      ],
+      "keywords": [
+        "rahmet",
+        "hikmet",
+        "ruh",
+        "musa",
+        "rububiyet",
+        "şifa",
+        "ubudiyet",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.018.onyedinci-soz",
@@ -278,7 +516,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-yedinci-soz/",
       "official_section_similarity": 0.9858903375602787,
       "official_section_content_overlap": 0.9850133809099019,
-      "official_section_diff_tokens": 124
+      "official_section_diff_tokens": 124,
+      "aliases": [
+        "Onyedinci Soz"
+      ],
+      "keywords": [
+        "dünya",
+        "kalp",
+        "ruh",
+        "iman",
+        "hayat",
+        "insan",
+        "rahmet",
+        "cennet"
+      ]
     },
     {
       "section_id": "sozler.019.onsekizinci-soz",
@@ -293,7 +544,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-soz/",
       "official_section_similarity": 0.9956672443674177,
       "official_section_content_overlap": 0.9939446366782007,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "Onsekizinci Soz"
+      ],
+      "keywords": [
+        "insan",
+        "hikmet",
+        "kalp",
+        "nimet",
+        "akıl",
+        "fikir",
+        "iman",
+        "musa"
+      ]
     },
     {
       "section_id": "sozler.020.ondokuzuncu-soz",
@@ -308,7 +572,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-dokuzuncu-soz/",
       "official_section_similarity": 0.9969556160871655,
       "official_section_content_overlap": 0.9967969250480462,
-      "official_section_diff_tokens": 15
+      "official_section_diff_tokens": 15,
+      "aliases": [
+        "Ondokuzuncu Soz"
+      ],
+      "keywords": [
+        "dua",
+        "bürhan",
+        "insan",
+        "i'caz",
+        "zikir",
+        "hidayet",
+        "hikmet",
+        "rahmet"
+      ]
     },
     {
       "section_id": "sozler.021.yirminci-soz",
@@ -323,7 +600,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirminci-soz/",
       "official_section_similarity": 0.9961395481841578,
       "official_section_content_overlap": 0.9940077043800828,
-      "official_section_diff_tokens": 44
+      "official_section_diff_tokens": 44,
+      "aliases": [
+        "Yirminci Soz",
+        "20. Söz",
+        "20. Soz"
+      ],
+      "keywords": [
+        "ayet",
+        "insan",
+        "musa",
+        "hikmet",
+        "kalp",
+        "i'caz",
+        "belagat",
+        "hayat"
+      ]
     },
     {
       "section_id": "sozler.022.yirmibirinci-soz",
@@ -338,7 +630,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-birinci-soz/",
       "official_section_similarity": 0.9970737717541969,
       "official_section_content_overlap": 0.9969202340622113,
-      "official_section_diff_tokens": 14
+      "official_section_diff_tokens": 14,
+      "aliases": [
+        "Yirmibirinci Soz"
+      ],
+      "keywords": [
+        "kalp",
+        "sabır",
+        "fikir",
+        "ibadet",
+        "küfür",
+        "musibet",
+        "ahiret",
+        "dünya"
+      ]
     },
     {
       "section_id": "sozler.023.yirmiikinci-soz",
@@ -347,13 +652,26 @@
       "section_order": 23,
       "source_section_path": "books/sozler/by_heading/022 - Yirmiikinci Söz.md",
       "ai_section_path": "ai/books/sozler/sections/023-yirmiikinci-soz.md",
-      "chunk_count": 16,
+      "chunk_count": 17,
       "first_chunk_id": "sozler.yirmiikinci-soz.0001",
-      "last_chunk_id": "sozler.yirmiikinci-soz.0016",
+      "last_chunk_id": "sozler.yirmiikinci-soz.0017",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-ikinci-soz/",
       "official_section_similarity": 0.9913151364764268,
       "official_section_content_overlap": 0.9875451606769348,
-      "official_section_diff_tokens": 146
+      "official_section_diff_tokens": 146,
+      "aliases": [
+        "Yirmiikinci Soz"
+      ],
+      "keywords": [
+        "bürhan",
+        "vahdet",
+        "hayat",
+        "hikmet",
+        "musa",
+        "tevhid",
+        "ehadiyet",
+        "insan"
+      ]
     },
     {
       "section_id": "sozler.024.yirmiucuncu-soz",
@@ -362,13 +680,26 @@
       "section_order": 24,
       "source_section_path": "books/sozler/by_heading/023 - Yirmiüçüncü Söz.md",
       "ai_section_path": "ai/books/sozler/sections/024-yirmiucuncu-soz.md",
-      "chunk_count": 11,
+      "chunk_count": 12,
       "first_chunk_id": "sozler.yirmiucuncu-soz.0001",
-      "last_chunk_id": "sozler.yirmiucuncu-soz.0011",
+      "last_chunk_id": "sozler.yirmiucuncu-soz.0012",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-ucuncu-soz/",
       "official_section_similarity": 0.9997000599880024,
       "official_section_content_overlap": 0.9997000599880024,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Yirmiucuncu Soz"
+      ],
+      "keywords": [
+        "insan",
+        "dua",
+        "hayat",
+        "iman",
+        "ubudiyet",
+        "dünya",
+        "musa",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.025.yirmidorduncu-soz",
@@ -377,13 +708,26 @@
       "section_order": 25,
       "source_section_path": "books/sozler/by_heading/024 - Yirmidördüncü Söz.md",
       "ai_section_path": "ai/books/sozler/sections/025-yirmidorduncu-soz.md",
-      "chunk_count": 17,
+      "chunk_count": 21,
       "first_chunk_id": "sozler.yirmidorduncu-soz.0001",
-      "last_chunk_id": "sozler.yirmidorduncu-soz.0017",
+      "last_chunk_id": "sozler.yirmidorduncu-soz.0021",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-dorduncu-soz/",
       "official_section_similarity": 0.9954996326230713,
       "official_section_content_overlap": 0.9951340433345575,
-      "official_section_diff_tokens": 58
+      "official_section_diff_tokens": 58,
+      "aliases": [
+        "Yirmidorduncu Soz"
+      ],
+      "keywords": [
+        "insan",
+        "dünya",
+        "iman",
+        "kalp",
+        "hikmet",
+        "zikir",
+        "ibadet",
+        "nefis"
+      ]
     },
     {
       "section_id": "sozler.026.yirmibesinci-soz",
@@ -392,13 +736,26 @@
       "section_order": 26,
       "source_section_path": "books/sozler/by_heading/025 - Yirmibeşinci Söz.md",
       "ai_section_path": "ai/books/sozler/sections/026-yirmibesinci-soz.md",
-      "chunk_count": 46,
+      "chunk_count": 53,
       "first_chunk_id": "sozler.yirmibesinci-soz.0001",
-      "last_chunk_id": "sozler.yirmibesinci-soz.0046",
+      "last_chunk_id": "sozler.yirmibesinci-soz.0053",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-besinci-soz-2/",
       "official_section_similarity": 0.9970713747803531,
       "official_section_content_overlap": 0.9969882541913463,
-      "official_section_diff_tokens": 113
+      "official_section_diff_tokens": 113,
+      "aliases": [
+        "Yirmibesinci Soz"
+      ],
+      "keywords": [
+        "i'caz",
+        "ayet",
+        "hikmet",
+        "insan",
+        "hayat",
+        "belagat",
+        "dünya",
+        "zikir"
+      ]
     },
     {
       "section_id": "sozler.027.yirmialtinci-soz",
@@ -407,13 +764,26 @@
       "section_order": 27,
       "source_section_path": "books/sozler/by_heading/026 - Yirmialtıncı Söz.md",
       "ai_section_path": "ai/books/sozler/sections/027-yirmialtinci-soz.md",
-      "chunk_count": 8,
+      "chunk_count": 9,
       "first_chunk_id": "sozler.yirmialtinci-soz.0001",
-      "last_chunk_id": "sozler.yirmialtinci-soz.0008",
+      "last_chunk_id": "sozler.yirmialtinci-soz.0009",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-altinci-soz/",
       "official_section_similarity": 0.9957269204014707,
       "official_section_content_overlap": 0.9952324195470799,
-      "official_section_diff_tokens": 31
+      "official_section_diff_tokens": 31,
+      "aliases": [
+        "Yirmialtinci Soz"
+      ],
+      "keywords": [
+        "kader",
+        "hayat",
+        "insan",
+        "iman",
+        "hikmet",
+        "nefis",
+        "adalet",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.028.yirmiyedinci-soz",
@@ -422,13 +792,26 @@
       "section_order": 28,
       "source_section_path": "books/sozler/by_heading/027 - Yirmiyedinci Söz.md",
       "ai_section_path": "ai/books/sozler/sections/028-yirmiyedinci-soz.md",
-      "chunk_count": 8,
+      "chunk_count": 11,
       "first_chunk_id": "sozler.yirmiyedinci-soz.0001",
-      "last_chunk_id": "sozler.yirmiyedinci-soz.0008",
+      "last_chunk_id": "sozler.yirmiyedinci-soz.0011",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-soz/",
       "official_section_similarity": 0.995100921026847,
       "official_section_content_overlap": 0.9949059561128527,
-      "official_section_diff_tokens": 30
+      "official_section_diff_tokens": 30,
+      "aliases": [
+        "Yirmiyedinci Soz"
+      ],
+      "keywords": [
+        "iman",
+        "insan",
+        "nübüvvet",
+        "kalp",
+        "hikmet",
+        "hayat",
+        "dünya",
+        "ruh"
+      ]
     },
     {
       "section_id": "sozler.029.yirmisekizinci-soz",
@@ -443,7 +826,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-soz/",
       "official_section_similarity": 0.9944776806258628,
       "official_section_content_overlap": 0.9935632183908046,
-      "official_section_diff_tokens": 18
+      "official_section_diff_tokens": 18,
+      "aliases": [
+        "Yirmisekizinci Soz"
+      ],
+      "keywords": [
+        "cennet",
+        "dünya",
+        "insan",
+        "cehennem",
+        "hayat",
+        "rahmet",
+        "hapishane",
+        "küfür"
+      ]
     },
     {
       "section_id": "sozler.030.yirmidokuzuncu-soz",
@@ -452,13 +848,26 @@
       "section_order": 30,
       "source_section_path": "books/sozler/by_heading/029 - Yirmidokuzuncu Söz.md",
       "ai_section_path": "ai/books/sozler/sections/030-yirmidokuzuncu-soz.md",
-      "chunk_count": 16,
+      "chunk_count": 21,
       "first_chunk_id": "sozler.yirmidokuzuncu-soz.0001",
-      "last_chunk_id": "sozler.yirmidokuzuncu-soz.0016",
+      "last_chunk_id": "sozler.yirmidokuzuncu-soz.0021",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-soz/",
       "official_section_similarity": 0.9945583519580216,
       "official_section_content_overlap": 0.9941719281204469,
-      "official_section_diff_tokens": 68
+      "official_section_diff_tokens": 68,
+      "aliases": [
+        "Yirmidokuzuncu Soz"
+      ],
+      "keywords": [
+        "ruh",
+        "hayat",
+        "insan",
+        "hikmet",
+        "dünya",
+        "musa",
+        "ölüm",
+        "haşir"
+      ]
     },
     {
       "section_id": "sozler.031.otuzuncu-soz",
@@ -467,13 +876,28 @@
       "section_order": 31,
       "source_section_path": "books/sozler/by_heading/030 - Otuzuncu Söz.md",
       "ai_section_path": "ai/books/sozler/sections/031-otuzuncu-soz.md",
-      "chunk_count": 12,
+      "chunk_count": 14,
       "first_chunk_id": "sozler.otuzuncu-soz.0001",
-      "last_chunk_id": "sozler.otuzuncu-soz.0012",
+      "last_chunk_id": "sozler.otuzuncu-soz.0014",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuzuncu-soz/",
       "official_section_similarity": 0.9950391644908616,
       "official_section_content_overlap": 0.9928357431288264,
-      "official_section_diff_tokens": 56
+      "official_section_diff_tokens": 56,
+      "aliases": [
+        "Otuzuncu Soz",
+        "30. Söz",
+        "30. Soz"
+      ],
+      "keywords": [
+        "hikmet",
+        "insan",
+        "hayat",
+        "nübüvvet",
+        "kader",
+        "rububiyet",
+        "ruh",
+        "dünya"
+      ]
     },
     {
       "section_id": "sozler.032.otuzbirinci-soz",
@@ -482,13 +906,26 @@
       "section_order": 32,
       "source_section_path": "books/sozler/by_heading/031 - Otuzbirinci Söz.md",
       "ai_section_path": "ai/books/sozler/sections/032-otuzbirinci-soz.md",
-      "chunk_count": 16,
+      "chunk_count": 19,
       "first_chunk_id": "sozler.otuzbirinci-soz.0001",
-      "last_chunk_id": "sozler.otuzbirinci-soz.0016",
+      "last_chunk_id": "sozler.otuzbirinci-soz.0019",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-soz/",
       "official_section_similarity": 0.9978226745658008,
       "official_section_content_overlap": 0.9976711219117051,
-      "official_section_diff_tokens": 27
+      "official_section_diff_tokens": 27,
+      "aliases": [
+        "Otuzbirinci Soz"
+      ],
+      "keywords": [
+        "insan",
+        "hikmet",
+        "ruh",
+        "cennet",
+        "rububiyet",
+        "kalp",
+        "nübüvvet",
+        "iman"
+      ]
     },
     {
       "section_id": "sozler.033.otuzikinci-soz",
@@ -497,13 +934,26 @@
       "section_order": 33,
       "source_section_path": "books/sozler/by_heading/032 - Otuzikinci Söz.md",
       "ai_section_path": "ai/books/sozler/sections/033-otuzikinci-soz.md",
-      "chunk_count": 30,
+      "chunk_count": 38,
       "first_chunk_id": "sozler.otuzikinci-soz.0001",
-      "last_chunk_id": "sozler.otuzikinci-soz.0030",
+      "last_chunk_id": "sozler.otuzikinci-soz.0038",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-ikinci-soz/",
       "official_section_similarity": 0.9956593633732947,
       "official_section_content_overlap": 0.9951451296353683,
-      "official_section_diff_tokens": 119
+      "official_section_diff_tokens": 119,
+      "aliases": [
+        "Otuzikinci Soz"
+      ],
+      "keywords": [
+        "hikmet",
+        "dünya",
+        "insan",
+        "cennet",
+        "hayat",
+        "rahmet",
+        "vahdet",
+        "musa"
+      ]
     },
     {
       "section_id": "sozler.034.otuzucuncu-soz",
@@ -512,13 +962,26 @@
       "section_order": 34,
       "source_section_path": "books/sozler/by_heading/033 - Otuzüçüncü Söz.md",
       "ai_section_path": "ai/books/sozler/sections/034-otuzucuncu-soz.md",
-      "chunk_count": 17,
+      "chunk_count": 19,
       "first_chunk_id": "sozler.otuzucuncu-soz.0001",
-      "last_chunk_id": "sozler.otuzucuncu-soz.0017",
+      "last_chunk_id": "sozler.otuzucuncu-soz.0019",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-ucuncu-soz/",
       "official_section_similarity": 0.9986115465579791,
       "official_section_content_overlap": 0.9982091690544412,
-      "official_section_diff_tokens": 23
+      "official_section_diff_tokens": 23,
+      "aliases": [
+        "Otuzucuncu Soz"
+      ],
+      "keywords": [
+        "hikmet",
+        "vahdet",
+        "hayat",
+        "rububiyet",
+        "insan",
+        "rahmet",
+        "şifa",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.035.lemaat",
@@ -527,13 +990,23 @@
       "section_order": 35,
       "source_section_path": "books/sozler/by_heading/034 - Lemaat.md",
       "ai_section_path": "ai/books/sozler/sections/035-lemaat.md",
-      "chunk_count": 19,
+      "chunk_count": 20,
       "first_chunk_id": "sozler.lemaat.0001",
-      "last_chunk_id": "sozler.lemaat.0019",
+      "last_chunk_id": "sozler.lemaat.0020",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/lemaat/",
       "official_section_similarity": 0.9949659231722429,
       "official_section_content_overlap": 0.992814093648586,
-      "official_section_diff_tokens": 100
+      "official_section_diff_tokens": 100,
+      "keywords": [
+        "hayat",
+        "ruh",
+        "insan",
+        "iman",
+        "kalp",
+        "tevhid",
+        "rahmet",
+        "i'caz"
+      ]
     },
     {
       "section_id": "sozler.036.anglikan-kilisesine-cevab",
@@ -548,7 +1021,17 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "keywords": [
+        "fikir",
+        "iman",
+        "tevhid",
+        "hayat",
+        "insan",
+        "anglikan kilisesine cevab",
+        "sozler",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "sozler.037.konferans",
@@ -563,7 +1046,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/konferans-sozler/",
       "official_section_similarity": 0.9989124176316294,
       "official_section_content_overlap": 0.9984652768896278,
-      "official_section_diff_tokens": 12
+      "official_section_diff_tokens": 12,
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "dünya",
+        "tefsir",
+        "konferans",
+        "insan",
+        "hayat",
+        "kalp"
+      ]
     },
     {
       "section_id": "sozler.038.fihrist",
@@ -572,13 +1065,23 @@
       "section_order": 38,
       "source_section_path": "books/sozler/by_heading/037 - Fihrist.md",
       "ai_section_path": "ai/books/sozler/sections/038-fihrist.md",
-      "chunk_count": 6,
+      "chunk_count": 8,
       "first_chunk_id": "sozler.fihrist.0001",
-      "last_chunk_id": "sozler.fihrist.0006",
+      "last_chunk_id": "sozler.fihrist.0008",
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fihrist-sozler/",
       "official_section_similarity": 0.9854219606794169,
       "official_section_content_overlap": 0.9800531914893617,
-      "official_section_diff_tokens": 76
+      "official_section_diff_tokens": 76,
+      "keywords": [
+        "ayet",
+        "tefsir",
+        "insan",
+        "fihrist",
+        "hikmet",
+        "iman",
+        "i'caz",
+        "vahdet"
+      ]
     }
   ]
 }

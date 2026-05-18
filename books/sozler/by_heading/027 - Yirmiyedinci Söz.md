@@ -65,6 +65,8 @@ Mesela bazı gafiller, hutbe gibi bazı şeair-i İslâmiyeyi, Arabîden çıkar
 
 Birincisi: “Tâ siyaset-i hazıra avam-ı müslimîne de o suretle tefhim edilsin.” Halbuki siyaset-i hazıra, o kadar çok yalan ve hile ve şeytanet içine girmiş ki vesvese-i şeyatîn hükmüne geçmiştir. Halbuki minber, vahy-i İlahînin tebliğ makamı olduğundan o vesvese-i siyasiyenin hakkı yoktur ki o makam-ı âlîye çıkabilsin.
 
+## İkinci sebep
+
 İkinci sebep: “Hutbe, bazı suver-i Kur’aniyenin nasihatleri anlaşılmak içindir.” Evet, eğer millet-i İslâm, İslâmiyet’in zaruriyatı ve müsellematı ve malûm olan ahkâmını, ekseriyet itibarıyla imtisal edip yerine getirseydi, o vakit nazariyat-ı şer’iye ve mesail-i dakika ve nasayih-i hafiyeyi anlamak için bildiği lisan ile hutbe okunması ve suver-i Kur’aniyenin –eğer mümkün olsaydı– tercümesi (Hâşiye [1]) belki müstahsen olurdu.
 
 Fakat namaz, zekât, orucun vücubu ve katl, zina ve şarabın haramiyeti gibi malûm olan ahkâm-ı kat’iye-i İslâmiye mühmel kalıyor. Avam-ı nâs, onların vücubunu ve haramiyetini ders almaya muhtaç değiller. Belki teşvik ve ihtar ile o ahkâm-ı kudsiyeyi hatırlatıp İslâmiyet damarını ve iman hissini tahrik etmekle imtisallerine teşvik ve tezkire ve ihtara muhtaçtırlar.
@@ -177,6 +179,8 @@ Hattâ Celaleddin-i Süyûtî gibi uyanık iken çok defa sohbet-i Nebeviyeye ma
 
 Sohbet-i Nebeviye ne derece bir iksir-i nurani olduğu bununla anlaşılır ki: Bir bedevî adam, kızını sağ olarak defnedecek derecede bir kasavet-i vahşiyanede bulunduğu halde, gelip bir saat sohbet-i Nebeviyeye müşerref olur, daha karıncaya ayağını basamaz derecede bir şefkat-i rahîmaneyi kesbederdi. Hem cahil, vahşi bir adam, bir gün sohbet-i Nebeviyeye mazhar olur; sonra Çin ve Hint gibi memleketlere giderdi, o mütemeddin kavimlere muallim-i hakaik ve rehber-i kemalât olurdu.
 
+## İkinci Sebep
+
 İkinci Sebep: Yirmi Yedinci Söz’deki içtihad bahsinde beyan ve ispat edildiği gibi sahabeler, ekseriyet-i mutlaka itibarıyla kemalât-ı insaniyenin en a’lâ derecesindedirler. Çünkü o zamanda, o inkılab-ı azîm-i İslâmîde hayır ve hak bütün güzelliğiyle, şer ve bâtıl bütün çirkinliğiyle görülmüş ve maddeten hissedilmiş. Şer ve hayır ortasında öyle bir ayrılık ve kizb ve sıdk mabeyninde öyle bir mesafe açılmıştı ki küfür ve iman kadar, belki cehennem ve cennet kadar beynleri uzaklaştı.
 
 ---
@@ -205,7 +209,11 @@ Evet, Kur’an-ı Hakîm’in envarıyla hasıl olan o inkılab-ı azîm-i içti
 
 Halbuki o infilak ve inkılabdan sonra, gitgide letaif uykuya ve havas o hakaik noktasında gaflete düşüp o kelimat-ı mübareke, meyveler gibi gitgide, ülfet perdesiyle letafetini ve taravetini kaybeder. Âdeta sathîlik havasıyla kuruyor gibi az bir yaşlık kalıyor ki kuvvetli, tefekkürî bir ameliyatla ancak evvelki hali iade edilebilir. İşte bundandır ki kırk dakikada bir sahabenin kazandığı fazilete ve makama, kırk günde, hattâ kırk senede başkası ancak yetişebilir.
 
+## Üçüncü Sebep
+
 Üçüncü Sebep: On İkinci ve Yirmi Dördüncü ve Yirmi Beşinci Sözlerde ispat edildiği gibi nübüvvetin velayete nisbeti, güneşin ayn-ı zatıyla, âyinelerde görülen güneşin misali gibidir. İşte daire-i nübüvvet, daire-i velayetten ne kadar yüksek ise daire-i nübüvvetin hademeleri ve o güneşin yıldızları olan sahabeler dahi daire-i velayetteki sulehaya o derece tefevvuku olmak lâzım geliyor. Hattâ velayet-i kübra olan veraset-i nübüvvet ve sıddıkıyet ki sahabelerin velayetidir, bir veli kazansa yine saff-ı evvel olan sahabelerin makamına yetişmez. Şu üçüncü sebebin müteaddid vücuhundan üç vechi ni beyan ederiz:
+
+## Birinci Vecih
 
 Birinci Vecih: İçtihadda yani istinbat-ı ahkâmda, yani Cenab-ı Hakk’ın marziyatını kelâmından anlamakta sahabelere yetişilmez.
 
@@ -217,11 +225,15 @@ Birinci Vecih: İçtihadda yani istinbat-ı ahkâmda, yani Cenab-ı Hakk’ın m
 
 Çünkü şimdi saadet-i ebediyeye bedel, saadet-i dünyeviye medar-ı nazardır. Beşerin nazar-ı dikkati, başka maksatlara müteveccihtir. Tevekkülsüzlük içinde derd-i maişet, ruha sersemlik ve felsefe-i tabiiye ve maddiye akla körlük verdiğinden beşerin muhit-i içtimaîsi, o şahsın zihnine ve istidadına, içtihad hususunda kuvvet vermediği gibi teşettüt veriyor, dağıtıyor. Yirmi Yedinci Söz’ün içtihad bahsinde, Süfyan İbn-i Uyeyne ile onun zekâveti derecesinde birinin muvazenesinde ispat etmişiz ki Süfyan’ın on senede kazandığını, öteki yüz senede kazanamıyor.
 
+## İkinci Vecih
+
 İkinci Vecih: Sahabelerin kurbiyet-i İlahiye noktasındaki makamlarına velayet ayağıyla yetişilmez.
 
 Çünkü Cenab-ı Hak bize akrebdir ve her şeyden daha ziyade yakındır. Biz ise ondan nihayetsiz uzağız. Onun kurbiyetini kazanmak iki suretle olur.
 
 Birisi: Akrebiyetin inkişafıyladır ki nübüvvetteki kurbiyet ona bakar ve nübüvvet veraseti ve sohbeti cihetiyle sahabeler o sırra mazhardırlar.
+
+## İkinci suret
 
 İkinci suret: Bu’diyetimiz noktasında kat’-ı meratib edip bir derece kurbiyete müşerref olmaktır ki ekser seyr ü sülûk-u velayet ona göre ve seyr-i enfüsî ve seyr-i âfakî bu suretle cereyan ediyor.
 
@@ -238,6 +250,8 @@ Birincisi: Zamanın cereyanına tabi olmayarak, bir kuvvet-i kudsiye ile fevka�
 Biri: Doğrudan doğruya hakikatin incizabına kapılıp, tarîkat berzahına girmeden hakikati ayn-ı zahir içinde bulmaktır.
 
 İkincisi: Çok meratibden seyr ü sülûk suretiyle geçmektir. Ehl-i velayet, çendan fena-i nefse muvaffak olurlar, nefs-i emmareyi öldürürler. Yine sahabeye yetişemiyorlar. Çünkü sahabelerin nefisleri tezkiye ve tathir edildiğinden; nefsin mahiyetindeki cihazat-ı kesîre ile ubudiyetin envaına ve şükür ve hamdin aksamına daha ziyade mazhardırlar. Fena-i nefisten sonra, ubudiyet-i evliya besatet peyda eder.
+
+## Üçüncü Vecih
 
 Üçüncü Vecih: Fazilet-i a’mal ve sevab-ı ef’al ve fazilet-i uhreviye cihetinde sahabelere yetişilmez.
 
@@ -273,6 +287,8 @@ Sizler iseniz kendi imanınızı, sahabelerin imanlarıyla muvazene ediyorsunuz.
 
 Amma hadîste vârid olan ki “Âhir zamanda beni görmeyen ve iman getiren, daha ziyade makbuldür.” mealindeki rivayet, hususi fazilete dairdir. Has bazı eşhas hakkındadır. Bahsimiz ise fazilet-i külliye ve ekseriyet itibarıyladır.
 
+## İkinci Sual
+
 İkinci Sual: Diyorlar ki: Ehl-i velayet ve ashab-ı kemalât, dünyayı terk etmişler. Hattâ hadîste var ki: “Dünya muhabbeti bütün hataların başıdır.” Halbuki sahabeler dünyaya pek çok girmişler; terk-i dünya değil belki bir kısım sahabe, o zamanın ehl-i medeniyetinden daha ileri gitmişler. Nasıl oluyor ki böyle sahabelerin en ednasına, en büyük bir veli kadar kıymeti var, diyorsunuz?
 
 ---
@@ -280,6 +296,8 @@ Amma hadîste vârid olan ki “Âhir zamanda beni görmeyen ve iman getiren, da
 [Page 495]
 
 Elcevap: Otuz İkinci Söz’ün İkinci ve Üçüncü Mevkıflarında gayet kat’î ispat edilmiştir ki: Dünyanın âhirete bakan yüzüyle, esma-i İlahiyeye mukabil olan yüzünü sevmek; sebeb-i noksaniyet değil belki medar-ı kemaldir ve o iki yüzde ne kadar ileri gitse daha ziyade ibadet ve marifetullahta ileri gider. Sahabelerin dünyası ise işte o iki yüzdedir. Dünyayı âhiret mezraası görüp ekip biçmişler. Mevcudatı, esma-i İlahiyenin âyinesi görüp müştakane temaşa edip bakmışlar. Fena-i dünya ise fâni yüzüdür ki insanın hevesatına bakar.
+
+## Üçüncü Sual
 
 Üçüncü Sual: Tarîkatlar, hakikatlerin yollarıdır. Tarîkatların içerisinde en meşhur ve en yüksek ve cadde-i kübra iddia olunan tarîk-ı Nakşibendî hakkında, o tarîkatın kahramanlarından ve imamlarından bazıları esasını böyle tarif etmişler. Demişler ki:
 
@@ -292,6 +310,8 @@ Yani, tarîk-ı Nakşî’de dört şeyi bırakmak lâzım. Hem dünyayı hem ne
 Elcevap: Eğer insan yalnız bir kalpten ibaret olsaydı bütün mâsivayı terk, hattâ esma ve sıfâtı dahi bırakmak, yalnız Cenab-ı Hakk’ın zatına rabt-ı kalp etmek lâzım gelirdi. Fakat insanın akıl, ruh, sır, nefis gibi pek çok vazifedar letaifi ve hâsseleri vardır.
 
 İnsan-ı kâmil odur ki: Bütün o letaifi; kendilerine mahsus ayrı ayrı tarîk-ı ubudiyette, hakikat canibine sevk etmek ile sahabe gibi geniş bir dairede, zengin bir surette, kalp bir kumandan gibi letaif askerleriyle kahramanane maksada yürüsün. Yoksa kalp, yalnız kendini kurtarmak için askerini bırakıp tek başıyla gitmek, medar-ı iftihar değil belki netice-i ıztırardır.
+
+## Dördüncü Sual
 
 Dördüncü Sual: Sahabelere karşı iddia-yı rüçhan nereden çıkıyor? Kim çıkarıyor? Şu zamanda, bu meseleyi medar-ı bahis etmek nedendir? Hem müçtehidîn-i izama karşı müsavat dava etmek neden ileri geliyor?
 

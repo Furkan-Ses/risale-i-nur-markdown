@@ -189,6 +189,8 @@ Elcevap: Eğer muaraza mümkün olsaydı alâküllihal kat’î teşebbüs edile
 
 İKİNCİ SURET: Belâgatındaki i’caz-ı Kur’anînin hikmetini beş nokta da beyan edeceğiz.
 
+## Birinci Nokta
+
 Birinci Nokta: Kur’an’ın nazmında bir cezalet-i hârika var.
 
 O nazımdaki cezalet ve metaneti, İşaratü’l-İ’caz baştan aşağıya kadar bu cezalet-i nazmiyeyi beyan eder. Saatin saniye, dakika, saati sayan ve birbirinin nizamını tekmil eden ne ise Kur’an-ı Hakîm’in her bir cümledeki, hey’atındaki nazım ve kelimelerindeki nizam ve cümlelerin birbirine karşı münasebatındaki intizamı öyle bir tarzda İşaratü’l-İ’caz’da âhirine kadar beyan edilmiştir. Kim isterse ona bakabilir ve bu nazımdaki cezalet-i hârikayı bu surette görebilir.
@@ -218,6 +220,8 @@ Mesela وَلَئِنْ مَسَّتْهُمْ نَفْحَةٌ مِنْ عَذ�
 İşte bu kadar kılletteki bir parça azap böyle tesirli ise ikab-ı İlahî ne kadar dehşetli olur kıyas edebilirsiniz diye ifade eder.
 
 İşte şu cümlede küçük heyetler nasıl birbirine bakıp yardım eder. Maksad-ı küllîyi, her biri kendi lisanıyla takviye eder. Şu misal bir derece lafız ve maksada bakar.
+
+## İkinci misal
 
 İkinci misal: وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ Şu cümlenin hey’atı, sadakanın şerait-i kabulünün beşi ne işaret eder.
 
@@ -259,6 +263,8 @@ Daha sen buna göre kıyas et.
 
 Mesela الٓمٓ ۞ ذٰلِكَ الْكِتَابُ لَا رَيْبَ فٖيهِ هُدًى لِلْمُتَّقٖينَ Şu dört cümlenin her birisinin iki manası var. Bir mana ile öteki cümlelere delildir. Diğer mana ile onlara neticedir. On altı münasebet hatlarından bir nakş-ı nazmî-i i’cazî hasıl olur. İşaratü’l-İ’caz’da öyle bir tarzda beyan edilmiş ki bir nakş-ı nazmî-i i’cazî teşkil eder. On Üçüncü Söz’de beyan edildiği gibi güya ekser âyât-ı Kur’aniyenin her birisi ekser âyâtın her birisine bakar bir gözü ve nâzır bir yüzü vardır ki onlara münasebatın hutut-u maneviyesini uzatıyor. Birer nakş-ı i’cazî nescediyor. İşte İşaratü’l-İ’caz, baştan aşağıya kadar bu cezalet-i nazmiyeyi şerh etmiştir.
 
+## İkinci Nokta
+
 İkinci Nokta: Manasındaki belâgat-ı hârikadır.
 
 On Üçüncü Söz’de beyan olunan şu misale bak: Mesela
@@ -282,6 +288,8 @@ Hem tuğyanınızla öyle bir Hâkim-i Zülcelal’e karşı mübareze ediyorsun
 Hem küfranınızla öyle bir Mâlik-i Zülcelal’in memleketinde isyan ediyorsunuz ki cünudundan öyleleri var, değil sizin gibi küçük âciz mahluklar, belki farz-ı muhal olarak dağ ve arz büyüklüğünde birer adüvv-ü kâfir olsaydınız arz ve dağ büyüklüğünde yıldızları, ateşli demirleri size atabilirler, sizi dağıtırlar.
 
 Hem öyle bir kanunu kırıyorsunuz ki onunla öyleler bağlıdır, eğer lüzum olsa arzınızı yüzünüze çarpar, gülleler gibi küreler misillü yıldızları üstünüze Allah’ın izniyle yağdırabilirler. Daha sair âyâtın manalarındaki kuvvet ve belâgatı ve ulviyet-i ifadesini bunlara kıyas et.
+
+## Üçüncü Nokta
 
 Üçüncü Nokta: Üslubundaki bedaat-i hârikadır.
 
@@ -355,6 +363,8 @@ Daha sair kelimat-ı Kur’aniyeyi bunlara kıyas edebilirsin. Âdeta basit, me�
 
 İşte ekseriyetle üslub-u Kur’an’ın geçen tarzlarda ulvi ve parlak olduğundandır ki bazen bir bedevî Arap bir tek kelâma meftun olur, Müslüman olmadan secdeye giderdi. Bir bedevî فَاصْدَعْ بِمَا تُؤْمَرُ kelâmını işittiği anda secdeye gitti. Ona dediler: “Müslüman mı oldun?” “Yok” dedi, “Ben şu kelâmın belâgatına secde ediyorum.”
 
+## Dördüncü Nokta
+
 Dördüncü Nokta: Lafzındaki fesahat-i hârikasıdır.
 
 Evet, Kur’an manen üslub-u beyan cihetiyle fevkalâde beliğ olduğu gibi lafzında gayet selis bir fesahati vardır. Fesahatin kat’î vücuduna, usandırmaması delildir. Ve fesahatin hikmetine, fenn-i beyan ve maânînin dâhî ulemasının şehadetleri bir bürhan-ı bâhirdir. Evet, binler defa tekrar edilse usandırmıyor, belki lezzet veriyor. Küçük basit bir çocuğun hâfızasına ağır gelmiyor, hıfzedebilir. En hastalıklı, az bir sözden müteezzi olan bir kulağa nâhoş gelmiyor, hoş geliyor. Sekeratta olanın damağına şerbet gibi oluyor. Zemzeme-i Kur’an onun kulağında ve dimağında, aynen ağzında ve damağında mâ-i zemzem gibi leziz geliyor.
@@ -378,6 +388,8 @@ Hem şu lem’a-i i’caza dikkat et ki huruf-u hecadan “ya” ile “elif” 
 [Page 380]
 
 İşte şu hurufun bu zikrinde hârikulâde bu vaziyet-i muntazama ile ve o münasebet-i hafiye ile ve o güzel intizam ve o dakik ve ince nazım ve insicam ile iki kere iki dört eder derecede gösterir ki beşer fikrinin haddi değil ki şunu yapabilsin. Tesadüf ise muhaldir ki ona karışsın. İşte şu vaziyet-i huruftaki intizam-ı acib ve nizam-ı garib, selaset ve fesahat-i lafziyeye medar olduğu gibi daha gizli çok hikmetleri bulunabilir. Madem hurufatında böyle intizam gözetilmiş. Elbette kelimelerinde, cümlelerinde, manalarında öyle esrarlı bir intizam, öyle envarlı bir insicam gözetilmiş ki göz görse “Mâşâallah”, akıl anlasa “Bârekellah” diyecek.
+
+## Beşinci Nokta
 
 Beşinci Nokta: Beyanındaki beraattir.
 
@@ -451,6 +463,8 @@ Yirminci Söz’ün Birinci Makamı’nda üçüncü âyet mebhasında ispat ve 
 
 Makam-ı ifham ve ilzam da binler misallerinden yalnız şu iki misale bak:
 
+## Birinci misal
+
 Birinci misal:
 
 وَاِنْ كُنْتُمْ فٖى رَيْبٍ مِمَّا نَزَّلْنَا عَلٰى عَبْدِنَا فَاْتُوا بِسُورَةٍ مِنْ مِثْلِهٖ وَادْعُوا شُهَدَٓاءَكُمْ مِنْ دُونِ اللّٰهِ اِنْ كُنْتُمْ صَادِقٖينَ
@@ -482,6 +496,8 @@ Bu da çoktur. Haydi, kısa bir suresine bir nazire ibraz ediniz. Hattâ, madem 
 ---
 
 [Page 385]
+
+## İkinci Misal
 
 İkinci Misal:
 
@@ -725,6 +741,8 @@ Sonra Hazret-i Musa aleyhisselâmın şecere-i meşhuresini hatıra getirmekle �
 
 Dördüncü Işık: Îcaz-ı Kur’anî o derece câmi’ ve hârıktır, dikkat edilse görünüyor ki bazen bir denizi bir ibrikte gösteriyor gibi pek geniş ve çok uzun ve küllî düsturları ve umumî kanunları, basit ve âmî fehimlere merhameten basit bir cüzüyle, hususi bir hâdise ile gösteriyor. Binler misallerinden yalnız iki misaline işaret ederiz.
 
+## Birinci Misal
+
 Birinci Misal: Yirminci Söz’ün Birinci Makamı’nda tafsilen beyan olunan üç âyettir ki şahs-ı Âdem’e talim-i esma unvanıyla nev-i benî-Âdem’e ilham olunan bütün ulûm ve fünunun talimini ifade eder. Ve Âdem’e, melaikenin secde etmesi ve şeytanın etmemesi hâdisesiyle nev-i insana semekten meleğe kadar ekser mevcudat musahhar olduğu gibi yılandan şeytana kadar muzır mahlukatın dahi ona itaat etmeyip düşmanlık ettiğini ifade ediyor.
 
 Hem kavm-i Musa (as) bir bakarayı, bir ineği kesmekle Mısır bakar-perestliğinden alınan ve “İcl” hâdisesinde tesirini gösteren bir bakar-perestlik mefkûresinin Musa aleyhisselâmın bıçağıyla kesildiğini ifade ediyor.
@@ -734,6 +752,8 @@ Hem taştan su çıkması, çay akması ve dağılıp yuvarlanması unvanıyla t
 ---
 
 [Page 402]
+
+## İkinci Misal
 
 İkinci Misal: Kur’an’da çok tekrar edilen kıssa-i Musa aleyhisselâmın cümleleri ve cüzleridir ki her bir cümlesi, hattâ her bir cüzü, bir düstur-u küllînin ucu olarak gösterilmiş ve o düsturu ifade ediyor.
 
@@ -865,7 +885,11 @@ Kur’an’ın bu galebe-i i’cazkâranesini bir mukaddime ile beyan edeceğiz.
 
 İşaratü’l-İ’caz’da ispat edildiği gibi bütün ihtilalat-ı beşeriyenin madeni bir kelime olduğu gibi bütün ahlâk-ı seyyienin menbaı dahi bir kelimedir.
 
+## Birinci kelime
+
 Birinci kelime: “Ben tok olayım, başkası açlıktan ölse bana ne.”
+
+## İkinci kelime
 
 İkinci kelime: “Sen çalış, ben yiyeyim.”
 
@@ -879,11 +903,17 @@ Kur’an, birinci kelimeyi esasından “vücub-u zekât” ile kal’eder, teda
 
 [Page 410]
 
+## İkinci Esas
+
 İkinci Esas: Medeniyet, taaddüd-ü ezvacı kabul etmiyor. Kur’an’ın o hükmünü kendine muhalif-i hikmet ve maslahat-ı beşeriyeye münafî telakki eder. Evet, eğer izdivaçtaki hikmet, yalnız kaza-yı şehvet olsa taaddüd bilakis olmalı. Halbuki, hattâ bütün hayvanatın şehadetiyle ve izdivaç eden nebatatın tasdikiyle sabittir ki izdivacın hikmeti ve gayesi, tenasüldür. Kaza-yı şehvet lezzeti ise o vazifeyi gördürmek için rahmet tarafından verilen bir ücret-i cüz’iyedir.
 
 Madem hikmeten, hakikaten, izdivaç nesil içindir, nev’in bekası içindir. Elbette, bir senede yalnız bir defa tevellüde kabil ve ayın yalnız yarısında kabil-i telakkuh olan ve elli senede yeise düşen bir kadın, ekseri vakitte tâ yüz seneye kadar kabil-i telkîh bir erkeğe kâfi gelmediğinden medeniyet pek çok fahişehaneleri kabul etmeye mecburdur.
 
+## Üçüncü Esas
+
 Üçüncü Esas: Muhakemesiz medeniyet, Kur’an kadına sülüs verdiği için âyeti tenkit eder. Halbuki hayat-ı içtimaiyede ekser ahkâm, ekseriyet itibarıyla olduğundan ekseriyet itibarıyla bir kadın, kendini himaye edecek birisini bulur. Erkek ise ona yük olacak ve nafakasını ona bırakacak birisiyle teşrik-i mesai etmeye mecbur olur. İşte bu surette bir kadın, pederinden yarısını alsa kocası noksaniyetini temin eder. Erkek, pederinden iki parça alsa bir parçasını tezevvüc ettiği kadının idaresine verecek, kız kardeşine müsavi gelir. İşte adalet-i Kur’aniye böyle iktiza eder, böyle hükmetmiştir. (Hâşiye [6] )
+
+## Dördüncü Esas
 
 Dördüncü Esas: Sanem-perestliği şiddetle Kur’an men’ettiği gibi sanem-perestliğin bir nevi taklidi olan suret-perestliği de men’eder. Medeniyet ise suretleri kendi mehasininden sayıp Kur’an’a muaraza etmek istemiş. Halbuki gölgeli gölgesiz suretler, ya bir zulm-ü mütehaccir veya bir riya-yı mütecessid veya bir heves-i mütecessimdir ki beşeri zulme ve riyaya ve hevaya, hevesi kamçılayıp teşvik eder.
 
@@ -933,11 +963,15 @@ Daha yüksek bir tabakanın hisse-i fehmi: Cenab-ı Hak ezelîdir, ebedîdir, ev
 
 Bu tabakata; ârifîn tabakası, ehl-i aşk tabakası, sıddıkîn tabakası gibi ayrı ayrı hisse sahiplerini kıyas edebilirsin.
 
+## İkinci misal
+
 İkinci misal: Mesela مَا كَانَ مُحَمَّدٌ اَبَٓا اَحَدٍ مِنْ رِجَالِكُمْ Tabaka-i ûlânın şundan hisse-i fehmi şudur ki: “Resul-i Ekrem aleyhissalâtü vesselâmın hizmetkârı veya “veledim” hitabına mazhar olan Zeyd, izzetli zevcesini kendine küfüv bulmadığı için tatlik etmiş. Allah’ın emriyle Resul-i Ekrem aleyhissalâtü vesselâm almış. Âyet der: “Peygamber size evladım dese risalet cihetiyle söyler. Şahsiyet itibarıyla pederiniz değil ki aldığı kadınlar ona münasip düşmesin.”
 
 İkinci tabakanın hisse-i fehmi şudur ki: Bir büyük âmir, raiyetine pederane şefkatle bakar. Eğer o âmir, zahir ve bâtın bir padişah-ı ruhanî olsa o vakit merhameti pederin yüz defa şefkatinden ileri gittiğinden o raiyetin efradı onun hakiki evladı gibi ona peder nazarıyla bakarlar. Peder nazarı, zevc nazarına inkılab edemediğinden, kız nazarı da zevce nazarına kolayca değişmediğinden, efkâr-ı âmmede Peygamber (asm), mü’minlerin kızlarını alması şu sırra uygun gelmediğinden Kur’an der: “Peygamber (asm), merhamet-i İlahiye nazarıyla size şefkat eder, pederane muamele yapar. Risalet namına siz onun evladı gibisiniz. Fakat şahsiyet-i insaniyet itibarıyla pederiniz değildir ki sizden zevce alması münasip düşmesin.”
 
 Üçüncü kısım şöyle fehmeder ki: Peygamber’e (asm) intisap edip onun kemalâtına istinad ederek onun pederane şefkatine itimat edip kusur ve hatîat etmemelisiniz, demektir. Evet, çoklar var ki büyüklerine ve mürşidlerine itimat edip tembellik eder. Hattâ bazen “Namazımız kılınmış.” der. (Bir kısım Alevîler gibi.)
+
+## Dördüncü Nükte
 
 Dördüncü Nükte: Bir kısım şu âyetten şöyle bir işaret-i gaybiye fehmeder ki: Peygamber’in (asm) evlad-ı zükûru, rical derecesinde kalmayıp rical olarak nesli, bir hikmete binaen kalmayacaktır. Yalnız “rical” tabirinin ifadesiyle, nisanın pederi olduğunu işaret ettiğinden nisa olarak nesli devam edecektir. Felillahi’l-hamd Hazret-i Fatıma’nın nesl-i mübareği, Hasan ve Hüseyin gibi iki nurani silsilenin bedr-i münevveri, Şems-i Nübüvvet’in manevî ve maddî neslini idame ediyorlar.
 
@@ -1559,9 +1593,15 @@ Bu seyyah bu zamanda bulunduğu münasebetiyle en evvel manevî i’caz-ı Kur�
 
 Hattâ Risale-i Nur’un yüzer hüccetlerinden bir tek hüccet-i Kur’aniyesi olan Yirmi Beşinci Söz ile On Dokuzuncu Mektup’un âhiri, Kur’an’ın kırk vecihle mu’cize olduğunu öyle ispat etmiş ki kim görmüşse değil tenkit ve itiraz etmek, belki ispatlarına hayran olmuş, takdir ederek çok sena etmiş. Kur’an’ın vech-i i’cazını ve hak kelâmullah olduğunu ispat etmek cihetini Risale-i Nur’a havale ederek, yalnız kısa bir işaretle büyüklüğünü gösteren birkaç noktaya dikkat etti.
 
+## Birinci Nokta
+
 Birinci Nokta: Nasıl ki Kur’an, bütün mu’cizatıyla ve hakkaniyetine delil olan bütün hakaikiyle Muhammed aleyhissalâtü vesselâmın bir mu’cizesidir. Öyle de Muhammed aleyhissalâtü vesselâm da bütün mu’cizatıyla ve delail-i nübüvvetiyle ve kemalât-ı ilmiyesiyle Kur’an’ın bir mu’cizesidir ve Kur’an kelâmullah olduğuna bir hüccet-i kātıasıdır.
 
+## İkinci Nokta
+
 İkinci Nokta: Kur’an, bu dünyada öyle nurani ve saadetli ve hakikatli bir surette bir tebdil-i hayat-ı içtimaiye ile beraber, insanların hem nefislerinde hem kalplerinde hem ruhlarında hem akıllarında hem hayat-ı şahsiyelerinde hem hayat-ı içtimaiyelerinde hem hayat-ı siyasiyelerinde öyle bir inkılab yapmış ve idame etmiş ve idare etmiş ki on dört asır müddetinde her dakikada altı bin altı yüz altmış altı âyetleri, kemal-i ihtiramla hiç olmazsa yüz milyondan ziyade insanların dilleriyle okunuyor ve insanları terbiye ve nefislerini tezkiye ve kalplerini tasfiye ediyor; ruhlara inkişaf ve terakki ve akıllara istikamet ve nur ve hayata hayat ve saadet veriyor. Elbette böyle bir kitabın misli yoktur, hârikadır, fevkalâdedir, mu’cizedir.
+
+## Üçüncü Nokta
 
 Üçüncü Nokta: Kur’an, o asırdan tâ şimdiye kadar öyle bir belâgat göstermiş ki Kâbe’nin duvarında altınla yazılan en meşhur ediblerin “Muallakat-ı Seb’a” namıyla şöhret-şiar kasidelerini o dereceye indirdi ki Lebid’in kızı, babasının kasidesini Kâbe’den indirirken demiş: “Âyâta karşı bunun kıymeti kalmadı.”
 
@@ -1585,11 +1625,17 @@ Bu âyet, kâinat üstünde, dünyanın yüzünde öyle bir perde açtı, ışı
 
 [Page 447]
 
+## Dördüncü Nokta
+
 Dördüncü Nokta: Kur’an, öyle hakikatli bir halâvet göstermiş ki en tatlı bir şeyden dahi usandıran çok tekrar, Kur’an’ı tilavet edenler için değil usandırmak, belki kalbi çürümemiş ve zevki bozulmamış adamlara tekrar-ı tilaveti halâvetini ziyadeleştirdiği, eski zamandan beri herkesçe müsellem olup darb-ı mesel hükmüne geçmiş.
 
 Hem öyle bir tazelik ve gençlik ve şebabet ve garabet göstermiş ki on dört asır yaşadığı ve herkesin eline kolayca girdiği halde, şimdi nâzil olmuş gibi tazeliğini muhafaza ediyor. Her asır, kendine hitap ediyor gibi bir gençlikte görmüş. Her taife-i ilmiye ondan her vakit istifade etmek için kesretle ve mebzuliyetle yanlarında bulundurdukları ve üslub-u ifadesine ittiba ve iktida ettikleri halde o üslubundaki ve tarz-ı beyanındaki garabetini aynen muhafaza ediyor.
 
+## Beşinci Nokta
+
 Beşinci Nokta: Kur’an’ın bir cenahı mazide, bir cenahı müstakbelde, kökü ve bir kanadı eski peygamberlerin ittifaklı hakikatleri olduğu ve bu onları tasdik ve teyid ettiği ve onlar dahi tevafukun lisan-ı haliyle bunu tasdik ettikleri gibi; öyle de evliya ve asfiya gibi ondan hayat alan semereleri, hayattar tekemmülleriyle, şecere-i mübarekelerinin hayattar, feyizdar ve hakikat-medar olduğuna delâlet eden ve ikinci kanadının himayesi altında yetişen ve yaşayan velayetin bütün hak tarîkatları ve İslâmiyet’in bütün hakikatli ilimleri, Kur’an’ın ayn-ı hak ve mecma-ı hakaik ve câmiiyette misilsiz bir hârika olduğuna şehadet eder.
+
+## Altıncı Nokta
 
 Altıncı Nokta: Kur’an’ın altı ciheti nuranidir, sıdk ve hakkaniyetini gösterir. Evet, altında hüccet ve bürhan direkleri, üstünde sikke-i i’caz lem’aları, önünde ve hedefinde saadet-i dâreyn hediyeleri ve arkasında nokta-i istinadı vahy-i semavî hakikatleri, sağında hadsiz ukûl-ü müstakimenin deliller ile tasdikleri, solunda selim kalplerin ve temiz vicdanların ciddi itminanları ve samimi incizabları ve teslimleri; Kur’an’ın fevkalâde, hârika, metin, hücum edilmez bir kale-i semaviye-i arziye olduğunu ispat ettikleri gibi; altı makamdan dahi onun ayn-ı hak ve sadık olduğunu ve beşerin kelâmı olmadığını ve yanlışı bulunmadığını imza eden, başta bu kâinatta daima güzelliği izhar, iyiliği ve doğruluğu himaye ve sahtekârları ve müfterileri imha ve izale etmek âdetini bir düstur-u faaliyet ittihaz eden bu kâinatın mutasarrıfı, o Kur’an’a âlemde en makbul en yüksek en hâkimane bir makam-ı hürmet ve bir mertebe-i muvaffakıyet vermesiyle onu tasdik ve imza ettiği gibi; İslâmiyet’in menbaı ve Kur’an’ın bir tercümanı olan zatın (asm) herkesten ziyade ona itikad ve ihtiramı ve nüzulü zamanında uyku gibi bir vaziyet-i nâimanede bulunması ve sair kelâmları ona yetişememesi ve bir derece benzememesi ve ümmiyetiyle beraber gitmiş ve gelecek hakiki hâdisat-ı kevniyeyi, gaybiyane Kur’an ile tereddütsüz ve itminan ile beyan etmesi ve çok dikkatli gözlerin nazarı altında hiçbir hile, hiçbir yanlış vaziyeti görülmeyen o tercüman, bütün kuvvetiyle Kur’an’ın her bir hükmünü öyle iman ve tasdik edip hiçbir şey onu sarsmaması dahi Kur’an’ın semavî, hakkaniyetli ve kendi Hâlık-ı Rahîm’inin mübarek kelâmı olduğunu imza ediyor.
 
@@ -1720,6 +1766,8 @@ Elcevap: Her biri birer küçük Kur’an olan ekser uzun sure ve mutavassıtlar
 ---
 
 [Page 457]
+
+## İkinci Bir Sual
 
 İkinci Bir Sual: Kur’an’da sarîhan ve zımnen ve işareten, âhiret ve tevhidi ve beşerin mükâfat ve mücazatını binler defa ispat edip nazara vermenin ve her surede her sahifede her makamda ders vermenin hikmeti nedir?
 

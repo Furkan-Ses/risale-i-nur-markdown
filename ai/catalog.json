@@ -1,7 +1,7 @@
 {
   "book_count": 15,
   "section_count": 296,
-  "chunk_count": 3079,
+  "chunk_count": 3136,
   "books": [
     {
       "book_id": "asa-yi-musa",
@@ -154,7 +154,7 @@
       "manifest_path": "ai/manifests/sozler.json",
       "passages_path": "ai/passages/sozler.jsonl",
       "section_count": 38,
-      "chunk_count": 371,
+      "chunk_count": 428,
       "official_alignment_status": "very-high",
       "official_similarity": 0.9953220733204761,
       "official_content_overlap": 0.9939144048753769

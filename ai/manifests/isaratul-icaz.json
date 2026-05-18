@@ -23,7 +23,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/tenbih/",
       "official_section_similarity": 0.9971804511278195,
       "official_section_content_overlap": 0.9953095684803002,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "keywords": [
+        "tefsir",
+        "i'caz",
+        "belagat",
+        "ayet",
+        "zikir",
+        "adalet",
+        "akıl",
+        "cennet"
+      ]
     },
     {
       "section_id": "isaratul-icaz.002.ifadetul-meram",
@@ -38,7 +48,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ifadetul-meram/",
       "official_section_similarity": 0.9896729776247849,
       "official_section_content_overlap": 0.9829059829059829,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Ifadetu'l-Meram"
+      ],
+      "keywords": [
+        "tefsir",
+        "ihlas",
+        "i'caz",
+        "kalp",
+        "hüccet",
+        "ruh",
+        "fikir",
+        "insan"
+      ]
     },
     {
       "section_id": "isaratul-icaz.003.kuranin-tarifi",
@@ -53,7 +76,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kuranin-tarifi/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Kur'an'in Tarifi"
+      ],
+      "keywords": [
+        "hikmet",
+        "rahmet",
+        "bürhan",
+        "insan",
+        "rububiyet",
+        "akıl",
+        "dua",
+        "fikir"
+      ]
     },
     {
       "section_id": "isaratul-icaz.004.fatiha-suresi",
@@ -68,7 +104,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fatiha-suresi/",
       "official_section_similarity": 0.9996543380573799,
       "official_section_content_overlap": 0.9995391705069124,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Sure-i Fatiha"
+      ],
+      "keywords": [
+        "şifa",
+        "insan",
+        "nimet",
+        "fatiha",
+        "zikir",
+        "hikmet",
+        "ibadet",
+        "ruh"
+      ]
     },
     {
       "section_id": "isaratul-icaz.005.sure-i-bakara",
@@ -83,7 +132,20 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Bakara Suresi"
+      ],
+      "keywords": [
+        "belagat",
+        "zikir",
+        "iman",
+        "i'caz",
+        "bakara",
+        "insan",
+        "huruf-u mukattaa",
+        "ayet"
+      ]
     },
     {
       "section_id": "isaratul-icaz.006.bakara-suresi-4-5-ayetler",
@@ -98,7 +160,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-4-5-ayetler/",
       "official_section_similarity": 0.991176142075282,
       "official_section_content_overlap": 0.9906229068988613,
-      "official_section_diff_tokens": 42
+      "official_section_diff_tokens": 42,
+      "aliases": [
+        "Bakara Suresi 4-5. ayetler"
+      ],
+      "keywords": [
+        "ayet",
+        "iman",
+        "insan",
+        "hidayet",
+        "bürhan",
+        "zikir",
+        "bakara",
+        "ahiret"
+      ]
     },
     {
       "section_id": "isaratul-icaz.007.bakara-suresi-6-ayet",
@@ -113,7 +188,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-6-ayet/",
       "official_section_similarity": 0.9984591679506933,
       "official_section_content_overlap": 0.997946611909651,
-      "official_section_diff_tokens": 4
+      "official_section_diff_tokens": 4,
+      "aliases": [
+        "Bakara Suresi 6. ayet"
+      ],
+      "keywords": [
+        "küfür",
+        "ayet",
+        "iman",
+        "kalp",
+        "bakara",
+        "musa",
+        "zikir",
+        "şifa"
+      ]
     },
     {
       "section_id": "isaratul-icaz.008.bakara-suresi-7-ayet",
@@ -128,7 +216,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-7-ayet/",
       "official_section_similarity": 0.9996357012750455,
       "official_section_content_overlap": 0.9996357012750455,
-      "official_section_diff_tokens": 1
+      "official_section_diff_tokens": 1,
+      "aliases": [
+        "Bakara Suresi 7. ayet"
+      ],
+      "keywords": [
+        "kalp",
+        "ayet",
+        "bakara",
+        "hikmet",
+        "insan",
+        "küfür",
+        "nimet",
+        "zikir"
+      ]
     },
     {
       "section_id": "isaratul-icaz.009.bakara-suresi-8-ayet",
@@ -143,7 +244,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-8-ayet/",
       "official_section_similarity": 0.9895724713242962,
       "official_section_content_overlap": 0.9875130072840791,
-      "official_section_diff_tokens": 12
+      "official_section_diff_tokens": 12,
+      "aliases": [
+        "Bakara Suresi 8. ayet"
+      ],
+      "keywords": [
+        "iman",
+        "ayet",
+        "bakara",
+        "insan",
+        "hikmet",
+        "şifa",
+        "belagat",
+        "zikir"
+      ]
     },
     {
       "section_id": "isaratul-icaz.010.bakara-suresi-9-10-ayetler",
@@ -158,7 +272,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-9-10-ayetler/",
       "official_section_similarity": 0.9959954233409611,
       "official_section_content_overlap": 0.9959954233409611,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "Bakara Suresi 9-10. ayetler"
+      ],
+      "keywords": [
+        "kalp",
+        "bakara",
+        "ayet",
+        "nefis",
+        "iman",
+        "musa",
+        "ruh",
+        "şifa"
+      ]
     },
     {
       "section_id": "isaratul-icaz.011.bakara-suresi-11-12-ayetler",
@@ -173,7 +300,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-11-12-ayetler/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Bakara Suresi 11-12. ayetler"
+      ],
+      "keywords": [
+        "ayet",
+        "bakara",
+        "insan",
+        "zikir",
+        "şefkat",
+        "şifa",
+        "adalet",
+        "i'caz"
+      ]
     },
     {
       "section_id": "isaratul-icaz.012.bakara-suresi-13-ayet",
@@ -188,7 +328,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-13-ayet/",
       "official_section_similarity": 0.9943019943019943,
       "official_section_content_overlap": 0.9943019943019943,
-      "official_section_diff_tokens": 6
+      "official_section_diff_tokens": 6,
+      "aliases": [
+        "Bakara Suresi 13. ayet"
+      ],
+      "keywords": [
+        "ayet",
+        "iman",
+        "bakara",
+        "kalp",
+        "zikir",
+        "ihlas",
+        "nefis",
+        "ahiret"
+      ]
     },
     {
       "section_id": "isaratul-icaz.013.bakara-suresi-14-15-ayetler",
@@ -203,7 +356,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-14-15-ayetler/",
       "official_section_similarity": 0.9962825278810409,
       "official_section_content_overlap": 0.9962825278810409,
-      "official_section_diff_tokens": 6
+      "official_section_diff_tokens": 6,
+      "aliases": [
+        "Bakara Suresi 14-15. ayetler"
+      ],
+      "keywords": [
+        "ayet",
+        "bakara",
+        "iman",
+        "zikir",
+        "kalp",
+        "şifa",
+        "şefkat",
+        "nefis"
+      ]
     },
     {
       "section_id": "isaratul-icaz.014.bakara-suresi-16-ayet",
@@ -218,7 +384,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-16-ayet/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Bakara Suresi 16. ayet"
+      ],
+      "keywords": [
+        "ayet",
+        "bakara",
+        "hidayet",
+        "şifa",
+        "kalp",
+        "akıl",
+        "nimet",
+        "ruh"
+      ]
     },
     {
       "section_id": "isaratul-icaz.015.bakara-suresi-17-18-19-20-ayetler",
@@ -233,7 +412,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-17-18-19-20-ayetler/",
       "official_section_similarity": 0.9975373026220484,
       "official_section_content_overlap": 0.9969596061966122,
-      "official_section_diff_tokens": 21
+      "official_section_diff_tokens": 21,
+      "aliases": [
+        "Bakara Suresi 17-18-19-20. ayetler"
+      ],
+      "keywords": [
+        "musibet",
+        "ayet",
+        "zikir",
+        "şifa",
+        "bakara",
+        "musa",
+        "hikmet",
+        "insan"
+      ]
     },
     {
       "section_id": "isaratul-icaz.016.bakara-suresi-21-22-ayetler",
@@ -248,7 +440,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-21-22-ayetler/",
       "official_section_similarity": 0.9989909182643795,
       "official_section_content_overlap": 0.9988229359340844,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "Bakara Suresi 21-22. ayetler"
+      ],
+      "keywords": [
+        "ibadet",
+        "insan",
+        "ayet",
+        "hikmet",
+        "şifa",
+        "bakara",
+        "zikir",
+        "bürhan"
+      ]
     },
     {
       "section_id": "isaratul-icaz.017.bakara-suresi-23-24-ayetler",
@@ -263,7 +468,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-23-24-ayetler/",
       "official_section_similarity": 0.9946917538235139,
       "official_section_content_overlap": 0.9939082029198614,
-      "official_section_diff_tokens": 58
+      "official_section_diff_tokens": 58,
+      "aliases": [
+        "Bakara Suresi 23-24. ayetler"
+      ],
+      "keywords": [
+        "ayet",
+        "insan",
+        "i'caz",
+        "cehennem",
+        "nübüvvet",
+        "belagat",
+        "ibadet",
+        "bakara"
+      ]
     },
     {
       "section_id": "isaratul-icaz.018.bakara-suresi-25-ayet",
@@ -278,7 +496,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-25-ayet/",
       "official_section_similarity": 0.9969922845560351,
       "official_section_content_overlap": 0.9966013071895424,
-      "official_section_diff_tokens": 14
+      "official_section_diff_tokens": 14,
+      "aliases": [
+        "Bakara Suresi 25. ayet"
+      ],
+      "keywords": [
+        "cennet",
+        "ayet",
+        "insan",
+        "dünya",
+        "zikir",
+        "bakara",
+        "iman",
+        "kalp"
+      ]
     },
     {
       "section_id": "isaratul-icaz.019.bakara-suresi-26-27-ayetler",
@@ -293,7 +524,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-26-27-ayetler/",
       "official_section_similarity": 0.9947363879540944,
       "official_section_content_overlap": 0.9937931034482759,
-      "official_section_diff_tokens": 37
+      "official_section_diff_tokens": 37,
+      "aliases": [
+        "Bakara Suresi 26-27. ayetler"
+      ],
+      "keywords": [
+        "ayet",
+        "insan",
+        "belagat",
+        "şifa",
+        "bakara",
+        "iman",
+        "zikir",
+        "musa"
+      ]
     },
     {
       "section_id": "isaratul-icaz.020.bakara-suresi-28-ayet",
@@ -308,7 +552,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-28-ayet/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Bakara Suresi 28. ayet"
+      ],
+      "keywords": [
+        "hayat",
+        "ayet",
+        "nimet",
+        "ölüm",
+        "bakara",
+        "insan",
+        "ruh",
+        "zikir"
+      ]
     },
     {
       "section_id": "isaratul-icaz.021.bakara-suresi-29-ayet",
@@ -323,7 +580,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-29-ayet/",
       "official_section_similarity": 0.9977452085682075,
       "official_section_content_overlap": 0.9973703981968445,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "Bakara Suresi 29. ayet"
+      ],
+      "keywords": [
+        "ayet",
+        "insan",
+        "bakara",
+        "fikir",
+        "hikmet",
+        "dünya",
+        "hayat",
+        "nimet"
+      ]
     },
     {
       "section_id": "isaratul-icaz.022.bakara-suresi-30-ayet",
@@ -338,7 +608,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-30-ayet/",
       "official_section_similarity": 0.9970551114850652,
       "official_section_content_overlap": 0.9970551114850652,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "Bakara Suresi 30. ayet"
+      ],
+      "keywords": [
+        "ayet",
+        "hikmet",
+        "bakara",
+        "insan",
+        "musa",
+        "zikir",
+        "hayat",
+        "ibadet"
+      ]
     },
     {
       "section_id": "isaratul-icaz.023.bakara-suresi-31-32-33-ayetler",
@@ -353,7 +636,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bakara-suresi-31-32-33-ayetler/",
       "official_section_similarity": 0.9306322897483118,
       "official_section_content_overlap": 0.9871244635193133,
-      "official_section_diff_tokens": 210
+      "official_section_diff_tokens": 210,
+      "aliases": [
+        "Bakara Suresi 31-32-33. ayetler"
+      ],
+      "keywords": [
+        "ayet",
+        "bakara",
+        "tefsir",
+        "akıl",
+        "hikmet",
+        "şifa",
+        "i'caz",
+        "fikir"
+      ]
     },
     {
       "section_id": "isaratul-icaz.024.ecnebi-feylesoflarin-kuran-hakkindaki-beyanatlari",
@@ -368,7 +664,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ecnebi-feylesoflarin-kuran-hakkindaki-beyanatlari/",
       "official_section_similarity": 0.9992975061468212,
       "official_section_content_overlap": 0.9992975061468212,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Ecnebi Feylesoflarin Kur'an Hakkindaki Beyanatlari"
+      ],
+      "keywords": [
+        "insan",
+        "belagat",
+        "ayet",
+        "iman",
+        "dünya",
+        "hikmet",
+        "şifa",
+        "fikir"
+      ]
     },
     {
       "section_id": "isaratul-icaz.025.mehmed-kayalarin-bir-mudafaasi",
@@ -383,7 +692,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/mehmed-kayalarin-bir-mudafaasi/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Mehmed Kayalar'in Bir Mudafaasi"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "tefsir",
+        "müdafaa",
+        "musa",
+        "adalet",
+        "tevhid",
+        "kalp"
+      ]
     },
     {
       "section_id": "isaratul-icaz.026.dua-isaratul-icaz",
@@ -398,7 +720,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dua-isaratul-icaz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dua (Isaratu'l-I'caz)"
+      ],
+      "keywords": [
+        "i'caz",
+        "dua",
+        "cennet",
+        "ihlas",
+        "iman",
+        "risale-i nur",
+        "i̇şaratü",
+        "dua (i̇şaratü’l-i̇’caz)"
+      ]
     },
     {
       "section_id": "isaratul-icaz.027.fihrist-isaratul-icaz",
@@ -413,7 +748,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fihrist-isaratul-icaz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Fihrist (Isaratu'l-I'caz)"
+      ],
+      "keywords": [
+        "i'caz",
+        "fihrist",
+        "huruf-u mukattaa",
+        "iman",
+        "ahiret",
+        "bakara",
+        "belagat",
+        "dua"
+      ]
     }
   ]
 }

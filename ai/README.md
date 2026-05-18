@@ -22,7 +22,7 @@ Bu klasör, `books/` altındaki doğrulanmış metinlerin AI retrieval için haz
 
 - Kitap sayısı: **15**
 - Bölüm sayısı: **296**
-- Pasaj sayısı: **3079**
+- Pasaj sayısı: **3136**
 
 ## Üretim
 

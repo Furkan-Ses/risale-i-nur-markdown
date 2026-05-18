@@ -169,6 +169,8 @@ Ey reşha-misal! Madem doğrudan doğruya güneşe âyinedarlık ediyorsun, sen 
 
 Kıyamet alâmetlerinden ve âhir zaman vukuatından ve bazı a’malin fazilet ve sevaplarından bahseden ehadîs-i şerife güzelce anlaşılmadığından, akıllarına güvenen bir kısım ehl-i ilim onların bir kısmına zayıf veya mevzu demişler. İmanı zayıf ve enaniyeti kavî bir kısım da inkâra kadar gitmişler. Şimdi tafsile girişmeyeceğiz. Yalnız on iki aslı beyan ederiz.
 
+## Birinci Asıl
+
 Birinci Asıl: Yirminci Söz’ün âhirindeki sual ve cevapta izah ettiğimiz meseledir. İcmali şudur ki:
 
 Din bir imtihandır, bir tecrübedir. Ervah-ı âliyeyi, ervah-ı safileden tefrik eder. Öyle ise ileride herkese göz ile görülecek vukuatı, öyle bir tarzda bahsedecek ki ne bütün bütün meçhul kalsın ne de bedihî olup herkes ister istemez tasdike mecbur kalsın. Akla kapı açacak, ihtiyarı elinden almayacak. Zira eğer tamamen bedahet derecesinde bir alâmet-i kıyamet görülse, herkes tasdike muztar olsa o vakit kömür gibi bir istidat, elmas gibi bir istidat ile beraber kalır. Sırr-ı teklif ve netice-i imtihan zayi olur. İşte bunun için Mehdi ve Süfyan meseleleri gibi çok meselelerde çok ihtilaf olmuş. Hem rivayat dahi çok muhteliftir, birbirine zıt hükümler olmuş.
@@ -177,15 +179,27 @@ Din bir imtihandır, bir tecrübedir. Ervah-ı âliyeyi, ervah-ı safileden tefr
 
 [Page 341]
 
+## İkinci Asıl
+
 İkinci Asıl: Mesail-i İslâmiyenin tabakatı vardır. Biri bürhan-ı kat’î istese diğeri bir zann-ı galibî ile iktifa eder. Başkası yalnız bir kabul-ü teslimî ve reddetmemek ister. Öyle ise esasat-ı imaniyeden olmayan mesail-i fer’iye veya vukuat-ı zamaniyenin her birinde bir iz’an-ı yakîn ile bir bürhan-ı kat’î istenilmez. Belki yalnız reddetmemek ve teslimiyetle ilişmemektir.
+
+## Üçüncü Asıl
 
 Üçüncü Asıl: Zaman-ı sahabede Benî-İsrail ve Nasâra ulemalarından çoğu İslâmiyet’e girdiler. Eski malûmatları dahi onlarla beraber Müslüman oldu. Bazı hilaf-ı vaki malûmat-ı sâbıkaları, İslâmiyet’in malı olarak tevehhüm edildi.
 
+## Dördüncü Asıl
+
 Dördüncü Asıl: Ehadîs-i şerife râvilerinin bazı kavilleri veyahut istinbat ettikleri manaları, metn-i hadîsten telakki ediliyordu. Halbuki insan hatadan hâlî olmadığı için hilaf-ı vaki bazı istinbatları veya kavilleri hadîs zannedilerek zaafına hükmedilmiş.
+
+## Beşinci Asıl
 
 Beşinci Asıl: اِنَّ فٖى اُمَّتٖى مُحَدَّثُونَ yani مُلْهَمُونَ sırrınca bazı ehl-i keşif ve ehl-i velayet olan muhaddisîn-i muhaddesûn ilhamlarıyla gelen bazı maânî, hadîs telakki edilmiş. Halbuki ilham-ı evliya –bazı arızalarla– hata olabilir. İşte bu neviden bir kısım hilaf-ı hakikat çıkabilir.
 
+## Altıncı Asıl
+
 Altıncı Asıl: Beyne’n-nâs iştihar bulmuş bazı hikâyeler bulunuyor ki durub-u emsal hükmüne geçer. Hakiki manasına bakılmaz. Ne maksat için sevk edilir, ona bakılır. İşte bu neviden beyne’n-nâs tearüf etmiş bazı kıssa ve hikâyatı, Resul-i Ekrem aleyhissalâtü vesselâm bir maksad-ı irşadî için temsil ve kinaye nevinden zikredivermiş. Şu nevi meselelerin mana-yı hakikisinde kusur varsa örf ve âdât-ı nâsa aittir ve tearüf ve tesamu’-u umumîye râcidir.
+
+## Yedinci Asıl
 
 Yedinci Asıl: Pek çok teşbih ve temsiller bulunuyor ki mürur-u zamanla veya ilmin elinden cehlin eline geçmesiyle hakikat-i maddiye telakki ediliyor. Hataya düşer. Mesela “Sevr” ve “Hut” isminde ve âlem-i misalde sevr ve hut timsalinde berrî ve bahrî hayvanat nâzırlarından iki melaiketullah, âdeta bir koca öküz ve cismanî bir balık zannedilerek hadîse ilişilmiş.
 
@@ -194,6 +208,8 @@ Hem mesela, bir vakit huzur-u Nebevîde derin bir ses işitildi. Resul-i Ekrem a
 ---
 
 [Page 342]
+
+## Sekizinci Asıl
 
 Sekizinci Asıl: Cenab-ı Hakîm-i Mutlak, şu dâr-ı tecrübe ve meydan-ı imtihanda çok mühim şeyleri, kesretli eşya içinde saklıyor. O saklamakla çok hikmetler, çok maslahatlar bağlıdır. Mesela Leyle-i Kadri, umum ramazanda; saat-i icabe-i duayı, cuma gününde; makbul velisini, insanlar içinde; eceli, ömür içinde ve kıyametin vaktini, ömr-ü dünya içinde saklamış. Zira ecel-i insan muayyen olsa yarı ömrüne kadar gaflet-i mutlaka, yarıdan sonra darağacına adım adım gitmek gibi bir dehşet verecek. Halbuki âhiret ve dünya muvazenesini muhafaza etmek ve her vakit havf ve reca ortasında bulunmak maslahatı iktiza eder ki her dakika hem ölmek hem yaşamak mümkün olsun. Şu halde mübhem tarzdaki yirmi sene mübhem bir ömür, bin sene muayyen bir ömre müreccahtır.
 
@@ -232,6 +248,8 @@ Bazı mülhidler derler: Bu kadar acayibi yapan ve yapacak taifeler nerede?
 Elcevap: Çekirge gibi bir âfat, bir mevsimde pek çok kesretle bulunur. Mevsim değiştikçe memleketi fesada veren kesretli o taifelerin hakikatleri, mahdud bazı fertlerde saklanıyor. Yine zamanı geldikçe emr-i İlahî ile o mahdud fertlerden gayet kesretli aynı fesat yine başlar. Güya onların hakikat-i milliyetleri inceliyor, kopmuyor. Yine mevsimi geldikçe zuhur ediyor. Aynen öyle de bir zaman dünyayı herc ü merc eden o taifeler, izn-i İlahî ile mevsimi geldiği vakit aynı o taife, medeniyet-i beşeriyeyi herc ü merc edecekler. Fakat onların muharrikleri başka bir surette tezahür eder.
 
 لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ
+
+## Dokuzuncu Asıl
 
 Dokuzuncu Asıl: Mesail-i imaniyeden bir kısmın netaici, şu mukayyed ve dar âleme bakar. Diğer bir kısmı, geniş ve mutlak olan âlem-i âhirete bakar. Amellerin fazilet ve sevabına dair ehadîs-i şerifenin bir kısmı tergib ve terhibe münasip bir tesir vermek için belâgatlı bir üslupta geldiğinden, dikkatsiz insanlar onları mübalağalı zannetmişler. Halbuki bütün onlar ayn-ı hak ve mahz-ı hakikat olduklarından mücazefe ve mübalağa, içlerinde yoktur.
 
@@ -317,6 +335,8 @@ Netice-i Kelâm: Ey insafsız ve dikkatsiz ve imanı zayıf, felsefesi kavî, ho
 
 Elhasıl: İnkâr ve redde gitmek için şu on aslı tekzip ve iptal etmek lâzım gelir. Şimdi insafın varsa bu on usûlü kemal-i dikkatle düşündükten sonra, o aklın hilaf-ı hakikat gördüğü bir hadîsin inkârına kalkışma! “Ya bir tefsiri ya bir tevili ya bir tabiri vardır.” de, ilişme!
 
+## On Birinci Asıl
+
 On Birinci Asıl: Nasıl Kur’an-ı Hakîm’in müteşabihatı var; tevile muhtaçtır veyahut mutlak teslim istiyor. Ehadîsin de Kur’an’ın müteşabihatı gibi müşkülatı vardır. Bazen çok dikkatli tefsire ve tabire muhtaçtır. Geçmiş misallerle iktifa edebilirsiniz.
 
 Evet, nasıl ki hüşyar olan adam, yatmış olan adamın rüyasını tabir eder. Öyle de bazen uykuda olan bir adam, yanında uyanık olan konuşanların sözlerini işitiyor fakat kendi âlem-i menamına tatbik eder bir tarzda mana veriyor, tabir ediyor. Öyle de ey gaflet ve felsefe uykusu içinde tenvim edilen insafsız adam! Sırr-ı مَا زَاغَ الْبَصَرُ وَمَا طَغٰى ve تَنَامُ عَيْنٖى وَلَا يَنَامُ قَلْبٖى hükmüne mazhar ve hakiki hüşyar ve yakzan olan zatın gördüğünü sen kendi rüyanda inkâr değil, tabir et. Evet, uykuda bir adamı bir sinek ısırsa müthiş bir harpte yaralar alır gibi bir hakikat-i nevmiye bazen telakki eder. Ondan sorulsa “Hakikaten ben yaralandım. Bana top tüfek atıldı.” diyecek. Yanında oturanlar onun uykusundaki ızdırabına gülüyorlar. İşte bu nevm-âlûd nazar-ı gaflet ve fikr-i felsefe, elbette hakaik-i nübüvvete mihenk olamazlar.
@@ -324,6 +344,8 @@ Evet, nasıl ki hüşyar olan adam, yatmış olan adamın rüyasını tabir eder
 ---
 
 [Page 350]
+
+## On İkinci Asıl
 
 On İkinci Asıl: Nazar-ı nübüvvet ve tevhid ve iman; vahdete, âhirete, uluhiyete baktığı için hakaiki ona göre görür. Ehl-i felsefe ve hikmetin nazarı; kesrete, esbaba, tabiata bakar, ona göre görür. Nokta-i nazar birbirinden çok uzaktır. Ehl-i felsefenin en büyük bir maksadı, ehl-i usûlü’d-din ve ulema-i ilm-i kelâmın makasıdı içinde görünmeyecek bir derecede küçük ve ehemmiyetsizdir.
 
@@ -447,6 +469,8 @@ Beşinci Dal
 
 Beşinci Dal’ın beş meyve si var.
 
+## Birinci Meyve
+
 Birinci Meyve: Ey nefis-perest nefsim, ey dünya-perest arkadaşım! Muhabbet, şu kâinatın bir sebeb-i vücududur. Hem şu kâinatın rabıtasıdır. Hem şu kâinatın nurudur hem hayatıdır. İnsan, kâinatın en câmi’ bir meyvesi olduğu için kâinatı istila edecek bir muhabbet, o meyvenin çekirdeği olan kalbine dercedilmiştir. İşte şöyle nihayetsiz bir muhabbete lâyık olacak, nihayetsiz bir kemal sahibi olabilir.
 
 İşte ey nefis ve ey arkadaş! İnsanın havfa ve muhabbete âlet olacak iki cihaz, fıtratında dercolunmuştur. Alâküllihal o muhabbet ve havf, ya halka veya Hâlık’a müteveccih olacak. Halbuki halktan havf ise elîm bir beliyyedir. Halka muhabbet dahi belalı bir musibettir. Çünkü sen öylelerden korkarsın ki sana merhamet etmez veya senin istirhamını kabul etmez. Şu halde havf, elîm bir beladır.
@@ -480,6 +504,8 @@ Demek ey nefis! Nefsine muhabbet değil belki adâvet etmelisin veyahut acımal�
 Zaten sana, sende senin nefsine olan şedit muhabbetin, onun zatına karşı muhabbet-i zatiyedir ki sen sû-i istimal edip kendi zatına sarf ediyorsun. Öyle ise nefsindeki eneyi yırt, hüveyi göster. Ve kâinata dağınık bütün muhabbetlerin, onun esma ve sıfâtına karşı verilmiş bir muhabbettir. Sen sû-i istimal etmişsin, cezasını da çekiyorsun. Çünkü yerinde sarf olunmayan bir muhabbet-i gayr-ı meşruanın cezası, merhametsiz bir musibettir. Rahmanu’r-Rahîm ismiyle, hurilerle müzeyyen cennet gibi senin bütün arzularına câmi’ bir meskeni, senin cismanî hevesatına ihzar eden ve sair esmasıyla senin ruhun, kalbin, sırrın, aklın ve sair letaifin arzularını tatmin edecek ebedî ihsanatını o cennette sana müheyya eden ve her bir isminde manevî çok hazine-i ihsan ve kerem bulunan bir Mahbub-u Ezelî’nin elbette bir zerre muhabbeti, kâinata bedel olabilir. Kâinat onun bir cüz’î tecelli-i muhabbetine bedel olamaz. Öyle ise o Mahbub-u Ezelî’nin kendi Habib’ine söylettirdiği şu ferman-ı ezelîyi dinle, ittiba et:
 
 اِنْ كُنْتُمْ تُحِبُّونَ اللّٰهَ فَاتَّبِعُونٖى يُحْبِبْكُمُ اللّٰهُ
+
+## İkinci Meyve
 
 İkinci Meyve: Ey nefis! Ubudiyet, mukaddime-i mükâfat-ı lâhika değil belki netice-i nimet-i sâbıkadır. Evet, biz ücretimizi almışız. Ona göre hizmetle ve ubudiyetle muvazzafız.
 
@@ -531,6 +557,8 @@ der. Bütün mevcudatı kendi hesabına söylettirir. Hem
 
 der. Her şey namına bir salavat getirir. Çünkü her şey, nur-u Ahmedî (asm) ile alâkadardır. İşte tesbihatta, salavatlarda hadsiz adetlerin hikmetini anla.
 
+## Üçüncü Meyve
+
 Üçüncü Meyve: Ey nefis! Az bir ömürde hadsiz bir amel-i uhrevî istersen ve her bir dakika-i ömrünü bir ömür kadar faydalı görmek istersen ve âdetini ibadete ve gafletini huzura kalbetmeyi seversen sünnet-i seniyeye ittiba et. Çünkü bir muamele-i şer’iyeye tatbik-i amel ettiğin vakit, bir nevi huzur veriyor. Bir nevi ibadet oluyor. Uhrevî çok meyveler veriyor.
 
 Mesela, bir şeyi satın aldın. İcab ve kabul-ü şer’iyeyi tatbik ettiğin dakikada, o âdi alışverişin bir ibadet hükmünü alır. O tahattur-u hükm-ü şer’î bir tasavvur-u vahiy verir. O dahi Şâri’i düşünmekle bir teveccüh-ü İlahî verir. O dahi bir huzur verir.
@@ -545,6 +573,8 @@ Demek, sünnet-i seniyeye tatbik-i amel etmekle bu fâni ömür, bâki meyveler 
 
 fermanını dinle. Şeriat ve sünnet-i seniyenin ahkâmları içinde cilveleri intişar eden esma-i hüsnanın her bir isminin feyz-i tecellisine bir mazhar-ı câmi’ olmaya çalış.
 
+## Dördüncü Meyve
+
 Dördüncü Meyve: Ey nefis! Ehl-i dünyaya, hususan ehl-i sefahete, hususan ehl-i küfre bakıp surî ziynet ve aldatıcı gayr-ı meşru lezzetlerine aldanıp taklit etme. Çünkü sen onları taklit etsen onlar gibi olamazsın. Pek çok sukut edeceksin. Hayvan dahi olamazsın. Çünkü senin başındaki akıl, meş’um bir âlet olur. Senin başını daima dövecektir.
 
 Mesela, nasıl ki bir saray bulunsa büyük bir dairesinde büyük bir elektrik lambası bulunur. O elektrikten teşaub etmiş ve onunla bağlı küçük küçük elektrikler, küçük menzillere taksim edilmiş. Şimdi birisi o büyük elektrik lambasının düğmesini çevirip ziyayı kapatsa bütün menziller, derin bir karanlık içine ve bir vahşete düşer. Ve başka sarayda büyük elektrik lambasıyla merbut olmayan küçük elektrik lambaları, her menzilde bulunuyor. O saray sahibi büyük elektrik lambasının düğmesini çevirerek kapatsa sair menzillerde ışıklar bulunabilir. Onunla işini görebilir, hırsızlar istifade edemezler.
@@ -558,6 +588,8 @@ Halbuki ecnebiler, o ikinci saraya benzerler ki Hazret-i Peygamber aleyhissalât
 [Page 363]
 
 Ey nefs-i emmare! Eğer desen: “Ben, ecnebi değil hayvan olmak isterim.” Sana kaç defa söylemiştim: “Hayvan gibi olamazsın. Zira kafandaki akıl olduğu için o akıl geçmiş elemleri ve gelecek korkuları tokadıyla senin yüzüne, gözüne, başına çarparak dövüyor. Bir lezzet içinde bin elem katıyor. Hayvan ise elemsiz güzel bir lezzet alır, zevk eder. Öyle ise evvela aklını çıkar at, sonra hayvan ol. Hem كَالْاَنْعَامِ بَلْ هُمْ اَضَلُّ sille-i te’dibini gör.”
+
+## Beşinci Meyve
 
 Beşinci Meyve: Ey nefis! Mükerreren söylediğimiz gibi insan, şecere-i hilkatin meyvesi olduğundan meyve gibi en uzak ve en câmi’ ve umuma bakar ve umumun cihetü’l-vahdetini içinde saklar bir kalp çekirdeğini taşıyan ve yüzü kesrete, fenaya, dünyaya bakan bir mahluktur. Ubudiyet ise onun yüzünü fenadan bekaya, halktan Hakk’a, kesretten vahdete, müntehadan mebdee çeviren bir hayt-ı vuslat, yahut mebde ve münteha ortasında bir nokta-i ittisaldir.
 

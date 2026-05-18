@@ -287,6 +287,8 @@ Elhasıl, nasıl şu katrelerde ve camın zerreciklerinde olan güneşçikler ve
 
 Elhasıl: Her bir zerreden üç pencere, Şems-i Ezelî’nin nur-u vahdaniyetine ve vücub-u vücuduna açılır:
 
+## Birinci Pencere
+
 Birinci Pencere: Her bir zerre; bir nefer gibi askerî dairelerinin her birinde yani takımında, bölüğünde, taburunda, alayında, fırkasında, ordusunda her birisinde bir nisbeti, o nisbete göre bir vazifesi ve o vazifeye göre nizamı dairesinde bir hareketi olduğu gibi…
 
 ---
@@ -295,9 +297,13 @@ Birinci Pencere: Her bir zerre; bir nefer gibi askerî dairelerinin her birinde 
 
 Hem mesela, senin göz bebeğindeki o camid zerrecik dahi senin gözünde, başında, vücudunda ve kuvve-i müvellide, kuvve-i cazibe, kuvve-i dâfia, kuvve-i musavvire gibi deveran-ı deme ve his ve harekeye hizmet eden evride ve şerayin ve sair âsablarda hem senin nevinde, ilâ âhir; birer nisbeti, birer vazifesi bulunduğunu, bilbedahe bir Kadîr-i Ezelî’nin eser-i sun’u ve memur-u muvazzafı ve taht-ı tedbirinde olduğunu kör olmayan göze gösterir.
 
+## İkinci Pencere
+
 İkinci Pencere: Havadaki her bir zerre; her bir çiçeği, her bir meyveyi ziyaret edebilir. Hem her çiçeğe, her meyveye girer, işleyebilir. Eğer her şeyi görür ve bilir bir Kadîr-i Mutlak’ın memur-u musahharı olmasa; o serseri zerre, bütün meyvelerin, çiçeklerin cihazatını ve yapılmasını ve ayrı ayrı sanatlarını ve onlara giydirilen suretlerin terziliğini ve hıyatet-i kâmile-i muhita-i sanatını bilmek lâzım gelir. İşte şu zerre, bir güneş gibi bir nur-u tevhidin şuâını gösteriyor. Ziyayı, havaya; mâi, türaba kıyas et.
 
 Zaten eşyanın asıl menşeleri, şu dört maddedir: Yeni hikmetle müvellidü’l-mâ, müvellidü’l-humuza, karbon, azottur ki bu anâsır evvelki unsurların eczalarıdır.
+
+## Üçüncü Pencere
 
 Üçüncü Pencere: Zerrelerden mürekkeb bir parça toprak, her bir çiçekli ve meyveli nebatatın neşv ü nemasına menşe olabilir bir kâseyi o zerreciklerden doldursan bütün dünyadaki her nevi çiçek ve meyveli nebatatın tohumcukları ki o tohumcuklar hayvanatın nutfeleri gibi ayrı ayrı şeyler değil, nutfeler bir su olduğu gibi o tohumlar da karbon, azot, müvellidü’l-mâ, müvellidü’l-humuzadan mürekkeb, mahiyetçe birbirinin misli, keyfiyetçe birbirinden ayrı, yalnız kader kalemiyle sırf manevî olarak aslının programı tevdi edilmiş. İşte o tohumları nöbetle o kâseye koysak her biri hârika cihazatıyla, eşkâl ve vaziyetiyle zuhur edeceğini, vuku bulmuş gibi inanırsın.
 

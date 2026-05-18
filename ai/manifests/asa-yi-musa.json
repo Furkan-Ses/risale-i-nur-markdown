@@ -23,7 +23,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/asa-yi-musadan-birinci-kisim/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Asa-yi Musa'dan Birinci Kisim",
+        "Asâ-yı Musa’dan 1. Kısım",
+        "Asa-yi Musa'dan 1. Kisim"
+      ],
+      "keywords": [
+        "musa",
+        "hapishane",
+        "müdafaa",
+        "zındıka",
+        "risale-i nur",
+        "asâ-yı musa’dan birinci kısım",
+        "asa-yi musa",
+        "kısım"
+      ]
     },
     {
       "section_id": "asa-yi-musa.002.birinci-mesele",
@@ -38,7 +53,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-mesele/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "1. Mesele"
+      ],
+      "keywords": [
+        "hapishane",
+        "hayat",
+        "iman",
+        "kalp",
+        "medrese-i yusufiye",
+        "musibet",
+        "ruh",
+        "akıl"
+      ]
     },
     {
       "section_id": "asa-yi-musa.003.ikinci-mesele",
@@ -53,7 +81,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ikinci-mesele/",
       "official_section_similarity": 0.9974266598044261,
       "official_section_content_overlap": 0.9958890030832477,
-      "official_section_diff_tokens": 4
+      "official_section_diff_tokens": 4,
+      "aliases": [
+        "Ikinci Mesele",
+        "2. Mesele"
+      ],
+      "keywords": [
+        "hapishane",
+        "ölüm",
+        "musibet",
+        "iman",
+        "cehennem",
+        "dünya",
+        "gençlik",
+        "hüccet"
+      ]
     },
     {
       "section_id": "asa-yi-musa.004.ucuncu-mesele",
@@ -68,7 +110,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ucuncu-mesele/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Ucuncu Mesele",
+        "3. Mesele"
+      ],
+      "keywords": [
+        "iman",
+        "hapishane",
+        "medrese-i yusufiye",
+        "cennet",
+        "gençlik",
+        "kalp",
+        "musa",
+        "ölüm"
+      ]
     },
     {
       "section_id": "asa-yi-musa.005.dorduncu-mesele",
@@ -83,7 +139,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dorduncu-mesele/",
       "official_section_similarity": 0.9960159362549801,
       "official_section_content_overlap": 0.9936406995230525,
-      "official_section_diff_tokens": 4
+      "official_section_diff_tokens": 4,
+      "aliases": [
+        "Dorduncu Mesele",
+        "4. Mesele"
+      ],
+      "keywords": [
+        "hapishane",
+        "iman",
+        "kalp",
+        "risale-i nur",
+        "akıl",
+        "gençlik",
+        "insan",
+        "musa"
+      ]
     },
     {
       "section_id": "asa-yi-musa.006.besinci-mesele",
@@ -98,7 +168,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/besinci-mesele/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Besinci Mesele",
+        "5. Mesele"
+      ],
+      "keywords": [
+        "gençlik",
+        "hapishane",
+        "nimet",
+        "ahiret",
+        "hastalık",
+        "kalp",
+        "ruh",
+        "ölüm"
+      ]
     },
     {
       "section_id": "asa-yi-musa.007.altinci-mesele",
@@ -113,7 +197,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/altinci-mesele/",
       "official_section_similarity": 0.9987557030277893,
       "official_section_content_overlap": 0.9983416252072969,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Altinci Mesele",
+        "6. Mesele"
+      ],
+      "keywords": [
+        "hüccet",
+        "bürhan",
+        "iman",
+        "hikmet",
+        "ubudiyet",
+        "fihrist",
+        "musa",
+        "musibet"
+      ]
     },
     {
       "section_id": "asa-yi-musa.008.yedinci-mesele",
@@ -128,7 +226,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yedinci-mesele/",
       "official_section_similarity": 0.9985756830247313,
       "official_section_content_overlap": 0.9984464008285863,
-      "official_section_diff_tokens": 8
+      "official_section_diff_tokens": 8,
+      "aliases": [
+        "7. Mesele"
+      ],
+      "keywords": [
+        "ahiret",
+        "hikmet",
+        "insan",
+        "rahmet",
+        "adalet",
+        "dua",
+        "haşir",
+        "hayat"
+      ]
     },
     {
       "section_id": "asa-yi-musa.009.sekizinci-mesele",
@@ -143,7 +254,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-mesele/",
       "official_section_similarity": 0.9980225660113993,
       "official_section_content_overlap": 0.9974424552429667,
-      "official_section_diff_tokens": 11
+      "official_section_diff_tokens": 11,
+      "aliases": [
+        "8. Mesele"
+      ],
+      "keywords": [
+        "cehennem",
+        "ahiret",
+        "iman",
+        "insan",
+        "cennet",
+        "hayat",
+        "dünya",
+        "hapishane"
+      ]
     },
     {
       "section_id": "asa-yi-musa.010.dokuzuncu-mesele",
@@ -158,7 +282,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-mesele/",
       "official_section_similarity": 0.9775401069518717,
       "official_section_content_overlap": 0.9580712788259959,
-      "official_section_diff_tokens": 80
+      "official_section_diff_tokens": 80,
+      "aliases": [
+        "9. Mesele"
+      ],
+      "keywords": [
+        "iman",
+        "hüccet",
+        "akıl",
+        "ahiret",
+        "rububiyet",
+        "insan",
+        "nimet",
+        "hayat"
+      ]
     },
     {
       "section_id": "asa-yi-musa.011.onuncu-mesele",
@@ -173,7 +310,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/onuncu-mesele/",
       "official_section_similarity": 0.9954949470351881,
       "official_section_content_overlap": 0.9951314508276533,
-      "official_section_diff_tokens": 26
+      "official_section_diff_tokens": 26,
+      "aliases": [
+        "10. Mesele"
+      ],
+      "keywords": [
+        "i'caz",
+        "ayet",
+        "hikmet",
+        "iman",
+        "belagat",
+        "risale-i nur",
+        "hüccet",
+        "tevhid"
+      ]
     },
     {
       "section_id": "asa-yi-musa.012.on-birinci-mesele",
@@ -188,7 +338,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-birinci-mesele/",
       "official_section_similarity": 0.9988929889298893,
       "official_section_content_overlap": 0.9985245296938399,
-      "official_section_diff_tokens": 8
+      "official_section_diff_tokens": 8,
+      "aliases": [
+        "11. Mesele"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "dünya",
+        "i'caz",
+        "cennet",
+        "hayat",
+        "hüccet",
+        "rahmet"
+      ]
     },
     {
       "section_id": "asa-yi-musa.013.asa-yi-musadan-ikinci-kisim",
@@ -203,7 +366,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/asa-yi-musadan-ikinci-kisim/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Asa-yi Musa'dan Ikinci Kisim",
+        "Asâ-yı Musa’dan 2. Kısım",
+        "Asa-yi Musa'dan 2. Kisim"
+      ],
+      "keywords": [
+        "musa",
+        "hüccet",
+        "bürhan",
+        "iman",
+        "asâ-yı musa’dan i̇kinci kısım",
+        "asa-yi musa",
+        "kısım",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "asa-yi-musa.014.birinci-huccet-i-imaniye",
@@ -218,7 +396,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-huccet-i-imaniye/",
       "official_section_similarity": 0.9985367975639656,
       "official_section_content_overlap": 0.9982604570253815,
-      "official_section_diff_tokens": 25
+      "official_section_diff_tokens": 25,
+      "aliases": [
+        "Birinci Huccet-i Imaniye",
+        "1. Hüccet-i İmaniye",
+        "1. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "iman",
+        "hayat",
+        "hikmet",
+        "şifa",
+        "hüccet",
+        "dünya",
+        "ayet",
+        "insan"
+      ]
     },
     {
       "section_id": "asa-yi-musa.015.ikinci-huccet-i-imaniye",
@@ -233,7 +426,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ikinci-huccet-i-imaniye/",
       "official_section_similarity": 0.9946428571428572,
       "official_section_content_overlap": 0.9911032028469751,
-      "official_section_diff_tokens": 35
+      "official_section_diff_tokens": 35,
+      "aliases": [
+        "Ikinci Huccet-i Imaniye",
+        "2. Hüccet-i İmaniye",
+        "2. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hikmet",
+        "hüccet",
+        "iman",
+        "vahdet",
+        "insan",
+        "rububiyet",
+        "musa",
+        "bürhan"
+      ]
     },
     {
       "section_id": "asa-yi-musa.016.ucuncu-huccet-i-imaniye",
@@ -248,7 +456,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ucuncu-huccet-i-imaniye/",
       "official_section_similarity": 0.9990906335253107,
       "official_section_content_overlap": 0.998485307482581,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "Ucuncu Huccet-i Imaniye",
+        "3. Hüccet-i İmaniye",
+        "3. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "iman",
+        "ibadet",
+        "hikmet",
+        "insan",
+        "hüccet",
+        "vahdet",
+        "akıl",
+        "kader"
+      ]
     },
     {
       "section_id": "asa-yi-musa.017.dorduncu-huccet-i-imaniye",
@@ -263,7 +486,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dorduncu-huccet-i-imaniye/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dorduncu Huccet-i Imaniye",
+        "4. Hüccet-i İmaniye",
+        "4. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hüccet",
+        "iman",
+        "adalet",
+        "hikmet",
+        "iktisat",
+        "ahiret",
+        "rahmet",
+        "dünya"
+      ]
     },
     {
       "section_id": "asa-yi-musa.018.besinci-huccet-i-imaniye",
@@ -278,7 +516,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/besinci-huccet-i-imaniye/",
       "official_section_similarity": 0.9988156336360048,
       "official_section_content_overlap": 0.9980276134122288,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Besinci Huccet-i Imaniye",
+        "5. Hüccet-i İmaniye",
+        "5. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hikmet",
+        "iman",
+        "hüccet",
+        "insan",
+        "rahmet",
+        "rububiyet",
+        "akıl",
+        "şifa"
+      ]
     },
     {
       "section_id": "asa-yi-musa.019.altinci-huccet-i-imaniye",
@@ -293,7 +546,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/altinci-huccet-i-imaniye/",
       "official_section_similarity": 0.9973021582733813,
       "official_section_content_overlap": 0.9955116696588869,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Altinci Huccet-i Imaniye",
+        "6. Hüccet-i İmaniye",
+        "6. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hüccet",
+        "iman",
+        "haşir",
+        "musa",
+        "cehennem",
+        "cennet",
+        "küfür",
+        "rububiyet"
+      ]
     },
     {
       "section_id": "asa-yi-musa.020.yedinci-huccet-i-imaniye",
@@ -308,7 +576,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yedinci-huccet-i-imaniye/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Yedinci Huccet-i Imaniye",
+        "7. Hüccet-i İmaniye",
+        "7. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hüccet",
+        "iman",
+        "ehadiyet",
+        "hikmet",
+        "rahmet",
+        "rububiyet",
+        "tefsir",
+        "vahdet"
+      ]
     },
     {
       "section_id": "asa-yi-musa.021.sekizinci-huccet-i-imaniye",
@@ -323,7 +606,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-huccet-i-imaniye/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Sekizinci Huccet-i Imaniye",
+        "8. Hüccet-i İmaniye",
+        "8. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hikmet",
+        "vahdet",
+        "musa",
+        "hüccet",
+        "iman",
+        "rahmet",
+        "rububiyet",
+        "insan"
+      ]
     },
     {
       "section_id": "asa-yi-musa.022.dokuzuncu-huccet-i-imaniye",
@@ -338,7 +636,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-huccet-i-imaniye/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dokuzuncu Huccet-i Imaniye",
+        "9. Hüccet-i İmaniye",
+        "9. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "hüccet",
+        "iman",
+        "hayat",
+        "insan",
+        "ahiret",
+        "hikmet",
+        "cennet",
+        "adalet"
+      ]
     },
     {
       "section_id": "asa-yi-musa.023.onuncu-huccet-i-imaniye",
@@ -353,7 +666,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/onuncu-huccet-i-imaniye/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Onuncu Huccet-i Imaniye",
+        "10. Hüccet-i İmaniye",
+        "10. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "iman",
+        "hayat",
+        "hüccet",
+        "rahmet",
+        "cennet",
+        "insan",
+        "nimet",
+        "dünya"
+      ]
     },
     {
       "section_id": "asa-yi-musa.024.on-birinci-huccet-i-imaniye",
@@ -368,7 +696,22 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-birinci-huccet-i-imaniye/",
       "official_section_similarity": 0.9845208554885975,
       "official_section_content_overlap": 0.9758725696884516,
-      "official_section_diff_tokens": 103
+      "official_section_diff_tokens": 103,
+      "aliases": [
+        "On Birinci Huccet-i Imaniye",
+        "11. Hüccet-i İmaniye",
+        "11. Huccet-i Imaniye"
+      ],
+      "keywords": [
+        "bürhan",
+        "hüccet",
+        "iman",
+        "gaybi",
+        "akıl",
+        "musa",
+        "hikmet",
+        "insan"
+      ]
     },
     {
       "section_id": "asa-yi-musa.025.fihrist-asa-yi-musa",
@@ -383,7 +726,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fihrist-asa-yi-musa/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Fihrist (Asa-yi Musa)"
+      ],
+      "keywords": [
+        "hüccet",
+        "fihrist",
+        "musa",
+        "iman",
+        "haşir",
+        "münacat",
+        "ayet",
+        "risale-i nur"
+      ]
     }
   ]
 }

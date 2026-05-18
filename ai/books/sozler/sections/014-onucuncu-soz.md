@@ -523,7 +523,6 @@ Aziz, sıddık kardeşlerim!
 Hapis musibetine düşenlere merhametkârane, sadakatla, hariçten
 gelen erzaklarına nezaret ve yardım edenlere kuvvetli bir teselliyi Üç
 Nokta'da beyan edeceğim.
-
 ## Birinci Nokta
 
 Birinci Nokta: Hapiste geçen ömür günleri, herbir gün on gün
@@ -533,7 +532,6 @@ ebedîden kurtulmağa vesile olabilir. İşte ehl-i iman için bu pek büyük ve
 çok kıymetdar kazanç şartı, farz namazını kılmak ve hapse sebebiyet
 veren günahlardan tövbe etmek ve sabır içinde şükretmektir. Zâten hapis
 çok günahlara manidir, meydan vermiyor.
-
 ## İkinci Nokta
 
 İkinci Nokta: Zeval-i lezzet elem olduğu gibi, zeval-i elem dahi
@@ -566,7 +564,6 @@ sırada, inayet-i İlahiye bu mezkûr hakikatı gösterdi. Ben de sıkıntılı
 hastalığımdan, hapsimden razı oldum. Çünki benim gibi kabir kapısında
 bir bîçareye, gafletle geçebilir bir saati, on saat ibadet saatleri yapmak
 büyük bir kârdır diye şükreyledim.
-
 ## Üçüncü Nokta
 
 Üçüncü Nokta: Şefkatkârane hizmetiyle yardım etmek ve muhtaç

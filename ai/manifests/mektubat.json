@@ -23,7 +23,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/birinci-mektup/",
       "official_section_similarity": 0.9950738916256158,
       "official_section_content_overlap": 0.9959695476936856,
-      "official_section_diff_tokens": 13
+      "official_section_diff_tokens": 13,
+      "aliases": [
+        "1. Mektup"
+      ],
+      "keywords": [
+        "hayat",
+        "cehennem",
+        "dünya",
+        "ölüm",
+        "hikmet",
+        "ahiret",
+        "nimet",
+        "rahmet"
+      ]
     },
     {
       "section_id": "mektubat.002.ikinci-mektup",
@@ -38,7 +51,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ikinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Ikinci Mektup",
+        "2. Mektup"
+      ],
+      "keywords": [
+        "ahiret",
+        "iktisat",
+        "rahmet",
+        "ruh",
+        "tevekkül",
+        "ölüm",
+        "insan",
+        "dünya"
+      ]
     },
     {
       "section_id": "mektubat.003.ucuncu-mektup",
@@ -53,7 +80,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/ucuncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Ucuncu Mektup",
+        "3. Mektup"
+      ],
+      "keywords": [
+        "cehennem",
+        "vahdet",
+        "hikmet",
+        "cennet",
+        "belagat",
+        "i'caz",
+        "iman",
+        "ahiret"
+      ]
     },
     {
       "section_id": "mektubat.004.dorduncu-mektup",
@@ -68,7 +109,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dorduncu-mektup/",
       "official_section_similarity": 0.9942857142857143,
       "official_section_content_overlap": 0.9905123339658444,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Dorduncu Mektup",
+        "4. Mektup"
+      ],
+      "keywords": [
+        "cennet",
+        "hikmet",
+        "bürhan",
+        "musa",
+        "vahdet",
+        "zikir",
+        "şifa",
+        "insan"
+      ]
     },
     {
       "section_id": "mektubat.005.besinci-mektup",
@@ -83,7 +138,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/besinci-mektup/",
       "official_section_similarity": 0.9962264150943396,
       "official_section_content_overlap": 0.9924812030075187,
-      "official_section_diff_tokens": 3
+      "official_section_diff_tokens": 3,
+      "aliases": [
+        "Besinci Mektup",
+        "5. Mektup"
+      ],
+      "keywords": [
+        "iman",
+        "cennet",
+        "kalp",
+        "akıl",
+        "i'caz",
+        "nübüvvet",
+        "rahmet",
+        "zındıka"
+      ]
     },
     {
       "section_id": "mektubat.006.altinci-mektup",
@@ -98,7 +167,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/altinci-mektup/",
       "official_section_similarity": 0.9975980784627703,
       "official_section_content_overlap": 0.9968,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "Altinci Mektup",
+        "6. Mektup"
+      ],
+      "keywords": [
+        "tevekkül",
+        "kalp",
+        "iman",
+        "ihtiyarlık",
+        "ruh",
+        "dünya",
+        "ayet",
+        "altıncı mektup"
+      ]
     },
     {
       "section_id": "mektubat.007.yedinci-mektup",
@@ -113,7 +196,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yedinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "7. Mektup"
+      ],
+      "keywords": [
+        "hikmet",
+        "kader",
+        "şefkat",
+        "hüccet",
+        "ayet",
+        "merhamet",
+        "nefis",
+        "rahmet"
+      ]
     },
     {
       "section_id": "mektubat.008.sekizinci-mektup",
@@ -128,7 +224,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/sekizinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "8. Mektup"
+      ],
+      "keywords": [
+        "şefkat",
+        "nübüvvet",
+        "hikmet",
+        "i'caz",
+        "medrese-i yusufiye",
+        "rahmet",
+        "ruh",
+        "ubudiyet"
+      ]
     },
     {
       "section_id": "mektubat.009.dokuzuncu-mektup",
@@ -143,7 +252,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dokuzuncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "9. Mektup"
+      ],
+      "keywords": [
+        "iman",
+        "keramet",
+        "dünya",
+        "nimet",
+        "insan",
+        "bürhan",
+        "hikmet",
+        "ahiret"
+      ]
     },
     {
       "section_id": "mektubat.010.onuncu-mektup",
@@ -158,7 +280,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/onuncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "10. Mektup"
+      ],
+      "keywords": [
+        "kader",
+        "fihrist",
+        "hikmet",
+        "haşir",
+        "gaybi",
+        "tefsir",
+        "zikir",
+        "ölüm"
+      ]
     },
     {
       "section_id": "mektubat.011.on-birinci-mektup",
@@ -173,7 +308,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-birinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "11. Mektup"
+      ],
+      "keywords": [
+        "merhamet",
+        "şefkat",
+        "adalet",
+        "rahmet",
+        "küfür",
+        "i'caz",
+        "müdafaa",
+        "nimet"
+      ]
     },
     {
       "section_id": "mektubat.012.on-ikinci-mektup",
@@ -188,7 +336,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-ikinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "On Ikinci Mektup",
+        "12. Mektup"
+      ],
+      "keywords": [
+        "hikmet",
+        "insan",
+        "iman",
+        "musa",
+        "cennet",
+        "cehennem",
+        "rahmet",
+        "ruh"
+      ]
     },
     {
       "section_id": "mektubat.013.on-ucuncu-mektup",
@@ -203,7 +365,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-ucuncu-mektup/",
       "official_section_similarity": 0.9949409780775716,
       "official_section_content_overlap": 0.9932659932659933,
-      "official_section_diff_tokens": 8
+      "official_section_diff_tokens": 8,
+      "aliases": [
+        "On Ucuncu Mektup",
+        "13. Mektup"
+      ],
+      "keywords": [
+        "dünya",
+        "kader",
+        "rahmet",
+        "ihlas",
+        "ahiret",
+        "hayat",
+        "merhamet",
+        "adalet"
+      ]
     },
     {
       "section_id": "mektubat.014.on-dorduncu-mektup",
@@ -218,7 +394,18 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-dorduncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "On Dorduncu Mektup",
+        "14. Mektup"
+      ],
+      "keywords": [
+        "telif edilmemiş",
+        "on dördüncü mektup",
+        "mektubat",
+        "mektup",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mektubat.015.on-besinci-mektup",
@@ -233,7 +420,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-besinci-mektup/",
       "official_section_similarity": 0.9985253154186465,
       "official_section_content_overlap": 0.9980347199475925,
-      "official_section_diff_tokens": 7
+      "official_section_diff_tokens": 7,
+      "aliases": [
+        "On Besinci Mektup",
+        "15. Mektup"
+      ],
+      "keywords": [
+        "adalet",
+        "ruh",
+        "cennet",
+        "insan",
+        "dünya",
+        "iman",
+        "kader",
+        "merhamet"
+      ]
     },
     {
       "section_id": "mektubat.016.on-altinci-mektup",
@@ -248,7 +449,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-altinci-mektup/",
       "official_section_similarity": 0.9987520798668885,
       "official_section_content_overlap": 0.9979218620116376,
-      "official_section_diff_tokens": 10
+      "official_section_diff_tokens": 10,
+      "aliases": [
+        "On Altinci Mektup",
+        "16. Mektup"
+      ],
+      "keywords": [
+        "dünya",
+        "iman",
+        "hayat",
+        "ahiret",
+        "kalp",
+        "bereket",
+        "rahmet",
+        "kader"
+      ]
     },
     {
       "section_id": "mektubat.017.on-yedinci-mektup",
@@ -263,7 +478,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-yedinci-mektup/",
       "official_section_similarity": 0.9983489268024216,
       "official_section_content_overlap": 0.9977997799779978,
-      "official_section_diff_tokens": 2
+      "official_section_diff_tokens": 2,
+      "aliases": [
+        "17. Mektup"
+      ],
+      "keywords": [
+        "cennet",
+        "dünya",
+        "iman",
+        "rahmet",
+        "şefkat",
+        "ahiret",
+        "kalp",
+        "merhamet"
+      ]
     },
     {
       "section_id": "mektubat.018.on-sekizinci-mektup",
@@ -278,7 +506,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-sekizinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "18. Mektup"
+      ],
+      "keywords": [
+        "vahdet",
+        "hikmet",
+        "ruh",
+        "iman",
+        "musa",
+        "nübüvvet",
+        "şefkat",
+        "akıl"
+      ]
     },
     {
       "section_id": "mektubat.019.on-dokuzuncu-mektup",
@@ -293,7 +534,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-dokuzuncu-mektup/",
       "official_section_similarity": 0.9916866665017195,
       "official_section_content_overlap": 0.9894832991828573,
-      "official_section_diff_tokens": 486
+      "official_section_diff_tokens": 486,
+      "aliases": [
+        "19. Mektup"
+      ],
+      "keywords": [
+        "dua",
+        "nübüvvet",
+        "iman",
+        "ayet",
+        "insan",
+        "i'caz",
+        "bereket",
+        "şifa"
+      ]
     },
     {
       "section_id": "mektubat.020.yirminci-mektup",
@@ -308,7 +562,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirminci-mektup/",
       "official_section_similarity": 0.999501454092231,
       "official_section_content_overlap": 0.9995014955134596,
-      "official_section_diff_tokens": 9
+      "official_section_diff_tokens": 9,
+      "aliases": [
+        "20. Mektup"
+      ],
+      "keywords": [
+        "hayat",
+        "vahdet",
+        "insan",
+        "hikmet",
+        "rahmet",
+        "nimet",
+        "tevhid",
+        "ölüm"
+      ]
     },
     {
       "section_id": "mektubat.021.yirmi-birinci-mektup",
@@ -323,7 +590,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-birinci-mektup/",
       "official_section_similarity": 0.9962073324905183,
       "official_section_content_overlap": 0.9949494949494949,
-      "official_section_diff_tokens": 4
+      "official_section_diff_tokens": 4,
+      "aliases": [
+        "21. Mektup"
+      ],
+      "keywords": [
+        "bereket",
+        "insan",
+        "iman",
+        "rahmet",
+        "şefkat",
+        "ahiret",
+        "hayat",
+        "kalp"
+      ]
     },
     {
       "section_id": "mektubat.022.yirmi-ikinci-mektup",
@@ -338,7 +618,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-ikinci-mektup/",
       "official_section_similarity": 0.9981562572021203,
       "official_section_content_overlap": 0.9974666052510364,
-      "official_section_diff_tokens": 12
+      "official_section_diff_tokens": 12,
+      "aliases": [
+        "Yirmi Ikinci Mektup",
+        "22. Mektup"
+      ],
+      "keywords": [
+        "hayat",
+        "iman",
+        "kalp",
+        "rahmet",
+        "dünya",
+        "adalet",
+        "uhuvvet",
+        "şifa"
+      ]
     },
     {
       "section_id": "mektubat.023.yirmi-ucuncu-mektup",
@@ -353,7 +647,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-ucuncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Yirmi Ucuncu Mektup",
+        "23. Mektup"
+      ],
+      "keywords": [
+        "dua",
+        "sabır",
+        "ahiret",
+        "dünya",
+        "hikmet",
+        "kalp",
+        "ölüm",
+        "musibet"
+      ]
     },
     {
       "section_id": "mektubat.024.yirmi-dorduncu-mektup",
@@ -368,7 +676,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-dorduncu-mektup/",
       "official_section_similarity": 0.9996573230073333,
       "official_section_content_overlap": 0.9993148807892573,
-      "official_section_diff_tokens": 5
+      "official_section_diff_tokens": 5,
+      "aliases": [
+        "Yirmi Dorduncu Mektup",
+        "24. Mektup"
+      ],
+      "keywords": [
+        "dua",
+        "iman",
+        "hayat",
+        "hikmet",
+        "insan",
+        "rububiyet",
+        "rahmet",
+        "dünya"
+      ]
     },
     {
       "section_id": "mektubat.025.yirmi-besinci-mektup",
@@ -383,7 +705,18 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-besinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Yirmi Besinci Mektup",
+        "25. Mektup"
+      ],
+      "keywords": [
+        "telif edilmemiş",
+        "yirmi beşinci mektup",
+        "mektubat",
+        "mektup",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mektubat.026.yirmi-altinci-mektup",
@@ -398,7 +731,21 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-altinci-mektup/",
       "official_section_similarity": 0.9977764110327861,
       "official_section_content_overlap": 0.9973517450108768,
-      "official_section_diff_tokens": 32
+      "official_section_diff_tokens": 32,
+      "aliases": [
+        "Yirmi Altinci Mektup",
+        "26. Mektup"
+      ],
+      "keywords": [
+        "hayat",
+        "insan",
+        "iman",
+        "dünya",
+        "kalp",
+        "i'caz",
+        "akıl",
+        "zikir"
+      ]
     },
     {
       "section_id": "mektubat.027.yirmi-yedinci-mektup",
@@ -413,7 +760,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "27. Mektup"
+      ],
+      "keywords": [
+        "lahika",
+        "risale-i nur",
+        "yirmi yedinci mektup",
+        "mektubat",
+        "mektup"
+      ]
     },
     {
       "section_id": "mektubat.028.yirmi-sekizinci-mektup",
@@ -428,7 +785,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-sekizinci-mektup/",
       "official_section_similarity": 0.9986180755715245,
       "official_section_content_overlap": 0.9979482323232324,
-      "official_section_diff_tokens": 28
+      "official_section_diff_tokens": 28,
+      "aliases": [
+        "28. Mektup"
+      ],
+      "keywords": [
+        "şükür",
+        "i'caz",
+        "insan",
+        "gaybi",
+        "iman",
+        "keramet",
+        "kalp",
+        "nimet"
+      ]
     },
     {
       "section_id": "mektubat.029.yirmi-dokuzuncu-mektup",
@@ -443,7 +813,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-dokuzuncu-mektup/",
       "official_section_similarity": 0.9989318141356596,
       "official_section_content_overlap": 0.9984874099119139,
-      "official_section_diff_tokens": 38
+      "official_section_diff_tokens": 38,
+      "aliases": [
+        "29. Mektup"
+      ],
+      "keywords": [
+        "insan",
+        "iman",
+        "kalp",
+        "hayat",
+        "dünya",
+        "hikmet",
+        "i'caz",
+        "ayet"
+      ]
     },
     {
       "section_id": "mektubat.030.otuzuncu-mektup",
@@ -458,7 +841,19 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuzuncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "30. Mektup"
+      ],
+      "keywords": [
+        "i'caz",
+        "tefsir",
+        "otuzuncu",
+        "otuzuncu mektup",
+        "mektubat",
+        "mektup",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mektubat.031.otuz-birinci-mektup",
@@ -473,7 +868,16 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "31. Mektup"
+      ],
+      "keywords": [
+        "otuz birinci mektup",
+        "mektubat",
+        "mektup",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mektubat.032.otuz-ikinci-mektup",
@@ -488,7 +892,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-ikinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Otuz Ikinci Mektup",
+        "32. Mektup"
+      ],
+      "keywords": [
+        "otuz i̇kinci mektup",
+        "mektubat",
+        "mektup",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mektubat.033.otuz-ucuncu-mektup",
@@ -503,7 +917,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-ucuncu-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Otuz Ucuncu Mektup",
+        "33. Mektup"
+      ],
+      "keywords": [
+        "otuz üçüncü mektup",
+        "mektubat",
+        "mektup",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "mektubat.034.isarat-i-gaybiye-hakkinda-bir-takriz",
@@ -518,7 +942,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/isarat-i-gaybiye-hakkinda-bir-takriz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Isarat-i Gaybiye Hakkinda Bir Takriz"
+      ],
+      "keywords": [
+        "gaybi",
+        "risale-i nur",
+        "iman",
+        "keramet",
+        "musa",
+        "hapishane",
+        "ayet",
+        "tevhid"
+      ]
     },
     {
       "section_id": "mektubat.035.hakikat-cekirdekleri",
@@ -533,7 +970,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/hakikat-cekirdekleri/",
       "official_section_similarity": 0.9555707450444293,
       "official_section_content_overlap": 0.95525956284153,
-      "official_section_diff_tokens": 140
+      "official_section_diff_tokens": 140,
+      "aliases": [
+        "Hakikat Cekirdekleri"
+      ],
+      "keywords": [
+        "hayat",
+        "insan",
+        "ruh",
+        "adalet",
+        "kalp",
+        "vahdet",
+        "musa",
+        "musibet"
+      ]
     },
     {
       "section_id": "mektubat.036.gonuller-fatihi-buyuk-ustada",
@@ -548,7 +998,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/gonuller-fatihi-buyuk-ustada/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Gonuller Fatihi Buyuk Ustada"
+      ],
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "cennet",
+        "kalp",
+        "ruh",
+        "gaybi",
+        "hikmet",
+        "sikke-i tasdik-i gaybi"
+      ]
     },
     {
       "section_id": "mektubat.037.fihriste-i-mektubat",
@@ -563,7 +1026,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/fihriste-i-mektubat/",
       "official_section_similarity": 0.993629012496937,
       "official_section_content_overlap": 0.9924131179637787,
-      "official_section_diff_tokens": 66
+      "official_section_diff_tokens": 66,
+      "keywords": [
+        "ayet",
+        "iman",
+        "tefsir",
+        "fihrist",
+        "dünya",
+        "hikmet",
+        "i'caz",
+        "insan"
+      ]
     },
     {
       "section_id": "mektubat.038.hakikat-isiklari",
@@ -578,7 +1051,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/hakikat-isiklari/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Hakikat Isiklari"
+      ],
+      "keywords": [
+        "rahmet",
+        "bürhan",
+        "cennet",
+        "hastalar",
+        "iman",
+        "insan",
+        "hakikat işıkları",
+        "mektubat"
+      ]
     },
     {
       "section_id": "mektubat.039.dua-mektubat",
@@ -593,7 +1079,16 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dua-mektubat/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "keywords": [
+        "dua",
+        "cennet",
+        "ihlas",
+        "iman",
+        "risale-i nur",
+        "mektubat",
+        "dua (mektubat)"
+      ]
     }
   ]
 }

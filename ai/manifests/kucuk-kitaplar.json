@@ -23,7 +23,20 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Kur'an'in Hakimiyet-i Mutlakasi"
+      ],
+      "keywords": [
+        "hayat",
+        "ruh",
+        "musa",
+        "insan",
+        "şifa",
+        "iman",
+        "adalet",
+        "musibet"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.002.isarat",
@@ -38,7 +51,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/isarat/",
       "official_section_similarity": 0.9952061361457335,
       "official_section_content_overlap": 0.9923518164435946,
-      "official_section_diff_tokens": 12
+      "official_section_diff_tokens": 12,
+      "aliases": [
+        "ISARAT"
+      ],
+      "keywords": [
+        "kalp",
+        "nimet",
+        "ruh",
+        "vahdet",
+        "hayat",
+        "i'caz",
+        "insan",
+        "nefis"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.003.tuluat",
@@ -53,7 +79,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/tuluat/",
       "official_section_similarity": 0.9939865581888928,
       "official_section_content_overlap": 0.9911816578483245,
-      "official_section_diff_tokens": 26
+      "official_section_diff_tokens": 26,
+      "aliases": [
+        "TULUAT"
+      ],
+      "keywords": [
+        "ruh",
+        "musa",
+        "hikmet",
+        "adalet",
+        "fikir",
+        "kader",
+        "ahiret",
+        "bürhan"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.004.nurun-ilk-kapisi",
@@ -68,7 +107,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/nurun-ilk-kapisi/",
       "official_section_similarity": 0.9989754270453668,
       "official_section_content_overlap": 0.9993617735975815,
-      "official_section_diff_tokens": 47
+      "official_section_diff_tokens": 47,
+      "aliases": [
+        "NUR'UN ILK KAPISI"
+      ],
+      "keywords": [
+        "insan",
+        "risale-i nur",
+        "hayat",
+        "iman",
+        "kalp",
+        "dünya",
+        "musa",
+        "ruh"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.005.nur-cesmesi",
@@ -83,7 +135,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/nur-cesmesi/",
       "official_section_similarity": 0.9973047267851156,
       "official_section_content_overlap": 0.996009213627598,
-      "official_section_diff_tokens": 157
+      "official_section_diff_tokens": 157,
+      "aliases": [
+        "NUR CESMESI"
+      ],
+      "keywords": [
+        "hayat",
+        "insan",
+        "hikmet",
+        "iman",
+        "risale-i nur",
+        "musa",
+        "dünya",
+        "rahmet"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.006.divan-i-harb-i-orfi",
@@ -98,7 +163,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/divan-i-harb-i-orfi/",
       "official_section_similarity": 0.9962387409680293,
       "official_section_content_overlap": 0.9945652173913043,
-      "official_section_diff_tokens": 55
+      "official_section_diff_tokens": 55,
+      "aliases": [
+        "DIVAN-I HARB-I ORFI"
+      ],
+      "keywords": [
+        "hayat",
+        "musa",
+        "adalet",
+        "insan",
+        "kalp",
+        "hapishane",
+        "tevhid",
+        "dünya"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.007.hutbe-i-samiye",
@@ -113,7 +191,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/hutbe-i-samiye/",
       "official_section_similarity": 0.992080927808716,
       "official_section_content_overlap": 0.991119730529754,
-      "official_section_diff_tokens": 178
+      "official_section_diff_tokens": 178,
+      "aliases": [
+        "HUTBE-I SAMIYE"
+      ],
+      "keywords": [
+        "iman",
+        "insan",
+        "hayat",
+        "kalp",
+        "risale-i nur",
+        "dünya",
+        "ruh",
+        "adalet"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.008.munazarat",
@@ -128,7 +219,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/munazarat/",
       "official_section_similarity": 0.9897105682421667,
       "official_section_content_overlap": 0.9847464342313788,
-      "official_section_diff_tokens": 242
+      "official_section_diff_tokens": 242,
+      "aliases": [
+        "MUNAZARAT"
+      ],
+      "keywords": [
+        "hayat",
+        "iman",
+        "kalp",
+        "dünya",
+        "insan",
+        "ruh",
+        "risale-i nur",
+        "musa"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.009.genclik-rehberi",
@@ -143,7 +247,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/genclik-rehberi/",
       "official_section_similarity": 0.9987692216439047,
       "official_section_content_overlap": 0.9982215371846933,
-      "official_section_diff_tokens": 62
+      "official_section_diff_tokens": 62,
+      "aliases": [
+        "GENCLIK REHBERI"
+      ],
+      "keywords": [
+        "insan",
+        "iman",
+        "dünya",
+        "hayat",
+        "risale-i nur",
+        "rahmet",
+        "cennet",
+        "kalp"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.010.hanimlar-rehberi",
@@ -158,7 +275,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/hanimlar-rehberi/",
       "official_section_similarity": 0.9986742424242424,
       "official_section_content_overlap": 0.9979182437547313,
-      "official_section_diff_tokens": 45
+      "official_section_diff_tokens": 45,
+      "aliases": [
+        "HANIMLAR REHBERI"
+      ],
+      "keywords": [
+        "dünya",
+        "iman",
+        "risale-i nur",
+        "hayat",
+        "şefkat",
+        "insan",
+        "cennet",
+        "ruh"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.011.konferans",
@@ -173,7 +303,17 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/konferans-2/",
       "official_section_similarity": 0.9989421123899797,
       "official_section_content_overlap": 0.9988576264015232,
-      "official_section_diff_tokens": 34
+      "official_section_diff_tokens": 34,
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "ruh",
+        "dünya",
+        "tefsir",
+        "kalp",
+        "insan",
+        "hayat"
+      ]
     },
     {
       "section_id": "kucuk-kitaplar.012.tilsimlar",
@@ -188,7 +328,20 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Tilsimlar"
+      ],
+      "keywords": [
+        "tılsım",
+        "risale-i nur",
+        "hayat",
+        "tılsımlar",
+        "kucuk kitaplar",
+        "söz",
+        "mektup",
+        "lem'a"
+      ]
     }
   ]
 }

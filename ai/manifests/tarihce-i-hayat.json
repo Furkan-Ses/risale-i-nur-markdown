@@ -23,7 +23,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/on-soz/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "On soz"
+      ],
+      "keywords": [
+        "iman",
+        "ruh",
+        "insan",
+        "kalp",
+        "hayat",
+        "fikir",
+        "iktisat",
+        "risale-i nur"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.002.ilk-hayati",
@@ -38,7 +51,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/573-2/",
       "official_section_similarity": 0.9943081452404318,
       "official_section_content_overlap": 0.9929457870672763,
-      "official_section_diff_tokens": 264
+      "official_section_diff_tokens": 264,
+      "aliases": [
+        "Ilk Hayati"
+      ],
+      "keywords": [
+        "hayat",
+        "iman",
+        "ruh",
+        "kalp",
+        "dünya",
+        "insan",
+        "musa",
+        "tefsir"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.003.barla-hayati",
@@ -53,7 +79,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/barla-hayati/",
       "official_section_similarity": 0.9975664545114189,
       "official_section_content_overlap": 0.9973797492045667,
-      "official_section_diff_tokens": 64
+      "official_section_diff_tokens": 64,
+      "aliases": [
+        "Barla Hayati"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "hayat",
+        "dünya",
+        "i'caz",
+        "insan",
+        "kalp",
+        "keramet"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.004.ucuncu-kisim",
@@ -68,7 +107,22 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Ucuncu Kisim",
+        "3. Kısım",
+        "3. Kisim"
+      ],
+      "keywords": [
+        "dünya",
+        "iman",
+        "müdafaa",
+        "risale-i nur",
+        "hayat",
+        "musa",
+        "hapishane",
+        "adalet"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.005.kastamonu-hayati",
@@ -83,7 +137,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/kastamonu-hayati/",
       "official_section_similarity": 0.9991595946279971,
       "official_section_content_overlap": 0.9990443551044619,
-      "official_section_diff_tokens": 36
+      "official_section_diff_tokens": 36,
+      "aliases": [
+        "Kastamonu Hayati"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "hayat",
+        "hikmet",
+        "dünya",
+        "insan",
+        "musa",
+        "kalp"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.006.denizli-hayati",
@@ -98,7 +165,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/denizli-hayati/",
       "official_section_similarity": 0.9976724574127172,
       "official_section_content_overlap": 0.9977065767284992,
-      "official_section_diff_tokens": 56
+      "official_section_diff_tokens": 56,
+      "aliases": [
+        "Denizli Hayati"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "hayat",
+        "ahiret",
+        "dünya",
+        "insan",
+        "hüccet",
+        "müdafaa"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.007.emirdag-hayati",
@@ -113,7 +193,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/emirdag-hayati/",
       "official_section_similarity": 0.998666379866638,
       "official_section_content_overlap": 0.998065265058687,
-      "official_section_diff_tokens": 45
+      "official_section_diff_tokens": 45,
+      "aliases": [
+        "Emirdag Hayati"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "hayat",
+        "dünya",
+        "rahmet",
+        "insan",
+        "kalp",
+        "ruh"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.008.afyon-hayati",
@@ -128,7 +221,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/601-2/",
       "official_section_similarity": 0.9984359674469157,
       "official_section_content_overlap": 0.9976161466334693,
-      "official_section_diff_tokens": 49
+      "official_section_diff_tokens": 49,
+      "aliases": [
+        "Afyon Hayati"
+      ],
+      "keywords": [
+        "iman",
+        "risale-i nur",
+        "hapishane",
+        "hayat",
+        "dünya",
+        "hüccet",
+        "medrese-i yusufiye",
+        "musa"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.009.isparta-hayati",
@@ -143,7 +249,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/isparta-hayati/",
       "official_section_similarity": 0.9984281482377123,
       "official_section_content_overlap": 0.9977043436235123,
-      "official_section_diff_tokens": 42
+      "official_section_diff_tokens": 42,
+      "aliases": [
+        "Isparta Hayati"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "hayat",
+        "insan",
+        "kalp",
+        "hapishane",
+        "ruh",
+        "dünya"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.010.risale-i-nur-ve-haric-memleketler",
@@ -158,7 +277,20 @@
       "official_section_url": null,
       "official_section_similarity": null,
       "official_section_content_overlap": null,
-      "official_section_diff_tokens": null
+      "official_section_diff_tokens": null,
+      "aliases": [
+        "Risale-i Nur ve Haric Memleketler"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "dünya",
+        "iman",
+        "sabır",
+        "dua",
+        "ruh",
+        "insan",
+        "ihlas"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.011.bediuzzaman-ve-risale-i-nur",
@@ -173,7 +305,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/bediuzzaman-ve-risale-i-nur/",
       "official_section_similarity": 0.998430400660884,
       "official_section_content_overlap": 0.9975239352921756,
-      "official_section_diff_tokens": 15
+      "official_section_diff_tokens": 15,
+      "aliases": [
+        "Bediuzzaman ve Risale-i Nur"
+      ],
+      "keywords": [
+        "risale-i nur",
+        "iman",
+        "kalp",
+        "tefsir",
+        "ihlas",
+        "ruh",
+        "dünya",
+        "akıl"
+      ]
     },
     {
       "section_id": "tarihce-i-hayat.012.dua-tarihce-i-hayati",
@@ -188,7 +333,20 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/dua-tarihce-i-hayati/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0
+      "official_section_diff_tokens": 0,
+      "aliases": [
+        "Dua (Tarihce-i Hayati)"
+      ],
+      "keywords": [
+        "dua",
+        "hayat",
+        "cennet",
+        "ihlas",
+        "iman",
+        "risale-i nur",
+        "tarihçe hayatı",
+        "dua (tarihçe-i hayatı)"
+      ]
     }
   ]
 }

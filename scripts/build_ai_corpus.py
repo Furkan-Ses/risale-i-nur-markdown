@@ -52,6 +52,15 @@ TRANSLATION_TABLE = str.maketrans(
 TARGET_WORDS = 420
 MIN_WORDS = 180
 MAX_WORDS = 700
+PRESERVED_AI_METADATA_KEYS = (
+    "aliases",
+    "alternate_titles",
+    "known_as",
+    "keywords",
+    "keyword",
+    "topics",
+    "tags",
+)
 
 
 @dataclass
@@ -78,7 +87,30 @@ def title_key(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", ascii_only)
 
 
-def parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
+def parse_scalar_yaml_value(value: str) -> object:
+    stripped = value.strip()
+    if not stripped:
+        return ""
+    if stripped == "null":
+        return None
+    if stripped == "true":
+        return True
+    if stripped == "false":
+        return False
+    if stripped.startswith("[") or stripped.startswith("{"):
+        try:
+            return json.loads(stripped)
+        except json.JSONDecodeError:
+            return stripped
+    if stripped.startswith('"') and stripped.endswith('"'):
+        try:
+            return json.loads(stripped)
+        except json.JSONDecodeError:
+            return stripped.strip('"')
+    return stripped
+
+
+def parse_frontmatter(text: str) -> tuple[dict[str, object], str]:
     if not text.startswith("---\n"):
         return {}, text
     marker = "\n---\n"
@@ -86,12 +118,26 @@ def parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
     if end == -1:
         return {}, text
     raw_meta = text[4:end].splitlines()
-    meta: dict[str, str] = {}
-    for line in raw_meta:
+    meta: dict[str, object] = {}
+    index = 0
+    while index < len(raw_meta):
+        line = raw_meta[index]
         if ":" not in line:
+            index += 1
             continue
         key, value = line.split(":", 1)
-        meta[key.strip()] = value.strip().strip('"')
+        key = key.strip()
+        stripped_value = value.strip()
+        if not stripped_value:
+            items: list[object] = []
+            index += 1
+            while index < len(raw_meta) and raw_meta[index].startswith("  - "):
+                items.append(parse_scalar_yaml_value(raw_meta[index][4:]))
+                index += 1
+            meta[key] = items
+            continue
+        meta[key] = parse_scalar_yaml_value(stripped_value)
+        index += 1
     return meta, text[end + len(marker) :]
 
 
@@ -119,6 +165,11 @@ def yaml_value(value: object) -> str:
 def write_frontmatter(data: dict[str, object], body: str) -> str:
     lines = ["---"]
     for key, value in data.items():
+        if isinstance(value, list):
+            lines.append(f"{key}:")
+            for item in value:
+                lines.append(f"  - {yaml_value(item)}")
+            continue
         lines.append(f"{key}: {yaml_value(value)}")
     lines.append("---")
     lines.append("")
@@ -138,6 +189,28 @@ def normalize_written_path(path: Path) -> Path:
     if fallback.exists():
         fallback.rename(path)
     return path
+
+
+def preserved_ai_metadata(path: Path) -> dict[str, object]:
+    if not path.exists():
+        return {}
+    meta, _ = parse_frontmatter(path.read_text(encoding="utf-8"))
+    return {key: meta[key] for key in PRESERVED_AI_METADATA_KEYS if key in meta}
+
+
+def metadata_terms(meta: dict[str, object]) -> list[str]:
+    terms: list[str] = []
+    for key in PRESERVED_AI_METADATA_KEYS:
+        value = meta.get(key)
+        if isinstance(value, list):
+            terms.extend(str(item) for item in value if item)
+        elif value:
+            terms.append(str(value))
+    deduped: list[str] = []
+    for term in terms:
+        if term not in deduped:
+            deduped.append(term)
+    return deduped
 
 
 def collect_books() -> list[dict[str, object]]:
@@ -271,10 +344,14 @@ def make_chunk(
 
     text = "\n\n".join(block.text for block in blocks).strip()
     context_path = " > ".join(heading_paths[0]) if heading_paths else section["title"]
-    embedding_lines = [book["title"], context_path, "", text]
+    embedding_lines = [book["title"], context_path]
+    section_terms = metadata_terms(section["ai_meta"])
+    if section_terms:
+        embedding_lines.extend(["", "Metadata", "; ".join(section_terms)])
+    embedding_lines.extend(["", text])
     summary_item = book["summary"]
     citation = f"{book['title']} > {context_path}"
-    return {
+    chunk = {
         "chunk_id": f"{book['slug']}.{section['section_slug']}.{chunk_index:04d}",
         "book_slug": book["slug"],
         "book_title": book["title"],
@@ -304,6 +381,10 @@ def make_chunk(
         "text": text,
         "embedding_text": "\n".join(embedding_lines).strip(),
     }
+    for key in PRESERVED_AI_METADATA_KEYS:
+        if key in section["ai_meta"]:
+            chunk[key] = section["ai_meta"][key]
+    return chunk
 
 
 def build_chunks(
@@ -489,6 +570,8 @@ def main() -> None:
                 ai_section_filename = f"{order:03d}-{section_slug}.md"
                 ai_section_path = ai_sections_dir / ai_section_filename
                 ai_section_relpath = final_ai_relpath("books", str(book["slug"]), "sections", ai_section_filename)
+                existing_ai_section_path = AI_BOOKS_ROOT / str(book["slug"]) / "sections" / ai_section_filename
+                existing_ai_meta = preserved_ai_metadata(existing_ai_section_path)
                 comparison_entry = book["comparison"].get(title_key(title), {})
                 section_frontmatter = {
                     "book_id": book["slug"],
@@ -497,17 +580,22 @@ def main() -> None:
                     "section_order": order,
                     "section_slug": section_slug,
                     "section_title": title,
-                    "source_section_path": section_path.relative_to(ROOT).as_posix(),
-                    "source_name": meta.get("source_name") or meta.get("source name"),
-                    "source_url": meta.get("source_url") or meta.get("source url"),
-                    "official_alignment_status": book["summary"].get("status"),
-                    "official_similarity": book["summary"].get("overall_similarity"),
-                    "official_content_overlap": book["summary"].get("overall_content_overlap"),
-                    "official_section_url": comparison_entry.get("official_url"),
-                    "official_section_similarity": comparison_entry.get("similarity"),
-                    "official_section_content_overlap": comparison_entry.get("content_overlap"),
-                    "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
                 }
+                section_frontmatter.update(existing_ai_meta)
+                section_frontmatter.update(
+                    {
+                        "source_section_path": section_path.relative_to(ROOT).as_posix(),
+                        "source_name": meta.get("source_name") or meta.get("source name"),
+                        "source_url": meta.get("source_url") or meta.get("source url"),
+                        "official_alignment_status": book["summary"].get("status"),
+                        "official_similarity": book["summary"].get("overall_similarity"),
+                        "official_content_overlap": book["summary"].get("overall_content_overlap"),
+                        "official_section_url": comparison_entry.get("official_url"),
+                        "official_section_similarity": comparison_entry.get("similarity"),
+                        "official_section_content_overlap": comparison_entry.get("content_overlap"),
+                        "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
+                    }
+                )
                 ai_section_path.write_text(write_frontmatter(section_frontmatter, body), encoding="utf-8")
                 ai_section_path = normalize_written_path(ai_section_path)
                 if not ai_section_path.exists():
@@ -521,6 +609,7 @@ def main() -> None:
                     "source_path": section_path,
                     "body": body.strip(),
                     "meta": meta,
+                    "ai_meta": existing_ai_meta,
                     "official_url": comparison_entry.get("official_url"),
                     "official_similarity": comparison_entry.get("similarity"),
                     "official_content_overlap": comparison_entry.get("content_overlap"),
@@ -543,6 +632,7 @@ def main() -> None:
                         "official_section_similarity": comparison_entry.get("similarity"),
                         "official_section_content_overlap": comparison_entry.get("content_overlap"),
                         "official_section_diff_tokens": comparison_entry.get("diff_tokens"),
+                        **existing_ai_meta,
                     }
                 )
 
