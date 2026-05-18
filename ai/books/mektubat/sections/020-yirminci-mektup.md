@@ -5,6 +5,17 @@ section_id: "mektubat.020.yirminci-mektup"
 section_order: 20
 section_slug: "yirminci-mektup"
 section_title: "Yirminci Mektup"
+aliases:
+  - "20. Mektup"
+keywords:
+  - "hayat"
+  - "vahdet"
+  - "insan"
+  - "hikmet"
+  - "rahmet"
+  - "nimet"
+  - "tevhid"
+  - "ölüm"
 source_section_path: "books/mektubat/by_heading/20 Yirminci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

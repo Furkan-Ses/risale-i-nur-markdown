@@ -5,6 +5,17 @@ section_id: "sozler.017.onaltinci-soz"
 section_order: 17
 section_slug: "onaltinci-soz"
 section_title: "Onaltıncı Söz"
+aliases:
+  - "Onaltinci Soz"
+keywords:
+  - "rahmet"
+  - "hikmet"
+  - "ruh"
+  - "musa"
+  - "rububiyet"
+  - "şifa"
+  - "ubudiyet"
+  - "kalp"
 source_section_path: "books/sozler/by_heading/016 - Onaltıncı Söz.md"
 source_name: null
 source_url: null

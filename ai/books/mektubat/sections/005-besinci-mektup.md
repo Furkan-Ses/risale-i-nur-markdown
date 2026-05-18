@@ -5,6 +5,18 @@ section_id: "mektubat.005.besinci-mektup"
 section_order: 5
 section_slug: "besinci-mektup"
 section_title: "Beşinci Mektup"
+aliases:
+  - "Besinci Mektup"
+  - "5. Mektup"
+keywords:
+  - "iman"
+  - "cennet"
+  - "kalp"
+  - "akıl"
+  - "i'caz"
+  - "nübüvvet"
+  - "rahmet"
+  - "zındıka"
 source_section_path: "books/mektubat/by_heading/05 Beşinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.007.emirdag-hayati"
 section_order: 7
 section_slug: "emirdag-hayati"
 section_title: "Emirdağ Hayatı"
+aliases:
+  - "Emirdag Hayati"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "hayat"
+  - "dünya"
+  - "rahmet"
+  - "insan"
+  - "kalp"
+  - "ruh"
 source_section_path: "books/tarihce-i-hayat/by_heading/07 Emirdağ Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

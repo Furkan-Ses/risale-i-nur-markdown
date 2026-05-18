@@ -5,6 +5,15 @@ section_id: "sozler.037.konferans"
 section_order: 37
 section_slug: "konferans"
 section_title: "Konferans"
+keywords:
+  - "iman"
+  - "risale-i nur"
+  - "dünya"
+  - "tefsir"
+  - "konferans"
+  - "insan"
+  - "hayat"
+  - "kalp"
 source_section_path: "books/sozler/by_heading/036 - Konferans.md"
 source_name: null
 source_url: null

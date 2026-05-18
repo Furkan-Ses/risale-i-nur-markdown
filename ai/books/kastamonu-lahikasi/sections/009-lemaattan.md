@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.009.lemaattan"
 section_order: 9
 section_slug: "lemaattan"
 section_title: "Lemaat’tan"
+aliases:
+  - "Lemaat'tan"
+keywords:
+  - "i'caz"
+  - "tevhid"
+  - "ruh"
+  - "iman"
+  - "insan"
+  - "bürhan"
+  - "rahmet"
+  - "kalp"
 source_section_path: "books/kastamonu-lahikasi/by_heading/09 Kastamonu Lâhikası s.150-166 (Lemaat’tan).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

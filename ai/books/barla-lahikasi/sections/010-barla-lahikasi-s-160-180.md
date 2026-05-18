@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.010.barla-lahikasi-s-160-180"
 section_order: 10
 section_slug: "barla-lahikasi-s-160-180"
 section_title: "Barla Lâhikası s.160-180"
+aliases:
+  - "Barla Lahikasi s.160-180"
+keywords:
+  - "risale-i nur"
+  - "kalp"
+  - "ruh"
+  - "iman"
+  - "lahika"
+  - "hayat"
+  - "dua"
+  - "rahmet"
 source_section_path: "books/barla-lahikasi/by_heading/10 Barla Lâhikası s.160-180.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

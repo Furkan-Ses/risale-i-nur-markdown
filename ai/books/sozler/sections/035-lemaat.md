@@ -5,6 +5,15 @@ section_id: "sozler.035.lemaat"
 section_order: 35
 section_slug: "lemaat"
 section_title: "Lemaat"
+keywords:
+  - "hayat"
+  - "ruh"
+  - "insan"
+  - "iman"
+  - "kalp"
+  - "tevhid"
+  - "rahmet"
+  - "i'caz"
 source_section_path: "books/sozler/by_heading/034 - Lemaat.md"
 source_name: null
 source_url: null
@@ -1297,6 +1306,8 @@ Demek bir kâfirin müslim olan bir vasfı, müslimdeki lâmeşru vasfına galip
 
 Hem dünyada, hayatın hakkı şâmil ve âmmdır. O rahmet-i âmmenin bir cilve-i manidar, onun bir sırr-ı hikmeti var; küfür mani değildir.
 
+## Üçüncü nokta şudur
+
 Üçüncü nokta şudur: O Zat-ı Zülcelal’in iki vasf-ı kemalden iki şer’i tecelli, vasf-ı iradeden gelen meşietle takdirdir,
 
 O da şer’-i tekvinî. Vasf-ı kelâmdan gelen şeriat-ı meşhure. Teşriî evamire karşı itaat, isyan
@@ -1562,6 +1573,8 @@ Onlarla oldu mümtezic, mizac-ı i’cazında acib bir nakş-ı beyan, garib bir
 
 [Page 732]
 
+## İkinci Unsur ise
+
 İkinci Unsur ise: Umûr-u kevniyede gaybî olan esasat, İlahî hakaikten gaybî olan esrardan, gaybî-yi âsumanî.
 
 Mazide kaybolan gaybî olan umûrdan, müstakbelde müstetir kalmış olan ahvalden birden tazammun eden bir ilmü’l-guyub hızanı,
@@ -1591,6 +1604,8 @@ Makasıd ve gayatta: Muvazenet, ıttırad, fıtrat desatirine mutabakat, ittihat
 
 [Page 733]
 
+## Dördüncü Unsur ise
+
 Dördüncü Unsur ise: Her asrın derece-i fehmine, edebî rütbesine hem her asırdaki tabakata, derece-i istidat, rütbe-i kabiliyet nisbetinde ediyor bir ifaza-i nurani.
 
 Her asra, her asırdaki her tabakaya kapısı küşade. Güya her demde, her yerde taze nâzil oluyor o Kelâm-ı Rahmanî.
@@ -1612,6 +1627,8 @@ Hakaik-i gaybiye hem esrar-ı şehadet, serair-i İlahî, revabıt-ı kevnîye d
 Ki ne vaki reddeylemiş, ne mantık tekzip etmiş. Mantık kabul etmezse red de bile edemez. Semavî kitapların ki matmah-ı cihanî.
 
 İttifakî noktalarda musaddıkane nakleder. İhtilafî yerlerinde musahhihane bahseder. Böyle naklî umûrlar bir “Ümmi”den sudûru hârika-i zamanî…
+
+## Altıncı Unsur ise
 
 Altıncı Unsur ise: Mutazammın ve müessis olmuş din-i İslâm’a. İslâmiyet misline ne mazi muktedirdir, ne müstakbel muktedir; araştırsan zaman ile mekânı!..
 

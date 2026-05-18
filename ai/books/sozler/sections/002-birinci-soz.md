@@ -5,6 +5,19 @@ section_id: "sozler.002.birinci-soz"
 section_order: 2
 section_slug: "birinci-soz"
 section_title: "Birinci Söz"
+aliases:
+  - "Birinci Soz"
+  - "1. Söz"
+  - "1. Soz"
+keywords:
+  - "rahmet"
+  - "insan"
+  - "bismillah"
+  - "ehadiyet"
+  - "vahdet"
+  - "hikmet"
+  - "kalp"
+  - "şefkat"
 source_section_path: "books/sozler/by_heading/001 - Birinci Söz.md"
 source_name: null
 source_url: null

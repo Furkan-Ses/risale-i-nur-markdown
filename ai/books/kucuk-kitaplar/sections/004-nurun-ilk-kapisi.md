@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.004.nurun-ilk-kapisi"
 section_order: 4
 section_slug: "nurun-ilk-kapisi"
 section_title: "NUR’UN İLK KAPISI"
+aliases:
+  - "NUR'UN ILK KAPISI"
+keywords:
+  - "insan"
+  - "risale-i nur"
+  - "hayat"
+  - "iman"
+  - "kalp"
+  - "dünya"
+  - "musa"
+  - "ruh"
 source_section_path: "books/kucuk-kitaplar/by_heading/04 NUR’UN İLK KAPISI.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

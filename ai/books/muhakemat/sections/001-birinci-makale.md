@@ -5,6 +5,17 @@ section_id: "muhakemat.001.birinci-makale"
 section_order: 1
 section_slug: "birinci-makale"
 section_title: "BİRİNCİ MAKALE"
+aliases:
+  - "BIRINCI MAKALE"
+keywords:
+  - "hikmet"
+  - "musa"
+  - "tefsir"
+  - "belagat"
+  - "bürhan"
+  - "akıl"
+  - "hayat"
+  - "insan"
 source_section_path: "books/muhakemat/by_heading/01 Birinci Makale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

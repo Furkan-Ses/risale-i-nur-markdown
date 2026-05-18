@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.011.barla-lahikasi-s-181-201"
 section_order: 11
 section_slug: "barla-lahikasi-s-181-201"
 section_title: "Barla Lâhikası s.181-201"
+aliases:
+  - "Barla Lahikasi s.181-201"
+keywords:
+  - "insan"
+  - "rahmet"
+  - "ruh"
+  - "kalp"
+  - "lahika"
+  - "iman"
+  - "dua"
+  - "fihrist"
 source_section_path: "books/barla-lahikasi/by_heading/11 Barla Lâhikası s.181-201.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

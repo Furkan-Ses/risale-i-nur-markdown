@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.007.barla-lahikasi-s-103-121"
 section_order: 7
 section_slug: "barla-lahikasi-s-103-121"
 section_title: "Barla Lâhikası s.103-121"
+aliases:
+  - "Barla Lahikasi s.103-121"
+keywords:
+  - "hayat"
+  - "dua"
+  - "iman"
+  - "lahika"
+  - "rahmet"
+  - "ruh"
+  - "hikmet"
+  - "kalp"
 source_section_path: "books/barla-lahikasi/by_heading/07 Barla Lâhikası s.103-121.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "sozler.020.ondokuzuncu-soz"
 section_order: 20
 section_slug: "ondokuzuncu-soz"
 section_title: "Ondokuzuncu Söz"
+aliases:
+  - "Ondokuzuncu Soz"
+keywords:
+  - "dua"
+  - "bürhan"
+  - "insan"
+  - "i'caz"
+  - "zikir"
+  - "hidayet"
+  - "hikmet"
+  - "rahmet"
 source_section_path: "books/sozler/by_heading/019 - Ondokuzuncu Söz.md"
 source_name: null
 source_url: null

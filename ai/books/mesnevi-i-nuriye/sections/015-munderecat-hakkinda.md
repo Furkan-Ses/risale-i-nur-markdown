@@ -5,6 +5,17 @@ section_id: "mesnevi-i-nuriye.015.munderecat-hakkinda"
 section_order: 15
 section_slug: "munderecat-hakkinda"
 section_title: "Münderecat Hakkında"
+aliases:
+  - "Munderecat Hakkinda"
+keywords:
+  - "bürhan"
+  - "i'caz"
+  - "takdim"
+  - "tefsir"
+  - "tevhid"
+  - "münderecat hakkında"
+  - "mesnevi-i nuriye"
+  - "risale-i nur"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/15 Münderecat Hakkında.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.005.barla-lahikasi-s-59-80"
 section_order: 5
 section_slug: "barla-lahikasi-s-59-80"
 section_title: "Barla Lâhikası s.59-80"
+aliases:
+  - "Barla Lahikasi s.59-80"
+keywords:
+  - "kalp"
+  - "ruh"
+  - "lahika"
+  - "dua"
+  - "hayat"
+  - "insan"
+  - "iman"
+  - "dünya"
 source_section_path: "books/barla-lahikasi/by_heading/05 Barla Lâhikası s.59-80.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

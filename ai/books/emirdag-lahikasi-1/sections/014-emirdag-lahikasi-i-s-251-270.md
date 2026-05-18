@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.014.emirdag-lahikasi-i-s-251-270"
 section_order: 14
 section_slug: "emirdag-lahikasi-i-s-251-270"
 section_title: "Emirdağ Lâhikası - I s.251-270"
+aliases:
+  - "Emirdag Lahikasi - I s.251-270"
+keywords:
+  - "risale-i nur"
+  - "lahika"
+  - "iman"
+  - "musa"
+  - "dua"
+  - "ruh"
+  - "hapishane"
+  - "keramet"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/14 Emirdağ Lâhikası - I s.251-270.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

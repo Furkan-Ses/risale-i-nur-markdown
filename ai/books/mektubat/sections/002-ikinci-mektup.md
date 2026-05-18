@@ -5,6 +5,18 @@ section_id: "mektubat.002.ikinci-mektup"
 section_order: 2
 section_slug: "ikinci-mektup"
 section_title: "İkinci Mektup"
+aliases:
+  - "Ikinci Mektup"
+  - "2. Mektup"
+keywords:
+  - "ahiret"
+  - "iktisat"
+  - "rahmet"
+  - "ruh"
+  - "tevekkül"
+  - "ölüm"
+  - "insan"
+  - "dünya"
 source_section_path: "books/mektubat/by_heading/02 İkinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

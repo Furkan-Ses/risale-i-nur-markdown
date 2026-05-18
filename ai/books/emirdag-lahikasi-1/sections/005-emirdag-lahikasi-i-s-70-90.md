@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.005.emirdag-lahikasi-i-s-70-90"
 section_order: 5
 section_slug: "emirdag-lahikasi-i-s-70-90"
 section_title: "Emirdağ Lâhikası - I s.70-90"
+aliases:
+  - "Emirdag Lahikasi - I s.70-90"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "keramet"
+  - "kalp"
+  - "dünya"
+  - "hayat"
+  - "ihlas"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/05 Emirdağ Lâhikası - I s.70-90.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

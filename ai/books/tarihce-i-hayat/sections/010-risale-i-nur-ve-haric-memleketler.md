@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.010.risale-i-nur-ve-haric-memleketler"
 section_order: 10
 section_slug: "risale-i-nur-ve-haric-memleketler"
 section_title: "Risale-i Nur ve Hariç Memleketler"
+aliases:
+  - "Risale-i Nur ve Haric Memleketler"
+keywords:
+  - "risale-i nur"
+  - "dünya"
+  - "iman"
+  - "sabır"
+  - "dua"
+  - "ruh"
+  - "insan"
+  - "ihlas"
 source_section_path: "books/tarihce-i-hayat/by_heading/10 Hariç Memleketler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

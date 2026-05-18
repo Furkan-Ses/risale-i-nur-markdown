@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.007.kastamonu-lahikasi-s-110-129"
 section_order: 7
 section_slug: "kastamonu-lahikasi-s-110-129"
 section_title: "Kastamonu Lâhikası s.110-129"
+aliases:
+  - "Kastamonu Lahikasi s.110-129"
+keywords:
+  - "risale-i nur"
+  - "dua"
+  - "iman"
+  - "lahika"
+  - "dünya"
+  - "musibet"
+  - "hayat"
+  - "hikmet"
 source_section_path: "books/kastamonu-lahikasi/by_heading/07 Kastamonu Lâhikası s.110-129.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

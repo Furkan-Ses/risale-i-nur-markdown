@@ -5,6 +5,13 @@ section_id: "sualar.016.eddai"
 section_order: 16
 section_slug: "eddai"
 section_title: "Eddâî"
+aliases:
+  - "Eddai"
+keywords:
+  - "iman"
+  - "eddâî"
+  - "sualar"
+  - "risale-i nur"
 source_section_path: "books/sualar/by_heading/16 Eddâî.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

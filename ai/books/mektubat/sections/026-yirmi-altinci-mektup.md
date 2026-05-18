@@ -5,6 +5,18 @@ section_id: "mektubat.026.yirmi-altinci-mektup"
 section_order: 26
 section_slug: "yirmi-altinci-mektup"
 section_title: "Yirmi Altıncı Mektup"
+aliases:
+  - "Yirmi Altinci Mektup"
+  - "26. Mektup"
+keywords:
+  - "hayat"
+  - "insan"
+  - "iman"
+  - "dünya"
+  - "kalp"
+  - "i'caz"
+  - "akıl"
+  - "zikir"
 source_section_path: "books/mektubat/by_heading/26 Yirmi Altıncı Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

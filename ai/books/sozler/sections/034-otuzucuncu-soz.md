@@ -5,6 +5,17 @@ section_id: "sozler.034.otuzucuncu-soz"
 section_order: 34
 section_slug: "otuzucuncu-soz"
 section_title: "Otuzüçüncü Söz"
+aliases:
+  - "Otuzucuncu Soz"
+keywords:
+  - "hikmet"
+  - "vahdet"
+  - "hayat"
+  - "rububiyet"
+  - "insan"
+  - "rahmet"
+  - "şifa"
+  - "kalp"
 source_section_path: "books/sozler/by_heading/033 - Otuzüçüncü Söz.md"
 source_name: null
 source_url: null
@@ -641,23 +652,33 @@ Otuz Birinci Pencere
 
 On Birinci Söz’de beyan edildiği gibi: “İnsan, öyle bir nüsha-i câmiadır ki Cenab-ı Hak bütün esmasını, insanın nefsi ile insana ihsas ediyor.” Tafsilatını başka Sözlere havale edip yalnız üç noktayı göstereceğiz.
 
+## Birinci Nokta
+
 Birinci Nokta: İnsan, üç cihetle esma-i İlahiyeye bir âyinedir.
 
 ---
 
 [Page 687]
 
+## Birinci Vecih
+
 Birinci Vecih: Gecede zulümat, nasıl nuru gösterir. Öyle de insan, zaaf ve acziyle, fakr u hâcatıyla, naks ve kusuruyla, bir Kadîr-i Zülcelal’in kudretini, kuvvetini, gınasını, rahmetini bildiriyor ve hâkeza pek çok evsaf-ı İlahiyeye bu suretle âyinedarlık ediyor. Hattâ hadsiz aczinde ve nihayetsiz zaafında, hadsiz a’dasına karşı bir nokta-i istinad aramakla, vicdan daima Vâcibü’l-vücud’a bakar. Hem nihayetsiz fakrında, nihayetsiz hâcatı içinde, nihayetsiz maksatlara karşı bir nokta-i istimdad aramaya mecbur olduğundan vicdan, daima o noktadan bir Ganiyy-i Rahîm’in dergâhına dayanır, dua ile el açar.
 
 Demek, her vicdanda şu nokta-i istinad ve nokta-i istimdad cihetinde iki küçük pencere, Kadîr-i Rahîm’in bârgâh-ı rahmetine açılır, her vakit onunla bakabilir.
 
+## İkinci Vecih âyinedarlık ise
+
 İkinci Vecih âyinedarlık ise: İnsana verilen numuneler nevinden cüz’î ilim, kudret, basar, sem’, mâlikiyet, hâkimiyet gibi cüz’iyat ile kâinat Mâlikinin ilmine ve kudretine, basarına, sem’ine, hâkimiyet-i rububiyetine âyinedarlık eder. Onları anlar, bildirir. Mesela ben, nasıl bu evi yaptım ve yapmasını biliyorum ve görüyorum ve onun mâlikiyim ve idare ediyorum. Öyle de şu koca kâinat sarayının bir ustası var. O usta onu bilir, görür, yapar, idare eder ve hâkeza…
+
+## Üçüncü Vecih âyinedarlık ise
 
 Üçüncü Vecih âyinedarlık ise: İnsan, üstünde nakışları görünen esma-i İlahiyeye âyinedarlık eder. Otuz İkinci Söz’ün Üçüncü Mevkıfı’nın başında bir nebze izah edilen insanın mahiyet-i câmiasında nakışları zahir olan yetmişten ziyade esma vardır. Mesela, yaratılışından Sâni’, Hâlık ismini ve hüsn-ü takviminden Rahman ve Rahîm isimlerini ve hüsn-ü terbiyesinden Kerîm, Latîf isimlerini ve hâkeza… Bütün aza ve âlâtıyla, cihazat ve cevarihiyle, letaif ve maneviyatıyla, havas ve hissiyatıyla ayrı ayrı esmanın ayrı ayrı nakışlarını gösteriyor.
 
 Demek, nasıl esmada bir ism-i a’zam var, öyle de o esmanın nukuşunda dahi bir nakş-ı a’zam var ki o da insandır.
 
 Ey kendini insan bilen insan! Kendini oku… Yoksa hayvan ve camid hükmünde insan olmak ihtimali var.
+
+## İkinci Nokta
 
 İkinci Nokta: Mühim bir sırr-ı ehadiyete işaret eder. Şöyle ki:
 
@@ -668,6 +689,8 @@ Ey kendini insan bilen insan! Kendini oku… Yoksa hayvan ve camid hükmünde in
 İnsanın nasıl ruhu bütün cesedine öyle bir münasebeti var ki bütün azasını ve eczasını birbirine yardım ettirir. Yani, irade-i İlahiye cilvesi olan evamir-i tekviniye ve o evamirden vücud-u haricî giydirilmiş bir kanun-u emrî ve latîfe-i Rabbaniye olan ruh, onların idaresinde onların manevî seslerini hissetmesinde ve hâcetlerini görmesinde birbirine mani olmaz, ruhu şaşırtmaz. Ruha nisbeten uzak yakın bir hükmünde. Birbirine perde olmaz. İsterse çoğunu birinin imdadına yetiştirir. İsterse bedenin her cüzü ile bilebilir, hissedebilir, idare edebilir. Hattâ çok nuraniyet kesbetmiş ise her bir cüzü ile görebilir ve işitebilir.
 
 Öyle de وَ لِلّٰهِ الْمَثَلُ الْاَعْلٰى Cenab-ı Hakk’ın madem onun bir kanun-u emri olan ruh, küçük bir âlem olan insan cisminde ve azasında bu vaziyeti gösteriyor. Elbette âlem-i ekber olan kâinatta o Zat-ı Vâcibü’l-vücud’un irade-i külliyesine ve kudret-i mutlakasına hadsiz fiiller, hadsiz sadâlar, hadsiz dualar, hadsiz işler, hiçbir cihette ona ağır gelmez, birbirine mani olmaz. O Hâlık-ı Zülcelal’i meşgul etmez, şaşırtmaz. Bütününü birden görür, bütün sesleri birden işitir. Yakın uzak birdir. İsterse bütününü birinin imdadına gönderir. Her şey ile her şeyi görebilir, seslerini işitebilir ve her şey ile her şeyi bilir ve hâkeza…
+
+## Üçüncü Nokta
 
 Üçüncü Nokta: Hayatın pek mühim bir mahiyeti ve ehemmiyetli bir vazifesi var. Fakat o bahis, Hayat Penceresi’nde ve Yirminci Mektup’un Sekizinci Kelimesi’nde tafsili geçtiğinden ona havale edip yalnız bunu ihtar ederiz ki:
 

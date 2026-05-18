@@ -5,6 +5,17 @@ section_id: "asa-yi-musa.011.onuncu-mesele"
 section_order: 11
 section_slug: "onuncu-mesele"
 section_title: "Onuncu Mesele"
+aliases:
+  - "10. Mesele"
+keywords:
+  - "i'caz"
+  - "ayet"
+  - "hikmet"
+  - "iman"
+  - "belagat"
+  - "risale-i nur"
+  - "hüccet"
+  - "tevhid"
 source_section_path: "books/asa-yi-musa/by_heading/110 Onuncu Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

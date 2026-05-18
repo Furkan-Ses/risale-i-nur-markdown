@@ -5,6 +5,17 @@ section_id: "mektubat.008.sekizinci-mektup"
 section_order: 8
 section_slug: "sekizinci-mektup"
 section_title: "Sekizinci Mektup"
+aliases:
+  - "8. Mektup"
+keywords:
+  - "şefkat"
+  - "nübüvvet"
+  - "hikmet"
+  - "i'caz"
+  - "medrese-i yusufiye"
+  - "rahmet"
+  - "ruh"
+  - "ubudiyet"
 source_section_path: "books/mektubat/by_heading/08 Sekizinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

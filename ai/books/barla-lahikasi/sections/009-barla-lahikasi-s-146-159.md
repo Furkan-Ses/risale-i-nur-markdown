@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.009.barla-lahikasi-s-146-159"
 section_order: 9
 section_slug: "barla-lahikasi-s-146-159"
 section_title: "Barla Lâhikası s.146-159"
+aliases:
+  - "Barla Lahikasi s.146-159"
+keywords:
+  - "iman"
+  - "risale-i nur"
+  - "lahika"
+  - "fihrist"
+  - "dua"
+  - "kalp"
+  - "hikmet"
+  - "ruh"
 source_section_path: "books/barla-lahikasi/by_heading/09 Barla Lâhikası s.146-159.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

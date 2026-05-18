@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.006.denizli-hayati"
 section_order: 6
 section_slug: "denizli-hayati"
 section_title: "Denizli Hayatı"
+aliases:
+  - "Denizli Hayati"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "hayat"
+  - "ahiret"
+  - "dünya"
+  - "insan"
+  - "hüccet"
+  - "müdafaa"
 source_section_path: "books/tarihce-i-hayat/by_heading/06 Denizli Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

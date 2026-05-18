@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.001.kastamonu-lahikasi-takdim"
 section_order: 1
 section_slug: "kastamonu-lahikasi-takdim"
 section_title: "Kastamonu Lâhikası - Takdim"
+aliases:
+  - "Kastamonu Lahikasi - Takdim"
+keywords:
+  - "lahika"
+  - "iman"
+  - "takdim"
+  - "risale-i nur"
+  - "hapishane"
+  - "kalp"
+  - "ihlas"
+  - "dünya"
 source_section_path: "books/kastamonu-lahikasi/by_heading/01 Kastamonu Lâhikası - Takdim.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

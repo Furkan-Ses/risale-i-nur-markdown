@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.003.tuluat"
 section_order: 3
 section_slug: "tuluat"
 section_title: "TULÛAT"
+aliases:
+  - "TULUAT"
+keywords:
+  - "ruh"
+  - "musa"
+  - "hikmet"
+  - "adalet"
+  - "fikir"
+  - "kader"
+  - "ahiret"
+  - "bürhan"
 source_section_path: "books/kucuk-kitaplar/by_heading/03 TULÛAT.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

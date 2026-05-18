@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.002.isarat"
 section_order: 2
 section_slug: "isarat"
 section_title: "İŞARAT"
+aliases:
+  - "ISARAT"
+keywords:
+  - "kalp"
+  - "nimet"
+  - "ruh"
+  - "vahdet"
+  - "hayat"
+  - "i'caz"
+  - "insan"
+  - "nefis"
 source_section_path: "books/kucuk-kitaplar/by_heading/02 İŞARAT.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

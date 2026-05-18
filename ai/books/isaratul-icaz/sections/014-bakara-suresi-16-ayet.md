@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.014.bakara-suresi-16-ayet"
 section_order: 14
 section_slug: "bakara-suresi-16-ayet"
 section_title: "Bakara Suresi 16. âyet"
+aliases:
+  - "Bakara Suresi 16. ayet"
+keywords:
+  - "ayet"
+  - "bakara"
+  - "hidayet"
+  - "şifa"
+  - "kalp"
+  - "akıl"
+  - "nimet"
+  - "ruh"
 source_section_path: "books/isaratul-icaz/by_heading/14 Bakara Suresi 16. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

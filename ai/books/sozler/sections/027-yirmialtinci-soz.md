@@ -5,6 +5,17 @@ section_id: "sozler.027.yirmialtinci-soz"
 section_order: 27
 section_slug: "yirmialtinci-soz"
 section_title: "Yirmialtıncı Söz"
+aliases:
+  - "Yirmialtinci Soz"
+keywords:
+  - "kader"
+  - "hayat"
+  - "insan"
+  - "iman"
+  - "hikmet"
+  - "nefis"
+  - "adalet"
+  - "kalp"
 source_section_path: "books/sozler/by_heading/026 - Yirmialtıncı Söz.md"
 source_name: null
 source_url: null
@@ -211,11 +222,19 @@ Eski Said’in serkeş, müftehir, mağrur, ucublu, riyakâr nefsini susturan, t
 
 [Page 473]
 
+## Birinci Fıkra
+
 Birinci Fıkra: Madem eşya var ve sanatlıdır. Elbette bir ustaları var. Yirmi İkinci Söz’de gayet kat’î ispat edildiği gibi eğer her şey birinin olmazsa o vakit her bir şey, bütün eşya kadar müşkül ve ağır olur. Eğer her şey birinin olsa o zaman bütün eşya, bir şey kadar âsân ve kolay olur. Madem zemin ve âsumanı birisi yapmış, yaratmış. Elbette o pek hikmetli ve çok sanatkâr zat, zemin ve âsumanın meyveleri ve neticeleri ve gayeleri olan zîhayatları başkalara bırakıp işi bozmayacak. Başka ellere teslim edip bütün hikmetli işlerini abes etmeyecek, hiçe indirmeyecek, şükür ve ibadetlerini başkasına vermeyecektir.
+
+## İkinci Fıkra
 
 İkinci Fıkra: Sen ey mağrur nefsim! Üzüm ağacına benzersin. Fahirlenme! Salkımları o ağaç kendi takmamış, başkası onları ona takmış.
 
+## Üçüncü Fıkra
+
 Üçüncü Fıkra: Sen ey riyakâr nefsim! “Dine hizmet ettim.” diye gururlanma. اِنَّ اللّٰهَ لَيُؤَيِّدُ هٰذَا الدّٖينَ بِالرَّجُلِ الْفَاجِرِ sırrınca: müzekkâ olmadığın için belki sen kendini o recül-ü fâcir bilmelisin. Hizmetini, ubudiyetini; geçen nimetlerin şükrü ve vazife-i fıtrat ve farîza-i hilkat ve netice-i sanat bil, ucub ve riyadan kurtul!
+
+## Dördüncü Fıkra
 
 Dördüncü Fıkra: Hakikat ilmini, hakiki hikmeti istersen Cenab-ı Hakk’ın marifetini kazan. Çünkü bütün hakaik-i mevcudat, ism-i Hakk’ın şuâatı ve esmasının tezahüratı ve sıfâtının tecelliyatıdırlar. Maddî ve manevî, cevherî, arazî her bir şeyin, her bir insanın hakikati, birer ismin nuruna dayanır ve hakikatine istinad eder. Yoksa hakikatsiz, ehemmiyetsiz bir surettir. Yirminci Söz’ün âhirinde, şu sırra dair bir nebze bahsi geçmiştir.
 
@@ -228,6 +247,8 @@ Ey nefis! Eğer şu dünya hayatına müştaksan, mevtten kaçarsan kat’iyen b
 Madem böyledir, hayat-ı maddiye-i nefsiyeyi bırak. Kalp ve ruh ve sırrın derece-i hayatlarına çık, bak; ne kadar geniş bir daire-i hayatları var. Senin için meyyit olan mazi, müstakbel; onlar için haydır, hayattar ve mevcuddur. Ey nefsim! Madem öyledir, sen dahi kalbim gibi ağla ve bağır ve de ki:
 
 “Fâniyim, fâni olanı istemem. Âcizim, âciz olanı istemem. Ruhumu Rahman’a teslim eyledim, gayr istemem. İsterim fakat bir yâr-ı bâki isterim. Zerreyim fakat bir şems-i sermed isterim. Hiç-ender hiçim fakat bu mevcudatı birden isterim.”
+
+## Beşinci Fıkra
 
 Beşinci Fıkra: Şu fıkra, Arabî geldiği için Arabî yazıldı. Hem şu fıkra-i Arabiye, “Allahu ekber” zikrinde otuz üç mertebe-i tefekkürden bir mertebeye işarettir.
 

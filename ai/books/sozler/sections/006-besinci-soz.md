@@ -5,6 +5,19 @@ section_id: "sozler.006.besinci-soz"
 section_order: 6
 section_slug: "besinci-soz"
 section_title: "Beşinci Söz"
+aliases:
+  - "Besinci Soz"
+  - "5. Söz"
+  - "5. Soz"
+keywords:
+  - "hayat"
+  - "ibadet"
+  - "nefis"
+  - "haşir"
+  - "hidayet"
+  - "hikmet"
+  - "kalp"
+  - "rahmet"
 source_section_path: "books/sozler/by_heading/005 - Beşinci Söz.md"
 source_name: null
 source_url: null

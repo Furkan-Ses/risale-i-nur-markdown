@@ -5,6 +5,17 @@ section_id: "lemalar.005.besinci-lema"
 section_order: 5
 section_slug: "besinci-lema"
 section_title: "Beşinci Lem’a"
+aliases:
+  - "Besinci Lema"
+  - "5. Lem’a"
+  - "5. Lema"
+keywords:
+  - "zikir"
+  - "fikir"
+  - "ayet"
+  - "beşinci lem’a"
+  - "lemalar"
+  - "risale-i nur"
 source_section_path: "books/lemalar/by_heading/05 Beşinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

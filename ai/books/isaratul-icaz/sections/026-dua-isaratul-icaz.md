@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.026.dua-isaratul-icaz"
 section_order: 26
 section_slug: "dua-isaratul-icaz"
 section_title: "Dua (İşaratü’l-İ’caz)"
+aliases:
+  - "Dua (Isaratu'l-I'caz)"
+keywords:
+  - "i'caz"
+  - "dua"
+  - "cennet"
+  - "ihlas"
+  - "iman"
+  - "risale-i nur"
+  - "i̇şaratü"
+  - "dua (i̇şaratü’l-i̇’caz)"
 source_section_path: "books/isaratul-icaz/by_heading/26 Dua (İşaratü’l-İ’caz).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

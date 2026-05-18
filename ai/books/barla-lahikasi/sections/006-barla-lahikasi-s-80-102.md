@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.006.barla-lahikasi-s-80-102"
 section_order: 6
 section_slug: "barla-lahikasi-s-80-102"
 section_title: "Barla Lâhikası s.80-102"
+aliases:
+  - "Barla Lahikasi s.80-102"
+keywords:
+  - "dua"
+  - "iman"
+  - "i'caz"
+  - "kalp"
+  - "ruh"
+  - "lahika"
+  - "hikmet"
+  - "rahmet"
 source_section_path: "books/barla-lahikasi/by_heading/06 Barla Lâhikası s.80-102.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

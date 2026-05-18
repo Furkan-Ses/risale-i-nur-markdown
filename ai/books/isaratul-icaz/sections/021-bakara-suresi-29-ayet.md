@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.021.bakara-suresi-29-ayet"
 section_order: 21
 section_slug: "bakara-suresi-29-ayet"
 section_title: "Bakara Suresi 29. âyet"
+aliases:
+  - "Bakara Suresi 29. ayet"
+keywords:
+  - "ayet"
+  - "insan"
+  - "bakara"
+  - "fikir"
+  - "hikmet"
+  - "dünya"
+  - "hayat"
+  - "nimet"
 source_section_path: "books/isaratul-icaz/by_heading/21 Bakara Suresi 29. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

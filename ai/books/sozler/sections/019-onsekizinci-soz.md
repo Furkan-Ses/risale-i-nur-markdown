@@ -5,6 +5,17 @@ section_id: "sozler.019.onsekizinci-soz"
 section_order: 19
 section_slug: "onsekizinci-soz"
 section_title: "Onsekizinci Söz"
+aliases:
+  - "Onsekizinci Soz"
+keywords:
+  - "insan"
+  - "hikmet"
+  - "kalp"
+  - "nimet"
+  - "akıl"
+  - "fikir"
+  - "iman"
+  - "musa"
 source_section_path: "books/sozler/by_heading/018 - Onsekizinci Söz.md"
 source_name: null
 source_url: null

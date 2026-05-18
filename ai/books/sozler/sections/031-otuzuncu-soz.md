@@ -5,6 +5,19 @@ section_id: "sozler.031.otuzuncu-soz"
 section_order: 31
 section_slug: "otuzuncu-soz"
 section_title: "Otuzuncu Söz"
+aliases:
+  - "Otuzuncu Soz"
+  - "30. Söz"
+  - "30. Soz"
+keywords:
+  - "hikmet"
+  - "insan"
+  - "hayat"
+  - "nübüvvet"
+  - "kader"
+  - "rububiyet"
+  - "ruh"
+  - "dünya"
 source_section_path: "books/sozler/by_heading/030 - Otuzuncu Söz.md"
 source_name: null
 source_url: null
@@ -117,6 +130,8 @@ Nübüvvetin vechi olan birinci vecih: Ubudiyet-i mahzanın menşeidir. Yani ene
 
 İşte şu parlak nurani güzel yüz, hayattar ve manidar bir çekirdek hükmüne geçmiş ki Hâlık-ı Zülcelal bir şecere-i tûba-i ubudiyeti ondan halk etmiştir ki onun mübarek dalları, âlem-i beşeriyetin her tarafını nurani meyvelerle tezyin etmiştir. Bütün zaman-ı mazideki zulümatı dağıtıp o uzun zaman-ı mazi; felsefenin gördüğü gibi bir mezar-ı ekber, bir ademistan olmadığını, belki istikbale ve saadet-i ebediyeye atlamak için ervah-ı âfilîne bir medar-ı envar ve muhtelif basamaklı bir mi’rac-ı münevver ve ağır yüklerini bırakan ve serbest kalan ve dünyadan göçüp giden ruhların nurani bir nuristanı ve bir bostanı olduğunu gösterir.
 
+## İkinci vecih ise felsefe tutmuştur
+
 İkinci vecih ise felsefe tutmuştur: Felsefe ise eneye mana-yı ismiyle bakmış. Yani kendi kendine delâlet eder, der. Manası kendindedir, kendi hesabına çalışır, hükmeder. Vücudu aslî, zatî olduğunu telakki eder. Yani zatında bizzat bir vücudu vardır, der. Bir hakk-ı hayatı var, daire-i tasarrufunda hakiki mâliktir, zu’meder. Onu bir hakikat-i sabite zanneder. Vazifesini, hubb-u zatından neş’et eden bir tekemmül-ü zatî olduğunu bilir ve hâkeza çok esasat-ı fâsideye mesleklerini bina etmişler.
 
 O esasat, ne kadar esassız ve çürük olduğunu sair risalelerimde ve bilhassa Sözlerde hususan On İkinci ve Yirmi Beşinci Sözlerde kat’î ispat etmişiz. Hattâ silsile-i felsefenin en mükemmel fertleri ve o silsilenin dâhîleri olan Eflatun ve Aristo, İbn-i Sina ve Farabi gibi adamlar “İnsaniyetin gayetü’l-gayatı, teşebbüh-ü bi’l-Vâcib’dir.” yani Vâcibü’l-vücud’a benzemektir, deyip firavunane bir hüküm vermişler ve enaniyeti kamçılayıp şirk derelerinde serbest koşturarak esbab-perest, sanem-perest, tabiat-perest, nücum-perest gibi çok enva-ı şirk taifelerine meydan açmışlar. İnsaniyetin esasında münderic olan acz ve zaaf, fakr u ihtiyaç, naks ve kusur kapılarını kapayıp ubudiyetin yolunu seddetmişler. Tabiata saplanıp, şirkten tamamen çıkamayıp şükrün geniş kapısını bulamamışlar.
@@ -145,13 +160,19 @@ O şecerenin kuvve-i gazabiye dalında, bîçare beşerin başında küçük bü
 
 Mesela: Nübüvvetin hayat-ı şahsiyedeki düsturî neticelerinden تَخَلَّقُوا بِاَخْلَاقِ اللّٰهِ kaidesiyle “Ahlâk-ı İlahiye ile muttasıf olup Cenab-ı Hakk’a mütezellilane teveccüh edip acz, fakr, kusurunuzu bilip dergâhına abd olunuz.” düsturu nerede? Felsefenin teşebbüh-ü bi’l-Vâcib insaniyetin gayet-i kemalidir kaidesiyle “Vâcibü’l-vücud’a benzemeye çalışınız.” hodfüruşane düsturu nerede? Evet, nihayetsiz acz, zaaf, fakr, ihtiyaç ile yoğrulmuş olan mahiyet-i insaniye nerede? Nihayetsiz kadîr, kavî, gani ve müstağni olan Vâcibü’l-vücud’un mahiyeti nerede?
 
+## İkinci Misal
+
 İkinci Misal: Nübüvvetin hayat-ı içtimaiyedeki düsturî neticelerinden ve şems ve kamerden tut, tâ nebatat hayvanatın imdadına ve hayvanat insanın imdadına, hattâ zerrat-ı taamiye hüceyrat-ı bedenin imdadına ve muavenetine koşturulan düstur-u teavün, kanun-u kerem, namus-u ikram nerede? Felsefenin hayat-ı içtimaiyedeki düsturlarından ve yalnız bir kısım zalim ve canavar insanların ve vahşi hayvanların fıtratlarını sû-i istimallerinden neş’et eden düstur-u cidal nerede? Evet, düstur-u cidali o kadar esaslı ve küllî kabul etmişler ki “Hayat bir cidaldir.” diye eblehane hükmetmişler.
+
+## Üçüncü Misal
 
 Üçüncü Misal: Nübüvvetin tevhid-i İlahî hakkındaki netaic-i âliyesinden ve düstur-u gâliyesinden اَلْوَاحِدُ لَا يَصْدُرُ اِلَّا عَنِ الْوَاحِدِ yani “Her birliği bulunan, yalnız birden sudûr edecektir. Madem her şeyde ve bütün eşyada bir birlik var, demek bir tek zatın icadıdır.” diye olan tevhidkârane düsturu nerede? Eski felsefenin bir düstur-u itikadiyesinden olan اَلْوَاحِدُ لَا يَصْدُرُ عَنْهُ اِلَّا الْوَاحِدُ “Birden bir sudûr eder.” yani “Bir zattan, bizzat bir tek sudûr edebilir. Sair şeyler, vasıtalar vasıtasıyla ondan sudûr eder.” diye Ganiyy-i Ale’l-ıtlak ve Kadîr-i Mutlak’ı âciz vesaite muhtaç göstererek bütün esbaba ve vesaite, rububiyette bir nevi şirket verip Hâlık-ı Zülcelal’e “akl-ı evvel” namında bir mahluku verip âdeta sair mülkünü esbaba ve vesaite taksim ederek bir şirk-i azîme yol açan, şirk-âlûd ve dalalet-pîşe o felsefenin düsturu nerede? Hükemanın yüksek kısmı olan işrakiyyun böyle halt etseler maddiyyun, tabiiyyun gibi aşağı kısımları ne kadar halt edeceklerini kıyas edebilirsin.
 
 ---
 
 [Page 543]
+
+## Dördüncü Misal
 
 Dördüncü Misal: Nübüvvetin düstur-u hakîmanesinden وَ اِنْ مِنْ شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهٖ sırrıyla “Her şeyin, her zîhayatın neticesi ve hikmeti kendine ait bir ise Sâni’ine ait neticeleri, Fâtır’ına bakan hikmetleri binlerdir. Her bir şeyin, hattâ bir meyvenin; bir ağacın meyveleri kadar hikmetleri, neticeleri bulunduğu” mahz-ı hakikat olan düstur-u hikmet nerede? Felsefenin “Her bir zîhayatın neticesi kendine bakar veyahut insanın menafiine aittir.” diye koca bir dağ gibi ağaca, hardal gibi bir meyve, bir netice takmak gibi gayet manasız bir abesiyet içinde gördüğü hikmetsiz hikmet-i muzahrefe düsturları nerede? Şu hakikat, Onuncu Söz’ün Onuncu Hakikati’nde bir derece gösterildiğinden kısa kestik.
 

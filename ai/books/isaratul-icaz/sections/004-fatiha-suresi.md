@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.004.fatiha-suresi"
 section_order: 4
 section_slug: "fatiha-suresi"
 section_title: "Fatiha Suresi"
+aliases:
+  - "Sure-i Fatiha"
+keywords:
+  - "şifa"
+  - "insan"
+  - "nimet"
+  - "fatiha"
+  - "zikir"
+  - "hikmet"
+  - "ibadet"
+  - "ruh"
 source_section_path: "books/isaratul-icaz/by_heading/04 Fatiha Suresi.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

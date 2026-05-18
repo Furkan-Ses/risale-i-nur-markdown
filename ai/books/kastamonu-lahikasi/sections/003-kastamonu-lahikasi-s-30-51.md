@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.003.kastamonu-lahikasi-s-30-51"
 section_order: 3
 section_slug: "kastamonu-lahikasi-s-30-51"
 section_title: "Kastamonu Lâhikası s.30-51"
+aliases:
+  - "Kastamonu Lahikasi s.30-51"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "dua"
+  - "kalp"
+  - "ayet"
+  - "lahika"
+  - "keramet"
+  - "dünya"
 source_section_path: "books/kastamonu-lahikasi/by_heading/03 Kastamonu Lâhikası s.30-51.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

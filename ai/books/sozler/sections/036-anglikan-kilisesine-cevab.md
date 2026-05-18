@@ -5,6 +5,15 @@ section_id: "sozler.036.anglikan-kilisesine-cevab"
 section_order: 36
 section_slug: "anglikan-kilisesine-cevab"
 section_title: "Anglikan Kilisesine Cevab"
+keywords:
+  - "fikir"
+  - "iman"
+  - "tevhid"
+  - "hayat"
+  - "insan"
+  - "anglikan kilisesine cevab"
+  - "sozler"
+  - "risale-i nur"
 source_section_path: "books/sozler/by_heading/035 - Anglikan Kilisesine Cevab.md"
 source_name: null
 source_url: null

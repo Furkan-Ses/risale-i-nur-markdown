@@ -5,6 +5,18 @@ section_id: "mektubat.013.on-ucuncu-mektup"
 section_order: 13
 section_slug: "on-ucuncu-mektup"
 section_title: "On Üçüncü Mektup"
+aliases:
+  - "On Ucuncu Mektup"
+  - "13. Mektup"
+keywords:
+  - "dünya"
+  - "kader"
+  - "rahmet"
+  - "ihlas"
+  - "ahiret"
+  - "hayat"
+  - "merhamet"
+  - "adalet"
 source_section_path: "books/mektubat/by_heading/13 On Üçüncü Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.010.hanimlar-rehberi"
 section_order: 10
 section_slug: "hanimlar-rehberi"
 section_title: "HANIMLAR REHBERİ"
+aliases:
+  - "HANIMLAR REHBERI"
+keywords:
+  - "dünya"
+  - "iman"
+  - "risale-i nur"
+  - "hayat"
+  - "şefkat"
+  - "insan"
+  - "cennet"
+  - "ruh"
 source_section_path: "books/kucuk-kitaplar/by_heading/10 HANIMLAR REHBERİ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

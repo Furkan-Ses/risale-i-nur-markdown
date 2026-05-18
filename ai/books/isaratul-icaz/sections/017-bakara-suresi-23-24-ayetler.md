@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.017.bakara-suresi-23-24-ayetler"
 section_order: 17
 section_slug: "bakara-suresi-23-24-ayetler"
 section_title: "Bakara Suresi 23-24. âyetler"
+aliases:
+  - "Bakara Suresi 23-24. ayetler"
+keywords:
+  - "ayet"
+  - "insan"
+  - "i'caz"
+  - "cehennem"
+  - "nübüvvet"
+  - "belagat"
+  - "ibadet"
+  - "bakara"
 source_section_path: "books/isaratul-icaz/by_heading/17 Bakara Suresi 23-24. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

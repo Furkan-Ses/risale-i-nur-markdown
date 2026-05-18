@@ -5,6 +5,17 @@ section_id: "asa-yi-musa.010.dokuzuncu-mesele"
 section_order: 10
 section_slug: "dokuzuncu-mesele"
 section_title: "Dokuzuncu Mesele"
+aliases:
+  - "9. Mesele"
+keywords:
+  - "iman"
+  - "hüccet"
+  - "akıl"
+  - "ahiret"
+  - "rububiyet"
+  - "insan"
+  - "nimet"
+  - "hayat"
 source_section_path: "books/asa-yi-musa/by_heading/109 Dokuzuncu Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

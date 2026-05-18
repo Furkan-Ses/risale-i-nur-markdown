@@ -5,6 +5,17 @@ section_id: "lemalar.031.otuz-birinci-lema"
 section_order: 31
 section_slug: "otuz-birinci-lema"
 section_title: "Otuz Birinci Lem’a"
+aliases:
+  - "Otuz Birinci Lema"
+  - "31. Lem’a"
+  - "31. Lema"
+keywords:
+  - "hüccet"
+  - "müdafaa"
+  - "telif edilmemiş"
+  - "otuz birinci lem’a"
+  - "lemalar"
+  - "risale-i nur"
 source_section_path: "books/lemalar/by_heading/31 Otuz Birinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

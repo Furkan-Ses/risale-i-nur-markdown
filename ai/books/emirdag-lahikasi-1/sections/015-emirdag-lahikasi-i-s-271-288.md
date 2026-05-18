@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.015.emirdag-lahikasi-i-s-271-288"
 section_order: 15
 section_slug: "emirdag-lahikasi-i-s-271-288"
 section_title: "Emirdağ Lâhikası - I s.271-288"
+aliases:
+  - "Emirdag Lahikasi - I s.271-288"
+keywords:
+  - "risale-i nur"
+  - "dünya"
+  - "lahika"
+  - "musa"
+  - "iman"
+  - "ruh"
+  - "ihlas"
+  - "şefkat"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/15 Emirdağ Lâhikası - I s.271-288.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

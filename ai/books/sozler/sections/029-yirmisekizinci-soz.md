@@ -5,6 +5,17 @@ section_id: "sozler.029.yirmisekizinci-soz"
 section_order: 29
 section_slug: "yirmisekizinci-soz"
 section_title: "Yirmisekizinci Söz"
+aliases:
+  - "Yirmisekizinci Soz"
+keywords:
+  - "cennet"
+  - "dünya"
+  - "insan"
+  - "cehennem"
+  - "hayat"
+  - "rahmet"
+  - "hapishane"
+  - "küfür"
 source_section_path: "books/sozler/by_heading/028 - Yirmisekizinci Söz.md"
 source_name: null
 source_url: null

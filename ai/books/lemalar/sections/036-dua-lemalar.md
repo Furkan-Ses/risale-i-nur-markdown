@@ -5,6 +5,17 @@ section_id: "lemalar.036.dua-lemalar"
 section_order: 36
 section_slug: "dua-lemalar"
 section_title: "Dua (Lem’alar)"
+aliases:
+  - "Dua (Lemalar)"
+keywords:
+  - "dua"
+  - "cennet"
+  - "ihlas"
+  - "iman"
+  - "risale-i nur"
+  - "alar"
+  - "dua (lem’alar)"
+  - "lemalar"
 source_section_path: "books/lemalar/by_heading/36 Dua (Lem’alar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

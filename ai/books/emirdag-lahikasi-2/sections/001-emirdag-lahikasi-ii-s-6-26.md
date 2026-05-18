@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.001.emirdag-lahikasi-ii-s-6-26"
 section_order: 1
 section_slug: "emirdag-lahikasi-ii-s-6-26"
 section_title: "Emirdağ Lâhikası - II s.6-26"
+aliases:
+  - "Emirdag Lahikasi - II s.6-26"
+keywords:
+  - "hayat"
+  - "ruh"
+  - "dua"
+  - "lahika"
+  - "risale-i nur"
+  - "kalp"
+  - "musa"
+  - "ihlas"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/01 Emirdağ Lâhikası - II s.6-26.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

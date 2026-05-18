@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.002.ilk-hayati"
 section_order: 2
 section_slug: "ilk-hayati"
 section_title: "İlk Hayatı"
+aliases:
+  - "Ilk Hayati"
+keywords:
+  - "hayat"
+  - "iman"
+  - "ruh"
+  - "kalp"
+  - "dünya"
+  - "insan"
+  - "musa"
+  - "tefsir"
 source_section_path: "books/tarihce-i-hayat/by_heading/02 İlk Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

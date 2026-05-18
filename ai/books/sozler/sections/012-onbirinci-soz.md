@@ -5,6 +5,17 @@ section_id: "sozler.012.onbirinci-soz"
 section_order: 12
 section_slug: "onbirinci-soz"
 section_title: "Onbirinci Söz"
+aliases:
+  - "Onbirinci Soz"
+keywords:
+  - "hayat"
+  - "nimet"
+  - "rahmet"
+  - "ubudiyet"
+  - "insan"
+  - "hikmet"
+  - "iman"
+  - "kalp"
 source_section_path: "books/sozler/by_heading/011 - Onbirinci Söz.md"
 source_name: null
 source_url: null

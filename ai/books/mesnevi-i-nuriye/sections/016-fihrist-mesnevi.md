@@ -5,6 +5,17 @@ section_id: "mesnevi-i-nuriye.016.fihrist-mesnevi"
 section_order: 16
 section_slug: "fihrist-mesnevi"
 section_title: "Fihrist (Mesnevî)"
+aliases:
+  - "Fihrist (Mesnevi)"
+keywords:
+  - "fihrist"
+  - "iman"
+  - "zikir"
+  - "hikmet"
+  - "insan"
+  - "i'caz"
+  - "risale-i nur"
+  - "musa"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/16 Fihrist (Mesnevî).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

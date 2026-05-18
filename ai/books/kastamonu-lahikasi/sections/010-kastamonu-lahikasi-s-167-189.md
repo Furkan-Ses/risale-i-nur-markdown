@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.010.kastamonu-lahikasi-s-167-189"
 section_order: 10
 section_slug: "kastamonu-lahikasi-s-167-189"
 section_title: "Kastamonu Lâhikası s.167-189"
+aliases:
+  - "Kastamonu Lahikasi s.167-189"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "ayet"
+  - "lahika"
+  - "musibet"
+  - "hayat"
+  - "kalp"
+  - "dua"
 source_section_path: "books/kastamonu-lahikasi/by_heading/10 Kastamonu Lâhikası s.167-189.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

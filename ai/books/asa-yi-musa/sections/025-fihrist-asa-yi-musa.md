@@ -5,6 +5,17 @@ section_id: "asa-yi-musa.025.fihrist-asa-yi-musa"
 section_order: 25
 section_slug: "fihrist-asa-yi-musa"
 section_title: "Fihrist (Asâ-yı Musa)"
+aliases:
+  - "Fihrist (Asa-yi Musa)"
+keywords:
+  - "hüccet"
+  - "fihrist"
+  - "musa"
+  - "iman"
+  - "haşir"
+  - "münacat"
+  - "ayet"
+  - "risale-i nur"
 source_section_path: "books/asa-yi-musa/by_heading/212 Fihrist (Asâ-yı Musa).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

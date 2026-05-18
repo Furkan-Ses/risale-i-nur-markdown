@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.003.emirdag-lahikasi-ii-s-51-70"
 section_order: 3
 section_slug: "emirdag-lahikasi-ii-s-51-70"
 section_title: "Emirdağ Lâhikası - II s.51-70"
+aliases:
+  - "Emirdag Lahikasi - II s.51-70"
+keywords:
+  - "iman"
+  - "musa"
+  - "risale-i nur"
+  - "lahika"
+  - "ruh"
+  - "hapishane"
+  - "tefsir"
+  - "adalet"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/03 Emirdağ Lâhikası - II s.51-70.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "mektubat.038.hakikat-isiklari"
 section_order: 38
 section_slug: "hakikat-isiklari"
 section_title: "Hakikat Işıkları"
+aliases:
+  - "Hakikat Isiklari"
+keywords:
+  - "rahmet"
+  - "bürhan"
+  - "cennet"
+  - "hastalar"
+  - "iman"
+  - "insan"
+  - "hakikat işıkları"
+  - "mektubat"
 source_section_path: "books/mektubat/by_heading/38 Hakikat Işıkları.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

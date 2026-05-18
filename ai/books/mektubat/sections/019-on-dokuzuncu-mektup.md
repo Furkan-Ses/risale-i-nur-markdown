@@ -5,6 +5,17 @@ section_id: "mektubat.019.on-dokuzuncu-mektup"
 section_order: 19
 section_slug: "on-dokuzuncu-mektup"
 section_title: "On Dokuzuncu Mektup"
+aliases:
+  - "19. Mektup"
+keywords:
+  - "dua"
+  - "nübüvvet"
+  - "iman"
+  - "ayet"
+  - "insan"
+  - "i'caz"
+  - "bereket"
+  - "şifa"
 source_section_path: "books/mektubat/by_heading/19 On Dokuzuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

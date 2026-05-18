@@ -5,6 +5,18 @@ section_id: "mektubat.022.yirmi-ikinci-mektup"
 section_order: 22
 section_slug: "yirmi-ikinci-mektup"
 section_title: "Yirmi İkinci Mektup"
+aliases:
+  - "Yirmi Ikinci Mektup"
+  - "22. Mektup"
+keywords:
+  - "hayat"
+  - "iman"
+  - "kalp"
+  - "rahmet"
+  - "dünya"
+  - "adalet"
+  - "uhuvvet"
+  - "şifa"
 source_section_path: "books/mektubat/by_heading/22 Yirmi İkinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

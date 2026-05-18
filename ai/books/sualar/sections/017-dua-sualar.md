@@ -5,6 +5,17 @@ section_id: "sualar.017.dua-sualar"
 section_order: 17
 section_slug: "dua-sualar"
 section_title: "Dua (Şuâlar)"
+aliases:
+  - "Dua (Sualar)"
+keywords:
+  - "dua"
+  - "cennet"
+  - "ihlas"
+  - "iman"
+  - "risale-i nur"
+  - "şuâlar"
+  - "dua (şuâlar)"
+  - "sualar"
 source_section_path: "books/sualar/by_heading/17 Dua (Şuâlar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "mektubat.036.gonuller-fatihi-buyuk-ustada"
 section_order: 36
 section_slug: "gonuller-fatihi-buyuk-ustada"
 section_title: "Gönüller Fatihi Büyük Üstada"
+aliases:
+  - "Gonuller Fatihi Buyuk Ustada"
+keywords:
+  - "iman"
+  - "risale-i nur"
+  - "cennet"
+  - "kalp"
+  - "ruh"
+  - "gaybi"
+  - "hikmet"
+  - "sikke-i tasdik-i gaybi"
 source_section_path: "books/mektubat/by_heading/36 Gönüller Fatihi Büyük Üstada.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

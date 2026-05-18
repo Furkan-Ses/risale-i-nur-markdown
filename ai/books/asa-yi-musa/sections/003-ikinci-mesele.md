@@ -5,6 +5,18 @@ section_id: "asa-yi-musa.003.ikinci-mesele"
 section_order: 3
 section_slug: "ikinci-mesele"
 section_title: "İkinci Mesele"
+aliases:
+  - "Ikinci Mesele"
+  - "2. Mesele"
+keywords:
+  - "hapishane"
+  - "ölüm"
+  - "musibet"
+  - "iman"
+  - "cehennem"
+  - "dünya"
+  - "gençlik"
+  - "hüccet"
 source_section_path: "books/asa-yi-musa/by_heading/102 İkinci Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

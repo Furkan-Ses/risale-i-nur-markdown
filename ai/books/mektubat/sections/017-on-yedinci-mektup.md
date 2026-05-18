@@ -5,6 +5,17 @@ section_id: "mektubat.017.on-yedinci-mektup"
 section_order: 17
 section_slug: "on-yedinci-mektup"
 section_title: "On Yedinci Mektup"
+aliases:
+  - "17. Mektup"
+keywords:
+  - "cennet"
+  - "dünya"
+  - "iman"
+  - "rahmet"
+  - "şefkat"
+  - "ahiret"
+  - "kalp"
+  - "merhamet"
 source_section_path: "books/mektubat/by_heading/17 On Yedinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

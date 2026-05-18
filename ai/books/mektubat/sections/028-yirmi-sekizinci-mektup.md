@@ -5,6 +5,17 @@ section_id: "mektubat.028.yirmi-sekizinci-mektup"
 section_order: 28
 section_slug: "yirmi-sekizinci-mektup"
 section_title: "Yirmi Sekizinci Mektup"
+aliases:
+  - "28. Mektup"
+keywords:
+  - "şükür"
+  - "i'caz"
+  - "insan"
+  - "gaybi"
+  - "iman"
+  - "keramet"
+  - "kalp"
+  - "nimet"
 source_section_path: "books/mektubat/by_heading/28 Yirmi Sekizinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

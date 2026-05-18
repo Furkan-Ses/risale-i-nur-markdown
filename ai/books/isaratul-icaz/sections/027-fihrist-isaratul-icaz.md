@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.027.fihrist-isaratul-icaz"
 section_order: 27
 section_slug: "fihrist-isaratul-icaz"
 section_title: "Fihrist (İşaratü’l-İ’caz)"
+aliases:
+  - "Fihrist (Isaratu'l-I'caz)"
+keywords:
+  - "i'caz"
+  - "fihrist"
+  - "huruf-u mukattaa"
+  - "iman"
+  - "ahiret"
+  - "bakara"
+  - "belagat"
+  - "dua"
 source_section_path: "books/isaratul-icaz/by_heading/27 Fihrist (İşaratü’l-İ’caz).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

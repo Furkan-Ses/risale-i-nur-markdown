@@ -5,6 +5,17 @@ section_id: "sozler.013.onikinci-soz"
 section_order: 13
 section_slug: "onikinci-soz"
 section_title: "Onikinci Söz"
+aliases:
+  - "Onikinci Soz"
+keywords:
+  - "hikmet"
+  - "ayet"
+  - "hayat"
+  - "kalp"
+  - "i'caz"
+  - "ibadet"
+  - "insan"
+  - "musa"
 source_section_path: "books/sozler/by_heading/012 - Onikinci Söz.md"
 source_name: null
 source_url: null

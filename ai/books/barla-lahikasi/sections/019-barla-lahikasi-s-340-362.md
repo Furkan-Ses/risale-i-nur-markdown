@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.019.barla-lahikasi-s-340-362"
 section_order: 19
 section_slug: "barla-lahikasi-s-340-362"
 section_title: "Barla Lâhikası s.340-362"
+aliases:
+  - "Barla Lahikasi s.340-362"
+keywords:
+  - "dua"
+  - "lahika"
+  - "ruh"
+  - "hayat"
+  - "i'caz"
+  - "musa"
+  - "kalp"
+  - "keramet"
 source_section_path: "books/barla-lahikasi/by_heading/19 Barla Lâhikası s.340-362.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

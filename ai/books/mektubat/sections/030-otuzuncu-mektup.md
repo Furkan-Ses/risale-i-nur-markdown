@@ -5,6 +5,16 @@ section_id: "mektubat.030.otuzuncu-mektup"
 section_order: 30
 section_slug: "otuzuncu-mektup"
 section_title: "Otuzuncu Mektup"
+aliases:
+  - "30. Mektup"
+keywords:
+  - "i'caz"
+  - "tefsir"
+  - "otuzuncu"
+  - "otuzuncu mektup"
+  - "mektubat"
+  - "mektup"
+  - "risale-i nur"
 source_section_path: "books/mektubat/by_heading/30 Otuzuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

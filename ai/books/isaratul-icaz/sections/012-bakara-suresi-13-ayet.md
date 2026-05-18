@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.012.bakara-suresi-13-ayet"
 section_order: 12
 section_slug: "bakara-suresi-13-ayet"
 section_title: "Bakara Suresi 13. âyet"
+aliases:
+  - "Bakara Suresi 13. ayet"
+keywords:
+  - "ayet"
+  - "iman"
+  - "bakara"
+  - "kalp"
+  - "zikir"
+  - "ihlas"
+  - "nefis"
+  - "ahiret"
 source_section_path: "books/isaratul-icaz/by_heading/12 Bakara Suresi 13. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

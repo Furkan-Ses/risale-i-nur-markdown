@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.002.kastamonu-lahikasi-s-10-30"
 section_order: 2
 section_slug: "kastamonu-lahikasi-s-10-30"
 section_title: "Kastamonu Lâhikası s.10-30"
+aliases:
+  - "Kastamonu Lahikasi s.10-30"
+keywords:
+  - "iman"
+  - "dua"
+  - "risale-i nur"
+  - "lahika"
+  - "kalp"
+  - "musa"
+  - "ruh"
+  - "şükür"
 source_section_path: "books/kastamonu-lahikasi/by_heading/02 Kastamonu Lâhikası s.10-30.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

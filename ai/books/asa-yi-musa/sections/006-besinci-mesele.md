@@ -5,6 +5,18 @@ section_id: "asa-yi-musa.006.besinci-mesele"
 section_order: 6
 section_slug: "besinci-mesele"
 section_title: "Beşinci Mesele"
+aliases:
+  - "Besinci Mesele"
+  - "5. Mesele"
+keywords:
+  - "gençlik"
+  - "hapishane"
+  - "nimet"
+  - "ahiret"
+  - "hastalık"
+  - "kalp"
+  - "ruh"
+  - "ölüm"
 source_section_path: "books/asa-yi-musa/by_heading/105 Beşinci Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

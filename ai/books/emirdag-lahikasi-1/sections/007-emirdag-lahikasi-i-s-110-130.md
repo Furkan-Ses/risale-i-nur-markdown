@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.007.emirdag-lahikasi-i-s-110-130"
 section_order: 7
 section_slug: "emirdag-lahikasi-i-s-110-130"
 section_title: "Emirdağ Lâhikası - I s.110-130"
+aliases:
+  - "Emirdag Lahikasi - I s.110-130"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "kalp"
+  - "gaybi"
+  - "dua"
+  - "ruh"
+  - "musa"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/07 Emirdağ Lâhikası - I s.110-130.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

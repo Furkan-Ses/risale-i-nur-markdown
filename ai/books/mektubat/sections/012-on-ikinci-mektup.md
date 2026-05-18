@@ -5,6 +5,18 @@ section_id: "mektubat.012.on-ikinci-mektup"
 section_order: 12
 section_slug: "on-ikinci-mektup"
 section_title: "On İkinci Mektup"
+aliases:
+  - "On Ikinci Mektup"
+  - "12. Mektup"
+keywords:
+  - "hikmet"
+  - "insan"
+  - "iman"
+  - "musa"
+  - "cennet"
+  - "cehennem"
+  - "rahmet"
+  - "ruh"
 source_section_path: "books/mektubat/by_heading/12 On İkinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

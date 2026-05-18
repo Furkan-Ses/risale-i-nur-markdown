@@ -5,6 +5,17 @@ section_id: "mektubat.009.dokuzuncu-mektup"
 section_order: 9
 section_slug: "dokuzuncu-mektup"
 section_title: "Dokuzuncu Mektup"
+aliases:
+  - "9. Mektup"
+keywords:
+  - "iman"
+  - "keramet"
+  - "dünya"
+  - "nimet"
+  - "insan"
+  - "bürhan"
+  - "hikmet"
+  - "ahiret"
 source_section_path: "books/mektubat/by_heading/09 Dokuzuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

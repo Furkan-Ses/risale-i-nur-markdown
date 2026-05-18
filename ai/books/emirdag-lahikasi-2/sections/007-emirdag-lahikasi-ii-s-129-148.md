@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.007.emirdag-lahikasi-ii-s-129-148"
 section_order: 7
 section_slug: "emirdag-lahikasi-ii-s-129-148"
 section_title: "Emirdağ Lâhikası - II s.129-148"
+aliases:
+  - "Emirdag Lahikasi - II s.129-148"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "hayat"
+  - "hapishane"
+  - "lahika"
+  - "dünya"
+  - "gençlik"
+  - "kalp"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/07 Emirdağ Lâhikası - II s.129-148.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

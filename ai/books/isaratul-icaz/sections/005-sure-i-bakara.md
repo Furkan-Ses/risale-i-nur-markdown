@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.005.sure-i-bakara"
 section_order: 5
 section_slug: "sure-i-bakara"
 section_title: "Sure-i Bakara"
+aliases:
+  - "Bakara Suresi"
+keywords:
+  - "belagat"
+  - "zikir"
+  - "iman"
+  - "i'caz"
+  - "bakara"
+  - "insan"
+  - "huruf-u mukattaa"
+  - "ayet"
 source_section_path: "books/isaratul-icaz/by_heading/05 Bakara Suresi 1- 2- 3. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

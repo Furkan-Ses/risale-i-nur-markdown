@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.009.isparta-hayati"
 section_order: 9
 section_slug: "isparta-hayati"
 section_title: "Isparta Hayatı"
+aliases:
+  - "Isparta Hayati"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "hayat"
+  - "insan"
+  - "kalp"
+  - "hapishane"
+  - "ruh"
+  - "dünya"
 source_section_path: "books/tarihce-i-hayat/by_heading/09 Isparta Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

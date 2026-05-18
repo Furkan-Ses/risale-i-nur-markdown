@@ -5,6 +5,19 @@ section_id: "sozler.004.ucuncu-soz"
 section_order: 4
 section_slug: "ucuncu-soz"
 section_title: "Üçüncü Söz"
+aliases:
+  - "Ucuncu Soz"
+  - "3. Söz"
+  - "3. Soz"
+keywords:
+  - "ibadet"
+  - "kalp"
+  - "ruh"
+  - "ahiret"
+  - "iman"
+  - "musa"
+  - "musibet"
+  - "tevekkül"
 source_section_path: "books/sozler/by_heading/003 - Üçüncü Söz.md"
 source_name: null
 source_url: null

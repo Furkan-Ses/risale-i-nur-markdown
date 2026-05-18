@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.009.genclik-rehberi"
 section_order: 9
 section_slug: "genclik-rehberi"
 section_title: "GENÇLİK REHBERİ"
+aliases:
+  - "GENCLIK REHBERI"
+keywords:
+  - "insan"
+  - "iman"
+  - "dünya"
+  - "hayat"
+  - "risale-i nur"
+  - "rahmet"
+  - "cennet"
+  - "kalp"
 source_section_path: "books/kucuk-kitaplar/by_heading/09 GENÇLİK REHBERİ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

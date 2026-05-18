@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.006.divan-i-harb-i-orfi"
 section_order: 6
 section_slug: "divan-i-harb-i-orfi"
 section_title: "DİVAN-I HARB-İ ÖRFÎ"
+aliases:
+  - "DIVAN-I HARB-I ORFI"
+keywords:
+  - "hayat"
+  - "musa"
+  - "adalet"
+  - "insan"
+  - "kalp"
+  - "hapishane"
+  - "tevhid"
+  - "dünya"
 source_section_path: "books/kucuk-kitaplar/by_heading/06 DİVAN-I HARB-İ ÖRFÎ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

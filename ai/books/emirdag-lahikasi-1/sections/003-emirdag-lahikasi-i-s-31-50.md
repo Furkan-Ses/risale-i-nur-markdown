@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.003.emirdag-lahikasi-i-s-31-50"
 section_order: 3
 section_slug: "emirdag-lahikasi-i-s-31-50"
 section_title: "Emirdağ Lâhikası - I s.31-50"
+aliases:
+  - "Emirdag Lahikasi - I s.31-50"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "ayet"
+  - "rahmet"
+  - "dua"
+  - "lahika"
+  - "hayat"
+  - "dünya"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/03 Emirdağ Lâhikası - I s.31-50.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

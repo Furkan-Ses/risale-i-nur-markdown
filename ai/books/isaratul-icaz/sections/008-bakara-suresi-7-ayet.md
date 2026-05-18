@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.008.bakara-suresi-7-ayet"
 section_order: 8
 section_slug: "bakara-suresi-7-ayet"
 section_title: "Bakara Suresi 7. âyet"
+aliases:
+  - "Bakara Suresi 7. ayet"
+keywords:
+  - "kalp"
+  - "ayet"
+  - "bakara"
+  - "hikmet"
+  - "insan"
+  - "küfür"
+  - "nimet"
+  - "zikir"
 source_section_path: "books/isaratul-icaz/by_heading/08 Bakara Suresi 7. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.011.kastamonu-lahikasi-s-190-210"
 section_order: 11
 section_slug: "kastamonu-lahikasi-s-190-210"
 section_title: "Kastamonu Lâhikası s.190-210"
+aliases:
+  - "Kastamonu Lahikasi s.190-210"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "gaybi"
+  - "hikmet"
+  - "insan"
+  - "tılsım"
+  - "hüccet"
 source_section_path: "books/kastamonu-lahikasi/by_heading/11 Kastamonu Lâhikası s.190-210.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

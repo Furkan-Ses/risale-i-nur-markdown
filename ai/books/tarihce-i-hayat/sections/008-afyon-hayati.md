@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.008.afyon-hayati"
 section_order: 8
 section_slug: "afyon-hayati"
 section_title: "Afyon Hayatı"
+aliases:
+  - "Afyon Hayati"
+keywords:
+  - "iman"
+  - "risale-i nur"
+  - "hapishane"
+  - "hayat"
+  - "dünya"
+  - "hüccet"
+  - "medrese-i yusufiye"
+  - "musa"
 source_section_path: "books/tarihce-i-hayat/by_heading/08 Afyon Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

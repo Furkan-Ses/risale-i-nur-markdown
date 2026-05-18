@@ -5,6 +5,18 @@ section_id: "mektubat.015.on-besinci-mektup"
 section_order: 15
 section_slug: "on-besinci-mektup"
 section_title: "On Beşinci Mektup"
+aliases:
+  - "On Besinci Mektup"
+  - "15. Mektup"
+keywords:
+  - "adalet"
+  - "ruh"
+  - "cennet"
+  - "insan"
+  - "dünya"
+  - "iman"
+  - "kader"
+  - "merhamet"
 source_section_path: "books/mektubat/by_heading/15 On Beşinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

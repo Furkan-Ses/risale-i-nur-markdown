@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.001.on-soz"
 section_order: 1
 section_slug: "on-soz"
 section_title: "Ön söz"
+aliases:
+  - "On soz"
+keywords:
+  - "iman"
+  - "ruh"
+  - "insan"
+  - "kalp"
+  - "hayat"
+  - "fikir"
+  - "iktisat"
+  - "risale-i nur"
 source_section_path: "books/tarihce-i-hayat/by_heading/01 Ön söz.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

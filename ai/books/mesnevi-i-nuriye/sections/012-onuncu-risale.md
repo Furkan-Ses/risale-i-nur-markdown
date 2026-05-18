@@ -5,6 +5,17 @@ section_id: "mesnevi-i-nuriye.012.onuncu-risale"
 section_order: 12
 section_slug: "onuncu-risale"
 section_title: "Onuncu Risale"
+aliases:
+  - "10. Risale"
+keywords:
+  - "insan"
+  - "hayat"
+  - "dua"
+  - "nimet"
+  - "ibadet"
+  - "dünya"
+  - "iman"
+  - "ayet"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/12 Onuncu Risale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

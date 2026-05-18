@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.011.bakara-suresi-11-12-ayetler"
 section_order: 11
 section_slug: "bakara-suresi-11-12-ayetler"
 section_title: "Bakara Suresi 11-12. âyetler"
+aliases:
+  - "Bakara Suresi 11-12. ayetler"
+keywords:
+  - "ayet"
+  - "bakara"
+  - "insan"
+  - "zikir"
+  - "şefkat"
+  - "şifa"
+  - "adalet"
+  - "i'caz"
 source_section_path: "books/isaratul-icaz/by_heading/11 Bakara Suresi 11-12. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

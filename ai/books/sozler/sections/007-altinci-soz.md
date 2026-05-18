@@ -5,6 +5,19 @@ section_id: "sozler.007.altinci-soz"
 section_order: 7
 section_slug: "altinci-soz"
 section_title: "Altıncı Söz"
+aliases:
+  - "Altinci Soz"
+  - "6. Söz"
+  - "6. Soz"
+keywords:
+  - "akıl"
+  - "nefis"
+  - "rahmet"
+  - "cennet"
+  - "cehennem"
+  - "hayat"
+  - "hikmet"
+  - "kalp"
 source_section_path: "books/sozler/by_heading/006 - Altıncı Söz.md"
 source_name: null
 source_url: null

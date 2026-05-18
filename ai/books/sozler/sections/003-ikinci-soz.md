@@ -5,6 +5,19 @@ section_id: "sozler.003.ikinci-soz"
 section_order: 3
 section_slug: "ikinci-soz"
 section_title: "İkinci Söz"
+aliases:
+  - "Ikinci Soz"
+  - "2. Söz"
+  - "2. Soz"
+keywords:
+  - "iman"
+  - "zikir"
+  - "cehennem"
+  - "cennet"
+  - "kalp"
+  - "küfür"
+  - "merhamet"
+  - "musibet"
 source_section_path: "books/sozler/by_heading/002 - İkinci Söz.md"
 source_name: null
 source_url: null

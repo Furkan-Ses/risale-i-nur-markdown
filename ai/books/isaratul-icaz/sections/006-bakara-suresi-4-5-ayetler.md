@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.006.bakara-suresi-4-5-ayetler"
 section_order: 6
 section_slug: "bakara-suresi-4-5-ayetler"
 section_title: "Bakara Suresi 4-5. âyetler"
+aliases:
+  - "Bakara Suresi 4-5. ayetler"
+keywords:
+  - "ayet"
+  - "iman"
+  - "insan"
+  - "hidayet"
+  - "bürhan"
+  - "zikir"
+  - "bakara"
+  - "ahiret"
 source_section_path: "books/isaratul-icaz/by_heading/06 Bakara Suresi 4-5. âyetler.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

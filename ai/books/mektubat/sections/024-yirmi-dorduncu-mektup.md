@@ -5,6 +5,18 @@ section_id: "mektubat.024.yirmi-dorduncu-mektup"
 section_order: 24
 section_slug: "yirmi-dorduncu-mektup"
 section_title: "Yirmi Dördüncü Mektup"
+aliases:
+  - "Yirmi Dorduncu Mektup"
+  - "24. Mektup"
+keywords:
+  - "dua"
+  - "iman"
+  - "hayat"
+  - "hikmet"
+  - "insan"
+  - "rububiyet"
+  - "rahmet"
+  - "dünya"
 source_section_path: "books/mektubat/by_heading/24 Yirmi Dördüncü Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

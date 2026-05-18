@@ -5,6 +5,15 @@ section_id: "mektubat.025.yirmi-besinci-mektup"
 section_order: 25
 section_slug: "yirmi-besinci-mektup"
 section_title: "Yirmi Beşinci Mektup"
+aliases:
+  - "Yirmi Besinci Mektup"
+  - "25. Mektup"
+keywords:
+  - "telif edilmemiş"
+  - "yirmi beşinci mektup"
+  - "mektubat"
+  - "mektup"
+  - "risale-i nur"
 source_section_path: "books/mektubat/by_heading/25 Yirmi Beşinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

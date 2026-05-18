@@ -5,6 +5,17 @@ section_id: "mesnevi-i-nuriye.013.sule"
 section_order: 13
 section_slug: "sule"
 section_title: "Şule"
+aliases:
+  - "Sule"
+keywords:
+  - "şifa"
+  - "dua"
+  - "kalp"
+  - "nimet"
+  - "hikmet"
+  - "zikir"
+  - "ibadet"
+  - "fikir"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/13 Şule.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

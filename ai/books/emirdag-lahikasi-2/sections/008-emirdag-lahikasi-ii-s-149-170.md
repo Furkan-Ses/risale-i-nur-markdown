@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.008.emirdag-lahikasi-ii-s-149-170"
 section_order: 8
 section_slug: "emirdag-lahikasi-ii-s-149-170"
 section_title: "Emirdağ Lâhikası - II s.149-170"
+aliases:
+  - "Emirdag Lahikasi - II s.149-170"
+keywords:
+  - "iman"
+  - "risale-i nur"
+  - "ayet"
+  - "lahika"
+  - "ruh"
+  - "kalp"
+  - "cehennem"
+  - "dünya"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/08 Emirdağ Lâhikası - II s.149-170.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

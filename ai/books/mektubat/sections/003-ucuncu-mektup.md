@@ -5,6 +5,18 @@ section_id: "mektubat.003.ucuncu-mektup"
 section_order: 3
 section_slug: "ucuncu-mektup"
 section_title: "Üçüncü Mektup"
+aliases:
+  - "Ucuncu Mektup"
+  - "3. Mektup"
+keywords:
+  - "cehennem"
+  - "vahdet"
+  - "hikmet"
+  - "cennet"
+  - "belagat"
+  - "i'caz"
+  - "iman"
+  - "ahiret"
 source_section_path: "books/mektubat/by_heading/03 Üçüncü Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,14 @@ section_id: "sozler.001.kapak-ve-giris"
 section_order: 1
 section_slug: "kapak-ve-giris"
 section_title: "Kapak ve Giriş"
+aliases:
+  - "Kapak ve Giris"
+keywords:
+  - "musa"
+  - "risale-i nur"
+  - "kapak giriş"
+  - "kapak ve giriş"
+  - "sozler"
 source_section_path: "books/sozler/by_heading/000 - Kapak ve Giriş.md"
 source_name: null
 source_url: null

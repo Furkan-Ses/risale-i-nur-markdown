@@ -5,6 +5,17 @@ section_id: "asa-yi-musa.012.on-birinci-mesele"
 section_order: 12
 section_slug: "on-birinci-mesele"
 section_title: "On Birinci Mesele"
+aliases:
+  - "11. Mesele"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "dünya"
+  - "i'caz"
+  - "cennet"
+  - "hayat"
+  - "hüccet"
+  - "rahmet"
 source_section_path: "books/asa-yi-musa/by_heading/111 On Birinci Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

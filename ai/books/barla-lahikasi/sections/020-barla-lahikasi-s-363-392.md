@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.020.barla-lahikasi-s-363-392"
 section_order: 20
 section_slug: "barla-lahikasi-s-363-392"
 section_title: "Barla Lâhikası s.363-392"
+aliases:
+  - "Barla Lahikasi s.363-392"
+keywords:
+  - "risale-i nur"
+  - "dünya"
+  - "şefkat"
+  - "iman"
+  - "dua"
+  - "ruh"
+  - "lahika"
+  - "kalp"
 source_section_path: "books/barla-lahikasi/by_heading/20 Barla Lâhikası s.363-392.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

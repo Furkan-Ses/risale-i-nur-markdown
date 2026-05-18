@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.010.emirdag-lahikasi-i-s-170-190"
 section_order: 10
 section_slug: "emirdag-lahikasi-i-s-170-190"
 section_title: "Emirdağ Lâhikası - I s.170-190"
+aliases:
+  - "Emirdag Lahikasi - I s.170-190"
+keywords:
+  - "musa"
+  - "risale-i nur"
+  - "lahika"
+  - "hayat"
+  - "dua"
+  - "ruh"
+  - "dünya"
+  - "iman"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/10 Emirdağ Lâhikası - I s.170-190.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

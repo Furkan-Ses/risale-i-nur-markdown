@@ -5,6 +5,18 @@ section_id: "muhakemat.003.ucuncu-makale"
 section_order: 3
 section_slug: "ucuncu-makale"
 section_title: "Üçüncü Makale"
+aliases:
+  - "Ucuncu Makale"
+  - "3. Makale"
+keywords:
+  - "insan"
+  - "musa"
+  - "bürhan"
+  - "hikmet"
+  - "nübüvvet"
+  - "kalp"
+  - "akıl"
+  - "hayat"
 source_section_path: "books/muhakemat/by_heading/03 Üçüncü Makale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

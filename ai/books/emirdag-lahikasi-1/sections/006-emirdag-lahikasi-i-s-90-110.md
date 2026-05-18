@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.006.emirdag-lahikasi-i-s-90-110"
 section_order: 6
 section_slug: "emirdag-lahikasi-i-s-90-110"
 section_title: "Emirdağ Lâhikası - I s.90-110"
+aliases:
+  - "Emirdag Lahikasi - I s.90-110"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "dua"
+  - "ruh"
+  - "ayet"
+  - "hüccet"
+  - "dünya"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/06 Emirdağ Lâhikası - I s.90-110.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

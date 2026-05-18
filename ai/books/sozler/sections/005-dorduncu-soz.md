@@ -5,6 +5,19 @@ section_id: "sozler.005.dorduncu-soz"
 section_order: 5
 section_slug: "dorduncu-soz"
 section_title: "Dördüncü Söz"
+aliases:
+  - "Dorduncu Soz"
+  - "4. Söz"
+  - "4. Soz"
+keywords:
+  - "akıl"
+  - "ahiret"
+  - "cennet"
+  - "hikmet"
+  - "ibadet"
+  - "kalp"
+  - "merhamet"
+  - "musa"
 source_section_path: "books/sozler/by_heading/004 - Dördüncü Söz.md"
 source_name: null
 source_url: null

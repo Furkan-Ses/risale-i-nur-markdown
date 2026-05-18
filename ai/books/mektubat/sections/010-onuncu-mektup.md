@@ -5,6 +5,17 @@ section_id: "mektubat.010.onuncu-mektup"
 section_order: 10
 section_slug: "onuncu-mektup"
 section_title: "Onuncu Mektup"
+aliases:
+  - "10. Mektup"
+keywords:
+  - "kader"
+  - "fihrist"
+  - "hikmet"
+  - "haşir"
+  - "gaybi"
+  - "tefsir"
+  - "zikir"
+  - "ölüm"
 source_section_path: "books/mektubat/by_heading/10 Onuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

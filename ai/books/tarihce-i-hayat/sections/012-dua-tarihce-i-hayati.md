@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.012.dua-tarihce-i-hayati"
 section_order: 12
 section_slug: "dua-tarihce-i-hayati"
 section_title: "Dua (Tarihçe-i Hayatı)"
+aliases:
+  - "Dua (Tarihce-i Hayati)"
+keywords:
+  - "dua"
+  - "hayat"
+  - "cennet"
+  - "ihlas"
+  - "iman"
+  - "risale-i nur"
+  - "tarihçe hayatı"
+  - "dua (tarihçe-i hayatı)"
 source_section_path: "books/tarihce-i-hayat/by_heading/12 Dua (Tarihçe-i Hayatı).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

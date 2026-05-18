@@ -5,6 +5,17 @@ section_id: "sozler.033.otuzikinci-soz"
 section_order: 33
 section_slug: "otuzikinci-soz"
 section_title: "Otuzikinci Söz"
+aliases:
+  - "Otuzikinci Soz"
+keywords:
+  - "hikmet"
+  - "dünya"
+  - "insan"
+  - "cennet"
+  - "hayat"
+  - "rahmet"
+  - "vahdet"
+  - "musa"
 source_section_path: "books/sozler/by_heading/032 - Otuzikinci Söz.md"
 source_name: null
 source_url: null
@@ -265,6 +276,8 @@ Bir yıldızın tokadıyla yere sukut eden ehl-i şirk ve dalaletin vekili, zerr
 
 [Page 602]
 
+## Birinci sual
+
 Birinci sual: Zındıka lisanıyla diyor ki: “Ey ehl-i tevhid! Ben, kendi müekkillerim namına bir şey bulamadım, mevcudatta bir hisse çıkaramadım, mesleğimi ispat edemedim. Fakat siz ne ile nihayetsiz bir kudret sahibi bir Vâhid-i Ehad’i ispat ediyorsunuz? Neden onun kudretiyle beraber başka eller karışmasını kabil görmüyorsunuz?”
 
 Elcevap: Yirmi İkinci Söz’de kat’î ispat edilmiş ki bütün mevcudat, bütün zerrat, bütün yıldızlar, her biri Vâcibü’l-vücud’un ve Kadîr-i Mutlak’ın vücub-u vücuduna birer bürhan-ı neyyirdir. Bütün kâinattaki silsilelerin her biri, onun vahdaniyetine birer delil-i kat’îdir. Kur’an-ı Hakîm hadsiz bürhanlarında ispat ettiği gibi umumun nazarına en zahir bürhanları daha ziyade zikreder. Ezcümle:
@@ -349,6 +362,8 @@ Ey ehl-i tevhid! Siz diyorsunuz ki: “قُلْ هُوَ اللّٰهُ اَحَ
 
 Elcevap: Şu suale, gayet derin ve ince ve gayet yüksek ve geniş olan bir sırr-ı ehadiyet ve samediyetin beyanıyla cevap verilir. Fikr-i beşer ise o sırra ancak bir temsil dürbünüyle ve mesel rasadıyla bakabilir. Cenab-ı Hakk’ın zat ve sıfâtında misil ve misali yok. Fakat mesel ve temsil ile bir derece şuunatına bakılabilir. İşte biz de temsilat-ı maddiye ile o sırra işaret edeceğiz.
 
+## Birinci Temsil
+
 Birinci Temsil: Şöyle ki On Altıncı Söz’de ispat edildiği gibi bir tek zat-ı müşahhas, muhtelif âyineler vasıtasıyla külliyet kesbeder. Bir cüz’î-yi hakiki iken şuunat-ı kesîreye mâlik bir küllî hükmüne geçer.
 
 Evet, nasıl cismanî şeylere cam ve su gibi maddeler âyine olup cismanî bir tek şey, o âyinelerde bir külliyet kesbeder. Öyle de nurani şeylere ve ruhaniyata dahi hava ve esîr ve âlem-i misalin bazı mevcudatı, âyineler hükmünde ve berk ve hayal süratinde birer vasıta-i seyr ü seyahat suretine geçerler ki o nuraniler ve o ruhanîler, hayal süratiyle o meraya-yı nazifede ve o menazil-i latîfede gezerler. Bir anda binler yerlere girerler. Ve her âyinede, nurani oldukları ve akisleri onların aynı ve onların hâsiyetine mâlik oldukları için cismaniyetin aksine olarak, her yerde bizzat bulunur gibi hükmederler. Kesif cismanilerin akisleri ve misalleri, o cismaniyetin aynları olmadığı gibi hâsiyetine dahi mâlik değil, ölü sayılırlar.
@@ -360,6 +375,8 @@ Evet, nasıl cismanî şeylere cam ve su gibi maddeler âyine olup cismanî bir 
 Mesela güneş, müşahhas bir cüz’î olduğu halde, parlak eşya vasıtasıyla bir küllî hükmüne geçer. Zemin yüzündeki bütün parlak şeylere, hattâ her bir katre suya ve cam zerreciklerine birer aksini, birer misalî güneşi, onların kabiliyetine göre verir. Güneşin hararet ve ziyası ve ziyasındaki yedi rengi ve zatının bir nevi misali, her bir parlak cisimde bulunur. Faraza güneşin ilmi, şuuru bulunsa idi; her âyine onun bir nevi menzili ve tahtı ve iskemlesi hükmünde olup her şeyle bizzat temas eder, her zîşuurla âyineleri vasıtasıyla, hattâ göz bebeğiyle birer telefon hükmünde muhabere edebilirdi. Bir şey, bir şeye mani olmazdı. Bir muhabere, bir muhabereye set çekmezdi. Her yerde bulunmakla beraber, hiçbir yerde bulunmazdı.
 
 Acaba bir zatın bin bir isminden yalnız Nur isminin maddî ve cüz’î ve camid bir âyinesi hükmünde olan güneş, böyle teşahhusu ile beraber, küllî yerlerde küllî işlere mazhar olsa o Zat-ı Zülcelal, ehadiyet-i zatiyesiyle beraber nihayetsiz işleri bir anda yapamaz mı?
+
+## İkinci Temsil
 
 İkinci Temsil: Kâinat bir şecere hükmünde olduğu için her bir şecere, kâinatın hakaikine misal olabilir. İşte biz de şu odamızın önündeki muhteşem, muazzam çınar ağacını, kâinata bir misal-i musağğar hükmünde tutup kâinattaki cilve-i ehadiyeti onun ile göstereceğiz. Şöyle ki:
 
@@ -459,9 +476,15 @@ Hem diyorsunuz ki: Hâlık-ı âlem’in nihayetsiz kemalâtı var. Bütün enva
 
 Elcevap: Birinci şıkka beş işaret ile cevap veririz:
 
+## Birinci İşaret
+
 Birinci İşaret: Kur’an baştan başa tevhidi ispat ettiği ve gösterdiği için bir delil-i kat’îdir ki Kur’an-ı Hakîm’in o nevi kelimeleri sizin fehmettiğiniz gibi değildir. Belki اَحْسَنُ الْخَالِقٖينَ demesi, “Hâlıkıyet mertebelerinin en ahsenindedir.” demektir ki başka hâlık bulunduğuna hiç delâleti yok. Belki hâlıkıyetin sair sıfatlar gibi çok meratibi var. اَحْسَنُ الْخَالِقٖينَ demek, “Meratib-i hâlıkıyetin en güzel, en münteha mertebesinde bir Hâlık-ı Zülcelal’dir.” demektir.
 
+## İkinci İşaret
+
 İkinci İşaret: اَحْسَنُ الْخَالِقٖينَ gibi tabirler, hâlıkların taaddüdüne bakmıyor. Belki mahlukıyetin envaına bakıyor. Yani “Her şeyi, her şeye lâyık bir tarzda, en güzel bir mertebede halk eder bir Hâlık’tır.” Nasıl ki şu manayı اَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُ gibi âyetler ifade eder.
+
+## Üçüncü İşaret
 
 Üçüncü İşaret: اَحْسَنُ الْخَالِقٖينَ ، اَللّٰهُ اَكْبَرُ ، خَيْرُ الْفَاصِلٖينَ ، خَيْرُ الْمُحْسِنٖينَ gibi tabirattaki muvazene, Cenab-ı Hakk’ın vakideki sıfât ve ef’ali, sair o sıfât ve ef’alin numunelerine mâlik olanlarla muvazene ve tafdil değildir. Çünkü bütün kâinatta cin ve ins ve melekte olan kemalât, onun kemaline nisbeten zayıf bir gölgedir; nasıl muvazeneye gelebilir? Belki muvazene, insanların ve bâhusus ehl-i gafletin nazarına göredir.
 
@@ -473,7 +496,11 @@ Mesela nasıl ki bir nefer, onbaşısına karşı kemal-i itaat ve hürmeti gös
 
 İşte bunun gibi hâlık ve mün’im tevehhüm olunan zahirî esbab, ehl-i gafletin nazarında Mün’im-i Hakiki’ye perde olur. Ehl-i gaflet onlara yapışır, nimet ve ihsanı, onlardan bilir. Medh ü senalarını, onlara verir. Kur’an der ki: “Cenab-ı Hak daha büyüktür, daha güzel bir Hâlık’tır, daha iyi bir Muhsin’dir. Ona bakınız, ona teşekkür ediniz.”
 
+## Dördüncü İşaret
+
 Dördüncü İşaret: Muvazene ve tafdil, vaki mevcudlar içinde olduğu gibi imkânî, hattâ farazî eşyalar içinde dahi olabilir. Nasıl ki ekser mahiyetlerde, müteaddid meratib bulunur. Öyle de esma-i İlahiye ve sıfât-ı kudsiyenin mahiyetlerinde de akıl itibarıyla hadsiz meratib bulunabilir. Halbuki Cenab-ı Hak, o sıfât ve esmanın mümkün ve mutasavver bütün meratibinin en ekmelinde, en ahsenindedir. Bütün kâinat, kemalâtıyla bu hakikate şahittir. ‌لَهُ الْاَسْمَٓاءُ الْحُسْنٰى‌ bütün esmasını ahseniyet ile tavsif, şu manayı ifade ediyor.
+
+## Beşinci İşaret
 
 Beşinci İşaret: Şu muvazene ve müfadale, Cenab-ı Hakk’ın mâsivaya mukabil değil belki iki nevi tecelliyat ve sıfâtı var.
 
@@ -493,6 +520,8 @@ Mesela, nasıl bir padişahın –fakat veli bir padişahın– ki umum memurlar
 
 Vekilin ikinci şık sualine beş remiz ile cevaptır:
 
+## Birinci Remiz
+
 Birinci Remiz: Sualde diyor ki: “Bir şeyin zıddı olmazsa o şeyin nasıl kemali olabilir?”
 
 Elcevap: Şu sual sahibi, hakiki kemali bilmiyor. Yalnız nisbî bir kemal zannediyor. Halbuki gayra bakan ve gayra nisbeten hasıl olan meziyetler, faziletler, tefevvuklar; hakiki değiller, nisbîdirler, zayıftırlar. Eğer gayr, nazardan sâkıt olsalar onlar da sukut ederler. Mesela, sıcaklığın nisbî lezzeti ve fazileti, soğuğun tesiri iledir. Yemeğin nisbî lezzeti, açlık eleminin tesiri iledir. Onlar gitse bunlar da azalır.
@@ -500,6 +529,8 @@ Elcevap: Şu sual sahibi, hakiki kemali bilmiyor. Yalnız nisbî bir kemal zanne
 Halbuki hakiki lezzet ve muhabbet ve kemal ve fazilet odur ki gayrın tasavvuruna bina edilmesin, zatında bulunsun ve bizzat bir hakikat-i mukarrere olsun. “Lezzet-i vücud ve lezzet-i hayat ve lezzet-i muhabbet ve lezzet-i marifet ve lezzet-i iman ve lezzet-i beka ve lezzet-i rahmet ve lezzet-i şefkat ve hüsn-ü nur ve hüsn-ü basar ve hüsn-ü kelâm ve hüsn-ü kerem ve hüsn-ü sîret ve hüsn-ü suret ve kemal-i zat ve kemal-i sıfât ve kemal-i ef’al” gibi bizzat meziyetler; gayr olsun olmasın, şu meziyetler tebeddül etmez.
 
 İşte Sâni’-i Zülcelal ve Fâtır-ı Zülcemal ve Hâlık-ı Zülkemal’in bütün kemalâtı hakikiyedir, zatiyedir; gayr ve mâsiva, ona tesir etmez. Yalnız mezahir olabilirler.
+
+## İkinci Remiz
 
 İkinci Remiz: Seyyid Şerif-i Cürcanî “Şerhü’l-Mevakıf”ta demiş ki: “Sebeb-i muhabbet ya lezzet veya menfaat, ya müşakelet (yani meyl-i cinsiyet), ya kemaldir. Çünkü kemal, mahbub-u lizatihîdir.” Yani ne şeyi seversen ya lezzet için seversin, ya menfaat için ya evlada meyil gibi bir müşakele-i cinsiye için ya kemal olduğu için seversin. Eğer kemal ise başka bir sebep, bir garaz lâzım değil. O bizzat sevilir. Mesela, eski zamanda sahib-i kemalât insanları herkes sever, onlara karşı hiçbir alâka olmadığı halde istihsankârane muhabbet edilir.
 
@@ -511,7 +542,11 @@ Halbuki hakiki lezzet ve muhabbet ve kemal ve fazilet odur ki gayrın tasavvurun
 
 Hem o kemalâtın mazharları, âyineleri olan sanatını ve masnuatını ve mahlukatının mehasinini sever, muhabbet eder. Enbiyasını ve evliyasını, hususan Seyyidü’l-mürselîn ve Sultanü’l-evliya olan Habib-i Ekremini sever. Yani kendi cemalini sevmesiyle, o cemalin âyinesi olan Habibini sever. Ve kendi esmasını sevmesiyle, o esmanın mazhar-ı câmii ve zîşuuru olan o Habibini ve ihvanını sever. Ve sanatını sevmesiyle, o sanatın dellâl ve teşhircisi olan o Habibini ve emsalini sever. Ve masnuatını sevmesiyle, o masnuata karşı “Mâşâallah, bârekellah, ne kadar güzel yapılmışlar.” diyen ve takdir eden ve istihsan eden o Habibini ve onun arkasında olanları sever. Ve mahlukatının mehasinini sevmesiyle, o mehasin-i ahlâkın umumunu câmi’ olan o Habib-i Ekremini ve onun etba ve ihvanını sever, muhabbet eder.
 
+## Üçüncü Remiz
+
 Üçüncü Remiz: Umum kâinattaki umum kemalât, bir Zat-ı Zülcelal’in kemalinin âyâtıdır ve cemalinin işaratıdır. Belki hakiki kemaline nisbeten bütün kâinattaki hüsün ve kemal ve cemal, zayıf bir gölgedir. Şu hakikatin beş hüccetine icmalen işaret ederiz.
+
+## Birinci Hüccet
 
 Birinci Hüccet: Nasıl ki mükemmel, muhteşem, münakkaş, müzeyyen bir saray; mükemmel bir ustalık, bir dülgerliğe bilbedahe delâlet eder. Ve mükemmel fiil olan o dülgerlik, o nakkaşlık; bizzarure mükemmel bir fâile, bir ustaya, bir mühendise ve “nakkaş ve musavvir” gibi unvan ve isimleriyle beraber delâlet eder. Ve mükemmel o isimler dahi şüphesiz o ustanın mükemmel, sanatkârane sıfatına delâlet eder. Ve o kemal-i sanat ve sıfat, bilbedahe o ustanın kemal-i istidadına ve kabiliyetine delâlet eder. Ve o kemal-i istidat ve kabiliyet, bizzarure o ustanın kemal-i zatına ve ulviyet-i mahiyetine delâlet eder.
 
@@ -523,11 +558,17 @@ Aynen öyle de şu saray-ı âlem, şu mükemmel, müzeyyen eser; bilbedahe gaye
 
 İşte şu derece hakiki kemalât-ı zatiyenin bürhan-ı kat’î ile vücudu sabit olduktan sonra, gayra bakan ve emsal ve ezdada tefevvuk cihetiyle olan nisbî kemalâtın ne ehemmiyeti kalır, ne derece sönük düşer, anlarsın…
 
+## İkinci Hüccet
+
 İkinci Hüccet: Şu kâinata nazar-ı ibretle bakıldığı vakit, vicdan ve kalp bir hads-i sadıkla hisseder ki şu kâinatı bu derece güzelleştiren ve süslendiren ve enva-ı mehasin ile tezyin edenin, nihayet derecede bir cemal ve kemalâtı vardır ki şöyle yapıyor.
+
+## Üçüncü Hüccet
 
 Üçüncü Hüccet: Malûmdur ki mevzun ve muntazam ve mükemmel ve güzel sanatlar, gayet güzel bir programa istinad eder. Mükemmel ve güzel bir program ise mükemmel ve güzel bir ilme ve güzel bir zihne ve güzel bir kabiliyet-i ruhiyeye delâlet eder. Demek, ruhun manevî güzelliğidir ki ilim vasıtasıyla sanatında tezahür ediyor.
 
 İşte şu kâinat, hadsiz mehasin-i maddiyesiyle, bir manevî ve ilmî mehasinin tereşşuhatıdır. Ve o ilmî ve manevî mehasin ve kemalât, elbette hadsiz bir sermedî hüsün ve cemalin ve kemalin cilveleridir.
+
+## Dördüncü Hüccet
 
 Dördüncü Hüccet: Malûmdur ki ziyayı verenin ziyadar olması lâzım, tenvir edenin nurani olması gerek, ihsan gınadan gelir, lütuf latîften zuhur eder. Madem öyledir, kâinata bu kadar hüsün ve cemal vermek ve mevcudata muhtelif kemalât vermek; ışık, güneşi gösterdiği gibi bir cemal-i sermedîyi gösterirler.
 
@@ -541,6 +582,8 @@ Madem mevcudat, zeminin yüzünde büyük bir nehir gibi kemalâtın lem’alar�
 
 نَعَمْ تَفَانِى الْمِرْاٰتِ زَوَالُ الْمَوْجُودَاتِ مَعَ تَجَلِّى الدَّائِمِ مَعَ الْفَيْضِ الْمُلَازِمِ مِنْ اَظْهَرِ الظَّوَاهِرِ اَنَّ الْجَمَالَ الظَّاهِرَ لَيْسَ مُلْكَ الْمَظَاهِرِ مِنْ اَفْصَحِ تِبْيَانٍ مِنْ اَوْضَحِ بُرْهَانٍ لِلْجَمَالِ الْمُجَرَّدِ لِلْاِحْسَانِ الْمُجَدَّدِ لِلْوَاجِبِ الْوُجُودِ لِلْبَاقِى الْوَدُودِ
 
+## Beşinci Hüccet
+
 Beşinci Hüccet: Malûmdur ki üç dört muhtelif yoldan gelenler, aynı bir hâdiseyi söyleseler yakîni ifade eden tevatür derecesinde o hâdisenin kat’î vukuuna delâlet eder.
 
 İşte meşrepçe ve meslekçe ve istidatça ve asırca gayet muhtelif, ayrı ayrı bütün muhakkikînin muhtelif tabakatından ve evliyanın muhtelif turuklarından ve asfiyanın muhtelif mesleklerinden ve hükema-yı hakikiyenin muhtelif mezheplerinden olan bütün ehl-i keşif ve zevk ve şuhud ve müşahede, keşif ve zevk ve şuhud ile ittifak etmişler ki kâinat mezahirinde ve mevcudat âyinelerinde görülen mehasin ve kemalât, bir tek Zat-ı Vâcibü’l-vücud’un tecelliyat-ı kemalidir ve cilve-i cemal-i esmasıdır.
@@ -548,6 +591,8 @@ Beşinci Hüccet: Malûmdur ki üç dört muhtelif yoldan gelenler, aynı bir h�
 İşte bunların icmaı, sarsılmaz bir hüccet-i kātıadır.
 
 Tahmin ederim ki şu remizde ehl-i dalaletin vekili, işitmemek için kulağını kapayıp kaçmaya mecburdur. Zaten zulmetli kafaları, huffaş misillü, bu nurları görmeye tahammül edemezler. Öyle ise bundan sonra onları, pek de nazara almayacağız.
+
+## Dördüncü Remiz
 
 Dördüncü Remiz: Bir şeyin lezzeti, hüsnü, cemali, emsal ve ezdadına bakmaktan ziyade, mazharlarına bakarlar. Mesela kerem, güzel ve hoş bir sıfattır. Kerîm olan zat; başka mükrimlere tefevvuk cihetiyle aldığı lezzet-i nisbiyeden bin defa daha hoş bir lezzeti, ikram ettiği adamların telezzüzleriyle, ferahlarıyla alır. Hem bir şefkat ve merhamet sahibi, şefkat ettiği mahlukların istirahatleri derecesinde hakiki bir lezzet alır. Mesela, bir validenin evladının mesudiyetlerinden ve istirahatlerinden, şefkat vasıtasıyla aldığı lezzet, o derece kuvvetlidir ki onların rahatı için ruhunu feda eder derecesine getirir. Hattâ o şefkatin lezzeti, tavuğu civcivlerini himaye etmek için arslana saldırtır.
 
@@ -595,7 +640,11 @@ Hem ondandır ki hadîste geldiği gibi “Cennette bir dakika rü’yet-i cemal
 
 İşte şu nihayetsiz kemalât-ı muhabbet, vâhidiyet ve ehadiyet dairesinde Zat-ı Zülcelal’in kendi esma ve mahlukatıyla hasıl olur. Demek, o daire haricinde tevehhüm olunan kemalât, kemalât değildir.
 
+## Beşinci Remiz
+
 Beşinci Remiz: Beş noktadır:
+
+## Birinci Nokta
 
 Birinci Nokta: Ehl-i dalaletin vekili der ki: “Ehadîsinizde dünya tel’in edilmiş, ‘cîfe’ ismiyle yâd edilmiş. Hem bütün ehl-i velayet ve ehl-i hakikat, dünyayı tahkir ediyorlar. ‘Fenadır, pistir.’ diyorlar. Halbuki sen, bütün kemalât-ı İlahiyeye medar ve hüccet, onu gösteriyorsun ve âşıkane ondan bahsediyorsun.”
 
@@ -869,7 +918,11 @@ Diyorsunuz ki: “Muhabbet, ihtiyarî değil. Hem ihtiyac-ı fıtrîye binaen le
 
 Elcevap: Dört nükteyi dinle.
 
+## Birinci Nükte
+
 Birinci Nükte: Muhabbet, çendan ihtiyarî değil. Fakat ihtiyar ile muhabbetin yüzü, bir mahbubdan diğer bir mahbuba dönebilir. Mesela, bir mahbubun çirkinliğini göstermekle veyahut asıl lâyık-ı muhabbet olan diğer bir mahbuba perde veya âyine olduğunu göstermekle muhabbetin yüzü, mecazî mahbubdan hakiki mahbuba çevrilebilir.
+
+## İkinci Nükte
 
 İkinci Nükte: Ta’dad ettiğin sevdiklerini, sevme demiyoruz. Belki onları Cenab-ı Hakk’ın hesabına ve onun muhabbeti namına sev, deriz.
 
@@ -913,6 +966,8 @@ Biri; elma, elma olduğu için sevilir ve elmaya mahsus ve elma kadar bir lezzet
 
 Aynen onun gibi bütün nimetlere ve meyvelere, zatları için muhabbet edilse, yalnız maddî lezzetleriyle gafilane telezzüz etse o muhabbet nefsanîdir. O lezzetler de geçici ve elemlidir. Eğer Cenab-ı Hakk’ın iltifatat-ı rahmeti ve ihsanatının meyveleri cihetiyle sevse ve o ihsan ve iltifatatın derece-i lütuflarını takdir etmek suretinde kemal-i iştiha ile lezzet alsa hem manevî bir şükür hem elemsiz bir lezzettir.
 
+## Üçüncü Nükte
+
 Üçüncü Nükte: Cenab-ı Hakk’ın esmasına karşı olan muhabbetin tabakatı var: Sâbıkan beyan ettiğimiz gibi; bazen âsâra muhabbet suretiyle esmayı sever. Bazen esmayı, kemalât-ı İlahiyenin unvanları olduğu cihetle sever. Bazen insan, câmiiyet-i mahiyet cihetiyle hadsiz ihtiyacat noktasında esmaya muhtaç ve müştak olur ve o ihtiyaçla sever.
 
 ---
@@ -938,6 +993,8 @@ Hikmet ve adl içindeki Rahmanu’r-Rahîm ve Hak ismini a’zamî bir dairede g
 İşte öyle de Cenab-ı Hakk’ın adl ve hikmet içindeki ism-i Hak ve Rahmanu’r-Rahîm’in cilvesini görmek istersen bahar mevsiminde zeminin yüzünde çadırları kurulmuş, muhteşem dört yüz bin milletten mürekkeb nebatat ve hayvanat ordusuna bak ki bütün o milletler, o taifeler, birbiri içinde oldukları halde, her birinin libası ayrı, erzakı ayrı, silahı ayrı, tarz-ı hayatı ayrı, talimatı ayrı, terhisatı ayrı oldukları halde ve o hâcatlarını tedarik edecek iktidarları ve o metalibi isteyecek dilleri olmadığı halde, daire-i hikmet ve adl içinde, mizan ve intizam ile Hak ve Rahman, Rezzak ve Rahîm, Kerîm unvanlarını seyret, gör. Nasıl hiçbirini şaşırmayarak, unutmayarak, iltibas etmeyerek terbiye ve tedbir ve idare eder.
 
 İşte, böyle hayret verici muhit bir intizam ve mizan ile yapılan bir işe, başkalarının parmakları karışabilir mi? Vâhid-i Ehad, Hakîm-i Mutlak, Kādir-i külli şey’den başka, bu sanata, bu tedbire, bu rububiyete, bu tedvire hangi şey elini uzatabilir? Hangi sebep müdahale edebilir?
+
+## Dördüncü Nükte
 
 Dördüncü Nükte:
 
@@ -1017,11 +1074,17 @@ O müteaddid enva-ı muhabbetin sâbıkan beyan edilen dünyadaki muaccel netice
 
 [Page 645]
 
+## Birinci İşaret
+
 Birinci İşaret: Leziz taamlara, hoş meyvelere şâkirane muhabbet-i meşruanın uhrevî neticesi: Kur’an’ın nassıyla, cennete lâyık bir tarzda leziz taamları, güzel meyveleridir. Ve o taamlara ve o meyvelere müştehiyane bir muhabbettir. Hattâ dünyada yediğin meyve üstünde söylediğin “Elhamdülillah” kelimesi, cennet meyvesi olarak tecessüm ettirilip sana takdim edilir. Burada meyve yersin, orada “Elhamdülillah” yersin. Ve nimette ve taam içinde in’am-ı İlahîyi ve iltifat-ı Rahmanîyi gördüğünden o lezzetli şükr-ü manevî, cennette gayet leziz bir taam suretinde sana verileceği, hadîsin nassıyla, Kur’an’ın işaratıyla ve hikmet ve rahmetin iktizasıyla sabittir.
+
+## İkinci İşaret
 
 İkinci İşaret: Dünyada meşru bir surette nefsine muhabbet, yani mehasinine bina edilen muhabbet değil belki noksaniyetlerini görüp tekmil etmeye bina edilen şefkat ile onu terbiye etmek ve onu hayra sevk etmek neticesi: O nefse lâyık mahbubları, cennette veriyor. Nefis, madem dünyada heva ve hevesini Cenab-ı Hak yolunda hüsn-ü istimal etmiş. Cihazatını, duygularını hüsn-ü suretle istihdam etmiş. Kerîm-i Mutlak, ona dünyadaki meşru ve ubudiyetkârane muhabbetin neticesi olarak cennette, cennetin yetmiş ayrı ayrı enva-ı ziynet ve letafetinin numuneleri olan yetmiş muhtelif hulleyi giydirip nefisteki bütün hâsseleri memnun edecek, okşayacak yetmiş enva-ı hüsün ile vücudunu süslendirip her biri, ruhlu küçük birer cennet hükmünde olan hurileri, o dâr-ı bekada vereceği, pek çok âyât ile tasrih ve ispat edilmiştir.
 
 Hem dünyada gençliğe muhabbet, yani ibadette gençlik kuvvetini sarf etmenin neticesi: Dâr-ı saadette ebedî bir gençliktir.
+
+## Üçüncü İşaret
 
 Üçüncü İşaret: Refika-i hayatına meşru dairesinde, yani latîf şefkatine, güzel hasletine, hüsn-ü sîretine binaen samimi muhabbet ile refika-i hayatını da naşizelikten, sair günahlardan muhafaza etmenin netice-i uhreviyesi ise: Rahîm-i Mutlak, o refika-i hayatı, hurilerden daha güzel bir surette ve daha ziynetli bir tarzda, daha cazibedar bir şekilde, ona dâr-ı saadette ebedî bir refika-i hayatı ve dünyadaki eski maceraları birbirine mütelezzizane nakletmek ve eski hatıratı birbirine tahattur ettirecek enis, latîf, ebedî bir arkadaş, bir muhib ve mahbub olarak verileceğini vaad etmiştir. Elbette vaad ettiği şeyi kat’î verecektir.
 
@@ -1029,13 +1092,23 @@ Hem dünyada gençliğe muhabbet, yani ibadette gençlik kuvvetini sarf etmenin 
 
 [Page 646]
 
+## Dördüncü İşaret
+
 Dördüncü İşaret: Valideyn ve evlada muhabbet-i meşruanın neticesi: Nass-ı Kur’an ile Cenab-ı Erhamü’r-Râhimîn, onların makamları ayrı ayrı da olsa yine o mesud aileye safi olarak lezzet-i sohbeti, cennete lâyık bir hüsn-ü muaşeret suretinde, dâr-ı bekada ebedî mülakat ile ihsan eder. Ve on beş yaşına girmeden, yani hadd-i büluğa vâsıl olmadan vefat eden çocuklar وِلْدَانٌ مُخَلَّدُونَ ile tabir edilen cennet çocukları şeklinde ve cennete lâyık bir tarzda gayet süslü, sevimli bir surette, onları cennette dahi peder ve validelerinin kucaklarına verir. Veled-perverlik hislerini memnun eder. Ebedî o zevki ve o lezzeti onlara verir. Zira çocuklar sinn-i teklife girmediklerinden ebedî, sevimli, şirin çocuk olarak kalacaklar. Dünyadaki her lezzetli şeyin en a’lâsı cennette bulunur. Yalnız çok şirin olan veled-perverlik, yani çocuklarını sevip okşamak zevki –cennet tenasül yeri olmadığından– cennette yoktur, zannedilirdi. İşte bu surette o dahi vardır. Hem en zevkli ve en şirin bir tarzda vardır. İşte kable’l-büluğ evladı vefat edenlere müjde…
+
+## Beşinci İşaret
 
 Beşinci İşaret: Dünyada اَلْحُبُّ فِى اللّٰهِ hükmünce salih ahbaplara muhabbetin neticesi: Cennette عَلٰى سُرُرٍ مُتَقَابِلٖينَ ile tabir edilen, karşı karşıya kurulmuş cennet iskemlelerinde oturup hoş, şirin, güzel, tatlı bir surette, dünya maceralarını ve kadîm olan hatıratlarını birbirine nakledip eğlendirmeleri suretinde; firaksız, safi bir muhabbet ve sohbet suretinde ahbaplarıyla görüştüreceği, Kur’an’ın nassıyla sabittir.
 
+## Altıncı İşaret
+
 Altıncı İşaret: Enbiya ve evliyaya Kur’an’ın tarif ettiği tarzda muhabbetin neticesi: O enbiya ve evliyanın şefaatlerinden berzahta, haşirde istifade etmekle beraber; gayet ulvi ve onlara lâyık makam ve füyuzattan o muhabbet vasıtasıyla istifaza etmektir. Evet اَلْمَرْءُ مَعَ مَنْ اَحَبَّ sırrınca, âdi bir adam, en yüksek bir makama, muhabbet ettiği âlî makam bir zatın tebaiyetiyle girebilir.
 
+## Yedinci İşaret
+
 Yedinci İşaret: Güzel şeylere ve bahara meşru muhabbetin, yani “Ne kadar güzel yapılmış.” nazarıyla, o âsârın arkasındaki ef’alin güzelliğini ve intizamını ve intizam-ı ef’al arkasındaki güzel esmanın cilvelerini ve o güzel esmanın arkasında sıfâtın tecelliyatını ve hâkeza sevmekliğin neticesi ise: Dâr-ı bekada o güzel gördüğü masnuattan bin defa daha güzel bir tarzda esmanın cilvesini ve esma içindeki cemal ve sıfâtını, cennette görmektir. Hattâ İmam-ı Rabbanî radıyallahu anh demiş ki: “Letaif-i cennet, cilve-i esmanın temessülatıdır.” Teemmel!
+
+## Sekizinci İşaret
 
 Sekizinci İşaret: Dünyada, dünyanın âhiret mezraası ve esma-i İlahiye âyinesi olan iki güzel yüzüne karşı mütefekkirane muhabbetin uhrevî neticesi: Dünya kadar fakat fâni dünya gibi fâni değil, bâki bir cennet verilecektir. Hem dünyada yalnız zayıf gölgeleri gösterilen esma, o cennetin âyinelerinde en şaşaalı bir surette gösterilecektir.
 
@@ -1052,6 +1125,8 @@ Hem madem âhiretin muhabbetiyle onun mezraasını sevmiş ve Cenab-ı Hakk’ı
 Sual: O kadar büyük ve hâlî bir cennet neye yarar?
 
 Elcevap: Nasıl ki eğer mümkün olsa idi hayal süratiyle zeminin aktarını ve yıldızların ekserini gezsen “Bütün âlem benimdir.” diyebilirsin. Melaike ve insan ve hayvanların iştirakleri, senin o hükmünü bozmaz. Öyle de o cennet dahi dolu olsa “O cennet benimdir.” diyebilirsin. Hadîste bazı ehl-i cennete verilen beş yüz senelik bir cennet sırrı, Yirmi Sekizinci Söz’de ve İhlas Lem’ası’nda beyan edilmiştir.
+
+## Dokuzuncu İşaret
 
 Dokuzuncu İşaret: İman ve muhabbetullahın neticesi: Ehl-i keşif ve tahkikin ittifakıyla; dünyanın bin sene hayat-ı mesudanesi, bir saatine değmeyen cennet hayatı ve cennet hayatının dahi bin senesi, bir saat müşahedesine değmeyen bir kudsî, münezzeh cemal ve kemal sahibi olan Zat-ı Zülcelal’in müşahedesi, rü’yetidir ki (Hâşiye [11]) hadîs-i kat’î ile ve Kur’an’ın nassıyla sabittir.
 

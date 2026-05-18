@@ -5,6 +5,17 @@ section_id: "sikke-i-tasdik-i-gaybi.008.dua-sikke-i-tasdik-i-gaybi"
 section_order: 8
 section_slug: "dua-sikke-i-tasdik-i-gaybi"
 section_title: "Dua (Sikke-i Tasdik-i Gaybî)"
+aliases:
+  - "Dua (Sikke-i Tasdik-i Gaybi)"
+keywords:
+  - "gaybi"
+  - "sikke-i tasdik-i gaybi"
+  - "dua"
+  - "cennet"
+  - "ihlas"
+  - "iman"
+  - "risale-i nur"
+  - "sikke tasdik gaybî"
 source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/08 Dua (Sikke-i Tasdik-i Gaybî).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

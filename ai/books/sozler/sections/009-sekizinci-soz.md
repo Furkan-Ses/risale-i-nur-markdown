@@ -5,6 +5,19 @@ section_id: "sozler.009.sekizinci-soz"
 section_order: 9
 section_slug: "sekizinci-soz"
 section_title: "Sekizinci Söz"
+aliases:
+  - "Sekizinci Soz"
+  - "8. Söz"
+  - "8. Soz"
+keywords:
+  - "tılsım"
+  - "dünya"
+  - "kalp"
+  - "ruh"
+  - "akıl"
+  - "cennet"
+  - "hayat"
+  - "iman"
 source_section_path: "books/sozler/by_heading/008 - Sekizinci Söz.md"
 source_name: null
 source_url: null

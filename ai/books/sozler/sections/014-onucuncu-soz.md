@@ -5,6 +5,17 @@ section_id: "sozler.014.onucuncu-soz"
 section_order: 14
 section_slug: "onucuncu-soz"
 section_title: "Onüçüncü Söz"
+aliases:
+  - "Onucuncu Soz"
+keywords:
+  - "iman"
+  - "hayat"
+  - "hapishane"
+  - "insan"
+  - "gençlik"
+  - "dünya"
+  - "hüccet"
+  - "musibet"
 source_section_path: "books/sozler/by_heading/013 - Onüçüncü Söz.md"
 source_name: null
 source_url: null
@@ -512,6 +523,9 @@ Aziz, sıddık kardeşlerim!
 Hapis musibetine düşenlere merhametkârane, sadakatla, hariçten
 gelen erzaklarına nezaret ve yardım edenlere kuvvetli bir teselliyi Üç
 Nokta'da beyan edeceğim.
+
+## Birinci Nokta
+
 Birinci Nokta: Hapiste geçen ömür günleri, herbir gün on gün
 kadar bir ibadet kazandırabilir ve fâni saatleri, meyveleri cihetiyle manen
 bâki saatlere çevirebilir ve beş-on sene ceza ile, milyonlar sene haps-i
@@ -519,6 +533,9 @@ ebedîden kurtulmağa vesile olabilir. İşte ehl-i iman için bu pek büyük ve
 çok kıymetdar kazanç şartı, farz namazını kılmak ve hapse sebebiyet
 veren günahlardan tövbe etmek ve sabır içinde şükretmektir. Zâten hapis
 çok günahlara manidir, meydan vermiyor.
+
+## İkinci Nokta
+
 İkinci Nokta: Zeval-i lezzet elem olduğu gibi, zeval-i elem dahi
 lezzettir. Evet herkes geçmiş lezzetli, safalı günlerini düşünse; teessüf ve
 tahassür elem-i manevîsini hissedip "Eyvah!" der ve geçmiş musibetli,
@@ -549,6 +566,9 @@ sırada, inayet-i İlahiye bu mezkûr hakikatı gösterdi. Ben de sıkıntılı
 hastalığımdan, hapsimden razı oldum. Çünki benim gibi kabir kapısında
 bir bîçareye, gafletle geçebilir bir saati, on saat ibadet saatleri yapmak
 büyük bir kârdır diye şükreyledim.
+
+## Üçüncü Nokta
+
 Üçüncü Nokta: Şefkatkârane hizmetiyle yardım etmek ve muhtaç
 oldukları rızıklarını ellerine vermek ve manevî yaralarına tesellilerle
 merhem sürmek, az bir amel ile büyük bir kazanç var. Ve dışarıdan gelen

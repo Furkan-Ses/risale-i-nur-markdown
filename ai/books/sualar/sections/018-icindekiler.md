@@ -5,6 +5,17 @@ section_id: "sualar.018.icindekiler"
 section_order: 18
 section_slug: "icindekiler"
 section_title: "İÇİNDEKİLER"
+aliases:
+  - "ICINDEKILER"
+keywords:
+  - "fihrist"
+  - "lahika"
+  - "risale-i nur"
+  - "müdafaa"
+  - "hapishane"
+  - "hüccet"
+  - "musa"
+  - "ayet"
 source_section_path: "books/sualar/by_heading/18 İçindekiler (Şuâlar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

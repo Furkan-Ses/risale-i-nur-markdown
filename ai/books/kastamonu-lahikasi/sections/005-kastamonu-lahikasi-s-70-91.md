@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.005.kastamonu-lahikasi-s-70-91"
 section_order: 5
 section_slug: "kastamonu-lahikasi-s-70-91"
 section_title: "Kastamonu Lâhikası s.70-91"
+aliases:
+  - "Kastamonu Lahikasi s.70-91"
+keywords:
+  - "risale-i nur"
+  - "dua"
+  - "lahika"
+  - "rahmet"
+  - "hayat"
+  - "keramet"
+  - "iman"
+  - "ruh"
 source_section_path: "books/kastamonu-lahikasi/by_heading/05 Kastamonu Lâhikası s.70-91.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

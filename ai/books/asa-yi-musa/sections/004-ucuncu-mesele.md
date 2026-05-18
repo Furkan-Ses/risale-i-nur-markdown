@@ -5,6 +5,18 @@ section_id: "asa-yi-musa.004.ucuncu-mesele"
 section_order: 4
 section_slug: "ucuncu-mesele"
 section_title: "Üçüncü Mesele"
+aliases:
+  - "Ucuncu Mesele"
+  - "3. Mesele"
+keywords:
+  - "iman"
+  - "hapishane"
+  - "medrese-i yusufiye"
+  - "cennet"
+  - "gençlik"
+  - "kalp"
+  - "musa"
+  - "ölüm"
 source_section_path: "books/asa-yi-musa/by_heading/103 Üçüncü Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

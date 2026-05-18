@@ -5,6 +5,17 @@ section_id: "mektubat.029.yirmi-dokuzuncu-mektup"
 section_order: 29
 section_slug: "yirmi-dokuzuncu-mektup"
 section_title: "Yirmi Dokuzuncu Mektup"
+aliases:
+  - "29. Mektup"
+keywords:
+  - "insan"
+  - "iman"
+  - "kalp"
+  - "hayat"
+  - "dünya"
+  - "hikmet"
+  - "i'caz"
+  - "ayet"
 source_section_path: "books/mektubat/by_heading/29 Yirmi Dokuzuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

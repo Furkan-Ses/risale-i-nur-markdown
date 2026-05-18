@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.020.bakara-suresi-28-ayet"
 section_order: 20
 section_slug: "bakara-suresi-28-ayet"
 section_title: "Bakara Suresi 28. âyet"
+aliases:
+  - "Bakara Suresi 28. ayet"
+keywords:
+  - "hayat"
+  - "ayet"
+  - "nimet"
+  - "ölüm"
+  - "bakara"
+  - "insan"
+  - "ruh"
+  - "zikir"
 source_section_path: "books/isaratul-icaz/by_heading/20 Bakara Suresi 28. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

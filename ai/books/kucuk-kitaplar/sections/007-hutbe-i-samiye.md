@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.007.hutbe-i-samiye"
 section_order: 7
 section_slug: "hutbe-i-samiye"
 section_title: "HUTBE-İ ŞAMİYE"
+aliases:
+  - "HUTBE-I SAMIYE"
+keywords:
+  - "iman"
+  - "insan"
+  - "hayat"
+  - "kalp"
+  - "risale-i nur"
+  - "dünya"
+  - "ruh"
+  - "adalet"
 source_section_path: "books/kucuk-kitaplar/by_heading/07 HUTBE-İ ŞAMİYE.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

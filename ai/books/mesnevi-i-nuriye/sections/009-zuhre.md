@@ -5,6 +5,17 @@ section_id: "mesnevi-i-nuriye.009.zuhre"
 section_order: 9
 section_slug: "zuhre"
 section_title: "Zühre"
+aliases:
+  - "Zuhre"
+keywords:
+  - "insan"
+  - "dünya"
+  - "kalp"
+  - "hayat"
+  - "nimet"
+  - "ruh"
+  - "rahmet"
+  - "ubudiyet"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/09 Zühre.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

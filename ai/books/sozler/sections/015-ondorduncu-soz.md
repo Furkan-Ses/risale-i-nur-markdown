@@ -5,6 +5,17 @@ section_id: "sozler.015.ondorduncu-soz"
 section_order: 15
 section_slug: "ondorduncu-soz"
 section_title: "Ondördüncü Söz"
+aliases:
+  - "Ondorduncu Soz"
+keywords:
+  - "hikmet"
+  - "iman"
+  - "musibet"
+  - "insan"
+  - "musa"
+  - "dünya"
+  - "rahmet"
+  - "rububiyet"
 source_section_path: "books/sozler/by_heading/014 - Ondördüncü Söz.md"
 source_name: null
 source_url: null
@@ -174,6 +185,9 @@ kabiliyeti olmayan zaîf bir kesb ile mücehhez benî-âdeme karşı şedid
 binaendir ve ne vecihle tevfik edilir?. ne suretle münasib düşer?. demek
 olan derin ve yüksek hakikata kanaat getirmek için şu gelecek iki temsile
 bak:
+
+## Birinci Temsil
+
 Birinci Temsil: Meselâ
 şâhane bir bağ var ki, nihayetsiz
 meyvedar ve çiçekdar masnu'lar içinde bulunuyorlar. Ona nezaret etmek
@@ -185,6 +199,9 @@ Rabbaniyesinden ve Sultan'ın nezaret-i şahanesinden ve ziya ve hava ve
 toprağın hizmet-i bendeganesinden başka bütün hademelerin, o
 sersemden şekvaya hakları vardır. Zira hizmetlerini akîm bıraktı veya
 zarar verdi.
+
+## İkinci Temsil
+
 İkinci Temsil: Meselâ cesîm bir sefine-i Sultaniyede, âdi bir
 adam cüz'î vazifesini terketmesiyle, bütün gemideki vazifedarların
 netaic-i hidematına halel getirdiğinden ve bazı da mahvettiğinden, bütün
@@ -296,6 +313,9 @@ Bazan da titriyor.
 altı-yedi cüz'î suale karşı yine manevî ihtar yardımıyla cevabları kalbe geldi.
 Tafsilen yazmak kaç defa niyet ettimse de izin verilmedi. Yalnız icmalen
 kısacık yazılacak.]
+
+## Birinci Sual
+
 Birinci Sual: Bu büyük zelzelenin maddî musibetinden daha elîm
 manevî bir musibeti olarak, şu zelzelenin devamından gelen korku ve
 me'yusiyet ekser halkın ekser memlekette gece istirahatını selbederek
@@ -305,6 +325,9 @@ vaktinde kemal-i neş'e ve sürur ile sarhoşçasına gayet heveskârane
 şarkıları ve bazan kızların sesleriyle radyo ağzıyla bu mübarek merkez-ı
 İslâmiyetin her köşesinde cazibedarane işittirilmesı, bu korku azabını
 netice verdi.
+
+## İkinci Sual
+
 İkinci Sual: Niçin gavurların memleketlerinde bu semavî tokat
 başlarına gelmiyor? Bu bîçare müslümanlara iniyor?
 
@@ -317,12 +340,18 @@ ve küçücük cinayetler ta'cil ile küçük merkezlerde verildiği gibi; mühi
 bir hikmete binaen ehl-i küfrün cinayetlerinin kısm-ı a'zamı, Mahkeme-i
 Kübra-yı Haşre te'hir edilerek ehl-i imanın hataları, kısmen bu dünyada
 cezası verilir. (Haşiye)
+
+## Üçüncü Sual
+
 Üçüncü Sual: Bazı eşhasın hatasından gelen bu musibet bir
 derece memlekette umumi şekle girmesinin sebebi nedir?
 Elcevab: Umumî musibet, ekseriyetin hatasından ileri gelmesi
 cihetiyle ekser nâsın o zalim eşhasın harekâtına fülen veya iltizamen
 veya iltihaken taraftar olmasıyla manen iştirak eder, musibet-i âmmeye
 sebebiyet verir.
+
+## Dördüncü Sual
+
 Dördüncü Sual: Madem bu zelzele musibeti, hataların neticesi ve
 keffaret-üz zünubdur. Masumların ve hatasızların o musibet içinde
 yanması nedendir? Adaletullah nasıl müsaade eder?
@@ -358,6 +387,9 @@ hayatları dahi bir bâki hayatı kazandıracak derecede bir nevi şehadet
 hükmünde olarak, nisbeten az ve muvakkat bir meşakkat ve azabdan
 büyük ve daimî bir kazancı kazandıran bu zelzele, onlar hakkında ayn-ı
 gazab içinde bir rahmettir.
+
+## Beşinci Sual
+
 Beşinci Sual: Âdil ve Rahîm, Kadîr ve Hakîm, neden hususî
 hatalara hususi ceza vermeyıp, koca bir unsuru musallat eder. Bu hal
 cemal-i rahmetine ve şümul-ü kudretine nasıl muvafık düşer?
@@ -376,6 +408,9 @@ derecede bir şümullü isyandır ve çok mahlukatın hukukuna bir tahkirli
 tecavüzdür. Elbette o cinayetin fevkalâde çirkinliğini göstermek için,
 koca bir unsura, küllî vazifesi içinde "Onları terbiye et" diye emir
 verilmesi ayn-ı hikmettir ve adalettir ve mazlumlara ayn-ı rahmettir.
+
+## Altıncı Sual
+
 Altıncı Sual: Zelzele, küre-i arzın içinde inkılabat-ı madeniyenin
 neticesi olduğunu ehl-i gaflet işaa edip, âdeta tesadüfî ve tabiî ve
 maksadsız bir hâdise nazarıyla bakarlar. Bu hâdisenin manevî esbabını ve
@@ -458,6 +493,9 @@ yüz arşın muhtelif kumaşları yapsa; bir adam o odun parçasını gösterip
 dese: "Bu işler, tabiî ve tesadüfî olarak bundan olmuş." O ustanın hârika
 san'atlarını, hünerlerini hiçe indirse, ne derece bir hamakattır. Aynen öyle
 de...
+
+## Yedinci Sual
+
 Yedinci Sual: Bu hâdise-i arziye, bu memleketin ahali-i
 İslâmiyesine bakması ve onları hedef etmesi, ne ile anlaşılıyor ve neden
 Erzincan ve İzmir taraflarına daha ziyade ilişiyor?

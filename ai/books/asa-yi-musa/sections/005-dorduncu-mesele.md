@@ -5,6 +5,18 @@ section_id: "asa-yi-musa.005.dorduncu-mesele"
 section_order: 5
 section_slug: "dorduncu-mesele"
 section_title: "Dördüncü Mesele"
+aliases:
+  - "Dorduncu Mesele"
+  - "4. Mesele"
+keywords:
+  - "hapishane"
+  - "iman"
+  - "kalp"
+  - "risale-i nur"
+  - "akıl"
+  - "gençlik"
+  - "insan"
+  - "musa"
 source_section_path: "books/asa-yi-musa/by_heading/104 Dördüncü Mesele.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

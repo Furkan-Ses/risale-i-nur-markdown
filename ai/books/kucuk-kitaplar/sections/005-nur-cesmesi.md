@@ -5,6 +5,17 @@ section_id: "kucuk-kitaplar.005.nur-cesmesi"
 section_order: 5
 section_slug: "nur-cesmesi"
 section_title: "NUR ÇEŞMESİ"
+aliases:
+  - "NUR CESMESI"
+keywords:
+  - "hayat"
+  - "insan"
+  - "hikmet"
+  - "iman"
+  - "risale-i nur"
+  - "musa"
+  - "dünya"
+  - "rahmet"
 source_section_path: "books/kucuk-kitaplar/by_heading/05 NUR ÇEŞMESİ.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

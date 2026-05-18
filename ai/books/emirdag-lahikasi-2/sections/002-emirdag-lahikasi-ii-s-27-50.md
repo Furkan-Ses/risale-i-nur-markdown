@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.002.emirdag-lahikasi-ii-s-27-50"
 section_order: 2
 section_slug: "emirdag-lahikasi-ii-s-27-50"
 section_title: "Emirdağ Lâhikası - II s.27-50"
+aliases:
+  - "Emirdag Lahikasi - II s.27-50"
+keywords:
+  - "musa"
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "hayat"
+  - "ruh"
+  - "dua"
+  - "adalet"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/02 Emirdağ Lâhikası - II s.27-50.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.016.barla-lahikasi-s-280-299"
 section_order: 16
 section_slug: "barla-lahikasi-s-280-299"
 section_title: "Barla Lâhikası s.280-299"
+aliases:
+  - "Barla Lahikasi s.280-299"
+keywords:
+  - "dua"
+  - "lahika"
+  - "ayet"
+  - "kalp"
+  - "iman"
+  - "ruh"
+  - "insan"
+  - "tefsir"
 source_section_path: "books/barla-lahikasi/by_heading/16 Barla Lâhikası s.280-299.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

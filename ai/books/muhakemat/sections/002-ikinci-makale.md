@@ -5,6 +5,18 @@ section_id: "muhakemat.002.ikinci-makale"
 section_order: 2
 section_slug: "ikinci-makale"
 section_title: "İkinci Makale"
+aliases:
+  - "Ikinci Makale"
+  - "2. Makale"
+keywords:
+  - "belagat"
+  - "kalp"
+  - "musa"
+  - "hayat"
+  - "akıl"
+  - "i'caz"
+  - "hastalık"
+  - "hikmet"
 source_section_path: "books/muhakemat/by_heading/02 İkinci Makale.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

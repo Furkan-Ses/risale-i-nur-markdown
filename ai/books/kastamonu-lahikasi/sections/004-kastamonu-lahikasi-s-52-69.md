@@ -5,6 +5,17 @@ section_id: "kastamonu-lahikasi.004.kastamonu-lahikasi-s-52-69"
 section_order: 4
 section_slug: "kastamonu-lahikasi-s-52-69"
 section_title: "Kastamonu Lâhikası s.52-69"
+aliases:
+  - "Kastamonu Lahikasi s.52-69"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "şefkat"
+  - "ruh"
+  - "kalp"
+  - "keramet"
+  - "merhamet"
 source_section_path: "books/kastamonu-lahikasi/by_heading/04 Kastamonu Lâhikası s.52-69.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

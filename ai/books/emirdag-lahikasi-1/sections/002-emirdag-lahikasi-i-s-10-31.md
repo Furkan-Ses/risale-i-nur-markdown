@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-1.002.emirdag-lahikasi-i-s-10-31"
 section_order: 2
 section_slug: "emirdag-lahikasi-i-s-10-31"
 section_title: "Emirdağ Lâhikası - I s.10-31"
+aliases:
+  - "Emirdag Lahikasi - I s.10-31"
+keywords:
+  - "risale-i nur"
+  - "hayat"
+  - "dünya"
+  - "iman"
+  - "lahika"
+  - "hapishane"
+  - "hüccet"
+  - "müdafaa"
 source_section_path: "books/emirdag-lahikasi-1/by_heading/02 Emirdağ Lâhikası - I s.10-31.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

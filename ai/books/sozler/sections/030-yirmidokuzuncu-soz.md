@@ -5,6 +5,17 @@ section_id: "sozler.030.yirmidokuzuncu-soz"
 section_order: 30
 section_slug: "yirmidokuzuncu-soz"
 section_title: "Yirmidokuzuncu Söz"
+aliases:
+  - "Yirmidokuzuncu Soz"
+keywords:
+  - "ruh"
+  - "hayat"
+  - "insan"
+  - "hikmet"
+  - "dünya"
+  - "musa"
+  - "ölüm"
+  - "haşir"
 source_section_path: "books/sozler/by_heading/029 - Yirmidokuzuncu Söz.md"
 source_name: null
 source_url: null
@@ -309,11 +320,17 @@ Saadet-i ebediyeye muktezî vardır. Ve o saadeti verecek Fâil-i Zülcelal de m
 
 Evet, saadet-i ebediyeye muktezî mevcuddur. O muktezînin vücuduna delâlet eden bürhan-ı kat’î on menba ve medar dan süzülen bir hadstir.
 
+## Birinci Medar
+
 Birinci Medar: Dikkat edilse şu kâinatın umumunda bir nizam-ı ekmel, bir intizam-ı kasdî vardır. Her cihette reşehat-ı ihtiyar ve lemaat-ı kasd görünür. Hattâ her şeyde bir nur-u kasd, her şe’nde bir ziya-yı irade, her harekette bir lem’a-i ihtiyar, her terkipte bir şule-i hikmet, semeratının şehadetiyle nazar-ı dikkate çarpıyor. İşte eğer saadet-i ebediye olmazsa şu esaslı nizam, bir suret-i zaîfe-i vâhiyeden ibaret kalır. Yalancı, esassız bir nizam olur. Nizam ve intizamın ruhu olan maneviyat ve revabıt ve niseb, heba olup gider. Demek nizamı nizam eden, saadet-i ebediyedir. Öyle ise nizam-ı âlem, saadet-i ebediyeye işaret ediyor.
+
+## İkinci Medar
 
 İkinci Medar: Hilkat-i kâinatta bir hikmet-i tamme görünüyor. Evet, inayet-i ezeliyenin timsali olan hikmet-i İlahiye, kâinatın umumunda gösterdiği maslahatların riayeti ve hikmetlerin iltizamı lisanı ile saadet-i ebediyeyi ilan eder.
 
 Çünkü saadet-i ebediye olmazsa şu kâinatta bilbedahe sabit olan hikmetleri, faydaları, mükâbere ile inkâr etmek lâzım gelir. Onuncu Söz’ün Onuncu Hakikati, bu hakikati güneş gibi gösterdiğinden, ona iktifaen burada ihtisar ederiz.
+
+## Üçüncü Medar
 
 Üçüncü Medar: Akıl ve hikmet ve istikra ve tecrübenin şehadetleri ile sabit olan hilkat-i mevcudattaki adem-i abesiyet ve adem-i israf, saadet-i ebediyeye işaret eder. Fıtratta israf ve hilkatte abesiyet olmadığına delil, Sâni’-i Zülcelal’in her şeyin hilkatinde en kısa yolu ve en yakın ciheti ve en hafif sureti ve en güzel keyfiyeti ihtiyar ve intihab etmesidir ve bazen bir şeyi, yüz vazife ile tavzif etmesidir ve bir ince şeye bin meyve ve gayeleri takmasıdır.
 
@@ -324,6 +341,8 @@ Madem israf yok ve abesiyet olmaz, elbette saadet-i ebediye olacaktır. Çünkü
 ---
 
 [Page 520]
+
+## Dördüncü Medar
 
 Dördüncü Medar: Pek çok nevilerde, hattâ gece ve gündüzde, kış ve baharda ve cevv-i havada hattâ insanın şahıslarında, müddet-i hayatında değiştirdiği bedenler ve mevte benzeyen uyku ile haşir ve neşre benzer birer nevi kıyamet, bir kıyamet-i kübranın tahakkukunu ihsas ediyor, remzen haber veriyorlar.
 
@@ -337,6 +356,8 @@ Bir şahsın müddet-i ömründe başına gelmiş birçok kıyamet çeşitleri v
 
 Öyle ise bilmüşahede sair nevilerde tekerrür eden bir çeşit kıyametler ve haşirler; şu kıyamet-i kübra-yı umumiyede, her şahs-ı insanî aynıyla iade edilerek haşredilmesine remzeder, haber verir. Onuncu Söz’ün Dokuzuncu Hakikati’nde iki kere iki dört eder derecesinde kat’iyet ile ispat edildiğinden burada ihtisar ederiz.
 
+## Beşinci Medar
+
 Beşinci Medar: Beşerin cevher-i ruhunda derc edilmiş gayr-ı mahdud istidadat ve o istidadatta mündemic olan gayr-ı mahsur kabiliyetler ve o kabiliyetlerden neş’et eden hadsiz meyiller ve o hadsiz meyillerden hasıl olan nihayetsiz emeller ve o nihayetsiz emellerden tevellüd eden gayr-ı mütenahî efkâr ve tasavvurat-ı insaniye, şu âlem-i şehadetin arkasında bulunan saadet-i ebediyeye elini uzatmış, ona gözünü dikmiş, o tarafa müteveccih olmuş olduğunu ehl-i tahkik görüyor.
 
 ---
@@ -345,13 +366,19 @@ Beşinci Medar: Beşerin cevher-i ruhunda derc edilmiş gayr-ı mahdud istidadat
 
 İşte hiç yalan söylemeyen fıtrat ve fıtrattaki şu kat’î ve şedit ve sarsılmaz meyl-i saadet-i ebediye, saadet-i ebediyenin tahakkukuna dair vicdana bir hads-i kat’î veriyor. Onuncu Söz’ün On Birinci Hakikati, bu hakikati gündüz gibi gösterdiğinden kısa kesiyoruz.
 
+## Altıncı Medar
+
 Altıncı Medar: “Rahmanu’r-Rahîm” olan şu mevcudatın Sâni’-i Zülcemal’inin rahmeti, saadet-i ebediyeyi gösteriyor. Evet, nimeti nimet eden, nimeti nıkmetlikten halâs eden ve mevcudatı, firak-ı ebedîden hasıl olan vaveylâlardan kurtaran saadet-i ebediyeyi; o rahmetin şe’nindendir ki beşerden esirgemesin. Çünkü bütün nimetlerin re’si, reisi, gayesi, neticesi olan saadet-i ebediye verilmezse, dünya öldükten sonra âhiret suretinde dirilmezse bütün nimetler nıkmetlere tahavvül ederler. O tahavvül ise bilbedahe ve bizzarure ve umum kâinatın şehadetiyle muhakkak ve meşhud olan rahmet-i İlahiyenin vücudunu inkâr etmek lâzım gelir. Halbuki rahmet, güneşten daha parlak bir hakikat-i sabitedir.
 
 Bak, rahmetin cilvelerinden ve latîf âsârından olan aşk ve şefkat ve akıl nimetlerine dikkat et. Eğer firak-ı ebedî ve hicran-ı lâyezalîye, hayat-ı insaniye incirar edeceğini farz etsen görürsün ki o latîf muhabbet, en büyük bir musibet olur. O leziz şefkat, en büyük bir illet olur. O nurani akıl, en büyük bir bela olur. Demek rahmet, (çünkü rahmettir) hicran-ı ebedîyi, muhabbet-i hakikiyeye karşı çıkaramaz. Onuncu Söz’ün İkinci Hakikati, bu hakikati gayet güzel bir surette gösterdiğinden burada ihtisar edildi.
 
+## Yedinci Medar
+
 Yedinci Medar: Şu kâinatta görünen ve bilinen bütün letaif, bütün mehasin, bütün kemalât, bütün incizabat, bütün iştiyakat, bütün terahhumat; birer manadır, birer mazmundur, birer kelime-i maneviyedir ki şu kâinatın Sâni’-i Zülcelal’inin lütuf ve merhametinin tecelliyatını, ihsan ve kereminin cilvelerini bizzarure, bilbedahe kalbe gösterir, aklın gözüne sokuyor.
 
 Madem şu âlemde bir hakikat vardır. Bilbedahe hakiki rahmet vardır. Madem hakiki rahmet vardır, saadet-i ebediye olacaktır. Onuncu Söz’ün Dördüncü Hakikati, İkinci Hakikati ile beraber şu hakikati gündüz gibi aydınlatmıştır.
+
+## Sekizinci Medar
 
 Sekizinci Medar: İnsanın fıtrat-ı zîşuuru olan vicdanı, saadet-i ebediyeye bakar, gösterir. Evet, kim kendi uyanık vicdanını dinlerse “Ebed! Ebed!” sesini işitecektir. Bütün kâinat o vicdana verilse ebede karşı olan ihtiyacının yerini dolduramaz. Demek o vicdan, o ebed için mahluktur.
 
@@ -361,9 +388,13 @@ Demek, bu vicdanî olan incizab ve cezbe, bir gaye-i hakikiyenin ve bir hakikat-
 
 [Page 522]
 
+## Dokuzuncu Medar
+
 Dokuzuncu Medar: Sadık, masduk, musaddak olan Muhammed-i Arabî aleyhissalâtü vesselâmın ihbarıdır. Evet, o zatın (asm) sözleri, saadet-i ebediyenin kapılarını açmıştır ve onun (asm) kelâmları saadet-i ebediyeye karşı birer penceredir.
 
 Zaten bütün enbiyanın (aleyhimüsselâm) icmaını ve bütün evliyanın tevatürünü elinde tutmuş, bütün kuvvetiyle bütün davaları; tevhid-i İlahîden sonra şu haşir ve saadet noktasında temerküz ediyor. Acaba, şu kuvveti sarsacak bir şey var mıdır? Onuncu Söz’ün On İkinci Hakikati, şu hakikati pek zahir bir surette göstermiştir.
+
+## Onuncu Medar
 
 Onuncu Medar: On üç asırda yedi vecihle i’cazını muhafaza eden ve Yirmi Beşinci Söz’de ispat edildiği üzere kırk adet enva-ı i’cazıyla mu’cize olan Kur’an-ı Mu’cizü’l-Beyan’ın ihbarat-ı kat’iyesidir.
 
@@ -435,6 +466,8 @@ Hem nisbeti kanunîdir. Öyle ise cüz, külle müsavi gelir ve cüz’î, küll
 
 İşte şu üç mesele yi ispat edeceğiz.
 
+## Birinci Mesele
+
 Birinci Mesele: Kudret-i ezeliye, Zat-ı Akdes-i İlahiye’nin lâzıme-i zaruriye-i zatiyesidir. Yani, bizzarure zatın lâzımesidir. Hiçbir cihet-i infikâki olamaz. Öyle ise kudretin zıddı olan acz, o kudreti istilzam eden zata bilbedahe ârız olamaz. Çünkü o halde cem’-i zıddeyn lâzım gelir. Madem acz, zata ârız olamaz; bilbedahe o zatın lâzımı olan kudrete tahallül edemez. Madem acz, kudretin içine giremez; bilbedahe o kudret-i zatiyede meratib olamaz. Çünkü her şeyin vücud meratibi, o şeyin zıtlarının tedahülü iledir. Mesela, hararetteki meratib, bürudetin tahallülü iledir; hüsündeki derecat, kubhun tedahülü iledir ve hâkeza kıyas et…
 
 Fakat mümkinatta, hakiki ve tabiî lüzum-u zatî olmadığından mümkinatta zıtlar birbirine girebilmiş. Mertebeler tevellüd ederek ihtilafat ile tagayyürat-ı âlem neş’et etmiştir. Mademki kudret-i ezeliyede meratib olamaz. Öyle ise makdûrat dahi bizzarure kudrete nisbeti bir olur. En büyük en küçüğe müsavi ve zerreler, yıldızlara emsal olur. Bütün haşr-i beşer, bir tek nefsin ihyası gibi bir baharın icadı, bir tek çiçeğin sun’u gibi o kudrete kolay gelir. Eğer esbaba isnad edilse o vakit bir tek çiçek, bir bahar kadar ağır olur.
@@ -457,7 +490,11 @@ Elhasıl: O kudret hem basittir hem nâmütenahîdir hem zatîdir. Mahall-i taal
 
 İşte kâinatta “şeffafiyet” “mukabele” “muvazene” “intizam” “tecerrüd” “itaat” birer emirdir ki çoğu aza, büyüğü küçüğe müsavi kılar.
 
+## Birinci Temsil
+
 Birinci Temsil: “ Şeffafiyet ” sırrını gösterir. Mesela, şemsin feyz-i tecellisi olan timsali ve aksi, denizin yüzünde ve denizin her bir katresinde aynı hüviyeti gösterir. Eğer küre-i arz, perdesiz güneşe karşı muhtelif cam parçalarından mürekkeb olsa; şemsin aksi, her bir parçada ve bütün zemin yüzünde müzahametsiz, tecezzisiz, tenakussuz bir olur. Eğer faraza şems, fâil-i muhtar olsa idi ve feyz-i ziyasını, timsal-i aksini iradesiyle verse idi bütün zemin yüzüne verdiği feyzi, bir zerreye verdiği feyizden daha ağır olamazdı.
+
+## İkinci Temsil
 
 İkinci Temsil: “ Mukabele ” sırrıdır. Mesela, zîhayat fertlerden (yani insanlardan) terekküp eden bir daire-i azîmenin nokta-i merkeziyesindeki ferdin elinde bir mum ve daire-i muhitteki fertlerin ellerinde de birer âyine farz edilse; nokta-i merkeziyenin muhit âyinelerine verdiği feyiz ve cilve-i akis, müzahametsiz, tecezzisiz, tenakussuz, nisbeti birdir.
 
@@ -465,11 +502,19 @@ Birinci Temsil: “ Şeffafiyet ” sırrını gösterir. Mesela, şemsin feyz-i
 
 [Page 528]
 
+## Üçüncü Temsil
+
 Üçüncü Temsil: “ Muvazene ” sırrıdır. Mesela, hakiki ve hassas ve çok büyük bir mizan bulunsa; iki gözünde iki güneş veya iki yıldız veya iki dağ veya iki yumurta veya iki zerre herhangisi bulunursa bulunsun, sarf olunacak aynı kuvvet ile o hassas azîm terazinin bir gözü göğe, biri zemine inebilir.
+
+## Dördüncü Temsil
 
 Dördüncü Temsil: “ İntizam ” sırrıdır. Mesela, en azîm bir gemi, en küçük bir oyuncak gibi çevrilebilir.
 
+## Beşinci Temsil
+
 Beşinci Temsil: “ Tecerrüd ” sırrıdır. Mesela, teşahhusattan mücerred bir mahiyet, bütün cüz’iyatına en küçüğünden en büyüğüne tenakus etmeden, tecezzi etmeden bir bakar, girer. Teşahhusat-ı zahiriye cihetindeki hususiyetler, müdahale edip şaşırtmaz. O mahiyet-i mücerredenin nazarını tağyir etmez. Mesela, iğne gibi bir balık, balina balığı gibi o mahiyet-i mücerredeye mâliktir. Bir mikrop, bir gergedan gibi mahiyet-i hayvaniyeyi taşıyor.
+
+## Altıncı Temsil
 
 Altıncı Temsil: “ İtaat ” sırrını gösterir. Mesela, bir kumandan “Arş!” emri ile bir neferi tahrik ettiği gibi aynı emir ile bir orduyu tahrik eder.
 
@@ -482,6 +527,8 @@ Altıncı Temsil: “ İtaat ” sırrını gösterir. Mesela, bir kumandan “A
 ---
 
 [Page 529]
+
+## Üçüncü Esas’ın netice ve hülâsası
 
 Üçüncü Esas’ın netice ve hülâsası: Madem kudret-i ezeliye gayr-ı mütenahîdir. Hem Zat-ı Akdes’e lâzıme-i zaruriyedir. Hem her şeyin lekesiz, perdesiz melekûtiyet ciheti, ona müteveccihtir. Hem ona mukabildir. Hem tesavi-i tarafeynden ibaret olan imkân itibarıyla muvazenettedir. Hem şeriat-ı fıtriye-i kübra olan nizam-ı fıtrata ve kavanin-i âdetullaha mutîdir. Hem manilerden ve ayrı ayrı hususiyetlerden melekûtiyet ciheti mücerred ve safidir. Elbette en büyük şey, en küçük şey gibi o kudrete ziyade nazlanmaz, mukavemet etmez.
 
@@ -498,6 +545,8 @@ Birincisi: Şu âlem-i dünyanın imkân-ı mevtidir.
 Üçüncüsü: O harap olmuş, ölmüş dünyanın, âhiret suretinde tamir ve dirilmesinin imkânıdır.
 
 Dördüncüsü: O mümkün olan tamir ve ihyanın vuku bulmasıdır.
+
+## Birinci Mesele
 
 Birinci Mesele: Şu kâinatın mevti, mümkündür. Çünkü bir şey kanun-u tekâmülde dâhil ise o şeyde alâküllihal neşv ü nema vardır. Neşv ü nema ve büyümek varsa ona alâküllihal bir ömr-ü fıtrî vardır. Ömr-ü fıtrîsi var ise alâküllihal bir ecel-i fıtrîsi vardır. Gayet geniş bir istikra ve tetebbu ile sabittir ki öyle şeyler mevtin pençesinden kendini kurtaramaz.
 
@@ -525,6 +574,8 @@ Demek, herhalde bir zaman gelecek ki kâinat hakikat-i uzmasının kışır ve s
 
 Elhasıl: Dünyanın mevti mümkün hem hiç şüphe getirmez ki mümkündür.
 
+## İkinci Mesele
+
 İkinci Mesele: Mevt-i dünyanın vuku bulmasıdır. Şu meseleye delil: Bütün Edyan-ı Semaviyenin icmaıdır ve bütün fıtrat-ı selimenin şehadetidir ve şu kâinatın bütün tahavvülat ve tebeddülat ve tagayyüratının işaretidir. Hem asırlar, seneler adedince zîhayat dünyaların ve seyyar âlemlerin, şu dünya misafirhanesinde mevtleriyle, asıl dünyanın da onlar gibi ölmesine şehadetleridir.
 
 ---
@@ -534,6 +585,8 @@ Elhasıl: Dünyanın mevti mümkün hem hiç şüphe getirmez ki mümkündür.
 Şu dünyanın sekeratını, âyât-ı Kur’aniyenin işaret ettiği surette tahayyül etmek istersen bak: Şu kâinatın eczaları, dakik, ulvi bir nizam ile birbirine bağlanmış. Hafî, nazik, latîf bir rabıta ile tutunmuş ve o derece bir intizam içindedir ki eğer ecram-ı ulviyeden tek bir cirm “Kün” emrine veya “Mihverinden çık.” hitabına mazhar olunca şu dünya sekerata başlar. Yıldızlar çarpışacak, ecramlar dalgalanacak, nihayetsiz feza-yı âlemde milyonlar gülleleri, küreler gibi büyük topların müthiş sadâları gibi vaveylâya başlar. Birbirine çarpışarak, kıvılcımlar saçarak, dağlar uçarak, denizler yanarak yeryüzü düzlenecek.
 
 İşte şu mevt ve sekerat ile Kadîr-i Ezelî kâinatı çalkalar; kâinatı tasfiye edip cehennem ve cehennemin maddeleri bir tarafa, cennet ve cennetin mevadd-ı münasibeleri başka tarafa çekilir, âlem-i âhiret tezahür eder.
+
+## Üçüncü Mesele
 
 Üçüncü Mesele: Ölecek âlemin dirilmesi mümkündür. Çünkü İkinci Esas’ta ispat edildiği gibi; kudrette noksan yoktur. Muktezî ise gayet kuvvetlidir. Mesele ise mümkinattandır. Mümkün bir meselenin gayet kuvvetli bir muktezîsi var ise fâilin kudretinde noksaniyet yok ise ona mümkün değil belki vaki suretiyle bakılabilir.
 
@@ -562,6 +615,8 @@ O Sâni’-i Zülcelal’in hikmet-i sermediyesi ve inayet-i ezeliyesi; o imtiha
 [Page 533]
 
 İşte şu tasfiyenin neticesinde cehennem ebedî ve dehşetli bir suret alıp, taifeleri وَامْتَازُوا الْيَوْمَ اَيُّهَا الْمُجْرِمُونَ tehdidine mazhar olacak. Cennet ebedî, haşmetli bir suret giyerek ehil ve ashabı سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدٖينَ hitabına mazhar olacak. Yirmi Sekizinci Söz’ün Birinci Makamı’nın İkinci Suali’nde ispat edildiği gibi Hakîm-i Ezelî, şu iki hanenin sekenelerine, kudret-i kâmilesiyle ebedî ve sabit bir vücud verir ki hiç inhilal ve tagayyüre ve ihtiyarlığa ve inkıraza maruz kalmazlar. Çünkü inkıraza sebebiyet veren tagayyürün esbabı bulunmaz.
+
+## Dördüncü Mesele
 
 Dördüncü Mesele: Şu mümkün, vaki olacaktır. Evet dünya, öldükten sonra âhiret olarak diriltilecektir. Dünya harap edildikten sonra, o dünyayı yapan zat, yine daha güzel bir surette onu tamir edecek, âhiretten bir menzil yapacaktır. Şuna delil başta Kur’an-ı Kerîm binler berahin-i akliyeyi tazammun eden umum âyâtıyla ve bütün kütüb-ü semaviye bunda müttefik bulunduğu gibi; Zat-ı Zülcelal’in evsaf-ı celaliyesi ve evsaf-ı cemaliyesi ve esma-i hüsnası, bunun vukuuna kat’î surette delâlet ederler ve enbiyaya gönderdiği bütün semavî fermanları ile kıyameti ve haşrin icadını vaad etmiş. İşte madem vaad etmiş, elbette yapacaktır. Onuncu Söz’ün Sekizinci Hakikati’ne müracaat et. Hem başta Muhammed-i Arabî aleyhissalâtü vesselâmın bin mu’cizatının kuvvetiyle, bütün enbiya ve mürselînin ve evliya ve sıddıkînin, vukuunda müttefik olup haber verdikleri gibi; şu kâinat bütün âyât-ı tekviniyesiyle, vukuundan haber veriyor.
 

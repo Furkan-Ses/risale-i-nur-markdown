@@ -5,6 +5,17 @@ section_id: "tarihce-i-hayat.003.barla-hayati"
 section_order: 3
 section_slug: "barla-hayati"
 section_title: "Barla Hayatı"
+aliases:
+  - "Barla Hayati"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "hayat"
+  - "dünya"
+  - "i'caz"
+  - "insan"
+  - "kalp"
+  - "keramet"
 source_section_path: "books/tarihce-i-hayat/by_heading/03 Barla Hayatı.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

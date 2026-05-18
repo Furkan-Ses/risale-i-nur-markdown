@@ -5,6 +5,17 @@ section_id: "isaratul-icaz.018.bakara-suresi-25-ayet"
 section_order: 18
 section_slug: "bakara-suresi-25-ayet"
 section_title: "Bakara Suresi 25. âyet"
+aliases:
+  - "Bakara Suresi 25. ayet"
+keywords:
+  - "cennet"
+  - "ayet"
+  - "insan"
+  - "dünya"
+  - "zikir"
+  - "bakara"
+  - "iman"
+  - "kalp"
 source_section_path: "books/isaratul-icaz/by_heading/18 Bakara Suresi 25. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

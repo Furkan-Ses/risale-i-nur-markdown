@@ -5,6 +5,17 @@ section_id: "barla-lahikasi.013.barla-lahikasi-s-221-240"
 section_order: 13
 section_slug: "barla-lahikasi-s-221-240"
 section_title: "Barla Lâhikası s.221-240"
+aliases:
+  - "Barla Lahikasi s.221-240"
+keywords:
+  - "ruh"
+  - "kalp"
+  - "dua"
+  - "iman"
+  - "lahika"
+  - "risale-i nur"
+  - "hayat"
+  - "sabır"
 source_section_path: "books/barla-lahikasi/by_heading/13 Barla Lâhikası s.221-240.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

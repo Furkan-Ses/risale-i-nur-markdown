@@ -5,6 +5,17 @@ section_id: "lemalar.035.fihrist-lemalar"
 section_order: 35
 section_slug: "fihrist-lemalar"
 section_title: "Fihrist (Lem’alar)"
+aliases:
+  - "Fihrist (Lemalar)"
+keywords:
+  - "iman"
+  - "insan"
+  - "ayet"
+  - "hayat"
+  - "hastalık"
+  - "hikmet"
+  - "dünya"
+  - "risale-i nur"
 source_section_path: "books/lemalar/by_heading/35 Fihrist (Lem’alar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

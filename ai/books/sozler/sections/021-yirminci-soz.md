@@ -5,6 +5,19 @@ section_id: "sozler.021.yirminci-soz"
 section_order: 21
 section_slug: "yirminci-soz"
 section_title: "Yirminci Söz"
+aliases:
+  - "Yirminci Soz"
+  - "20. Söz"
+  - "20. Soz"
+keywords:
+  - "ayet"
+  - "insan"
+  - "musa"
+  - "hikmet"
+  - "kalp"
+  - "i'caz"
+  - "belagat"
+  - "hayat"
 source_section_path: "books/sozler/by_heading/020 - Yirminci Söz.md"
 source_name: null
 source_url: null

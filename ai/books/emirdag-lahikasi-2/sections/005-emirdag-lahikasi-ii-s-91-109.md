@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.005.emirdag-lahikasi-ii-s-91-109"
 section_order: 5
 section_slug: "emirdag-lahikasi-ii-s-91-109"
 section_title: "Emirdağ Lâhikası - II s.91-109"
+aliases:
+  - "Emirdag Lahikasi - II s.91-109"
+keywords:
+  - "risale-i nur"
+  - "iman"
+  - "lahika"
+  - "bismillah"
+  - "ruh"
+  - "adalet"
+  - "rahmet"
+  - "dua"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/05 Emirdağ Lâhikası - II s.91-109.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

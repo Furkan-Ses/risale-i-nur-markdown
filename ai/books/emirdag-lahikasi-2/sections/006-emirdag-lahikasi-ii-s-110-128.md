@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.006.emirdag-lahikasi-ii-s-110-128"
 section_order: 6
 section_slug: "emirdag-lahikasi-ii-s-110-128"
 section_title: "Emirdağ Lâhikası - II s.110-128"
+aliases:
+  - "Emirdag Lahikasi - II s.110-128"
+keywords:
+  - "iman"
+  - "insan"
+  - "dünya"
+  - "lahika"
+  - "hikmet"
+  - "nimet"
+  - "dua"
+  - "hayat"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/06 Emirdağ Lâhikası - II s.110-128.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -5,6 +5,17 @@ section_id: "emirdag-lahikasi-2.004.emirdag-lahikasi-ii-s-70-90"
 section_order: 4
 section_slug: "emirdag-lahikasi-ii-s-70-90"
 section_title: "Emirdağ Lâhikası - II s.70-90"
+aliases:
+  - "Emirdag Lahikasi - II s.70-90"
+keywords:
+  - "iman"
+  - "i'caz"
+  - "kalp"
+  - "lahika"
+  - "risale-i nur"
+  - "tefsir"
+  - "adalet"
+  - "hikmet"
 source_section_path: "books/emirdag-lahikasi-2/by_heading/04 Emirdağ Lâhikası - II s.70-90.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

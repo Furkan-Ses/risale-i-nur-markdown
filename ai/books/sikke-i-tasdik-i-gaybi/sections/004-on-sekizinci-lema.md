@@ -5,6 +5,16 @@ section_id: "sikke-i-tasdik-i-gaybi.004.on-sekizinci-lema"
 section_order: 4
 section_slug: "on-sekizinci-lema"
 section_title: "On Sekizinci Lem’a"
+aliases:
+  - "On Sekizinci Lema"
+  - "18. Lem’a"
+  - "18. Lema"
+keywords:
+  - "gaybi"
+  - "keramet"
+  - "sikke-i tasdik-i gaybi"
+  - "risale-i nur"
+  - "on sekizinci lem’a"
 source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/04 On Sekizinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
