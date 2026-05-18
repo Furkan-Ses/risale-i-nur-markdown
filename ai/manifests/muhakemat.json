@@ -1,6 +1,22 @@
 {
   "book_id": "muhakemat",
   "book_title": "Muhakemat",
+  "keywords": [
+    "Kur’an",
+    "nefis",
+    "nübüvvet",
+    "i’caz",
+    "tevhid",
+    "meşveret",
+    "tezkiye"
+  ],
+  "tags": [
+    "kuran",
+    "nubuvvet",
+    "peygamberlik",
+    "mesveret",
+    "nefis terbiyesi"
+  ],
   "source_book_path": "books/muhakemat/Muhakemat.md",
   "ai_book_path": "ai/books/muhakemat/book.md",
   "passages_path": "ai/passages/muhakemat.jsonl",
@@ -28,28 +44,26 @@
         "BIRINCI MAKALE"
       ],
       "keywords": [
-        "hikmet",
         "Kur’an",
-        "bela",
-        "tefsir",
-        "akıl",
-        "medeniyet",
-        "sır",
-        "bekâ",
-        "ayet",
-        "dünya",
+        "uhuvvet",
+        "tevhid",
+        "meşveret",
+        "tezkiye",
+        "enaniyet",
         "nefis",
+        "nübüvvet",
         "i’caz",
-        "teslim",
-        "teslimiyet"
+        "namaz",
+        "ahiret",
+        "ubudiyet"
       ],
       "tags": [
         "kuran",
-        "akil",
-        "sir",
-        "beka",
-        "dunya",
-        "icaz"
+        "kardeşlik",
+        "mesveret",
+        "nefis terbiyesi",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -70,28 +84,26 @@
         "Ikinci Makale"
       ],
       "keywords": [
-        "bela",
-        "akıl",
-        "hizmet",
-        "vicdan",
         "Kur’an",
-        "ruh",
-        "hikmet",
-        "hastalık",
-        "i’caz",
         "nübüvvet",
-        "peygamberlik",
         "nefis",
+        "i’caz",
+        "hizmet",
+        "bekâ",
+        "cemaat",
+        "hikmet",
+        "ruh",
         "kalp",
-        "sır"
+        "gençlik",
+        "hastalık"
       ],
       "tags": [
-        "akil",
         "kuran",
-        "hastalik",
-        "icaz",
         "nubuvvet",
-        "sir"
+        "peygamberlik",
+        "icaz",
+        "beka",
+        "genclik"
       ]
     },
     {
@@ -112,26 +124,26 @@
         "Ucuncu Makale"
       ],
       "keywords": [
-        "hikmet",
-        "nübüvvet",
-        "peygamberlik",
+        "iman",
         "Kur’an",
+        "şahs-ı manevi",
+        "tevhid",
+        "uluhiyet",
+        "vahdaniyet",
+        "haşir",
+        "tezkiye",
+        "meşveret",
+        "nübüvvet",
         "nefis",
-        "vicdan",
-        "akıl",
-        "ruh",
-        "kalp",
-        "adalet",
-        "dünya",
-        "bela",
-        "tefsir",
-        "tevhid"
+        "marifetullah"
       ],
       "tags": [
-        "nubuvvet",
         "kuran",
-        "akil",
-        "dunya"
+        "sahs-i manevi",
+        "hasir",
+        "yeniden diriliş",
+        "nefis terbiyesi",
+        "mesveret"
       ]
     },
     {
@@ -150,17 +162,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "FIHRIST"
-      ],
-      "keywords": [
-        "bela",
-        "Kur’an",
-        "tefsir",
-        "nübüvvet",
-        "peygamberlik"
-      ],
-      "tags": [
-        "kuran",
-        "nubuvvet"
       ]
     },
     {
@@ -178,7 +179,6 @@
       "official_section_content_overlap": 0.9955357142857143,
       "official_section_diff_tokens": 2,
       "keywords": [
-        "bela",
         "tefsir"
       ]
     }

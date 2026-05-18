@@ -1,6 +1,24 @@
 {
   "book_id": "barla-lahikasi",
   "book_title": "Barla Lahikasi",
+  "keywords": [
+    "iman",
+    "Kur’an",
+    "i’caz",
+    "hizmet",
+    "bekâ",
+    "dua",
+    "sünnet",
+    "nefis"
+  ],
+  "tags": [
+    "kuran",
+    "icaz",
+    "beka",
+    "sunnet",
+    "teslimiyet",
+    "peygamberlik"
+  ],
   "source_book_path": "books/barla-lahikasi/Barla Lahikasi.md",
   "ai_book_path": "ai/books/barla-lahikasi/book.md",
   "passages_path": "ai/passages/barla-lahikasi.jsonl",
@@ -26,27 +44,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "Barla Lahikasi - Takdim"
-      ],
-      "keywords": [
-        "iman",
-        "Kur’an",
-        "hizmet",
-        "dünya",
-        "ihlas",
-        "sebat",
-        "hikmet",
-        "marifetullah",
-        "Allahı tanıma",
-        "uhuvvet",
-        "kardeşlik",
-        "tevhid",
-        "gençlik",
-        "mucize"
-      ],
-      "tags": [
-        "kuran",
-        "dunya",
-        "genclik"
       ]
     },
     {
@@ -67,28 +64,26 @@
         "Barla Lahikasi - Yedinci Risale"
       ],
       "keywords": [
-        "Kur’an",
-        "i’caz",
-        "sır",
-        "hizmet",
         "iman",
-        "yakin",
-        "sıkıntı",
-        "teslim",
-        "teslimiyet",
-        "akıl",
-        "acz",
-        "tevazu",
-        "hikmet",
-        "bekâ"
+        "Kur’an",
+        "uhuvvet",
+        "tesanüd",
+        "rububiyet",
+        "ehadiyet",
+        "nefis",
+        "nübüvvet",
+        "i’caz",
+        "hizmet",
+        "bekâ",
+        "cemaat"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "sir",
-        "sikinti",
-        "akil",
-        "beka"
+        "kardeşlik",
+        "tesanud",
+        "nubuvvet",
+        "peygamberlik",
+        "icaz"
       ]
     },
     {
@@ -109,25 +104,25 @@
         "Barla Lahikasi s.21-39"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
+        "Kur’an",
+        "şahs-ı manevi",
+        "uluhiyet",
+        "ihlas",
         "dua",
-        "dünya",
         "risalet",
-        "peygamberlik",
-        "ümit",
         "nefis",
-        "ruh",
-        "acz",
-        "fakr",
-        "bekâ",
-        "fena"
+        "ahiret",
+        "namaz",
+        "i’caz",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "umit",
+        "sahs-i manevi",
+        "peygamberlik",
+        "icaz",
+        "sunnet",
         "beka"
       ]
     },
@@ -149,26 +144,26 @@
         "Barla Lahikasi s.40-58"
       ],
       "keywords": [
-        "ruh",
-        "Kur’an",
         "iman",
-        "i’caz",
-        "acz",
+        "Kur’an",
+        "tevhid",
+        "ehadiyet",
+        "haşir",
         "risalet",
-        "peygamberlik",
-        "kalp",
-        "tefekkür",
         "dua",
-        "bekâ",
-        "hikmet",
-        "hizmet",
-        "teslim"
+        "nefis",
+        "i’caz",
+        "namaz",
+        "ubudiyet",
+        "ibadet"
       ],
       "tags": [
         "kuran",
+        "hasir",
+        "yeniden diriliş",
+        "peygamberlik",
         "icaz",
-        "tefekkur",
-        "beka"
+        "kulluk"
       ]
     },
     {
@@ -189,26 +184,26 @@
         "Barla Lahikasi s.59-80"
       ],
       "keywords": [
-        "Kur’an",
-        "ruh",
-        "hizmet",
-        "dua",
-        "dünya",
-        "teselli",
         "iman",
+        "Kur’an",
+        "enaniyet",
+        "ihlas",
+        "dua",
         "nefis",
-        "kalp",
-        "hikmet",
         "i’caz",
-        "acz",
-        "şükür",
-        "fikir"
+        "ahiret",
+        "hizmet",
+        "tevekkül",
+        "bekâ",
+        "sabır"
       ],
       "tags": [
         "kuran",
-        "dunya",
+        "benlik",
+        "ego",
         "icaz",
-        "sukur"
+        "tevekkul",
+        "Allah'a bırakmak"
       ]
     },
     {
@@ -229,28 +224,26 @@
         "Barla Lahikasi s.80-102"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
-        "i’caz",
         "iman",
-        "ruh",
-        "hikmet",
+        "Kur’an",
+        "tevhid",
+        "tesanüd",
+        "ihlas",
+        "tezkiye",
+        "dua",
         "risalet",
-        "peygamberlik",
-        "şükür",
-        "sır",
-        "hizmet",
-        "bekâ",
-        "dünya",
-        "kalp"
+        "nefis",
+        "nübüvvet",
+        "i’caz",
+        "ubudiyet"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "sukur",
-        "sir",
-        "beka",
-        "dunya"
+        "tesanud",
+        "nefis terbiyesi",
+        "peygamberlik",
+        "nubuvvet",
+        "icaz"
       ]
     },
     {
@@ -271,27 +264,26 @@
         "Barla Lahikasi s.103-121"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
         "iman",
-        "ruh",
-        "bekâ",
+        "Kur’an",
+        "ihlas",
+        "enaniyet",
+        "dua",
+        "nefis",
+        "ubudiyet",
+        "ibadet",
+        "i’caz",
+        "münacat",
         "hizmet",
-        "niyaz",
-        "dünya",
-        "hikmet",
-        "ümmet",
-        "kanaat",
-        "şükür",
-        "sure",
-        "ubudiyet"
+        "bekâ"
       ],
       "tags": [
         "kuran",
-        "beka",
-        "dunya",
-        "ummet",
-        "sukur"
+        "benlik",
+        "ego",
+        "kulluk",
+        "icaz",
+        "munacat"
       ]
     },
     {
@@ -312,27 +304,26 @@
         "Barla Lahikasi s.121-146"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "dua",
-        "hizmet",
-        "dünya",
-        "ruh",
-        "ümmet",
-        "risalet",
-        "peygamberlik",
-        "i’caz",
-        "sır",
-        "kanaat",
+        "Kur’an",
+        "uhuvvet",
         "tevhid",
+        "tesanüd",
+        "uluhiyet",
+        "ihlas",
+        "haşir",
+        "enaniyet",
+        "dua",
+        "risalet",
         "nefis"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "ummet",
-        "icaz",
-        "sir"
+        "kardeşlik",
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "benlik"
       ]
     },
     {
@@ -353,27 +344,26 @@
         "Barla Lahikasi s.146-159"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "sünnet",
-        "dua",
-        "ruh",
-        "hikmet",
-        "bekâ",
+        "Kur’an",
         "tevhid",
-        "kalp",
-        "dünya",
+        "enaniyet",
+        "dua",
+        "risalet",
+        "i’caz",
+        "sünnet",
         "hizmet",
-        "tefsir",
-        "sır",
-        "risalet"
+        "bekâ",
+        "cemaat",
+        "hikmet"
       ],
       "tags": [
         "kuran",
-        "sunnet",
-        "beka",
-        "dunya",
-        "sir"
+        "benlik",
+        "ego",
+        "peygamberlik",
+        "icaz",
+        "sunnet"
       ]
     },
     {
@@ -394,28 +384,26 @@
         "Barla Lahikasi s.160-180"
       ],
       "keywords": [
-        "Kur’an",
-        "ruh",
-        "hizmet",
         "iman",
+        "Kur’an",
+        "tevhid",
         "dua",
-        "dünya",
-        "sıkıntı",
-        "kalp",
-        "sır",
-        "hikmet",
         "nefis",
-        "kanaat",
-        "bekâ",
-        "sünnet"
+        "sadakat",
+        "i’caz",
+        "ahiret",
+        "namaz",
+        "ubudiyet",
+        "ibadet",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sikinti",
-        "sir",
+        "icaz",
+        "kulluk",
+        "sunnet",
         "beka",
-        "sunnet"
+        "teslimiyet"
       ]
     },
     {
@@ -436,27 +424,26 @@
         "Barla Lahikasi s.181-201"
       ],
       "keywords": [
-        "Kur’an",
-        "hizmet",
-        "ruh",
         "iman",
-        "dua",
-        "kalp",
-        "sadakat",
-        "bekâ",
+        "Kur’an",
         "ihlas",
+        "dua",
+        "sadakat",
+        "risalet",
         "namaz",
+        "i’caz",
+        "ahiret",
+        "hizmet",
         "sünnet",
-        "akıl",
-        "şefkat",
-        "hikmet"
+        "bekâ"
       ],
       "tags": [
         "kuran",
-        "beka",
+        "peygamberlik",
+        "icaz",
         "sunnet",
-        "akil",
-        "sefkat"
+        "beka",
+        "teslimiyet"
       ]
     },
     {
@@ -477,28 +464,26 @@
         "Barla Lahikasi s.202-221"
       ],
       "keywords": [
-        "Kur’an",
-        "hizmet",
-        "ruh",
-        "dua",
         "iman",
-        "bekâ",
-        "yakin",
-        "niyaz",
-        "dünya",
-        "sır",
-        "cemaat",
-        "ayet",
-        "şefkat",
-        "sabır"
+        "Kur’an",
+        "tevhid",
+        "samediyet",
+        "ihlas",
+        "haşir",
+        "dua",
+        "risalet",
+        "nübüvvet",
+        "i’caz",
+        "namaz",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "beka",
-        "dunya",
-        "sir",
-        "sefkat",
-        "sabir"
+        "hasir",
+        "yeniden diriliş",
+        "peygamberlik",
+        "nubuvvet",
+        "icaz"
       ]
     },
     {
@@ -519,26 +504,26 @@
         "Barla Lahikasi s.221-240"
       ],
       "keywords": [
-        "ruh",
-        "hizmet",
-        "Kur’an",
-        "dua",
         "iman",
-        "kalp",
-        "dünya",
-        "millet",
-        "sabır",
-        "şükür",
-        "ahiret",
+        "Kur’an",
+        "enaniyet",
+        "ihlas",
+        "dua",
         "nefis",
         "ubudiyet",
-        "kulluk"
+        "ibadet",
+        "ahiret",
+        "i’caz",
+        "namaz",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sabir",
-        "sukur"
+        "benlik",
+        "ego",
+        "kulluk",
+        "icaz",
+        "tevekkul"
       ]
     },
     {
@@ -559,27 +544,26 @@
         "Barla Lahikasi s.241-261"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
         "iman",
-        "ruh",
-        "sır",
-        "bekâ",
-        "hizmet",
-        "ahiret",
-        "niyet",
-        "dünya",
+        "Kur’an",
+        "uhuvvet",
         "tevhid",
-        "sünnet",
-        "cemaat",
-        "marifetullah"
+        "vahdaniyet",
+        "ihlas",
+        "haşir",
+        "meşveret",
+        "dua",
+        "marifetullah",
+        "risalet",
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "beka",
-        "dunya",
-        "sunnet"
+        "kardeşlik",
+        "hasir",
+        "yeniden diriliş",
+        "mesveret",
+        "Allahı tanıma"
       ]
     },
     {
@@ -600,26 +584,26 @@
         "Barla Lahikasi s.262-280"
       ],
       "keywords": [
-        "ayet",
+        "iman",
         "Kur’an",
-        "ruh",
-        "hizmet",
-        "sır",
+        "tevhid",
+        "rububiyet",
+        "ehadiyet",
         "ihlas",
         "dua",
-        "dünya",
-        "iman",
-        "bekâ",
-        "tevhid",
-        "hikmet",
+        "risalet",
+        "nefis",
+        "nübüvvet",
         "ubudiyet",
-        "kulluk"
+        "ibadet"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "dunya",
-        "beka"
+        "peygamberlik",
+        "nubuvvet",
+        "kulluk",
+        "icaz",
+        "sunnet"
       ]
     },
     {
@@ -640,25 +624,26 @@
         "Barla Lahikasi s.280-299"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
-        "sure",
-        "ruh",
-        "hizmet",
         "iman",
-        "tefsir",
-        "ayet",
-        "sır",
-        "kanaat",
+        "Kur’an",
+        "tevhid",
+        "haşir",
+        "meşveret",
+        "dua",
+        "nefis",
+        "marifetullah",
+        "risalet",
         "ubudiyet",
-        "kulluk",
-        "ahiret",
-        "bekâ"
+        "ibadet",
+        "ahiret"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "beka"
+        "hasir",
+        "yeniden diriliş",
+        "mesveret",
+        "Allahı tanıma",
+        "peygamberlik"
       ]
     },
     {
@@ -679,28 +664,26 @@
         "Barla Lahikasi s.300-321"
       ],
       "keywords": [
-        "Kur’an",
-        "hizmet",
-        "i’caz",
         "iman",
-        "bela",
-        "dua",
+        "Kur’an",
+        "tesanüd",
+        "rububiyet",
         "ihlas",
+        "haşir",
+        "dua",
         "nefis",
-        "dünya",
-        "sır",
-        "hikmet",
-        "bekâ",
-        "ayet",
-        "şükür"
+        "risalet",
+        "i’caz",
+        "ahiret",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "dunya",
-        "sir",
-        "beka",
-        "sukur"
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "peygamberlik",
+        "icaz"
       ]
     },
     {
@@ -721,27 +704,26 @@
         "Barla Lahikasi s.321-340"
       ],
       "keywords": [
+        "iman",
         "Kur’an",
+        "uhuvvet",
         "dua",
-        "hizmet",
-        "dünya",
-        "sır",
+        "nefis",
+        "nübüvvet",
         "ahiret",
-        "ruh",
         "i’caz",
-        "hikmet",
         "ubudiyet",
-        "kulluk",
-        "bekâ",
-        "teslim",
-        "teslimiyet"
+        "ibadet",
+        "hizmet",
+        "sünnet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sir",
+        "kardeşlik",
+        "nubuvvet",
+        "peygamberlik",
         "icaz",
-        "beka"
+        "kulluk"
       ]
     },
     {
@@ -762,28 +744,26 @@
         "Barla Lahikasi s.340-362"
       ],
       "keywords": [
-        "dua",
-        "sır",
-        "Kur’an",
-        "ruh",
-        "i’caz",
         "iman",
-        "salavat",
-        "bekâ",
-        "dünya",
-        "siyaset",
-        "tefsir",
-        "işaret",
-        "niyet",
+        "Kur’an",
+        "tevhid",
+        "vahdaniyet",
+        "dua",
+        "risalet",
+        "i’caz",
+        "ubudiyet",
+        "ibadet",
+        "ahiret",
+        "namaz",
         "hizmet"
       ],
       "tags": [
-        "sir",
         "kuran",
+        "peygamberlik",
         "icaz",
-        "beka",
-        "dunya",
-        "isaret"
+        "kulluk",
+        "sunnet",
+        "beka"
       ]
     },
     {
@@ -804,28 +784,26 @@
         "Barla Lahikasi s.363-392"
       ],
       "keywords": [
-        "hizmet",
-        "Kur’an",
-        "dünya",
-        "şefkat",
         "iman",
+        "Kur’an",
+        "şahs-ı manevi",
+        "tesanüd",
+        "ihlas",
+        "enaniyet",
         "dua",
-        "ruh",
         "risalet",
-        "peygamberlik",
-        "ayet",
-        "sır",
-        "ahiret",
-        "bekâ",
-        "i’caz"
+        "nefis",
+        "sadakat",
+        "nübüvvet",
+        "marifetullah"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sefkat",
-        "sir",
-        "beka",
-        "icaz"
+        "sahs-i manevi",
+        "tesanud",
+        "benlik",
+        "ego",
+        "peygamberlik"
       ]
     }
   ]

@@ -11,9 +11,10 @@ aliases:
   - "2. Soz"
 keywords:
   - "iman"
-  - "zikir"
+  - "cehennem"
+  - "cennet"
   - "vicdan"
-  - "imtihan"
+  - "zikir"
 source_section_path: "books/sozler/by_heading/002 - İkinci Söz.md"
 source_name: null
 source_url: null

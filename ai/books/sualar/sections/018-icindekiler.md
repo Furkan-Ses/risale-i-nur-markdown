@@ -7,16 +7,6 @@ section_slug: "icindekiler"
 section_title: "İÇİNDEKİLER"
 aliases:
   - "ICINDEKILER"
-keywords:
-  - "Kur’an"
-  - "ayet"
-  - "yakin"
-  - "münacat"
-  - "dua"
-  - "niyaz"
-tags:
-  - "kuran"
-  - "munacat"
 source_section_path: "books/sualar/by_heading/18 İçindekiler (Şuâlar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -1,6 +1,24 @@
 {
   "book_id": "isaratul-icaz",
   "book_title": "Isaratul-icaz",
+  "keywords": [
+    "Kur’an",
+    "ayet",
+    "sure",
+    "i’caz",
+    "vicdan",
+    "iman",
+    "hikmet",
+    "cemaat"
+  ],
+  "tags": [
+    "kuran",
+    "icaz",
+    "beka",
+    "akil",
+    "itikad",
+    "hasir"
+  ],
   "source_book_path": "books/isaratul-icaz/Isaratul-icaz.md",
   "ai_book_path": "ai/books/isaratul-icaz/book.md",
   "passages_path": "ai/passages/isaratul-icaz.jsonl",
@@ -25,22 +43,19 @@
       "official_section_content_overlap": 0.9953095684803002,
       "official_section_diff_tokens": 5,
       "keywords": [
-        "tefsir",
         "Kur’an",
+        "rububiyet",
         "i’caz",
-        "işaret",
-        "bela",
+        "tefsir",
+        "mucize",
         "ayet",
-        "sır",
-        "niyet",
-        "siyaset",
-        "mucize"
+        "cennet",
+        "sünuhat"
       ],
       "tags": [
         "kuran",
         "icaz",
-        "isaret",
-        "sir"
+        "sunuhat"
       ]
     },
     {
@@ -62,24 +77,23 @@
       ],
       "keywords": [
         "Kur’an",
-        "tefsir",
-        "ihlas",
-        "millet",
-        "i’caz",
-        "tesanüd",
-        "niyet",
-        "hürriyet",
-        "cemaat",
         "şahs-ı manevi",
-        "işaret"
+        "tesanüd",
+        "ihlas",
+        "i’caz",
+        "cemaat",
+        "hürriyet",
+        "tefsir",
+        "ilim",
+        "sünuhat"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "tesanud",
-        "hurriyet",
         "sahs-i manevi",
-        "isaret"
+        "tesanud",
+        "icaz",
+        "hurriyet",
+        "sunuhat"
       ]
     },
     {
@@ -101,14 +115,17 @@
       ],
       "keywords": [
         "Kur’an",
+        "rububiyet",
+        "uluhiyet",
         "hikmet",
+        "rahmet",
+        "tefsir",
         "teslim",
-        "teslimiyet",
-        "vicdan",
-        "tefsir"
+        "vicdan"
       ],
       "tags": [
-        "kuran"
+        "kuran",
+        "teslimiyet"
       ]
     },
     {
@@ -127,25 +144,25 @@
       "official_section_diff_tokens": 2,
       "keywords": [
         "sure",
+        "iman",
         "Kur’an",
-        "ubudiyet",
-        "kulluk",
-        "hikmet",
-        "ruh",
         "tevhid",
+        "rububiyet",
         "haşir",
-        "yeniden diriliş",
-        "bekâ",
-        "dünya",
+        "ihlas",
         "risalet",
-        "peygamberlik",
-        "nefis"
+        "nefis",
+        "nübüvvet",
+        "ubudiyet",
+        "ibadet"
       ],
       "tags": [
         "kuran",
         "hasir",
-        "beka",
-        "dunya"
+        "yeniden diriliş",
+        "peygamberlik",
+        "nubuvvet",
+        "kulluk"
       ]
     },
     {
@@ -164,23 +181,25 @@
       "official_section_diff_tokens": null,
       "keywords": [
         "sure",
-        "Kur’an",
-        "bela",
         "iman",
-        "namaz",
+        "Kur’an",
+        "tevhid",
+        "asayiş",
+        "haşir",
+        "ihlas",
+        "nübüvvet",
         "i’caz",
-        "ayet",
-        "ruh",
+        "namaz",
         "ubudiyet",
-        "kulluk",
-        "kalp",
-        "vicdan",
-        "hikmet",
-        "fikir"
+        "ibadet"
       ],
       "tags": [
         "kuran",
-        "icaz"
+        "asayis",
+        "hasir",
+        "yeniden diriliş",
+        "nubuvvet",
+        "peygamberlik"
       ]
     },
     {
@@ -203,25 +222,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "Kur’an",
         "iman",
-        "ahiret",
-        "ruh",
-        "hikmet",
+        "Kur’an",
+        "rububiyet",
         "haşir",
-        "yeniden diriliş",
-        "bela",
-        "yakin",
-        "şefkat",
-        "bekâ",
-        "i’caz"
+        "tezkiye",
+        "nübüvvet",
+        "risalet",
+        "ahiret",
+        "i’caz",
+        "hizmet"
       ],
       "tags": [
         "kuran",
         "hasir",
-        "sefkat",
-        "beka",
-        "icaz"
+        "yeniden diriliş",
+        "nefis terbiyesi",
+        "nubuvvet",
+        "peygamberlik"
       ]
     },
     {
@@ -246,20 +264,19 @@
         "sure",
         "iman",
         "Kur’an",
+        "ahiret",
+        "i’caz",
         "kalp",
-        "vicdan",
         "ruh",
         "musibet",
-        "ahiret",
-        "ihtilaf",
-        "istiğna",
-        "teselli",
-        "i’caz"
+        "cennet",
+        "cehennem",
+        "vicdan"
       ],
       "tags": [
         "kuran",
-        "istigna",
-        "icaz"
+        "icaz",
+        "itikad"
       ]
     },
     {
@@ -282,23 +299,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "kalp",
-        "vicdan",
-        "hikmet",
         "iman",
-        "adalet",
-        "dünya",
-        "cemaat",
+        "tevhid",
+        "vahdaniyet",
+        "nefis",
         "ahiret",
-        "acz",
         "sünnet",
+        "hizmet",
+        "cemaat",
         "bekâ",
-        "nefis"
+        "kader"
       ],
       "tags": [
-        "dunya",
         "sunnet",
-        "beka"
+        "beka",
+        "olum",
+        "teslimiyet",
+        "cuzi ihtiyari",
+        "hastalik"
       ]
     },
     {
@@ -323,16 +341,16 @@
         "sure",
         "iman",
         "Kur’an",
-        "riya",
-        "hikmet",
-        "bela",
-        "cemaat",
         "tevhid",
+        "cemaat",
+        "hikmet",
         "vicdan",
-        "siyaset"
+        "riya",
+        "akaid"
       ],
       "tags": [
-        "kuran"
+        "kuran",
+        "itikad"
       ]
     },
     {
@@ -355,22 +373,21 @@
       "keywords": [
         "ayet",
         "sure",
-        "nefis",
-        "kalp",
         "iman",
+        "haşir",
+        "nefis",
+        "ahiret",
+        "cemaat",
+        "hikmet",
+        "kalp",
         "ruh",
         "hastalık",
-        "cemaat",
-        "haşir",
-        "yeniden diriliş",
-        "ahiret",
-        "hikmet",
-        "niyet",
-        "fena"
+        "vicdan"
       ],
       "tags": [
-        "hastalik",
-        "hasir"
+        "hasir",
+        "yeniden diriliş",
+        "hastalik"
       ]
     },
     {
@@ -393,18 +410,15 @@
       "keywords": [
         "ayet",
         "sure",
-        "şefkat",
-        "fena",
-        "sebat",
-        "adalet",
         "i’caz",
+        "sebat",
         "teslim",
-        "teslimiyet",
+        "adalet",
         "vicdan"
       ],
       "tags": [
-        "sefkat",
-        "icaz"
+        "icaz",
+        "teslimiyet"
       ]
     },
     {
@@ -428,20 +442,21 @@
         "ayet",
         "sure",
         "iman",
-        "gurur",
-        "kalp",
-        "nefis",
-        "vicdan",
-        "ihlas",
         "Kur’an",
-        "fanilik",
+        "ihlas",
+        "tezkiye",
+        "enaniyet",
+        "nefis",
         "bekâ",
         "cemaat",
-        "enaniyet",
-        "benlik"
+        "kalp",
+        "vicdan"
       ],
       "tags": [
         "kuran",
+        "nefis terbiyesi",
+        "benlik",
+        "ego",
         "beka"
       ]
     },
@@ -467,17 +482,17 @@
         "sure",
         "iman",
         "Kur’an",
+        "uluhiyet",
+        "tezkiye",
         "nefis",
-        "kalp",
-        "şefkat",
-        "riya",
         "sebat",
-        "fena",
+        "kalp",
+        "riya",
         "gurur"
       ],
       "tags": [
         "kuran",
-        "sefkat"
+        "nefis terbiyesi"
       ]
     },
     {
@@ -527,24 +542,23 @@
       "keywords": [
         "ayet",
         "sure",
-        "musibet",
-        "Kur’an",
-        "bela",
-        "ümit",
-        "hikmet",
-        "bekâ",
-        "ölüm",
         "iman",
-        "ruh",
+        "Kur’an",
+        "uluhiyet",
         "nefis",
-        "vicdan",
-        "akıl"
+        "i’caz",
+        "bekâ",
+        "cemaat",
+        "sebat",
+        "hikmet",
+        "ölüm"
       ],
       "tags": [
         "kuran",
-        "umit",
+        "icaz",
         "beka",
         "olum",
+        "teslimiyet",
         "akil"
       ]
     },
@@ -568,23 +582,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "ubudiyet",
-        "kulluk",
-        "hikmet",
-        "takva",
-        "Kur’an",
-        "akıl",
         "iman",
+        "Kur’an",
+        "uhuvvet",
         "tevhid",
-        "ruh",
+        "uluhiyet",
         "ihlas",
-        "şükür",
-        "fikir"
+        "nefis",
+        "ubudiyet",
+        "ibadet",
+        "ahiret"
       ],
       "tags": [
         "kuran",
-        "akil",
-        "sukur"
+        "kardeşlik",
+        "kulluk",
+        "icaz",
+        "beka",
+        "teslimiyet"
       ]
     },
     {
@@ -607,23 +622,24 @@
       "keywords": [
         "ayet",
         "sure",
+        "iman",
         "Kur’an",
-        "i’caz",
+        "uhuvvet",
+        "tevhid",
+        "haşir",
+        "enaniyet",
+        "meşveret",
         "nübüvvet",
-        "peygamberlik",
-        "bela",
-        "mucize",
-        "ubudiyet",
-        "kulluk",
-        "acz",
-        "kalp",
-        "ruh",
-        "fikir"
+        "nefis",
+        "i’caz"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "nubuvvet"
+        "kardeşlik",
+        "hasir",
+        "yeniden diriliş",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -646,25 +662,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "dünya",
-        "ölüm",
-        "Kur’an",
-        "nübüvvet",
-        "peygamberlik",
         "iman",
-        "ahiret",
-        "imtihan",
-        "ubudiyet",
-        "kulluk",
+        "Kur’an",
         "tevhid",
-        "bekâ"
+        "haşir",
+        "nübüvvet",
+        "marifetullah",
+        "ahiret",
+        "ubudiyet",
+        "ibadet",
+        "i’caz"
       ],
       "tags": [
-        "dunya",
-        "olum",
         "kuran",
+        "hasir",
+        "yeniden diriliş",
         "nubuvvet",
-        "beka"
+        "peygamberlik",
+        "Allahı tanıma"
       ]
     },
     {
@@ -687,25 +702,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "Kur’an",
-        "bela",
         "iman",
-        "hikmet",
-        "i’caz",
-        "ruh",
-        "dünya",
+        "Kur’an",
+        "rububiyet",
+        "uluhiyet",
+        "haşir",
         "nefis",
-        "bekâ",
-        "akıl",
-        "ahiret",
-        "vicdan"
+        "marifetullah",
+        "nübüvvet",
+        "i’caz",
+        "ubudiyet"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "dunya",
-        "beka",
-        "akil"
+        "hasir",
+        "yeniden diriliş",
+        "Allahı tanıma",
+        "nubuvvet",
+        "peygamberlik"
       ]
     },
     {
@@ -728,24 +742,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "ölüm",
-        "bekâ",
-        "ruh",
-        "hikmet",
         "iman",
         "Kur’an",
-        "ubudiyet",
-        "kulluk",
-        "fena",
-        "bela",
         "haşir",
-        "yeniden diriliş"
+        "ubudiyet",
+        "ibadet",
+        "ahiret",
+        "bekâ",
+        "ölüm",
+        "hikmet",
+        "ruh"
       ],
       "tags": [
-        "olum",
-        "beka",
         "kuran",
-        "hasir"
+        "hasir",
+        "yeniden diriliş",
+        "kulluk",
+        "beka",
+        "olum"
       ]
     },
     {
@@ -768,25 +782,23 @@
       "keywords": [
         "ayet",
         "sure",
-        "dünya",
-        "hikmet",
         "Kur’an",
-        "tefekkür",
-        "bekâ",
-        "fikir",
-        "haşir",
-        "yeniden diriliş",
         "tevhid",
+        "haşir",
+        "i’caz",
+        "bekâ",
         "cemaat",
-        "i’caz"
+        "hikmet",
+        "tefekkür",
+        "dünya"
       ],
       "tags": [
-        "dunya",
         "kuran",
-        "tefekkur",
-        "beka",
         "hasir",
-        "icaz"
+        "yeniden diriliş",
+        "icaz",
+        "beka",
+        "tefekkur"
       ]
     },
     {
@@ -809,23 +821,23 @@
       "keywords": [
         "ayet",
         "sure",
-        "hikmet",
-        "ubudiyet",
-        "kulluk",
-        "ruh",
-        "Kur’an",
-        "akıl",
         "iman",
-        "fikir",
+        "Kur’an",
+        "uluhiyet",
+        "ubudiyet",
+        "ibadet",
+        "i’caz",
         "cemaat",
-        "ittifak",
-        "takva",
-        "i’caz"
+        "hikmet",
+        "ruh",
+        "akıl"
       ],
       "tags": [
         "kuran",
+        "kulluk",
+        "icaz",
         "akil",
-        "icaz"
+        "itikad"
       ]
     },
     {
@@ -848,24 +860,24 @@
       "keywords": [
         "ayet",
         "sure",
-        "mucize",
-        "tefsir",
         "Kur’an",
-        "akıl",
-        "acz",
-        "hikmet",
         "enaniyet",
-        "benlik",
-        "vicdan",
-        "i’caz",
         "nübüvvet",
-        "peygamberlik"
+        "i’caz",
+        "sünnet",
+        "cemaat",
+        "hikmet",
+        "acz",
+        "tefsir",
+        "mucize"
       ],
       "tags": [
         "kuran",
-        "akil",
-        "icaz",
-        "nubuvvet"
+        "benlik",
+        "ego",
+        "nubuvvet",
+        "peygamberlik",
+        "icaz"
       ]
     },
     {
@@ -887,24 +899,25 @@
       ],
       "keywords": [
         "Kur’an",
-        "bela",
-        "dünya",
-        "ayet",
         "iman",
-        "hikmet",
-        "mucize",
-        "fikir",
-        "millet",
-        "huzur",
-        "akıl",
-        "medeniyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "haşir",
         "risalet",
-        "peygamberlik"
+        "i’caz",
+        "tevekkül",
+        "sebat",
+        "hikmet",
+        "teslim",
+        "mucize"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "akil"
+        "hasir",
+        "yeniden diriliş",
+        "peygamberlik",
+        "icaz",
+        "tevekkul"
       ]
     },
     {
@@ -925,24 +938,25 @@
         "Mehmed Kayalarin Bir Mudafaasi"
       ],
       "keywords": [
-        "Kur’an",
-        "tefsir",
         "iman",
+        "Kur’an",
         "tevhid",
-        "huzur",
-        "adalet",
+        "vahdaniyet",
+        "uluhiyet",
+        "ehadiyet",
         "asayiş",
-        "hizmet",
         "ahiret",
-        "kalp",
-        "teslim",
-        "teslimiyet",
-        "yakin",
-        "fikir"
+        "i’caz",
+        "hizmet",
+        "hürriyet",
+        "tefsir"
       ],
       "tags": [
         "kuran",
-        "asayis"
+        "asayis",
+        "icaz",
+        "hurriyet",
+        "teslimiyet"
       ]
     },
     {
@@ -963,17 +977,16 @@
         "Dua (Isaratul-Icaz)"
       ],
       "keywords": [
-        "i’caz",
-        "işaret",
         "dua",
         "Kur’an",
         "ihlas",
-        "sebat"
+        "i’caz",
+        "sebat",
+        "cennet"
       ],
       "tags": [
-        "icaz",
-        "isaret",
-        "kuran"
+        "kuran",
+        "icaz"
       ]
     },
     {
@@ -992,25 +1005,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "Fihrist (Isaratul-Icaz)"
-      ],
-      "keywords": [
-        "i’caz",
-        "işaret",
-        "Kur’an",
-        "iman",
-        "sure",
-        "nübüvvet",
-        "peygamberlik",
-        "tevhid",
-        "takva",
-        "sünnet"
-      ],
-      "tags": [
-        "icaz",
-        "isaret",
-        "kuran",
-        "nubuvvet",
-        "sunnet"
       ]
     }
   ]

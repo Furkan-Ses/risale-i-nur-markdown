@@ -10,13 +10,13 @@ aliases:
 keywords:
   - "iman"
   - "Kur’an"
-  - "bela"
-  - "mucize"
   - "uhuvvet"
-  - "kardeşlik"
+  - "mucize"
+  - "cennet"
   - "vicdan"
 tags:
   - "kuran"
+  - "kardeşlik"
 source_section_path: "books/mektubat/by_heading/36 Gönüller Fatihi Büyük Üstada.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

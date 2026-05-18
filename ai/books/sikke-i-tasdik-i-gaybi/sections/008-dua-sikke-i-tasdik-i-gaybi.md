@@ -12,6 +12,7 @@ keywords:
   - "Kur’an"
   - "ihlas"
   - "sebat"
+  - "cennet"
 tags:
   - "kuran"
 source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/08 Dua (Sikke-i Tasdik-i Gaybî).md"

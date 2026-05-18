@@ -10,16 +10,11 @@ aliases:
 keywords:
   - "nefis"
   - "risalet"
-  - "peygamberlik"
   - "kader"
-  - "şefkat"
   - "hikmet"
   - "ayet"
-  - "heves"
-  - "kanaat"
-  - "iffet"
 tags:
-  - "sefkat"
+  - "peygamberlik"
 source_section_path: "books/mektubat/by_heading/07 Yedinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

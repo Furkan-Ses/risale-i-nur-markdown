@@ -7,15 +7,6 @@ section_slug: "fihrist"
 section_title: "FİHRİST"
 aliases:
   - "FIHRIST"
-keywords:
-  - "bela"
-  - "Kur’an"
-  - "tefsir"
-  - "nübüvvet"
-  - "peygamberlik"
-tags:
-  - "kuran"
-  - "nubuvvet"
 source_section_path: "books/muhakemat/by_heading/04 Fihrist (Muhakemat).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

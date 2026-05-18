@@ -12,6 +12,7 @@ keywords:
   - "Kur’an"
   - "ihlas"
   - "sebat"
+  - "cennet"
 tags:
   - "kuran"
 source_section_path: "books/lemalar/by_heading/36 Dua (Lem’alar).md"

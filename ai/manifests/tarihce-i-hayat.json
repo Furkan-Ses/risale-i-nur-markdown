@@ -1,6 +1,24 @@
 {
   "book_id": "tarihce-i-hayat",
   "book_title": "Tarihce-i Hayat",
+  "keywords": [
+    "Kur’an",
+    "ihlas",
+    "dua",
+    "cennet",
+    "iman",
+    "tevhid",
+    "haşir",
+    "asayiş"
+  ],
+  "tags": [
+    "kuran",
+    "beka",
+    "dunya",
+    "hasir",
+    "yeniden diriliş",
+    "asayis"
+  ],
   "source_book_path": "books/tarihce-i-hayat/Tarihce-i Hayat.md",
   "ai_book_path": "ai/books/tarihce-i-hayat/book.md",
   "passages_path": "ai/passages/tarihce-i-hayat.jsonl",
@@ -26,29 +44,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "On soz"
-      ],
-      "keywords": [
-        "iman",
-        "ruh",
-        "Kur’an",
-        "istiğna",
-        "bekâ",
-        "dünya",
-        "tefekkür",
-        "huzur",
-        "kalp",
-        "ihlas",
-        "hikmet",
-        "fanilik",
-        "yakin",
-        "nefis"
-      ],
-      "tags": [
-        "kuran",
-        "istigna",
-        "beka",
-        "dunya",
-        "tefekkur"
       ]
     },
     {
@@ -69,26 +64,26 @@
         "Ilk Hayati"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hürriyet",
-        "millet",
-        "medeniyet",
-        "ruh",
-        "dünya",
-        "hizmet",
-        "siyaset",
-        "bekâ",
-        "nefis",
-        "tefsir",
-        "namaz",
-        "istibdat"
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tevhid",
+        "tesanüd",
+        "rububiyet",
+        "vahdaniyet",
+        "ihlas",
+        "meşveret",
+        "haşir",
+        "asayiş"
       ],
       "tags": [
         "kuran",
-        "hurriyet",
-        "dunya",
-        "beka"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "mesveret",
+        "hasir"
       ]
     },
     {
@@ -109,27 +104,26 @@
         "Barla Hayati"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
-        "dünya",
-        "millet",
-        "i’caz",
-        "sır",
-        "hikmet",
-        "siyaset",
-        "ruh",
-        "bekâ",
-        "bela",
+        "Kur’an",
+        "uhuvvet",
+        "tesanüd",
+        "tevhid",
+        "rububiyet",
+        "ehadiyet",
+        "enaniyet",
+        "ihlas",
+        "haşir",
         "nefis",
-        "kader"
+        "dua"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "icaz",
-        "sir",
-        "beka"
+        "kardeşlik",
+        "tesanud",
+        "benlik",
+        "ego",
+        "hasir"
       ]
     },
     {
@@ -148,29 +142,6 @@
       "official_section_diff_tokens": null,
       "aliases": [
         "Ucuncu Kisim"
-      ],
-      "keywords": [
-        "dünya",
-        "iman",
-        "siyaset",
-        "Kur’an",
-        "hizmet",
-        "millet",
-        "adalet",
-        "ahiret",
-        "medeniyet",
-        "asayiş",
-        "nefis",
-        "vicdan",
-        "hürriyet",
-        "bekâ"
-      ],
-      "tags": [
-        "dunya",
-        "kuran",
-        "asayis",
-        "hurriyet",
-        "beka"
       ]
     },
     {
@@ -191,27 +162,26 @@
         "Kastamonu Hayati"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hikmet",
-        "dünya",
-        "hizmet",
-        "dua",
+        "Kur’an",
+        "uhuvvet",
         "tevhid",
-        "ruh",
-        "kalp",
-        "şefkat",
-        "bekâ",
-        "yakin",
-        "akıl",
-        "ittifak"
+        "tesanüd",
+        "rububiyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "ehadiyet",
+        "ihlas",
+        "enaniyet",
+        "haşir"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sefkat",
-        "beka",
-        "akil"
+        "kardeşlik",
+        "tesanud",
+        "benlik",
+        "ego",
+        "hasir"
       ]
     },
     {
@@ -234,25 +204,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "dünya",
-        "ahiret",
-        "hikmet",
-        "millet",
-        "adalet",
-        "sıkıntı",
-        "bekâ",
+        "uhuvvet",
+        "tesanüd",
+        "rububiyet",
+        "vahdaniyet",
+        "haşir",
+        "enaniyet",
+        "ihlas",
+        "asayiş",
         "dua",
-        "hizmet",
-        "ruh",
-        "siyaset",
-        "hürriyet"
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sikinti",
-        "beka",
-        "hurriyet"
+        "kardeşlik",
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "benlik"
       ]
     },
     {
@@ -273,27 +242,26 @@
         "Emirdag Hayati"
       ],
       "keywords": [
-        "hizmet",
         "iman",
-        "millet",
         "Kur’an",
-        "dünya",
-        "siyaset",
-        "ruh",
+        "uhuvvet",
+        "tevhid",
+        "uluhiyet",
         "ihlas",
-        "bekâ",
+        "asayiş",
+        "enaniyet",
+        "haşir",
+        "meşveret",
         "dua",
-        "sıkıntı",
-        "nefis",
-        "hürriyet",
-        "ahiret"
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "beka",
-        "sikinti",
-        "hurriyet"
+        "kardeşlik",
+        "asayis",
+        "benlik",
+        "ego",
+        "hasir"
       ]
     },
     {
@@ -316,25 +284,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "hizmet",
-        "millet",
-        "dünya",
-        "sıkıntı",
-        "siyaset",
-        "bekâ",
-        "adalet",
-        "teselli",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
+        "ihlas",
         "asayiş",
-        "tefsir",
-        "ruh",
-        "nefis"
+        "haşir",
+        "enaniyet",
+        "meşveret",
+        "nefis",
+        "dua"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sikinti",
-        "beka",
-        "asayis"
+        "kardeşlik",
+        "tesanud",
+        "asayis",
+        "hasir",
+        "yeniden diriliş"
       ]
     },
     {
@@ -357,25 +324,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "hizmet",
-        "millet",
-        "ruh",
-        "dünya",
-        "dua",
-        "kalp",
-        "hürriyet",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
+        "uluhiyet",
+        "vahdaniyet",
         "asayiş",
-        "siyaset",
-        "vicdan",
-        "gençlik",
-        "nefis"
+        "ihlas",
+        "enaniyet",
+        "haşir",
+        "dua"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "hurriyet",
+        "kardeşlik",
+        "tesanud",
         "asayis",
-        "genclik"
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -396,28 +362,26 @@
         "Risale-i Nur ve Haric Memleketler"
       ],
       "keywords": [
-        "Kur’an",
-        "hizmet",
-        "dünya",
         "iman",
-        "sabır",
-        "dua",
-        "ruh",
-        "siyaset",
+        "Kur’an",
+        "tevhid",
         "ihlas",
-        "gençlik",
-        "millet",
-        "niyaz",
+        "asayiş",
+        "dua",
+        "risalet",
+        "i’caz",
+        "hizmet",
+        "sabır",
         "bekâ",
-        "ümit"
+        "cemaat"
       ],
       "tags": [
         "kuran",
-        "dunya",
+        "asayis",
+        "peygamberlik",
+        "icaz",
         "sabir",
-        "genclik",
-        "beka",
-        "umit"
+        "sabretme"
       ]
     },
     {
@@ -440,24 +404,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "hizmet",
-        "tefsir",
+        "şahs-ı manevi",
+        "tevhid",
+        "vahdaniyet",
         "ihlas",
-        "dünya",
-        "ruh",
-        "millet",
-        "akıl",
-        "kalp",
-        "sır",
-        "siyaset",
-        "ahiret",
-        "kader"
+        "haşir",
+        "enaniyet",
+        "asayiş",
+        "nefis",
+        "sadakat",
+        "dua"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "akil",
-        "sir"
+        "sahs-i manevi",
+        "hasir",
+        "yeniden diriliş",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -481,7 +445,8 @@
         "dua",
         "Kur’an",
         "ihlas",
-        "sebat"
+        "sebat",
+        "cennet"
       ],
       "tags": [
         "kuran"

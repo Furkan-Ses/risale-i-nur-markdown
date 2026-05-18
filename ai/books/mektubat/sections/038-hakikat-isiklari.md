@@ -8,7 +8,9 @@ section_title: "Hakikat Işıkları"
 aliases:
   - "Hakikat Isiklari"
 keywords:
-  - "heves"
+  - "rahmet"
+  - "cennet"
+  - "gaflet"
 source_section_path: "books/mektubat/by_heading/38 Hakikat Işıkları.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

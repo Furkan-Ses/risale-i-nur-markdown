@@ -1,6 +1,24 @@
 {
   "book_id": "sikke-i-tasdik-i-gaybi",
   "book_title": "Sikke-i Tasdik-i Gaybi",
+  "keywords": [
+    "Kur’an",
+    "cennet",
+    "iman",
+    "ihlas",
+    "risalet",
+    "dua",
+    "nefis",
+    "i’caz"
+  ],
+  "tags": [
+    "kuran",
+    "peygamberlik",
+    "icaz",
+    "benlik",
+    "ego",
+    "munacat"
+  ],
   "source_book_path": "books/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md",
   "ai_book_path": "ai/books/sikke-i-tasdik-i-gaybi/book.md",
   "passages_path": "ai/passages/sikke-i-tasdik-i-gaybi.jsonl",
@@ -28,25 +46,26 @@
         "Risale-i Nurdan Parlak Fikralar ve Bir Kisim Guzel Mektuplar"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
+        "Kur’an",
+        "şahs-ı manevi",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
+        "ihlas",
+        "enaniyet",
+        "haşir",
         "risalet",
-        "peygamberlik",
-        "hizmet",
-        "ayet",
         "dua",
-        "dünya",
-        "kanaat",
-        "isar",
-        "sure",
-        "yakin",
-        "sır",
-        "ruh"
+        "sadakat"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sir"
+        "sahs-i manevi",
+        "kardeşlik",
+        "tesanud",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -69,27 +88,26 @@
         "1. Sua"
       ],
       "keywords": [
-        "ayet",
-        "Kur’an",
-        "risalet",
-        "peygamberlik",
-        "sure",
         "iman",
-        "bekâ",
-        "işaret",
+        "Kur’an",
+        "vahdaniyet",
+        "enaniyet",
+        "ihlas",
+        "risalet",
+        "nefis",
+        "nübüvvet",
         "i’caz",
-        "ölüm",
-        "tefsir",
-        "kanaat",
-        "hikmet",
-        "teselli"
+        "ahiret",
+        "hizmet",
+        "bekâ"
       ],
       "tags": [
         "kuran",
-        "beka",
-        "isaret",
-        "icaz",
-        "olum"
+        "benlik",
+        "ego",
+        "peygamberlik",
+        "nubuvvet",
+        "icaz"
       ]
     },
     {
@@ -110,28 +128,26 @@
         "Sekizinci Sua"
       ],
       "keywords": [
-        "Kur’an",
-        "sure",
         "iman",
-        "isar",
-        "işaret",
-        "münacat",
+        "Kur’an",
+        "tevhid",
+        "rububiyet",
+        "vahdaniyet",
+        "haşir",
         "dua",
-        "niyaz",
-        "sır",
-        "hikmet",
+        "risalet",
+        "nefis",
+        "münacat",
         "i’caz",
-        "ayet",
-        "yakin",
-        "bekâ"
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "isaret",
+        "hasir",
+        "yeniden diriliş",
+        "peygamberlik",
         "munacat",
-        "sir",
-        "icaz",
-        "beka"
+        "yakarış"
       ]
     },
     {
@@ -202,27 +218,26 @@
         "8. Lema"
       ],
       "keywords": [
-        "Kur’an",
-        "hizmet",
-        "ayet",
-        "dua",
-        "sır",
-        "işaret",
-        "ruh",
-        "niyet",
-        "tefsir",
-        "bekâ",
-        "dünya",
-        "mucize",
         "iman",
-        "fena"
+        "Kur’an",
+        "enaniyet",
+        "ihlas",
+        "dua",
+        "risalet",
+        "nefis",
+        "i’caz",
+        "münacat",
+        "hizmet",
+        "bekâ",
+        "fakr"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "isaret",
-        "beka",
-        "dunya"
+        "benlik",
+        "ego",
+        "peygamberlik",
+        "icaz",
+        "munacat"
       ]
     },
     {
@@ -243,26 +258,26 @@
         "Parlak Fikralar ve Guzel Mektuplar 2"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "risalet",
-        "peygamberlik",
-        "hizmet",
-        "sır",
-        "dünya",
-        "ruh",
-        "dua",
-        "bela",
-        "yakin",
-        "cemaat",
-        "i’caz",
-        "hikmet"
+        "Kur’an",
+        "şahs-ı manevi",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
+        "rububiyet",
+        "ehadiyet",
+        "vahdaniyet",
+        "enaniyet",
+        "ihlas",
+        "asayiş"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "dunya",
-        "icaz"
+        "sahs-i manevi",
+        "kardeşlik",
+        "tesanud",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -286,7 +301,8 @@
         "dua",
         "Kur’an",
         "ihlas",
-        "sebat"
+        "sebat",
+        "cennet"
       ],
       "tags": [
         "kuran"

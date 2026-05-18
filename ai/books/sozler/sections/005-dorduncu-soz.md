@@ -10,12 +10,12 @@ aliases:
   - "4. Söz"
   - "4. Soz"
 keywords:
-  - "namaz"
-  - "akıl"
-  - "hizmet"
   - "nefis"
-  - "takva"
-  - "niyet"
+  - "namaz"
+  - "hizmet"
+  - "akıl"
+  - "cennet"
+  - "kaza"
 tags:
   - "akil"
 source_section_path: "books/sozler/by_heading/004 - Dördüncü Söz.md"

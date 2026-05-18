@@ -1,6 +1,24 @@
 {
   "book_id": "kucuk-kitaplar",
   "book_title": "Kucuk Kitaplar",
+  "keywords": [
+    "Kur’an",
+    "bekâ",
+    "ruh",
+    "tevhid",
+    "nefis",
+    "i’caz",
+    "hizmet",
+    "iman"
+  ],
+  "tags": [
+    "kuran",
+    "beka",
+    "icaz",
+    "kardeşlik",
+    "hasir",
+    "yeniden diriliş"
+  ],
   "source_book_path": "books/kucuk-kitaplar/Kucuk Kitaplar.md",
   "ai_book_path": "ai/books/kucuk-kitaplar/book.md",
   "passages_path": "ai/passages/kucuk-kitaplar.jsonl",
@@ -29,24 +47,25 @@
       ],
       "keywords": [
         "Kur’an",
-        "medeniyet",
-        "nefis",
-        "cemaat",
-        "ruh",
-        "gurur",
-        "siyaset",
-        "millet",
-        "sır",
         "iman",
-        "adalet",
-        "musibet",
-        "dünya",
-        "uhuvvet"
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tesanüd",
+        "tevhid",
+        "enaniyet",
+        "haşir",
+        "nefis",
+        "i’caz",
+        "namaz",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "dunya"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -67,28 +86,26 @@
         "ISARAT"
       ],
       "keywords": [
-        "işaret",
-        "ruh",
-        "nefis",
-        "bekâ",
         "Kur’an",
+        "nefis",
         "i’caz",
-        "kalp",
-        "fakr",
-        "merhamet",
-        "fikir",
-        "ölüm",
         "ene",
-        "benlik",
-        "şuhud"
+        "bekâ",
+        "ölüm",
+        "fakr",
+        "ruh",
+        "kalp",
+        "tefsir",
+        "cennet",
+        "cehennem"
       ],
       "tags": [
-        "isaret",
-        "beka",
         "kuran",
         "icaz",
-        "olum",
-        "suhud"
+        "benlik",
+        "ego",
+        "beka",
+        "olum"
       ]
     },
     {
@@ -109,24 +126,26 @@
         "TULUAT"
       ],
       "keywords": [
-        "ruh",
-        "ihtilaf",
-        "hikmet",
-        "fena",
-        "medeniyet",
-        "siyaset",
+        "Kur’an",
+        "tevhid",
+        "haşir",
+        "dua",
+        "ahiret",
+        "hizmet",
+        "ene",
         "cemaat",
-        "ümmet",
         "kader",
-        "sır",
-        "heva",
-        "adalet",
-        "fikir",
-        "hizmet"
+        "bekâ",
+        "hikmet",
+        "acz"
       ],
       "tags": [
-        "ummet",
-        "sir"
+        "kuran",
+        "hasir",
+        "yeniden diriliş",
+        "benlik",
+        "ego",
+        "beka"
       ]
     },
     {
@@ -147,25 +166,26 @@
         "NURUN ILK KAPISI"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "dünya",
-        "nefis",
-        "ubudiyet",
-        "kulluk",
-        "ruh",
-        "acz",
-        "bekâ",
-        "hizmet",
-        "dua",
-        "fakr",
-        "hikmet",
-        "tevhid"
+        "Kur’an",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
+        "rububiyet",
+        "ehadiyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "haşir",
+        "enaniyet",
+        "nefs-i emmare"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "beka"
+        "kardeşlik",
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "benlik"
       ]
     },
     {
@@ -186,26 +206,26 @@
         "NUR CESMESI"
       ],
       "keywords": [
-        "Kur’an",
-        "hikmet",
         "iman",
-        "bekâ",
-        "dünya",
-        "ahiret",
-        "ruh",
-        "akıl",
+        "Kur’an",
+        "uhuvvet",
         "tevhid",
-        "hizmet",
-        "ubudiyet",
-        "kulluk",
-        "mucize",
-        "ayet"
+        "rububiyet",
+        "ehadiyet",
+        "vahdaniyet",
+        "uluhiyet",
+        "samediyet",
+        "haşir",
+        "asayiş",
+        "ihlas"
       ],
       "tags": [
         "kuran",
-        "beka",
-        "dunya",
-        "akil"
+        "kardeşlik",
+        "hasir",
+        "yeniden diriliş",
+        "asayis",
+        "benlik"
       ]
     },
     {
@@ -226,25 +246,26 @@
         "DIVAN-I HARB-I ORFI"
       ],
       "keywords": [
-        "hürriyet",
-        "medeniyet",
-        "millet",
-        "istibdat",
-        "adalet",
-        "siyaset",
-        "vicdan",
-        "dünya",
-        "tevhid",
-        "kalp",
-        "ruh",
-        "şecaat",
         "iman",
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tevhid",
+        "tesanüd",
+        "meşveret",
+        "asayiş",
+        "haşir",
+        "enaniyet",
+        "nefis",
         "ahiret"
       ],
       "tags": [
-        "hurriyet",
-        "dunya",
-        "secaat"
+        "kuran",
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "mesveret",
+        "asayis"
       ]
     },
     {
@@ -267,24 +288,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "medeniyet",
-        "siyaset",
-        "dünya",
-        "ruh",
-        "millet",
-        "adalet",
-        "hürriyet",
-        "nefis",
-        "cemaat",
-        "vicdan",
+        "uhuvvet",
+        "şahs-ı manevi",
         "tevhid",
-        "bekâ"
+        "tesanüd",
+        "rububiyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "meşveret",
+        "ihlas",
+        "asayiş"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "hurriyet",
-        "beka"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "mesveret",
+        "asayis"
       ]
     },
     {
@@ -305,27 +326,26 @@
         "MUNAZARAT"
       ],
       "keywords": [
-        "hürriyet",
-        "millet",
-        "fena",
-        "hizmet",
         "iman",
-        "bekâ",
-        "dünya",
-        "ruh",
         "Kur’an",
-        "medeniyet",
-        "siyaset",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tesanüd",
+        "tevhid",
+        "ihlas",
+        "meşveret",
+        "asayiş",
         "nefis",
-        "kalp",
-        "akıl"
+        "sadakat",
+        "dua"
       ],
       "tags": [
-        "hurriyet",
-        "beka",
-        "dunya",
         "kuran",
-        "akil"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "mesveret",
+        "asayis"
       ]
     },
     {
@@ -348,25 +368,24 @@
       "keywords": [
         "gençlik",
         "iman",
-        "dünya",
         "Kur’an",
-        "bekâ",
-        "ruh",
-        "ubudiyet",
-        "kulluk",
-        "nefis",
-        "dua",
-        "ahiret",
-        "hizmet",
-        "hikmet",
-        "sır"
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tevhid",
+        "tesanüd",
+        "ehadiyet",
+        "rububiyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "samediyet"
       ],
       "tags": [
         "genclik",
-        "dunya",
         "kuran",
-        "beka",
-        "sir"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "hasir"
       ]
     },
     {
@@ -387,27 +406,26 @@
         "HANIMLAR REHBERI"
       ],
       "keywords": [
-        "dünya",
         "iman",
         "Kur’an",
-        "şefkat",
-        "ruh",
-        "ahiret",
+        "uhuvvet",
+        "tevhid",
+        "rububiyet",
+        "uluhiyet",
+        "ihlas",
+        "haşir",
+        "nefs-i emmare",
         "nefis",
-        "hizmet",
-        "bekâ",
-        "hikmet",
         "dua",
-        "fanilik",
-        "sır",
-        "merhamet"
+        "sadakat"
       ],
       "tags": [
-        "dunya",
         "kuran",
-        "sefkat",
-        "beka",
-        "sir"
+        "kardeşlik",
+        "hasir",
+        "yeniden diriliş",
+        "nefsi emmare",
+        "peygamberlik"
       ]
     },
     {
@@ -425,25 +443,26 @@
       "official_section_content_overlap": 0.9988576264015232,
       "official_section_diff_tokens": 34,
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
-        "ruh",
-        "dünya",
-        "tefsir",
-        "millet",
-        "kalp",
-        "huzur",
-        "bekâ",
-        "hikmet",
-        "siyaset",
-        "mucize",
-        "ayet"
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tevhid",
+        "tesanüd",
+        "vahdaniyet",
+        "uluhiyet",
+        "ehadiyet",
+        "ihlas",
+        "asayiş",
+        "enaniyet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "beka"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "asayis",
+        "benlik"
       ]
     },
     {

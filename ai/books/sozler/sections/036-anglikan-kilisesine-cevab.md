@@ -8,7 +8,6 @@ section_title: "Anglikan Kilisesine Cevab"
 keywords:
   - "Kur’an"
   - "tevhid"
-  - "niyet"
 tags:
   - "kuran"
 source_section_path: "books/sozler/by_heading/035 - Anglikan Kilisesine Cevab.md"

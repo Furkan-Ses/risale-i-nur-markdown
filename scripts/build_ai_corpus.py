@@ -185,10 +185,49 @@ def final_ai_relpath(*parts: str) -> str:
 def normalize_written_path(path: Path) -> Path:
     if path.exists():
         return path
-    fallback = path.with_name(f"{path.stem} 2{path.suffix}")
-    if fallback.exists():
+    pattern = re.compile(
+        rf"^{re.escape(path.stem)} (?P<copy>\d+){re.escape(path.suffix)}$"
+    )
+    candidates = []
+    for sibling in path.parent.glob(f"{path.stem} *{path.suffix}"):
+        match = pattern.match(sibling.name)
+        if match:
+            candidates.append((int(match.group("copy")), sibling))
+    if candidates:
+        _, fallback = sorted(candidates, key=lambda item: item[0])[0]
         fallback.rename(path)
     return path
+
+
+def normalize_duplicate_tree(root: Path) -> None:
+    duplicate_re = re.compile(r"^(?P<stem>.+) (?P<copy>\d+)(?P<suffix>\.[^.]+)?$")
+    for path in sorted(root.rglob("*"), key=lambda item: len(item.parts), reverse=True):
+        match = duplicate_re.match(path.name)
+        if not match:
+            continue
+        target = path.with_name(f"{match.group('stem')}{match.group('suffix') or ''}")
+        if not target.exists():
+            path.rename(target)
+
+
+def canonicalize_ai_root() -> None:
+    duplicate_re = re.compile(rf"^{re.escape(AI_ROOT.name)} \d+$")
+    candidates = []
+    for path in AI_ROOT.parent.iterdir():
+        if not path.is_dir():
+            continue
+        if path == AI_ROOT or duplicate_re.match(path.name):
+            candidates.append(path)
+    if not candidates:
+        return
+    chosen = max(candidates, key=lambda path: path.stat().st_mtime)
+    if chosen != AI_ROOT:
+        if AI_ROOT.exists():
+            shutil.rmtree(AI_ROOT)
+        chosen.rename(AI_ROOT)
+    for path in candidates:
+        if path != AI_ROOT and path.exists():
+            shutil.rmtree(path)
 
 
 def preserved_ai_metadata(path: Path) -> dict[str, object]:
@@ -346,6 +385,9 @@ def make_chunk(
     context_path = " > ".join(heading_paths[0]) if heading_paths else section["title"]
     embedding_lines = [book["title"], context_path]
     section_terms = metadata_terms(section["ai_meta"])
+    book_terms = metadata_terms(book.get("ai_meta", {}))
+    if book_terms:
+        embedding_lines.extend(["", "Book metadata", "; ".join(book_terms)])
     if section_terms:
         embedding_lines.extend(["", "Metadata", "; ".join(section_terms)])
     embedding_lines.extend(["", text])
@@ -384,6 +426,9 @@ def make_chunk(
     for key in PRESERVED_AI_METADATA_KEYS:
         if key in section["ai_meta"]:
             chunk[key] = section["ai_meta"][key]
+    for key in PRESERVED_AI_METADATA_KEYS:
+        if key in book.get("ai_meta", {}):
+            chunk[f"book_{key}"] = book["ai_meta"][key]
     return chunk
 
 
@@ -542,6 +587,7 @@ def main() -> None:
             merged_meta, merged_body_stripped = parse_frontmatter(merged_body)
             existing_ai_book_path = AI_BOOKS_ROOT / str(book["slug"]) / "book.md"
             existing_ai_book_meta = preserved_ai_metadata(existing_ai_book_path)
+            book["ai_meta"] = existing_ai_book_meta
             book_frontmatter = {
                 "book_id": book["slug"],
                 "book_title": book["title"],
@@ -653,6 +699,7 @@ def main() -> None:
             manifest = {
                 "book_id": book["slug"],
                 "book_title": book["title"],
+                **existing_ai_book_meta,
                 "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
                 "ai_book_path": ai_book_relpath,
                 "passages_path": passages_relpath,
@@ -708,6 +755,9 @@ def main() -> None:
         if AI_ROOT.exists():
             shutil.rmtree(AI_ROOT)
         shutil.move(str(temp_ai_root), str(AI_ROOT))
+        canonicalize_ai_root()
+        normalize_written_path(AI_ROOT)
+        normalize_duplicate_tree(AI_ROOT)
 
     print(f"Built AI corpus for {len(catalog_books)} books, {total_sections} sections, {len(all_chunks)} chunks.")
 

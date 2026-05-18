@@ -9,15 +9,13 @@ aliases:
   - "Altinci Mektup"
   - "6. Mektup"
 keywords:
-  - "bela"
-  - "tevekkül"
-  - "teslimiyet"
-  - "nefis"
   - "iman"
+  - "nefis"
+  - "tevekkül"
   - "ihtiyarlık"
-  - "teselli"
 tags:
   - "tevekkul"
+  - "Allah'a bırakmak"
   - "ihtiyarlik"
 source_section_path: "books/mektubat/by_heading/06 Altıncı Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"

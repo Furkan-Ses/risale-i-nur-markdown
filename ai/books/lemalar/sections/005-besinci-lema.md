@@ -10,8 +10,9 @@ aliases:
   - "5. Lem’a"
   - "5. Lema"
 keywords:
-  - "zikir"
   - "sünnet"
+  - "zikir"
+  - "ilim"
 tags:
   - "sunnet"
 source_section_path: "books/lemalar/by_heading/05 Beşinci Lem’a.md"

@@ -10,19 +10,21 @@ aliases:
   - "5. Söz"
   - "5. Soz"
 keywords:
-  - "nefis"
-  - "namaz"
-  - "ubudiyet"
-  - "kulluk"
   - "haşir"
-  - "yeniden diriliş"
+  - "nefis"
+  - "ubudiyet"
+  - "ibadet"
+  - "namaz"
   - "tevekkül"
-  - "teslimiyet"
-  - "heva"
+  - "cemaat"
+  - "mucize"
   - "niyaz"
 tags:
   - "hasir"
+  - "yeniden diriliş"
+  - "kulluk"
   - "tevekkul"
+  - "Allah'a bırakmak"
 source_section_path: "books/sozler/by_heading/005 - Beşinci Söz.md"
 source_name: null
 source_url: null

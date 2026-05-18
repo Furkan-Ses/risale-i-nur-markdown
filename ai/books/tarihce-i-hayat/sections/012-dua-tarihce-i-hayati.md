@@ -12,6 +12,7 @@ keywords:
   - "Kur’an"
   - "ihlas"
   - "sebat"
+  - "cennet"
 tags:
   - "kuran"
 source_section_path: "books/tarihce-i-hayat/by_heading/12 Dua (Tarihçe-i Hayatı).md"

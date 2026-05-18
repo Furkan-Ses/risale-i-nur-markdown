@@ -8,15 +8,13 @@ section_title: "Sekizinci Mektup"
 aliases:
   - "8. Mektup"
 keywords:
-  - "şefkat"
-  - "nübüvvet"
-  - "peygamberlik"
   - "Kur’an"
+  - "nübüvvet"
   - "i’caz"
 tags:
-  - "sefkat"
-  - "nubuvvet"
   - "kuran"
+  - "nubuvvet"
+  - "peygamberlik"
   - "icaz"
 source_section_path: "books/mektubat/by_heading/08 Sekizinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"

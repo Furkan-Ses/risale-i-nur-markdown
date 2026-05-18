@@ -1,6 +1,24 @@
 {
   "book_id": "emirdag-lahikasi-2",
   "book_title": "Emirdag Lahikasi 2",
+  "keywords": [
+    "iman",
+    "Kur’an",
+    "hizmet",
+    "kaza",
+    "ihlas",
+    "dua",
+    "i’caz",
+    "ubudiyet"
+  ],
+  "tags": [
+    "kuran",
+    "dunya",
+    "hurriyet",
+    "icaz",
+    "kulluk",
+    "beka"
+  ],
   "source_book_path": "books/emirdag-lahikasi-2/Emirdag Lahikasi 2.md",
   "ai_book_path": "ai/books/emirdag-lahikasi-2/book.md",
   "passages_path": "ai/passages/emirdag-lahikasi-2.jsonl",
@@ -28,24 +46,26 @@
         "Emirdag Lahikasi - II s.6-26"
       ],
       "keywords": [
-        "hizmet",
-        "Kur’an",
-        "ruh",
-        "millet",
-        "dua",
-        "siyaset",
-        "riya",
-        "ubudiyet",
-        "kulluk",
-        "ihlas",
         "iman",
-        "niyet",
-        "dünya",
-        "tefsir"
+        "Kur’an",
+        "uhuvvet",
+        "tesanüd",
+        "ihlas",
+        "meşveret",
+        "nefs-i emmare",
+        "dua",
+        "nefis",
+        "ubudiyet",
+        "ibadet",
+        "i’caz"
       ],
       "tags": [
         "kuran",
-        "dunya"
+        "kardeşlik",
+        "tesanud",
+        "mesveret",
+        "nefsi emmare",
+        "kulluk"
       ]
     },
     {
@@ -66,25 +86,26 @@
         "Emirdag Lahikasi - II s.27-50"
       ],
       "keywords": [
-        "hizmet",
-        "millet",
-        "Kur’an",
         "iman",
-        "ruh",
-        "dua",
-        "adalet",
-        "dünya",
-        "şefkat",
+        "Kur’an",
+        "tesanüd",
         "ihlas",
-        "riya",
-        "siyaset",
-        "tefsir",
-        "kanaat"
+        "asayiş",
+        "dua",
+        "nefis",
+        "sadakat",
+        "ahiret",
+        "namaz",
+        "hizmet",
+        "bekâ"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sefkat"
+        "tesanud",
+        "asayis",
+        "beka",
+        "hurriyet",
+        "hastalik"
       ]
     },
     {
@@ -105,26 +126,26 @@
         "Emirdag Lahikasi - II s.51-70"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
-        "ruh",
-        "dünya",
-        "huzur",
-        "tefsir",
-        "adalet",
-        "millet",
-        "sır",
+        "Kur’an",
+        "uhuvvet",
+        "tevhid",
+        "haşir",
+        "ihlas",
         "dua",
-        "şükür",
-        "kanaat",
-        "namaz"
+        "marifetullah",
+        "i’caz",
+        "namaz",
+        "münacat",
+        "ubudiyet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sir",
-        "sukur"
+        "kardeşlik",
+        "hasir",
+        "yeniden diriliş",
+        "Allahı tanıma",
+        "icaz"
       ]
     },
     {
@@ -145,26 +166,26 @@
         "Emirdag Lahikasi - II s.70-90"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "siyaset",
-        "hizmet",
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tesanüd",
+        "asayiş",
+        "ihlas",
+        "nefis",
         "i’caz",
-        "tefsir",
-        "kanaat",
-        "adalet",
-        "hikmet",
-        "millet",
-        "dünya",
-        "kader",
-        "ruh",
-        "asayiş"
+        "ubudiyet",
+        "ibadet",
+        "ahiret"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "dunya",
-        "asayis"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "asayis",
+        "icaz"
       ]
     },
     {
@@ -185,25 +206,26 @@
         "Emirdag Lahikasi - II s.91-109"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "ruh",
-        "medeniyet",
-        "hizmet",
-        "adalet",
-        "dua",
-        "kanaat",
-        "siyaset",
-        "nübüvvet",
-        "peygamberlik",
+        "Kur’an",
         "tevhid",
-        "heves",
-        "şefkat"
+        "uluhiyet",
+        "haşir",
+        "ihlas",
+        "enaniyet",
+        "meşveret",
+        "dua",
+        "nübüvvet",
+        "risalet",
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "nubuvvet",
-        "sefkat"
+        "hasir",
+        "yeniden diriliş",
+        "benlik",
+        "ego",
+        "mesveret"
       ]
     },
     {
@@ -224,27 +246,26 @@
         "Emirdag Lahikasi - II s.110-128"
       ],
       "keywords": [
-        "dünya",
         "iman",
-        "hikmet",
-        "bekâ",
-        "mucize",
-        "ruh",
-        "şükür",
-        "dua",
-        "ubudiyet",
-        "kulluk",
-        "münacat",
-        "niyaz",
+        "Kur’an",
         "tevhid",
-        "ümmet"
+        "tesanüd",
+        "ehadiyet",
+        "vahdaniyet",
+        "ihlas",
+        "dua",
+        "risalet",
+        "ubudiyet",
+        "ibadet",
+        "münacat"
       ],
       "tags": [
-        "dunya",
-        "beka",
-        "sukur",
+        "kuran",
+        "tesanud",
+        "peygamberlik",
+        "kulluk",
         "munacat",
-        "ummet"
+        "yakarış"
       ]
     },
     {
@@ -265,27 +286,26 @@
         "Emirdag Lahikasi - II s.129-148"
       ],
       "keywords": [
-        "millet",
-        "Kur’an",
         "iman",
-        "hizmet",
-        "dünya",
-        "siyaset",
-        "gençlik",
-        "ruh",
-        "hürriyet",
-        "vicdan",
-        "adalet",
-        "fikir",
+        "Kur’an",
+        "tevhid",
+        "vahdaniyet",
         "asayiş",
-        "medeniyet"
+        "haşir",
+        "ihlas",
+        "dua",
+        "i’caz",
+        "hizmet",
+        "cemaat",
+        "bekâ"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "genclik",
-        "hurriyet",
-        "asayis"
+        "asayis",
+        "hasir",
+        "yeniden diriliş",
+        "icaz",
+        "beka"
       ]
     },
     {
@@ -306,25 +326,26 @@
         "Emirdag Lahikasi - II s.149-170"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
-        "siyaset",
-        "ayet",
-        "ruh",
-        "millet",
-        "dünya",
+        "Kur’an",
+        "şahs-ı manevi",
+        "tevhid",
         "asayiş",
-        "mucize",
-        "vicdan",
-        "dua",
         "enaniyet",
-        "benlik"
+        "ihlas",
+        "haşir",
+        "dua",
+        "nefis",
+        "nübüvvet",
+        "i’caz"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "asayis"
+        "sahs-i manevi",
+        "asayis",
+        "benlik",
+        "ego",
+        "hasir"
       ]
     },
     {
@@ -345,27 +366,26 @@
         "Emirdag Lahikasi - II s.171-189"
       ],
       "keywords": [
-        "hizmet",
-        "millet",
-        "Kur’an",
-        "siyaset",
-        "asayiş",
-        "gençlik",
         "iman",
+        "Kur’an",
+        "uhuvvet",
+        "tesanüd",
+        "asayiş",
+        "enaniyet",
         "dua",
-        "dünya",
-        "bela",
-        "hürriyet",
-        "teslim",
-        "teslimiyet",
-        "ahiret"
+        "nefis",
+        "ahiret",
+        "namaz",
+        "hizmet",
+        "hürriyet"
       ],
       "tags": [
         "kuran",
+        "kardeşlik",
+        "tesanud",
         "asayis",
-        "genclik",
-        "dunya",
-        "hurriyet"
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -386,28 +406,26 @@
         "Emirdag Lahikasi - II s.190-210"
       ],
       "keywords": [
-        "hizmet",
-        "millet",
-        "Kur’an",
         "iman",
-        "hastalık",
+        "Kur’an",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
         "asayiş",
-        "dünya",
         "ihlas",
-        "siyaset",
-        "şefkat",
-        "adalet",
+        "enaniyet",
         "dua",
-        "ruh",
-        "sır"
+        "ubudiyet",
+        "ibadet",
+        "ahiret"
       ],
       "tags": [
         "kuran",
-        "hastalik",
+        "kardeşlik",
+        "tesanud",
         "asayis",
-        "dunya",
-        "sefkat",
-        "sir"
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -428,27 +446,26 @@
         "Emirdag Lahikasi - II s.210-229"
       ],
       "keywords": [
-        "hizmet",
         "iman",
-        "dünya",
-        "ruh",
-        "millet",
-        "şefkat",
         "Kur’an",
-        "kanaat",
-        "hastalık",
-        "istiğna",
-        "dua",
         "uhuvvet",
-        "kardeşlik",
-        "yakin"
+        "ihlas",
+        "asayiş",
+        "enaniyet",
+        "dua",
+        "nefis",
+        "namaz",
+        "i’caz",
+        "ahiret",
+        "hizmet"
       ],
       "tags": [
-        "dunya",
-        "sefkat",
         "kuran",
-        "hastalik",
-        "istigna"
+        "kardeşlik",
+        "asayis",
+        "benlik",
+        "ego",
+        "icaz"
       ]
     },
     {
@@ -469,28 +486,26 @@
         "Emirdag Lahikasi - II s.230-247"
       ],
       "keywords": [
-        "Kur’an",
-        "hizmet",
-        "asayiş",
         "iman",
-        "dünya",
-        "ruh",
+        "Kur’an",
+        "asayiş",
         "ihlas",
-        "siyaset",
-        "şükür",
-        "huzur",
-        "sır",
-        "ölüm",
-        "millet",
-        "mucize"
+        "enaniyet",
+        "meşveret",
+        "dua",
+        "marifetullah",
+        "ahiret",
+        "namaz",
+        "ubudiyet",
+        "ibadet"
       ],
       "tags": [
         "kuran",
         "asayis",
-        "dunya",
-        "sukur",
-        "sir",
-        "olum"
+        "benlik",
+        "ego",
+        "mesveret",
+        "Allahı tanıma"
       ]
     }
   ]

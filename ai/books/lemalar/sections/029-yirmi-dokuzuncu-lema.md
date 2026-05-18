@@ -8,14 +8,12 @@ section_title: "Yirmi Dokuzuncu Lem’a"
 aliases:
   - "Yirmi Dokuzuncu Lema"
 keywords:
-  - "tefekkür"
   - "Kur’an"
-  - "niyet"
-  - "işaret"
+  - "tefekkür"
+  - "cennet"
 tags:
-  - "tefekkur"
   - "kuran"
-  - "isaret"
+  - "tefekkur"
 source_section_path: "books/lemalar/by_heading/29 Yirmi Dokuzuncu Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

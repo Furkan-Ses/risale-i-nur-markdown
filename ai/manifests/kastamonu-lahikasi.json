@@ -1,6 +1,24 @@
 {
   "book_id": "kastamonu-lahikasi",
   "book_title": "Kastamonu Lahikasi",
+  "keywords": [
+    "iman",
+    "Kur’an",
+    "hizmet",
+    "rahmet",
+    "ihlas",
+    "dua",
+    "i’caz",
+    "sadakat"
+  ],
+  "tags": [
+    "kuran",
+    "dunya",
+    "beka",
+    "icaz",
+    "tesanud",
+    "kulluk"
+  ],
   "source_book_path": "books/kastamonu-lahikasi/Kastamonu Lahikasi.md",
   "ai_book_path": "ai/books/kastamonu-lahikasi/book.md",
   "passages_path": "ai/passages/kastamonu-lahikasi.jsonl",
@@ -26,27 +44,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "Kastamonu Lahikasi - Takdim"
-      ],
-      "keywords": [
-        "iman",
-        "Kur’an",
-        "hizmet",
-        "dünya",
-        "ihlas",
-        "sebat",
-        "hikmet",
-        "marifetullah",
-        "Allahı tanıma",
-        "uhuvvet",
-        "kardeşlik",
-        "tevhid",
-        "gençlik",
-        "mucize"
-      ],
-      "tags": [
-        "kuran",
-        "dunya",
-        "genclik"
       ]
     },
     {
@@ -68,27 +65,25 @@
       ],
       "keywords": [
         "iman",
-        "risalet",
-        "peygamberlik",
-        "dua",
         "Kur’an",
-        "hizmet",
-        "ruh",
-        "şükür",
-        "dünya",
-        "hikmet",
-        "sır",
-        "sabır",
-        "bekâ",
-        "ihlas"
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tevhid",
+        "tesanüd",
+        "ihlas",
+        "enaniyet",
+        "meşveret",
+        "risalet",
+        "dua",
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "sukur",
-        "dunya",
-        "sir",
-        "sabir",
-        "beka"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -109,25 +104,26 @@
         "Kastamonu Lahikasi s.30-51"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
+        "Kur’an",
+        "tevhid",
+        "ihlas",
         "dua",
-        "siyaset",
-        "dünya",
-        "ayet",
-        "ruh",
-        "kanaat",
-        "yakin",
+        "risalet",
+        "sadakat",
         "namaz",
-        "kalp",
-        "niyet",
-        "i’caz"
+        "i’caz",
+        "ahiret",
+        "ubudiyet",
+        "ibadet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "icaz"
+        "peygamberlik",
+        "icaz",
+        "kulluk",
+        "sunnet",
+        "beka"
       ]
     },
     {
@@ -148,27 +144,26 @@
         "Kastamonu Lahikasi s.52-69"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
-        "şefkat",
-        "bekâ",
-        "ruh",
+        "Kur’an",
         "tevhid",
-        "merhamet",
-        "cemaat",
-        "sır",
-        "kanaat",
-        "niyet",
-        "ayet",
-        "şükür"
+        "vahdaniyet",
+        "meşveret",
+        "dua",
+        "risalet",
+        "i’caz",
+        "namaz",
+        "hizmet",
+        "sünnet",
+        "bekâ"
       ],
       "tags": [
         "kuran",
-        "sefkat",
-        "beka",
-        "sir",
-        "sukur"
+        "mesveret",
+        "peygamberlik",
+        "icaz",
+        "sunnet",
+        "beka"
       ]
     },
     {
@@ -189,28 +184,26 @@
         "Kastamonu Lahikasi s.70-91"
       ],
       "keywords": [
-        "hizmet",
+        "iman",
+        "Kur’an",
+        "şahs-ı manevi",
+        "tesanüd",
+        "ihlas",
         "dua",
         "sadakat",
-        "Kur’an",
-        "ruh",
-        "sır",
-        "ihlas",
-        "hastalık",
-        "iman",
+        "risalet",
         "ubudiyet",
-        "kulluk",
-        "şükür",
-        "dünya",
-        "ümit"
+        "ibadet",
+        "namaz",
+        "i’caz"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "hastalik",
-        "sukur",
-        "dunya",
-        "umit"
+        "sahs-i manevi",
+        "tesanud",
+        "peygamberlik",
+        "kulluk",
+        "icaz"
       ]
     },
     {
@@ -231,27 +224,26 @@
         "Kastamonu Lahikasi s.91-109"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
         "iman",
-        "musibet",
-        "hizmet",
-        "ruh",
-        "dünya",
-        "şefkat",
-        "bekâ",
-        "fanilik",
-        "siyaset",
-        "sebat",
-        "sır",
-        "kader"
+        "Kur’an",
+        "tevhid",
+        "rububiyet",
+        "ihlas",
+        "enaniyet",
+        "dua",
+        "sadakat",
+        "i’caz",
+        "ahiret",
+        "namaz",
+        "hizmet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sefkat",
-        "beka",
-        "sir"
+        "benlik",
+        "ego",
+        "icaz",
+        "tevekkul",
+        "Allah'a bırakmak"
       ]
     },
     {
@@ -272,26 +264,26 @@
         "Kastamonu Lahikasi s.110-129"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
-        "hizmet",
-        "dünya",
         "iman",
-        "musibet",
-        "sebat",
-        "hikmet",
-        "sıkıntı",
+        "Kur’an",
+        "şahs-ı manevi",
+        "tesanüd",
+        "ihlas",
+        "meşveret",
+        "asayiş",
+        "dua",
         "nefis",
-        "ahiret",
-        "ruh",
-        "bekâ",
-        "siyaset"
+        "sadakat",
+        "i’caz",
+        "ahiret"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "sikinti",
-        "beka"
+        "sahs-i manevi",
+        "tesanud",
+        "mesveret",
+        "asayis",
+        "icaz"
       ]
     },
     {
@@ -312,26 +304,26 @@
         "Kastamonu Lahikasi s.130-149"
       ],
       "keywords": [
-        "Kur’an",
         "iman",
-        "hizmet",
-        "gençlik",
-        "dua",
-        "takva",
-        "dünya",
+        "Kur’an",
+        "şahs-ı manevi",
+        "tesanüd",
         "ihlas",
-        "isar",
-        "ittifak",
+        "enaniyet",
+        "asayiş",
+        "dua",
         "sadakat",
-        "bekâ",
-        "bela",
-        "enaniyet"
+        "nefis",
+        "i’caz",
+        "ahiret"
       ],
       "tags": [
         "kuran",
-        "genclik",
-        "dunya",
-        "beka"
+        "sahs-i manevi",
+        "tesanud",
+        "benlik",
+        "ego",
+        "asayis"
       ]
     },
     {
@@ -352,26 +344,26 @@
         "Lemaattan"
       ],
       "keywords": [
-        "Kur’an",
-        "tevhid",
-        "i’caz",
-        "ruh",
-        "vicdan",
         "iman",
-        "niyaz",
+        "Kur’an",
+        "uhuvvet",
+        "tevhid",
+        "tesanüd",
+        "uluhiyet",
+        "rububiyet",
+        "ihlas",
+        "haşir",
         "nefis",
-        "dünya",
-        "sure",
-        "heves",
-        "hikmet",
-        "namaz",
-        "akıl"
+        "i’caz",
+        "namaz"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "dunya",
-        "akil"
+        "kardeşlik",
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "icaz"
       ]
     },
     {
@@ -393,25 +385,25 @@
       ],
       "keywords": [
         "iman",
-        "ayet",
         "Kur’an",
-        "riya",
-        "hizmet",
-        "sır",
-        "musibet",
-        "ubudiyet",
-        "kulluk",
-        "isar",
-        "niyet",
-        "bekâ",
+        "uhuvvet",
+        "tesanüd",
+        "enaniyet",
+        "ihlas",
+        "meşveret",
         "dua",
-        "dünya"
+        "nefis",
+        "sadakat",
+        "ubudiyet",
+        "ibadet"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "beka",
-        "dunya"
+        "kardeşlik",
+        "tesanud",
+        "benlik",
+        "ego",
+        "mesveret"
       ]
     },
     {
@@ -434,26 +426,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "hizmet",
-        "hikmet",
-        "dünya",
-        "yakin",
-        "işaret",
-        "şükür",
-        "kanaat",
-        "teselli",
-        "nefis",
-        "sır",
+        "tesanüd",
+        "tevhid",
+        "rububiyet",
         "ihlas",
-        "tesanüd"
+        "enaniyet",
+        "nefis",
+        "dua",
+        "sadakat",
+        "risalet",
+        "i’caz"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "isaret",
-        "sukur",
-        "sir",
-        "tesanud"
+        "tesanud",
+        "benlik",
+        "ego",
+        "peygamberlik",
+        "icaz"
       ]
     },
     {
@@ -474,26 +464,26 @@
         "Kastamonu Lahikasi s.211-230"
       ],
       "keywords": [
-        "dünya",
-        "nefis",
-        "hizmet",
-        "Kur’an",
-        "dua",
-        "ihlas",
-        "tesanüd",
-        "şükür",
-        "bela",
         "iman",
-        "ruh",
-        "sebat",
-        "siyaset",
-        "sure"
+        "Kur’an",
+        "uhuvvet",
+        "tesanüd",
+        "tevhid",
+        "ehadiyet",
+        "ihlas",
+        "asayiş",
+        "enaniyet",
+        "meşveret",
+        "haşir",
+        "nefs-i emmare"
       ],
       "tags": [
-        "dunya",
         "kuran",
+        "kardeşlik",
         "tesanud",
-        "sukur"
+        "asayis",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -514,28 +504,26 @@
         "Kastamonu Lahikasi s.231-255"
       ],
       "keywords": [
-        "ihlas",
-        "hizmet",
-        "dünya",
-        "hastalık",
         "iman",
-        "dua",
         "Kur’an",
-        "sır",
+        "tesanüd",
+        "ihlas",
+        "enaniyet",
+        "dua",
+        "nefis",
+        "sadakat",
+        "nübüvvet",
         "ubudiyet",
-        "kulluk",
-        "kader",
-        "musibet",
-        "şefkat",
-        "bekâ"
+        "ibadet",
+        "i’caz"
       ],
       "tags": [
-        "dunya",
-        "hastalik",
         "kuran",
-        "sir",
-        "sefkat",
-        "beka"
+        "tesanud",
+        "benlik",
+        "ego",
+        "nubuvvet",
+        "peygamberlik"
       ]
     }
   ]

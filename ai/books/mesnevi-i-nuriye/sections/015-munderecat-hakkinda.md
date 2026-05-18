@@ -10,12 +10,10 @@ aliases:
 keywords:
   - "Kur’an"
   - "tevhid"
-  - "şuhud"
   - "i’caz"
   - "tefsir"
 tags:
   - "kuran"
-  - "suhud"
   - "icaz"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/15 Münderecat Hakkında.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"

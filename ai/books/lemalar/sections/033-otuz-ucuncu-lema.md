@@ -7,10 +7,6 @@ section_slug: "otuz-ucuncu-lema"
 section_title: "Otuz Üçüncü Lem’a"
 aliases:
   - "Otuz Ucuncu Lema"
-keywords:
-  - "şuhud"
-tags:
-  - "suhud"
 source_section_path: "books/lemalar/by_heading/33 Otuz Üçüncü Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

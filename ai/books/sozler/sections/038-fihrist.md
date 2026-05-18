@@ -5,26 +5,6 @@ section_id: "sozler.038.fihrist"
 section_order: 38
 section_slug: "fihrist"
 section_title: "Fihrist"
-keywords:
-  - "tefsir"
-  - "Kur’an"
-  - "tevhid"
-  - "hikmet"
-  - "iman"
-  - "ayet"
-  - "dünya"
-  - "sır"
-  - "i’caz"
-  - "ubudiyet"
-  - "kulluk"
-  - "ruh"
-  - "teslim"
-  - "teslimiyet"
-tags:
-  - "kuran"
-  - "dunya"
-  - "sir"
-  - "icaz"
 source_section_path: "books/sozler/by_heading/037 - Fihrist.md"
 source_name: null
 source_url: null

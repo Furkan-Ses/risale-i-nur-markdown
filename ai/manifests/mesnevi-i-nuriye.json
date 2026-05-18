@@ -1,6 +1,24 @@
 {
   "book_id": "mesnevi-i-nuriye",
   "book_title": "Mesnevi-i Nuriye",
+  "keywords": [
+    "Kur’an",
+    "tevhid",
+    "rububiyet",
+    "hikmet",
+    "bekâ",
+    "nefis",
+    "uluhiyet",
+    "iman"
+  ],
+  "tags": [
+    "kuran",
+    "beka",
+    "itikad",
+    "kulluk",
+    "tesanud",
+    "icaz"
+  ],
   "source_book_path": "books/mesnevi-i-nuriye/Mesnevi-i Nuriye.md",
   "ai_book_path": "ai/books/mesnevi-i-nuriye/book.md",
   "passages_path": "ai/passages/mesnevi-i-nuriye.jsonl",
@@ -41,26 +59,7 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/mukaddime/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0,
-      "keywords": [
-        "nefis",
-        "kalp",
-        "ruh",
-        "Kur’an",
-        "yakin",
-        "akıl",
-        "tevhid",
-        "kanaat",
-        "hikmet",
-        "marifetullah",
-        "Allahı tanıma",
-        "i’caz"
-      ],
-      "tags": [
-        "kuran",
-        "akil",
-        "icaz"
-      ]
+      "official_section_diff_tokens": 0
     },
     {
       "section_id": "mesnevi-i-nuriye.003.lemalar-risalesi",
@@ -80,29 +79,26 @@
         "Lemalar Risalesi"
       ],
       "keywords": [
-        "tevhid",
-        "bekâ",
-        "haşir",
-        "yeniden diriliş",
-        "acz",
-        "hikmet",
-        "ölüm",
-        "hastalık",
         "Kur’an",
-        "teslim",
-        "teslimiyet",
+        "tevhid",
         "tesanüd",
-        "niyet",
-        "i’caz"
+        "ehadiyet",
+        "rububiyet",
+        "vahdaniyet",
+        "uluhiyet",
+        "haşir",
+        "i’caz",
+        "bekâ",
+        "ölüm",
+        "hikmet"
       ],
       "tags": [
-        "beka",
-        "hasir",
-        "olum",
-        "hastalik",
         "kuran",
         "tesanud",
-        "icaz"
+        "hasir",
+        "yeniden diriliş",
+        "icaz",
+        "beka"
       ]
     },
     {
@@ -123,25 +119,26 @@
         "Reshalar"
       ],
       "keywords": [
-        "ubudiyet",
-        "kulluk",
-        "dua",
         "iman",
-        "bekâ",
-        "cemaat",
-        "risalet",
-        "peygamberlik",
-        "kalp",
-        "akıl",
-        "nübüvvet",
+        "Kur’an",
         "tevhid",
+        "rububiyet",
+        "vahdaniyet",
+        "tezkiye",
+        "ihlas",
+        "dua",
+        "risalet",
+        "nübüvvet",
         "nefis",
-        "hikmet"
+        "ubudiyet"
       ],
       "tags": [
-        "beka",
-        "akil",
-        "nubuvvet"
+        "kuran",
+        "nefis terbiyesi",
+        "peygamberlik",
+        "nubuvvet",
+        "kulluk",
+        "icaz"
       ]
     },
     {
@@ -162,26 +159,26 @@
         "Lasiyyemalar"
       ],
       "keywords": [
-        "bekâ",
-        "ahiret",
-        "hikmet",
-        "fanilik",
-        "dünya",
-        "adalet",
         "iman",
-        "merhamet",
-        "ubudiyet",
-        "kulluk",
+        "Kur’an",
+        "rububiyet",
+        "ehadiyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "haşir",
         "dua",
-        "fena",
-        "şefkat",
-        "haşir"
+        "risalet",
+        "nefis",
+        "ahiret",
+        "ubudiyet"
       ],
       "tags": [
-        "beka",
-        "dunya",
-        "sefkat",
-        "hasir"
+        "kuran",
+        "hasir",
+        "yeniden diriliş",
+        "peygamberlik",
+        "kulluk",
+        "beka"
       ]
     },
     {
@@ -199,26 +196,26 @@
       "official_section_content_overlap": 0.9985239852398524,
       "official_section_diff_tokens": 12,
       "keywords": [
-        "nefis",
-        "dünya",
-        "Kur’an",
-        "bekâ",
         "iman",
-        "ruh",
-        "hikmet",
-        "niyet",
+        "Kur’an",
+        "uhuvvet",
         "tevhid",
-        "hastalık",
-        "cemaat",
-        "ubudiyet",
-        "kulluk",
-        "kalp"
+        "tesanüd",
+        "uluhiyet",
+        "rububiyet",
+        "enaniyet",
+        "ihlas",
+        "nefs-i emmare",
+        "nefis",
+        "dua"
       ],
       "tags": [
-        "dunya",
         "kuran",
-        "beka",
-        "hastalik"
+        "kardeşlik",
+        "tesanud",
+        "benlik",
+        "ego",
+        "nefsi emmare"
       ]
     },
     {
@@ -236,26 +233,26 @@
       "official_section_content_overlap": 0.9945418650563234,
       "official_section_diff_tokens": 57,
       "keywords": [
-        "Kur’an",
-        "dünya",
-        "bekâ",
-        "nefis",
         "iman",
-        "hikmet",
-        "akıl",
-        "cemaat",
-        "ruh",
-        "acz",
-        "namaz",
-        "medeniyet",
-        "hizmet",
-        "millet"
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tevhid",
+        "tesanüd",
+        "rububiyet",
+        "uluhiyet",
+        "enaniyet",
+        "haşir",
+        "tezkiye",
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "beka",
-        "akil"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -273,28 +270,26 @@
       "official_section_content_overlap": 0.9929104021513262,
       "official_section_diff_tokens": 58,
       "keywords": [
+        "iman",
         "Kur’an",
-        "dünya",
-        "ruh",
-        "bekâ",
-        "ayet",
-        "nefis",
-        "kader",
-        "kalp",
-        "tefekkür",
-        "musibet",
-        "ölüm",
+        "tesanüd",
+        "tevhid",
+        "uluhiyet",
+        "rububiyet",
         "haşir",
-        "yeniden diriliş",
-        "fanilik"
+        "enaniyet",
+        "ihlas",
+        "nefis",
+        "nübüvvet",
+        "ubudiyet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "beka",
-        "tefekkur",
-        "olum",
-        "hasir"
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -315,26 +310,26 @@
         "Zuhre"
       ],
       "keywords": [
-        "dünya",
-        "nefis",
-        "ruh",
-        "hizmet",
+        "iman",
         "Kur’an",
-        "ubudiyet",
-        "kulluk",
-        "bekâ",
-        "sır",
-        "kalp",
+        "tevhid",
+        "tesanüd",
+        "uluhiyet",
+        "rububiyet",
+        "vahdaniyet",
         "ihlas",
-        "medeniyet",
-        "musibet",
-        "kabir"
+        "haşir",
+        "asayiş",
+        "enaniyet",
+        "nefis"
       ],
       "tags": [
-        "dunya",
         "kuran",
-        "beka",
-        "sir"
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "asayis",
+        "benlik"
       ]
     },
     {
@@ -352,26 +347,26 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "keywords": [
-        "nefis",
-        "bekâ",
-        "dünya",
-        "ahiret",
         "tevhid",
-        "hikmet",
-        "kader",
-        "akıl",
-        "fanilik",
+        "tesanüd",
+        "uluhiyet",
+        "rububiyet",
         "nefs-i emmare",
-        "riya",
+        "enaniyet",
+        "nefis",
         "nübüvvet",
-        "peygamberlik",
-        "teslim"
+        "ahiret",
+        "ene",
+        "bekâ",
+        "kader"
       ],
       "tags": [
-        "beka",
-        "dunya",
-        "akil",
-        "nubuvvet"
+        "tesanud",
+        "nefsi emmare",
+        "benlik",
+        "ego",
+        "nubuvvet",
+        "peygamberlik"
       ]
     },
     {
@@ -392,25 +387,26 @@
         "Semme Risalesi"
       ],
       "keywords": [
-        "bekâ",
-        "niyet",
-        "ruh",
-        "Kur’an",
-        "ayet",
-        "ubudiyet",
-        "kulluk",
-        "dünya",
-        "ene",
-        "benlik",
         "iman",
+        "Kur’an",
         "tevhid",
-        "ahiret",
-        "hikmet"
+        "tesanüd",
+        "rububiyet",
+        "uluhiyet",
+        "enaniyet",
+        "nefis",
+        "nübüvvet",
+        "ubudiyet",
+        "ibadet",
+        "ahiret"
       ],
       "tags": [
-        "beka",
         "kuran",
-        "dunya"
+        "tesanud",
+        "benlik",
+        "ego",
+        "nubuvvet",
+        "peygamberlik"
       ]
     },
     {
@@ -428,25 +424,26 @@
       "official_section_content_overlap": 0.9991555072988297,
       "official_section_diff_tokens": 11,
       "keywords": [
-        "Kur’an",
-        "ubudiyet",
-        "kulluk",
-        "nefis",
-        "dua",
-        "bekâ",
-        "dünya",
         "iman",
+        "Kur’an",
         "tevhid",
-        "hikmet",
-        "acz",
-        "ayet",
-        "ahiret",
-        "hizmet"
+        "rububiyet",
+        "ehadiyet",
+        "vahdaniyet",
+        "tezkiye",
+        "haşir",
+        "ihlas",
+        "nefs-i emmare",
+        "enaniyet",
+        "nefis"
       ],
       "tags": [
         "kuran",
-        "beka",
-        "dunya"
+        "nefis terbiyesi",
+        "hasir",
+        "yeniden diriliş",
+        "nefsi emmare",
+        "benlik"
       ]
     },
     {
@@ -467,25 +464,25 @@
         "Sule"
       ],
       "keywords": [
+        "iman",
+        "Kur’an",
+        "tevhid",
+        "uluhiyet",
+        "rububiyet",
+        "tezkiye",
         "nefis",
         "dua",
         "ubudiyet",
-        "kulluk",
-        "Kur’an",
-        "hikmet",
-        "bekâ",
-        "yakin",
-        "kalp",
-        "cemaat",
-        "ayet",
-        "iman",
-        "tevhid",
-        "sır"
+        "ibadet",
+        "hizmet",
+        "bekâ"
       ],
       "tags": [
         "kuran",
+        "nefis terbiyesi",
+        "kulluk",
         "beka",
-        "sir"
+        "tefekkur"
       ]
     },
     {
@@ -503,26 +500,26 @@
       "official_section_content_overlap": 0.995777027027027,
       "official_section_diff_tokens": 21,
       "keywords": [
-        "tevhid",
-        "Kur’an",
-        "vicdan",
-        "hikmet",
-        "nefis",
-        "ruh",
-        "i’caz",
-        "şuhud",
-        "mucize",
-        "risalet",
-        "peygamberlik",
         "iman",
-        "kalp",
-        "sır"
+        "Kur’an",
+        "tevhid",
+        "tesanüd",
+        "uluhiyet",
+        "rububiyet",
+        "haşir",
+        "tezkiye",
+        "nefis",
+        "risalet",
+        "marifetullah",
+        "i’caz"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "suhud",
-        "sir"
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "nefis terbiyesi",
+        "peygamberlik"
       ]
     },
     {
@@ -545,13 +542,11 @@
       "keywords": [
         "Kur’an",
         "tevhid",
-        "şuhud",
         "i’caz",
         "tefsir"
       ],
       "tags": [
         "kuran",
-        "suhud",
         "icaz"
       ]
     },
@@ -571,29 +566,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "Fihrist (Mesnevi)"
-      ],
-      "keywords": [
-        "Kur’an",
-        "iman",
-        "hikmet",
-        "i’caz",
-        "yakin",
-        "riya",
-        "münacat",
-        "dua",
-        "niyaz",
-        "nübüvvet",
-        "peygamberlik",
-        "risalet",
-        "haşir",
-        "yeniden diriliş"
-      ],
-      "tags": [
-        "kuran",
-        "icaz",
-        "munacat",
-        "nubuvvet",
-        "hasir"
       ]
     }
   ]

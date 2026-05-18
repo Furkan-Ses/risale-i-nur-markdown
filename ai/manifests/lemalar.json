@@ -1,6 +1,24 @@
 {
   "book_id": "lemalar",
   "book_title": "Lemalar",
+  "keywords": [
+    "Kur’an",
+    "iman",
+    "nefis",
+    "cennet",
+    "bekâ",
+    "dünya",
+    "hikmet",
+    "gaflet"
+  ],
+  "tags": [
+    "kuran",
+    "beka",
+    "dunya",
+    "kulluk",
+    "sunnet",
+    "akil"
+  ],
   "source_book_path": "books/lemalar/Lemalar.md",
   "ai_book_path": "ai/books/lemalar/book.md",
   "passages_path": "ai/passages/lemalar.jsonl",
@@ -30,22 +48,20 @@
         "1. Lema"
       ],
       "keywords": [
-        "münacat",
-        "dua",
-        "niyaz",
-        "dünya",
-        "nefis",
-        "tevhid",
-        "sır",
         "Kur’an",
-        "yakin",
-        "heva"
+        "tevhid",
+        "ehadiyet",
+        "nefis",
+        "münacat",
+        "cennet",
+        "gaflet",
+        "dünya"
       ],
       "tags": [
+        "kuran",
         "munacat",
-        "dunya",
-        "sir",
-        "kuran"
+        "yakarış",
+        "dunya"
       ]
     },
     {
@@ -68,27 +84,26 @@
         "2. Lema"
       ],
       "keywords": [
-        "musibet",
+        "iman",
+        "rububiyet",
         "ubudiyet",
-        "kulluk",
-        "hastalık",
-        "bela",
-        "sabır",
-        "sıkıntı",
+        "ibadet",
         "münacat",
-        "dua",
-        "niyaz",
-        "ruh",
+        "ahiret",
         "tevekkül",
-        "teslimiyet",
-        "iman"
+        "hizmet",
+        "sabır",
+        "bekâ",
+        "kader",
+        "rahmet"
       ],
       "tags": [
-        "hastalik",
-        "sabir",
-        "sikinti",
+        "kulluk",
         "munacat",
-        "tevekkul"
+        "yakarış",
+        "tevekkul",
+        "Allah'a bırakmak",
+        "sabir"
       ]
     },
     {
@@ -111,23 +126,25 @@
         "3. Lema"
       ],
       "keywords": [
-        "bekâ",
-        "fanilik",
-        "dünya",
-        "ruh",
-        "dua",
-        "ayet",
-        "kalp",
         "Kur’an",
+        "dua",
         "marifetullah",
-        "Allahı tanıma",
-        "işaret"
+        "bekâ",
+        "ruh",
+        "kalp",
+        "ayet",
+        "cennet",
+        "fanilik",
+        "gaflet",
+        "akaid",
+        "dünya"
       ],
       "tags": [
-        "beka",
-        "dunya",
         "kuran",
-        "isaret"
+        "Allahı tanıma",
+        "beka",
+        "itikad",
+        "dunya"
       ]
     },
     {
@@ -150,29 +167,26 @@
         "4. Lema"
       ],
       "keywords": [
-        "sünnet",
-        "şefkat",
-        "cemaat",
-        "ümmet",
-        "nübüvvet",
-        "peygamberlik",
-        "risalet",
-        "siyaset",
         "iman",
-        "sır",
-        "şecaat",
         "şahs-ı manevi",
+        "uhuvvet",
+        "tevhid",
+        "nübüvvet",
+        "risalet",
+        "nefis",
+        "dua",
+        "münacat",
+        "sünnet",
         "hizmet",
-        "teslim"
+        "cemaat"
       ],
       "tags": [
-        "sunnet",
-        "sefkat",
-        "ummet",
+        "sahs-i manevi",
+        "kardeşlik",
         "nubuvvet",
-        "sir",
-        "secaat",
-        "sahs-i manevi"
+        "peygamberlik",
+        "munacat",
+        "yakarış"
       ]
     },
     {
@@ -195,8 +209,9 @@
         "5. Lema"
       ],
       "keywords": [
+        "sünnet",
         "zikir",
-        "sünnet"
+        "ilim"
       ],
       "tags": [
         "sunnet"
@@ -222,7 +237,8 @@
         "6. Lema"
       ],
       "keywords": [
-        "zikir"
+        "zikir",
+        "ilim"
       ]
     },
     {
@@ -245,26 +261,25 @@
         "7. Lema"
       ],
       "keywords": [
-        "ayet",
         "Kur’an",
-        "i’caz",
-        "sure",
-        "ubudiyet",
-        "kulluk",
-        "sır",
-        "isar",
-        "cemaat",
         "nübüvvet",
-        "peygamberlik",
-        "hikmet",
+        "i’caz",
+        "ubudiyet",
+        "ibadet",
+        "namaz",
+        "cemaat",
         "bekâ",
-        "teslim"
+        "hikmet",
+        "teslim",
+        "tefsir",
+        "cüz-i ihtiyari"
       ],
       "tags": [
         "kuran",
-        "icaz",
-        "sir",
         "nubuvvet",
+        "peygamberlik",
+        "icaz",
+        "kulluk",
         "beka"
       ]
     },
@@ -328,26 +343,24 @@
         "10. Lema"
       ],
       "keywords": [
-        "hizmet",
-        "Kur’an",
-        "şefkat",
-        "dünya",
-        "ahiret",
-        "nefis",
-        "ruh",
-        "kanaat",
-        "ihlas",
-        "sıkıntı",
         "iman",
-        "yakin",
-        "fakr",
-        "riya"
+        "Kur’an",
+        "ihlas",
+        "nefis",
+        "dua",
+        "ahiret",
+        "namaz",
+        "i’caz",
+        "hizmet",
+        "sünnet",
+        "cemaat",
+        "sebat"
       ],
       "tags": [
         "kuran",
-        "sefkat",
-        "dunya",
-        "sikinti"
+        "icaz",
+        "sunnet",
+        "dunya"
       ]
     },
     {
@@ -368,28 +381,26 @@
         "On Birinci Lema"
       ],
       "keywords": [
-        "sünnet",
-        "ayet",
-        "ubudiyet",
-        "kulluk",
-        "ruh",
-        "hikmet",
         "iman",
-        "şefkat",
         "Kur’an",
-        "sır",
-        "ümmet",
-        "muhabbetullah",
-        "Allah sevgisi",
-        "akıl"
+        "rububiyet",
+        "nefis",
+        "ubudiyet",
+        "ibadet",
+        "i’caz",
+        "sünnet",
+        "tevekkül",
+        "bekâ",
+        "cemaat",
+        "hikmet"
       ],
       "tags": [
-        "sunnet",
-        "sefkat",
         "kuran",
-        "sir",
-        "ummet",
-        "akil"
+        "kulluk",
+        "icaz",
+        "sunnet",
+        "tevekkul",
+        "Allah'a bırakmak"
       ]
     },
     {
@@ -410,29 +421,26 @@
         "On Ikinci Lema"
       ],
       "keywords": [
-        "Kur’an",
-        "ayet",
-        "hikmet",
-        "fikir",
-        "dünya",
-        "i’caz",
-        "ruh",
-        "sır",
         "iman",
-        "şuhud",
-        "kalp",
-        "akıl",
+        "Kur’an",
+        "i’caz",
+        "hikmet",
+        "ruh",
         "tefsir",
-        "işaret"
+        "kalp",
+        "mucize",
+        "ayet",
+        "akıl",
+        "mahşer",
+        "akaid"
       ],
       "tags": [
         "kuran",
-        "dunya",
         "icaz",
-        "sir",
-        "suhud",
         "akil",
-        "isaret"
+        "mahser",
+        "itikad",
+        "dunya"
       ]
     },
     {
@@ -455,26 +463,24 @@
       "keywords": [
         "iman",
         "Kur’an",
-        "hikmet",
+        "rububiyet",
+        "uluhiyet",
+        "haşir",
+        "enaniyet",
         "nefis",
-        "sır",
-        "sünnet",
-        "bekâ",
-        "dünya",
-        "kalp",
-        "adalet",
-        "fena",
-        "fikir",
-        "ölüm",
-        "bela"
+        "nübüvvet",
+        "risalet",
+        "ahiret",
+        "ubudiyet",
+        "ibadet"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "sunnet",
-        "beka",
-        "dunya",
-        "olum"
+        "hasir",
+        "yeniden diriliş",
+        "benlik",
+        "ego",
+        "nubuvvet"
       ]
     },
     {
@@ -495,29 +501,26 @@
         "On Dorduncu Lema"
       ],
       "keywords": [
-        "sır",
-        "tevhid",
-        "hikmet",
         "Kur’an",
-        "şefkat",
-        "salavat",
-        "ümmet",
+        "tesanüd",
+        "ehadiyet",
+        "rububiyet",
+        "uluhiyet",
+        "samediyet",
         "nefis",
-        "kalp",
-        "akıl",
-        "merhamet",
-        "bekâ",
         "nübüvvet",
-        "peygamberlik"
+        "risalet",
+        "dua",
+        "sünnet",
+        "bekâ"
       ],
       "tags": [
-        "sir",
         "kuran",
-        "sefkat",
-        "ummet",
-        "akil",
-        "beka",
-        "nubuvvet"
+        "tesanud",
+        "nubuvvet",
+        "peygamberlik",
+        "sunnet",
+        "beka"
       ]
     },
     {
@@ -556,26 +559,26 @@
         "On Altinci Lema"
       ],
       "keywords": [
-        "Kur’an",
-        "dua",
-        "bela",
-        "sır",
         "iman",
-        "şükür",
-        "dünya",
-        "yakin",
-        "kalp",
-        "salavat",
-        "siyaset",
-        "ayet",
+        "Kur’an",
+        "samediyet",
+        "vahdaniyet",
+        "ehadiyet",
+        "asayiş",
+        "dua",
+        "nübüvvet",
+        "risalet",
         "ubudiyet",
-        "kulluk"
+        "ibadet",
+        "sünnet"
       ],
       "tags": [
         "kuran",
-        "sir",
-        "sukur",
-        "dunya"
+        "asayis",
+        "nubuvvet",
+        "peygamberlik",
+        "kulluk",
+        "sunnet"
       ]
     },
     {
@@ -596,26 +599,26 @@
         "On Yedinci Lema"
       ],
       "keywords": [
-        "dünya",
-        "nefis",
-        "ruh",
-        "hizmet",
+        "iman",
         "Kur’an",
-        "ubudiyet",
-        "kulluk",
-        "bekâ",
-        "sır",
-        "kalp",
+        "tevhid",
+        "tesanüd",
+        "uluhiyet",
+        "rububiyet",
+        "vahdaniyet",
         "ihlas",
-        "medeniyet",
-        "musibet",
-        "dua"
+        "haşir",
+        "asayiş",
+        "enaniyet",
+        "nefis"
       ],
       "tags": [
-        "dunya",
         "kuran",
-        "beka",
-        "sir"
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "asayis",
+        "benlik"
       ]
     },
     {
@@ -654,27 +657,22 @@
         "On Dokuzuncu Lema"
       ],
       "keywords": [
-        "kanaat",
-        "şükür",
-        "sır",
-        "nefis",
-        "ruh",
-        "hikmet",
         "ihlas",
+        "nefis",
+        "dua",
+        "hikmet",
         "fakr",
-        "riya",
+        "rahmet",
+        "ruh",
+        "tefsir",
+        "şükür",
         "ayet",
-        "vicdan",
         "akıl",
-        "şefkat",
-        "istiğna"
+        "vicdan"
       ],
       "tags": [
         "sukur",
-        "sir",
-        "akil",
-        "sefkat",
-        "istigna"
+        "akil"
       ]
     },
     {
@@ -695,24 +693,26 @@
         "Yirminci Lema"
       ],
       "keywords": [
-        "ittifak",
+        "iman",
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tesanüd",
         "ihlas",
-        "dünya",
-        "ihtilaf",
-        "nefis",
         "enaniyet",
-        "benlik",
+        "nefis",
         "ahiret",
-        "ruh",
         "hizmet",
-        "acz",
-        "riya",
-        "bekâ",
-        "cemaat"
+        "tevekkül",
+        "bekâ"
       ],
       "tags": [
-        "dunya",
-        "beka"
+        "kuran",
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "benlik",
+        "ego"
       ]
     },
     {
@@ -733,26 +733,26 @@
         "Yirmi Birinci Lema"
       ],
       "keywords": [
-        "ihlas",
-        "hizmet",
-        "nefis",
-        "sır",
-        "Kur’an",
-        "ruh",
-        "ölüm",
-        "uhuvvet",
-        "kardeşlik",
         "iman",
-        "riya",
-        "dünya",
+        "Kur’an",
+        "uhuvvet",
+        "şahs-ı manevi",
+        "tesanüd",
+        "ihlas",
+        "nefs-i emmare",
+        "enaniyet",
+        "nefis",
         "ubudiyet",
-        "kulluk"
+        "ibadet",
+        "ahiret"
       ],
       "tags": [
-        "sir",
         "kuran",
-        "olum",
-        "dunya"
+        "kardeşlik",
+        "sahs-i manevi",
+        "tesanud",
+        "nefsi emmare",
+        "benlik"
       ]
     },
     {
@@ -773,26 +773,26 @@
         "Yirmi Ikinci Lema"
       ],
       "keywords": [
-        "millet",
-        "dünya",
-        "enaniyet",
-        "benlik",
         "iman",
-        "kader",
-        "nefis",
-        "riya",
-        "hürriyet",
         "Kur’an",
-        "sır",
+        "enaniyet",
         "ihlas",
-        "tevazu",
-        "adalet"
+        "nefis",
+        "hizmet",
+        "kader",
+        "hürriyet",
+        "hikmet",
+        "ölüm",
+        "kabir",
+        "acz"
       ],
       "tags": [
-        "dunya",
-        "hurriyet",
         "kuran",
-        "sir"
+        "benlik",
+        "ego",
+        "hurriyet",
+        "olum",
+        "dunya"
       ]
     },
     {
@@ -813,27 +813,26 @@
         "Yirmi Ucuncu Lema"
       ],
       "keywords": [
-        "ubudiyet",
-        "kulluk",
-        "hikmet",
-        "kader",
-        "akıl",
         "iman",
         "Kur’an",
         "tevhid",
+        "rububiyet",
+        "vahdaniyet",
+        "uluhiyet",
+        "ehadiyet",
+        "enaniyet",
         "nefis",
-        "sır",
-        "ayet",
-        "şükür",
-        "fikir",
-        "bekâ"
+        "ubudiyet",
+        "ibadet",
+        "kader"
       ],
       "tags": [
-        "akil",
         "kuran",
-        "sir",
-        "sukur",
-        "beka"
+        "benlik",
+        "ego",
+        "kulluk",
+        "beka",
+        "sukur"
       ]
     },
     {
@@ -854,26 +853,26 @@
         "Yirmi Dorduncu Lema"
       ],
       "keywords": [
-        "şefkat",
-        "dünya",
-        "sadakat",
         "iman",
-        "nefis",
-        "ruh",
+        "Kur’an",
         "ihlas",
-        "hikmet",
+        "sadakat",
+        "nefis",
+        "dua",
         "ahiret",
-        "heves",
-        "kanaat",
         "bekâ",
-        "gençlik",
-        "merhamet"
+        "hikmet",
+        "acz",
+        "ruh",
+        "gençlik"
       ],
       "tags": [
-        "sefkat",
-        "dunya",
+        "kuran",
         "beka",
-        "genclik"
+        "genclik",
+        "ihtiyarlik",
+        "itikad",
+        "dunya"
       ]
     },
     {
@@ -894,29 +893,26 @@
         "Yirmi Besinci Lema"
       ],
       "keywords": [
-        "hastalık",
-        "dua",
-        "dünya",
         "iman",
-        "musibet",
+        "Kur’an",
+        "uhuvvet",
+        "rububiyet",
+        "samediyet",
+        "nefs-i emmare",
+        "dua",
+        "nefis",
         "ubudiyet",
-        "kulluk",
-        "ölüm",
-        "sabır",
-        "şefkat",
+        "ibadet",
         "ahiret",
-        "sır",
-        "şükür",
-        "hizmet"
+        "namaz"
       ],
       "tags": [
-        "hastalik",
-        "dunya",
-        "olum",
-        "sabir",
-        "sefkat",
-        "sir",
-        "sukur"
+        "kuran",
+        "kardeşlik",
+        "nefsi emmare",
+        "kulluk",
+        "sunnet",
+        "tevekkul"
       ]
     },
     {
@@ -937,29 +933,26 @@
         "Yirmi Altinci Lema"
       ],
       "keywords": [
-        "dünya",
         "iman",
-        "bekâ",
-        "ihtiyarlık",
         "Kur’an",
-        "ruh",
-        "teselli",
-        "sır",
-        "ahiret",
-        "nefis",
-        "hizmet",
-        "gençlik",
-        "ayet",
-        "ölüm"
+        "uhuvvet",
+        "tevhid",
+        "rububiyet",
+        "uluhiyet",
+        "ehadiyet",
+        "ihlas",
+        "asayiş",
+        "haşir",
+        "enaniyet",
+        "nefis"
       ],
       "tags": [
-        "dunya",
-        "beka",
-        "ihtiyarlik",
         "kuran",
-        "sir",
-        "genclik",
-        "olum"
+        "kardeşlik",
+        "asayis",
+        "hasir",
+        "yeniden diriliş",
+        "benlik"
       ]
     },
     {
@@ -998,26 +991,26 @@
         "Yirmi Sekizinci Lema"
       ],
       "keywords": [
-        "Kur’an",
-        "nefis",
-        "ubudiyet",
-        "kulluk",
-        "dünya",
-        "ayet",
-        "bekâ",
-        "sünnet",
-        "yakin",
-        "adalet",
-        "risalet",
-        "peygamberlik",
         "iman",
-        "namaz"
+        "Kur’an",
+        "uluhiyet",
+        "rububiyet",
+        "vahdaniyet",
+        "enaniyet",
+        "ihlas",
+        "tezkiye",
+        "nefis",
+        "risalet",
+        "nübüvvet",
+        "ubudiyet"
       ],
       "tags": [
         "kuran",
-        "dunya",
-        "beka",
-        "sunnet"
+        "benlik",
+        "ego",
+        "nefis terbiyesi",
+        "peygamberlik",
+        "nubuvvet"
       ]
     },
     {
@@ -1038,15 +1031,13 @@
         "Yirmi Dokuzuncu Lema"
       ],
       "keywords": [
-        "tefekkür",
         "Kur’an",
-        "niyet",
-        "işaret"
+        "tefekkür",
+        "cennet"
       ],
       "tags": [
-        "tefekkur",
         "kuran",
-        "isaret"
+        "tefekkur"
       ]
     },
     {
@@ -1067,27 +1058,26 @@
         "Otuzuncu Lema"
       ],
       "keywords": [
-        "hikmet",
-        "tevhid",
-        "bekâ",
-        "sır",
         "iman",
-        "akıl",
-        "dünya",
-        "risalet",
-        "peygamberlik",
-        "ruh",
-        "ubudiyet",
-        "kulluk",
         "Kur’an",
-        "adalet"
+        "tevhid",
+        "tesanüd",
+        "rububiyet",
+        "ehadiyet",
+        "vahdaniyet",
+        "uluhiyet",
+        "samediyet",
+        "haşir",
+        "meşveret",
+        "risalet"
       ],
       "tags": [
-        "beka",
-        "sir",
-        "akil",
-        "dunya",
-        "kuran"
+        "kuran",
+        "tesanud",
+        "hasir",
+        "yeniden diriliş",
+        "mesveret",
+        "peygamberlik"
       ]
     },
     {
@@ -1142,12 +1132,6 @@
       "official_section_diff_tokens": 0,
       "aliases": [
         "Otuz Ucuncu Lema"
-      ],
-      "keywords": [
-        "şuhud"
-      ],
-      "tags": [
-        "suhud"
       ]
     },
     {
@@ -1169,25 +1153,25 @@
       ],
       "keywords": [
         "münacat",
-        "dua",
-        "niyaz",
-        "hikmet",
-        "bekâ",
+        "iman",
         "Kur’an",
         "tevhid",
-        "dünya",
-        "iman",
-        "yakin",
-        "kalp",
-        "fanilik",
-        "ruh",
+        "rububiyet",
+        "ehadiyet",
+        "uluhiyet",
+        "vahdaniyet",
+        "haşir",
+        "dua",
+        "nefis",
         "ahiret"
       ],
       "tags": [
         "munacat",
-        "beka",
+        "yakarış",
         "kuran",
-        "dunya"
+        "hasir",
+        "yeniden diriliş",
+        "kulluk"
       ]
     },
     {
@@ -1206,29 +1190,6 @@
       "official_section_diff_tokens": 11,
       "aliases": [
         "Fihrist (Lemalar)"
-      ],
-      "keywords": [
-        "iman",
-        "Kur’an",
-        "sır",
-        "hastalık",
-        "hikmet",
-        "dünya",
-        "bekâ",
-        "ayet",
-        "ubudiyet",
-        "kulluk",
-        "tevhid",
-        "hizmet",
-        "nefis",
-        "ihlas"
-      ],
-      "tags": [
-        "kuran",
-        "sir",
-        "hastalik",
-        "dunya",
-        "beka"
       ]
     },
     {
@@ -1252,7 +1213,8 @@
         "dua",
         "Kur’an",
         "ihlas",
-        "sebat"
+        "sebat",
+        "cennet"
       ],
       "tags": [
         "kuran"

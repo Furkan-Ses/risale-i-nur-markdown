@@ -11,12 +11,11 @@ aliases:
 keywords:
   - "bekâ"
   - "hikmet"
-  - "sır"
   - "acz"
   - "mucize"
+  - "cennet"
 tags:
   - "beka"
-  - "sir"
 source_section_path: "books/mektubat/by_heading/04 Dördüncü Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

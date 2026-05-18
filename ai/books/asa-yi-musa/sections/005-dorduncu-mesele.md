@@ -10,10 +10,10 @@ aliases:
 keywords:
   - "iman"
   - "hizmet"
-  - "kanaat"
-  - "gençlik"
   - "cemaat"
+  - "gençlik"
   - "mucize"
+  - "kaza"
 tags:
   - "genclik"
 source_section_path: "books/asa-yi-musa/by_heading/104 Dördüncü Mesele.md"

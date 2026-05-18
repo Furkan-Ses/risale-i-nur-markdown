@@ -9,6 +9,7 @@ aliases:
   - "Eddai"
 keywords:
   - "teslim"
+tags:
   - "teslimiyet"
 source_section_path: "books/sualar/by_heading/16 Eddâî.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"

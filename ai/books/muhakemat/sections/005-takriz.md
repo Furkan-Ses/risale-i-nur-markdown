@@ -6,7 +6,6 @@ section_order: 5
 section_slug: "takriz"
 section_title: "Takriz"
 keywords:
-  - "bela"
   - "tefsir"
 source_section_path: "books/muhakemat/by_heading/05 Takriz.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"

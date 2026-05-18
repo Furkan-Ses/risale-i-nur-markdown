@@ -8,10 +8,8 @@ section_title: "Otuzuncu Mektup"
 keywords:
   - "i’caz"
   - "tefsir"
-  - "işaret"
 tags:
   - "icaz"
-  - "isaret"
 source_section_path: "books/mektubat/by_heading/30 Otuzuncu Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"
