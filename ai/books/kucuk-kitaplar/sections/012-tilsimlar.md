@@ -7,15 +7,6 @@ section_slug: "tilsimlar"
 section_title: "Tılsımlar"
 aliases:
   - "Tilsimlar"
-keywords:
-  - "tılsım"
-  - "risale-i nur"
-  - "hayat"
-  - "tılsımlar"
-  - "kucuk kitaplar"
-  - "söz"
-  - "mektup"
-  - "lem'a"
 source_section_path: "books/kucuk-kitaplar/by_heading/12 Tılsımlar.md"
 source_name: null
 source_url: null

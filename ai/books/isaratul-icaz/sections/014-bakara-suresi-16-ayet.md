@@ -9,13 +9,11 @@ aliases:
   - "Bakara Suresi 16. ayet"
 keywords:
   - "ayet"
-  - "bakara"
-  - "hidayet"
-  - "şifa"
-  - "kalp"
-  - "akıl"
-  - "nimet"
-  - "ruh"
+  - "sure"
+  - "Kur’an"
+  - "vicdan"
+tags:
+  - "kuran"
 source_section_path: "books/isaratul-icaz/by_heading/14 Bakara Suresi 16. âyet.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

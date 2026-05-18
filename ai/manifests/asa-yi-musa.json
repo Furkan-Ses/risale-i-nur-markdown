@@ -25,19 +25,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Asa-yi Musa'dan Birinci Kisim",
-        "Asâ-yı Musa’dan 1. Kısım",
-        "Asa-yi Musa'dan 1. Kisim"
-      ],
-      "keywords": [
-        "musa",
-        "hapishane",
-        "müdafaa",
-        "zındıka",
-        "risale-i nur",
-        "asâ-yı musa’dan birinci kısım",
-        "asa-yi musa",
-        "kısım"
+        "Asa-yi Musadan Birinci Kisim"
       ]
     },
     {
@@ -54,18 +42,17 @@
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
-      "aliases": [
-        "1. Mesele"
-      ],
       "keywords": [
-        "hapishane",
-        "hayat",
-        "iman",
-        "kalp",
-        "medrese-i yusufiye",
+        "namaz",
+        "sıkıntı",
         "musibet",
-        "ruh",
-        "akıl"
+        "imtihan",
+        "teselli",
+        "asayiş"
+      ],
+      "tags": [
+        "sikinti",
+        "asayis"
       ]
     },
     {
@@ -83,18 +70,26 @@
       "official_section_content_overlap": 0.9958890030832477,
       "official_section_diff_tokens": 4,
       "aliases": [
-        "Ikinci Mesele",
-        "2. Mesele"
+        "Ikinci Mesele"
       ],
       "keywords": [
-        "hapishane",
         "ölüm",
-        "musibet",
-        "iman",
-        "cehennem",
+        "bekâ",
         "dünya",
+        "musibet",
+        "kabir",
+        "iman",
         "gençlik",
-        "hüccet"
+        "cemaat",
+        "sıkıntı",
+        "mucize"
+      ],
+      "tags": [
+        "olum",
+        "beka",
+        "dunya",
+        "genclik",
+        "sikinti"
       ]
     },
     {
@@ -112,18 +107,33 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Ucuncu Mesele",
-        "3. Mesele"
+        "Ucuncu Mesele"
       ],
       "keywords": [
         "iman",
-        "hapishane",
-        "medrese-i yusufiye",
-        "cennet",
+        "dünya",
+        "ölüm",
         "gençlik",
-        "kalp",
-        "musa",
-        "ölüm"
+        "akıl",
+        "şefkat",
+        "kabir",
+        "bekâ",
+        "millet",
+        "Kur’an",
+        "iffet",
+        "ihtiyarlık",
+        "sıkıntı",
+        "şahs-ı manevi"
+      ],
+      "tags": [
+        "dunya",
+        "olum",
+        "genclik",
+        "akil",
+        "sefkat",
+        "beka",
+        "kuran",
+        "ihtiyarlik"
       ]
     },
     {
@@ -141,18 +151,18 @@
       "official_section_content_overlap": 0.9936406995230525,
       "official_section_diff_tokens": 4,
       "aliases": [
-        "Dorduncu Mesele",
-        "4. Mesele"
+        "Dorduncu Mesele"
       ],
       "keywords": [
-        "hapishane",
         "iman",
-        "kalp",
-        "risale-i nur",
-        "akıl",
+        "hizmet",
+        "kanaat",
         "gençlik",
-        "insan",
-        "musa"
+        "cemaat",
+        "mucize"
+      ],
+      "tags": [
+        "genclik"
       ]
     },
     {
@@ -170,18 +180,21 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Besinci Mesele",
-        "5. Mesele"
+        "Besinci Mesele"
       ],
       "keywords": [
         "gençlik",
-        "hapishane",
-        "nimet",
         "ahiret",
+        "iffet",
+        "bekâ",
         "hastalık",
-        "kalp",
-        "ruh",
-        "ölüm"
+        "sıkıntı"
+      ],
+      "tags": [
+        "genclik",
+        "beka",
+        "hastalik",
+        "sikinti"
       ]
     },
     {
@@ -199,18 +212,22 @@
       "official_section_content_overlap": 0.9983416252072969,
       "official_section_diff_tokens": 2,
       "aliases": [
-        "Altinci Mesele",
-        "6. Mesele"
+        "Altinci Mesele"
       ],
       "keywords": [
-        "hüccet",
-        "bürhan",
+        "millet",
+        "Kur’an",
         "iman",
-        "hikmet",
         "ubudiyet",
-        "fihrist",
-        "musa",
-        "musibet"
+        "kulluk",
+        "hikmet",
+        "mucize",
+        "teslim",
+        "teslimiyet",
+        "tevhid"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -227,18 +244,28 @@
       "official_section_similarity": 0.9985756830247313,
       "official_section_content_overlap": 0.9984464008285863,
       "official_section_diff_tokens": 8,
-      "aliases": [
-        "7. Mesele"
-      ],
       "keywords": [
         "ahiret",
         "hikmet",
-        "insan",
-        "rahmet",
+        "bekâ",
         "adalet",
-        "dua",
         "haşir",
-        "hayat"
+        "yeniden diriliş",
+        "dua",
+        "Kur’an",
+        "iman",
+        "mucize",
+        "ruh",
+        "şefkat",
+        "dünya",
+        "ubudiyet"
+      ],
+      "tags": [
+        "beka",
+        "hasir",
+        "kuran",
+        "sefkat",
+        "dunya"
       ]
     },
     {
@@ -255,18 +282,27 @@
       "official_section_similarity": 0.9980225660113993,
       "official_section_content_overlap": 0.9974424552429667,
       "official_section_diff_tokens": 11,
-      "aliases": [
-        "8. Mesele"
-      ],
       "keywords": [
-        "cehennem",
         "ahiret",
         "iman",
-        "insan",
-        "cennet",
-        "hayat",
         "dünya",
-        "hapishane"
+        "bekâ",
+        "merhamet",
+        "namaz",
+        "ruh",
+        "Kur’an",
+        "ubudiyet",
+        "kulluk",
+        "şefkat",
+        "adalet",
+        "musibet",
+        "hizmet"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "kuran",
+        "sefkat"
       ]
     },
     {
@@ -283,18 +319,27 @@
       "official_section_similarity": 0.9775401069518717,
       "official_section_content_overlap": 0.9580712788259959,
       "official_section_diff_tokens": 80,
-      "aliases": [
-        "9. Mesele"
-      ],
       "keywords": [
         "iman",
-        "hüccet",
         "akıl",
+        "Kur’an",
         "ahiret",
-        "rububiyet",
-        "insan",
-        "nimet",
-        "hayat"
+        "ubudiyet",
+        "kulluk",
+        "bekâ",
+        "kader",
+        "kalp",
+        "hikmet",
+        "namaz",
+        "i’caz",
+        "mucize",
+        "niyet"
+      ],
+      "tags": [
+        "akil",
+        "kuran",
+        "beka",
+        "icaz"
       ]
     },
     {
@@ -311,18 +356,28 @@
       "official_section_similarity": 0.9954949470351881,
       "official_section_content_overlap": 0.9951314508276533,
       "official_section_diff_tokens": 26,
-      "aliases": [
-        "10. Mesele"
-      ],
       "keywords": [
-        "i'caz",
-        "ayet",
+        "Kur’an",
+        "i’caz",
         "hikmet",
+        "bela",
+        "ayet",
         "iman",
-        "belagat",
-        "risale-i nur",
-        "hüccet",
-        "tevhid"
+        "sure",
+        "tevhid",
+        "dünya",
+        "dua",
+        "bekâ",
+        "ahiret",
+        "sır",
+        "zikir"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "dunya",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -339,18 +394,27 @@
       "official_section_similarity": 0.9988929889298893,
       "official_section_content_overlap": 0.9985245296938399,
       "official_section_diff_tokens": 8,
-      "aliases": [
-        "11. Mesele"
-      ],
       "keywords": [
-        "risale-i nur",
         "iman",
+        "Kur’an",
         "dünya",
-        "i'caz",
-        "cennet",
-        "hayat",
-        "hüccet",
-        "rahmet"
+        "i’caz",
+        "bekâ",
+        "ubudiyet",
+        "kulluk",
+        "isar",
+        "hizmet",
+        "sure",
+        "kader",
+        "ruh",
+        "hikmet",
+        "dua"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "icaz",
+        "beka"
       ]
     },
     {
@@ -368,19 +432,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Asa-yi Musa'dan Ikinci Kisim",
-        "Asâ-yı Musa’dan 2. Kısım",
-        "Asa-yi Musa'dan 2. Kisim"
-      ],
-      "keywords": [
-        "musa",
-        "hüccet",
-        "bürhan",
-        "iman",
-        "asâ-yı musa’dan i̇kinci kısım",
-        "asa-yi musa",
-        "kısım",
-        "risale-i nur"
+        "Asa-yi Musadan Ikinci Kisim"
       ]
     },
     {
@@ -398,19 +450,28 @@
       "official_section_content_overlap": 0.9982604570253815,
       "official_section_diff_tokens": 25,
       "aliases": [
-        "Birinci Huccet-i Imaniye",
-        "1. Hüccet-i İmaniye",
-        "1. Huccet-i Imaniye"
+        "Birinci Huccet-i Imaniye"
       ],
       "keywords": [
         "iman",
-        "hayat",
+        "Kur’an",
         "hikmet",
-        "şifa",
-        "hüccet",
         "dünya",
+        "ittifak",
+        "tevhid",
+        "mucize",
+        "akıl",
+        "yakin",
+        "hizmet",
         "ayet",
-        "insan"
+        "kalp",
+        "bela",
+        "ruh"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "akil"
       ]
     },
     {
@@ -428,19 +489,28 @@
       "official_section_content_overlap": 0.9911032028469751,
       "official_section_diff_tokens": 35,
       "aliases": [
-        "Ikinci Huccet-i Imaniye",
-        "2. Hüccet-i İmaniye",
-        "2. Huccet-i Imaniye"
+        "Ikinci Huccet-i Imaniye"
       ],
       "keywords": [
-        "hikmet",
-        "hüccet",
         "iman",
-        "vahdet",
-        "insan",
-        "rububiyet",
-        "musa",
-        "bürhan"
+        "hikmet",
+        "tevhid",
+        "hizmet",
+        "ubudiyet",
+        "kulluk",
+        "kader",
+        "bekâ",
+        "ayet",
+        "akıl",
+        "hastalık",
+        "mucize",
+        "isar",
+        "cemaat"
+      ],
+      "tags": [
+        "beka",
+        "akil",
+        "hastalik"
       ]
     },
     {
@@ -458,19 +528,30 @@
       "official_section_content_overlap": 0.998485307482581,
       "official_section_diff_tokens": 10,
       "aliases": [
-        "Ucuncu Huccet-i Imaniye",
-        "3. Hüccet-i İmaniye",
-        "3. Huccet-i Imaniye"
+        "Ucuncu Huccet-i Imaniye"
       ],
       "keywords": [
         "iman",
-        "ibadet",
+        "ubudiyet",
+        "kulluk",
         "hikmet",
-        "insan",
-        "hüccet",
-        "vahdet",
+        "kader",
         "akıl",
-        "kader"
+        "Kur’an",
+        "tevhid",
+        "nefis",
+        "sır",
+        "ayet",
+        "şükür",
+        "fikir",
+        "bekâ"
+      ],
+      "tags": [
+        "akil",
+        "kuran",
+        "sir",
+        "sukur",
+        "beka"
       ]
     },
     {
@@ -488,19 +569,24 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Dorduncu Huccet-i Imaniye",
-        "4. Hüccet-i İmaniye",
-        "4. Huccet-i Imaniye"
+        "Dorduncu Huccet-i Imaniye"
       ],
       "keywords": [
-        "hüccet",
         "iman",
         "adalet",
         "hikmet",
-        "iktisat",
+        "dünya",
         "ahiret",
-        "rahmet",
-        "dünya"
+        "ölüm",
+        "Kur’an",
+        "haşir",
+        "yeniden diriliş"
+      ],
+      "tags": [
+        "dunya",
+        "olum",
+        "kuran",
+        "hasir"
       ]
     },
     {
@@ -518,19 +604,28 @@
       "official_section_content_overlap": 0.9980276134122288,
       "official_section_diff_tokens": 5,
       "aliases": [
-        "Besinci Huccet-i Imaniye",
-        "5. Hüccet-i İmaniye",
-        "5. Huccet-i Imaniye"
+        "Besinci Huccet-i Imaniye"
       ],
       "keywords": [
-        "hikmet",
         "iman",
-        "hüccet",
-        "insan",
-        "rahmet",
-        "rububiyet",
+        "hikmet",
+        "risalet",
+        "peygamberlik",
         "akıl",
-        "şifa"
+        "bekâ",
+        "ayet",
+        "ubudiyet",
+        "kulluk",
+        "acz",
+        "adalet",
+        "Kur’an",
+        "mucize",
+        "tevhid"
+      ],
+      "tags": [
+        "akil",
+        "beka",
+        "kuran"
       ]
     },
     {
@@ -548,19 +643,25 @@
       "official_section_content_overlap": 0.9955116696588869,
       "official_section_diff_tokens": 5,
       "aliases": [
-        "Altinci Huccet-i Imaniye",
-        "6. Hüccet-i İmaniye",
-        "6. Huccet-i Imaniye"
+        "Altinci Huccet-i Imaniye"
       ],
       "keywords": [
-        "hüccet",
         "iman",
+        "dünya",
         "haşir",
-        "musa",
-        "cehennem",
-        "cennet",
-        "küfür",
-        "rububiyet"
+        "yeniden diriliş",
+        "acz",
+        "bekâ",
+        "tevhid",
+        "niyaz",
+        "mucize",
+        "işaret"
+      ],
+      "tags": [
+        "dunya",
+        "hasir",
+        "beka",
+        "isaret"
       ]
     },
     {
@@ -578,19 +679,13 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Yedinci Huccet-i Imaniye",
-        "7. Hüccet-i İmaniye",
-        "7. Huccet-i Imaniye"
+        "Yedinci Huccet-i Imaniye"
       ],
       "keywords": [
-        "hüccet",
         "iman",
-        "ehadiyet",
-        "hikmet",
-        "rahmet",
-        "rububiyet",
-        "tefsir",
-        "vahdet"
+        "tevhid",
+        "mucize",
+        "tefsir"
       ]
     },
     {
@@ -608,19 +703,30 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Sekizinci Huccet-i Imaniye",
-        "8. Hüccet-i İmaniye",
-        "8. Huccet-i Imaniye"
+        "Sekizinci Huccet-i Imaniye"
       ],
       "keywords": [
-        "hikmet",
-        "vahdet",
-        "musa",
-        "hüccet",
         "iman",
-        "rahmet",
-        "rububiyet",
-        "insan"
+        "hikmet",
+        "bekâ",
+        "Kur’an",
+        "tevhid",
+        "dünya",
+        "yakin",
+        "kalp",
+        "fanilik",
+        "ruh",
+        "ahiret",
+        "akıl",
+        "acz",
+        "şefkat"
+      ],
+      "tags": [
+        "beka",
+        "kuran",
+        "dunya",
+        "akil",
+        "sefkat"
       ]
     },
     {
@@ -638,19 +744,30 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Dokuzuncu Huccet-i Imaniye",
-        "9. Hüccet-i İmaniye",
-        "9. Huccet-i Imaniye"
+        "Dokuzuncu Huccet-i Imaniye"
       ],
       "keywords": [
-        "hüccet",
         "iman",
-        "hayat",
-        "insan",
+        "bekâ",
         "ahiret",
         "hikmet",
-        "cennet",
-        "adalet"
+        "Kur’an",
+        "adalet",
+        "dünya",
+        "haşir",
+        "yeniden diriliş",
+        "ruh",
+        "şefkat",
+        "ayet",
+        "merhamet",
+        "mucize"
+      ],
+      "tags": [
+        "beka",
+        "kuran",
+        "dunya",
+        "hasir",
+        "sefkat"
       ]
     },
     {
@@ -668,19 +785,27 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Onuncu Huccet-i Imaniye",
-        "10. Hüccet-i İmaniye",
-        "10. Huccet-i Imaniye"
+        "Onuncu Huccet-i Imaniye"
       ],
       "keywords": [
         "iman",
-        "hayat",
-        "hüccet",
-        "rahmet",
-        "cennet",
-        "insan",
-        "nimet",
-        "dünya"
+        "bekâ",
+        "dünya",
+        "hizmet",
+        "huzur",
+        "ruh",
+        "fanilik",
+        "fena",
+        "tevhid",
+        "marifetullah",
+        "Allahı tanıma",
+        "muhabbetullah",
+        "Allah sevgisi",
+        "ubudiyet"
+      ],
+      "tags": [
+        "beka",
+        "dunya"
       ]
     },
     {
@@ -698,19 +823,29 @@
       "official_section_content_overlap": 0.9758725696884516,
       "official_section_diff_tokens": 103,
       "aliases": [
-        "On Birinci Huccet-i Imaniye",
-        "11. Hüccet-i İmaniye",
-        "11. Huccet-i Imaniye"
+        "On Birinci Huccet-i Imaniye"
       ],
       "keywords": [
-        "bürhan",
-        "hüccet",
         "iman",
-        "gaybi",
+        "bekâ",
+        "mucize",
         "akıl",
-        "musa",
         "hikmet",
-        "insan"
+        "tevhid",
+        "nefis",
+        "sır",
+        "namaz",
+        "Kur’an",
+        "medeniyet",
+        "cemaat",
+        "i’caz"
+      ],
+      "tags": [
+        "beka",
+        "akil",
+        "sir",
+        "kuran",
+        "icaz"
       ]
     },
     {
@@ -731,14 +866,16 @@
         "Fihrist (Asa-yi Musa)"
       ],
       "keywords": [
-        "hüccet",
-        "fihrist",
-        "musa",
         "iman",
-        "haşir",
         "münacat",
-        "ayet",
-        "risale-i nur"
+        "dua",
+        "niyaz",
+        "haşir",
+        "yeniden diriliş"
+      ],
+      "tags": [
+        "munacat",
+        "hasir"
       ]
     }
   ]

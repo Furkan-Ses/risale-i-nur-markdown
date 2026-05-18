@@ -7,13 +7,6 @@ section_slug: "on-besinci-lema"
 section_title: "On Beşinci Lem’a"
 aliases:
   - "On Besinci Lema"
-  - "15. Lem’a"
-  - "15. Lema"
-keywords:
-  - "fihrist"
-  - "risale-i nur"
-  - "on beşinci lem’a"
-  - "lemalar"
 source_section_path: "books/lemalar/by_heading/15 On Beşinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -9,13 +9,11 @@ aliases:
   - "Dua (Sualar)"
 keywords:
   - "dua"
-  - "cennet"
+  - "Kur’an"
   - "ihlas"
-  - "iman"
-  - "risale-i nur"
-  - "şuâlar"
-  - "dua (şuâlar)"
-  - "sualar"
+  - "sebat"
+tags:
+  - "kuran"
 source_section_path: "books/sualar/by_heading/17 Dua (Şuâlar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

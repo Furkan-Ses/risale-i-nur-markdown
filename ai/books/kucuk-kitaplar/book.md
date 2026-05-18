@@ -1,6 +1,22 @@
 ---
 book_id: "kucuk-kitaplar"
 book_title: "Kucuk Kitaplar"
+keywords:
+  - "ruh"
+  - "Kur’an"
+  - "iman"
+  - "dünya"
+  - "bekâ"
+  - "nefis"
+  - "hizmet"
+  - "siyaset"
+tags:
+  - "kuran"
+  - "dunya"
+  - "beka"
+  - "sir"
+  - "hurriyet"
+  - "akil"
 source_book_path: "books/kucuk-kitaplar/Kucuk Kitaplar.md"
 source_section_dir: "books/kucuk-kitaplar/by_heading"
 source_name: null

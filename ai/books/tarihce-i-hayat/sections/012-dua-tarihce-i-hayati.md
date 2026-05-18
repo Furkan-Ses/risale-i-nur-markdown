@@ -9,13 +9,11 @@ aliases:
   - "Dua (Tarihce-i Hayati)"
 keywords:
   - "dua"
-  - "hayat"
-  - "cennet"
+  - "Kur’an"
   - "ihlas"
-  - "iman"
-  - "risale-i nur"
-  - "tarihçe hayatı"
-  - "dua (tarihçe-i hayatı)"
+  - "sebat"
+tags:
+  - "kuran"
 source_section_path: "books/tarihce-i-hayat/by_heading/12 Dua (Tarihçe-i Hayatı).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

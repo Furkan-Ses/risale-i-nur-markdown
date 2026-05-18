@@ -9,13 +9,23 @@ aliases:
   - "Yirmiyedinci Soz"
 keywords:
   - "iman"
-  - "insan"
   - "nübüvvet"
-  - "kalp"
+  - "peygamberlik"
   - "hikmet"
-  - "hayat"
+  - "Kur’an"
   - "dünya"
+  - "nefis"
+  - "ubudiyet"
+  - "kulluk"
   - "ruh"
+  - "namaz"
+  - "yakin"
+  - "kalp"
+  - "siyaset"
+tags:
+  - "nubuvvet"
+  - "kuran"
+  - "dunya"
 source_section_path: "books/sozler/by_heading/027 - Yirmiyedinci Söz.md"
 source_name: null
 source_url: null

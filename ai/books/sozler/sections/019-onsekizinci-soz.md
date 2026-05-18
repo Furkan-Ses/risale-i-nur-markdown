@@ -8,14 +8,19 @@ section_title: "Onsekizinci Söz"
 aliases:
   - "Onsekizinci Soz"
 keywords:
-  - "insan"
+  - "nefis"
   - "hikmet"
-  - "kalp"
-  - "nimet"
-  - "akıl"
-  - "fikir"
-  - "iman"
-  - "musa"
+  - "hodbinlik"
+  - "benlik"
+  - "gurur"
+  - "bekâ"
+  - "risalet"
+  - "peygamberlik"
+  - "şuhud"
+  - "tevazu"
+tags:
+  - "beka"
+  - "suhud"
 source_section_path: "books/sozler/by_heading/018 - Onsekizinci Söz.md"
 source_name: null
 source_url: null

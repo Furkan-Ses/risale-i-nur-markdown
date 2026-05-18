@@ -1,6 +1,22 @@
 ---
 book_id: "sikke-i-tasdik-i-gaybi"
 book_title: "Sikke-i Tasdik-i Gaybi"
+keywords:
+  - "Kur’an"
+  - "iman"
+  - "dua"
+  - "ayet"
+  - "sır"
+  - "risalet"
+  - "peygamberlik"
+  - "hizmet"
+tags:
+  - "kuran"
+  - "sir"
+  - "dunya"
+  - "beka"
+  - "isaret"
+  - "icaz"
 source_book_path: "books/sikke-i-tasdik-i-gaybi/Sikke-i Tasdik-i Gaybi.md"
 source_section_dir: "books/sikke-i-tasdik-i-gaybi/by_heading"
 source_name: null

@@ -7,13 +7,6 @@ section_slug: "otuz-ikinci-lema"
 section_title: "Otuz İkinci Lem’a"
 aliases:
   - "Otuz Ikinci Lema"
-  - "32. Lem’a"
-  - "32. Lema"
-keywords:
-  - "otuz i̇kinci lem’a"
-  - "lemaat"
-  - "lemalar"
-  - "risale-i nur"
 source_section_path: "books/lemalar/by_heading/32 Otuz İkinci Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

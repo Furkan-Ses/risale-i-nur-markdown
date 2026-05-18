@@ -28,14 +28,24 @@
         "Emirdag Lahikasi - II s.6-26"
       ],
       "keywords": [
-        "hayat",
+        "hizmet",
+        "Kur’an",
         "ruh",
+        "millet",
         "dua",
-        "lahika",
-        "risale-i nur",
-        "kalp",
-        "musa",
-        "ihlas"
+        "siyaset",
+        "riya",
+        "ubudiyet",
+        "kulluk",
+        "ihlas",
+        "iman",
+        "niyet",
+        "dünya",
+        "tefsir"
+      ],
+      "tags": [
+        "kuran",
+        "dunya"
       ]
     },
     {
@@ -56,14 +66,25 @@
         "Emirdag Lahikasi - II s.27-50"
       ],
       "keywords": [
-        "musa",
-        "risale-i nur",
+        "hizmet",
+        "millet",
+        "Kur’an",
         "iman",
-        "lahika",
-        "hayat",
         "ruh",
         "dua",
-        "adalet"
+        "adalet",
+        "dünya",
+        "şefkat",
+        "ihlas",
+        "riya",
+        "siyaset",
+        "tefsir",
+        "kanaat"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sefkat"
       ]
     },
     {
@@ -84,14 +105,26 @@
         "Emirdag Lahikasi - II s.51-70"
       ],
       "keywords": [
+        "Kur’an",
         "iman",
-        "musa",
-        "risale-i nur",
-        "lahika",
+        "hizmet",
         "ruh",
-        "hapishane",
+        "dünya",
+        "huzur",
         "tefsir",
-        "adalet"
+        "adalet",
+        "millet",
+        "sır",
+        "dua",
+        "şükür",
+        "kanaat",
+        "namaz"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sir",
+        "sukur"
       ]
     },
     {
@@ -112,14 +145,26 @@
         "Emirdag Lahikasi - II s.70-90"
       ],
       "keywords": [
+        "Kur’an",
         "iman",
-        "i'caz",
-        "kalp",
-        "lahika",
-        "risale-i nur",
+        "siyaset",
+        "hizmet",
+        "i’caz",
         "tefsir",
+        "kanaat",
         "adalet",
-        "hikmet"
+        "hikmet",
+        "millet",
+        "dünya",
+        "kader",
+        "ruh",
+        "asayiş"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "dunya",
+        "asayis"
       ]
     },
     {
@@ -140,14 +185,25 @@
         "Emirdag Lahikasi - II s.91-109"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "lahika",
-        "bismillah",
         "ruh",
+        "medeniyet",
+        "hizmet",
         "adalet",
-        "rahmet",
-        "dua"
+        "dua",
+        "kanaat",
+        "siyaset",
+        "nübüvvet",
+        "peygamberlik",
+        "tevhid",
+        "heves",
+        "şefkat"
+      ],
+      "tags": [
+        "kuran",
+        "nubuvvet",
+        "sefkat"
       ]
     },
     {
@@ -168,14 +224,27 @@
         "Emirdag Lahikasi - II s.110-128"
       ],
       "keywords": [
-        "iman",
-        "insan",
         "dünya",
-        "lahika",
+        "iman",
         "hikmet",
-        "nimet",
+        "bekâ",
+        "mucize",
+        "ruh",
+        "şükür",
         "dua",
-        "hayat"
+        "ubudiyet",
+        "kulluk",
+        "münacat",
+        "niyaz",
+        "tevhid",
+        "ümmet"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "sukur",
+        "munacat",
+        "ummet"
       ]
     },
     {
@@ -196,14 +265,27 @@
         "Emirdag Lahikasi - II s.129-148"
       ],
       "keywords": [
-        "risale-i nur",
+        "millet",
+        "Kur’an",
         "iman",
-        "hayat",
-        "hapishane",
-        "lahika",
+        "hizmet",
         "dünya",
+        "siyaset",
         "gençlik",
-        "kalp"
+        "ruh",
+        "hürriyet",
+        "vicdan",
+        "adalet",
+        "fikir",
+        "asayiş",
+        "medeniyet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "genclik",
+        "hurriyet",
+        "asayis"
       ]
     },
     {
@@ -224,14 +306,25 @@
         "Emirdag Lahikasi - II s.149-170"
       ],
       "keywords": [
+        "Kur’an",
         "iman",
-        "risale-i nur",
+        "hizmet",
+        "siyaset",
         "ayet",
-        "lahika",
         "ruh",
-        "kalp",
-        "cehennem",
-        "dünya"
+        "millet",
+        "dünya",
+        "asayiş",
+        "mucize",
+        "vicdan",
+        "dua",
+        "enaniyet",
+        "benlik"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "asayis"
       ]
     },
     {
@@ -252,14 +345,27 @@
         "Emirdag Lahikasi - II s.171-189"
       ],
       "keywords": [
-        "risale-i nur",
-        "lahika",
-        "musa",
+        "hizmet",
+        "millet",
+        "Kur’an",
+        "siyaset",
+        "asayiş",
         "gençlik",
-        "dua",
         "iman",
-        "hayat",
-        "dünya"
+        "dua",
+        "dünya",
+        "bela",
+        "hürriyet",
+        "teslim",
+        "teslimiyet",
+        "ahiret"
+      ],
+      "tags": [
+        "kuran",
+        "asayis",
+        "genclik",
+        "dunya",
+        "hurriyet"
       ]
     },
     {
@@ -280,14 +386,28 @@
         "Emirdag Lahikasi - II s.190-210"
       ],
       "keywords": [
-        "risale-i nur",
+        "hizmet",
+        "millet",
+        "Kur’an",
         "iman",
         "hastalık",
-        "hayat",
-        "lahika",
+        "asayiş",
+        "dünya",
         "ihlas",
+        "siyaset",
+        "şefkat",
         "adalet",
-        "musa"
+        "dua",
+        "ruh",
+        "sır"
+      ],
+      "tags": [
+        "kuran",
+        "hastalik",
+        "asayis",
+        "dunya",
+        "sefkat",
+        "sir"
       ]
     },
     {
@@ -308,14 +428,27 @@
         "Emirdag Lahikasi - II s.210-229"
       ],
       "keywords": [
-        "risale-i nur",
-        "hayat",
+        "hizmet",
         "iman",
-        "rahmet",
-        "ruh",
-        "lahika",
         "dünya",
-        "şefkat"
+        "ruh",
+        "millet",
+        "şefkat",
+        "Kur’an",
+        "kanaat",
+        "hastalık",
+        "istiğna",
+        "dua",
+        "uhuvvet",
+        "kardeşlik",
+        "yakin"
+      ],
+      "tags": [
+        "dunya",
+        "sefkat",
+        "kuran",
+        "hastalik",
+        "istigna"
       ]
     },
     {
@@ -336,14 +469,28 @@
         "Emirdag Lahikasi - II s.230-247"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
+        "hizmet",
+        "asayiş",
         "iman",
-        "hayat",
-        "lahika",
+        "dünya",
         "ruh",
-        "rahmet",
-        "cehennem",
-        "dünya"
+        "ihlas",
+        "siyaset",
+        "şükür",
+        "huzur",
+        "sır",
+        "ölüm",
+        "millet",
+        "mucize"
+      ],
+      "tags": [
+        "kuran",
+        "asayis",
+        "dunya",
+        "sukur",
+        "sir",
+        "olum"
       ]
     }
   ]

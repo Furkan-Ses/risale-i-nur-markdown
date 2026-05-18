@@ -6,14 +6,24 @@ section_order: 37
 section_slug: "konferans"
 section_title: "Konferans"
 keywords:
+  - "Kur’an"
   - "iman"
-  - "risale-i nur"
+  - "hizmet"
   - "dünya"
   - "tefsir"
-  - "konferans"
-  - "insan"
-  - "hayat"
+  - "ruh"
+  - "ihlas"
+  - "millet"
   - "kalp"
+  - "kanaat"
+  - "ubudiyet"
+  - "kulluk"
+  - "sünnet"
+  - "nefis"
+tags:
+  - "kuran"
+  - "dunya"
+  - "sunnet"
 source_section_path: "books/sozler/by_heading/036 - Konferans.md"
 source_name: null
 source_url: null

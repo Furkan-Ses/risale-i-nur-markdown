@@ -540,9 +540,12 @@ def main() -> None:
 
             merged_body = book["merged_path"].read_text(encoding="utf-8")
             merged_meta, merged_body_stripped = parse_frontmatter(merged_body)
+            existing_ai_book_path = AI_BOOKS_ROOT / str(book["slug"]) / "book.md"
+            existing_ai_book_meta = preserved_ai_metadata(existing_ai_book_path)
             book_frontmatter = {
                 "book_id": book["slug"],
                 "book_title": book["title"],
+                **existing_ai_book_meta,
                 "source_book_path": book["merged_path"].relative_to(ROOT).as_posix(),
                 "source_section_dir": book["by_heading_dir"].relative_to(ROOT).as_posix(),
                 "source_name": merged_meta.get("source_name") or merged_meta.get("source name"),

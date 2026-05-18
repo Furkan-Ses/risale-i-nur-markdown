@@ -1,6 +1,22 @@
 ---
 book_id: "asa-yi-musa"
 book_title: "Asa-yi Musa"
+keywords:
+  - "iman"
+  - "bekâ"
+  - "Kur’an"
+  - "hikmet"
+  - "dünya"
+  - "mucize"
+  - "tevhid"
+  - "ubudiyet"
+tags:
+  - "beka"
+  - "kuran"
+  - "dunya"
+  - "akil"
+  - "sefkat"
+  - "hasir"
 source_book_path: "books/asa-yi-musa/Asa-yi Musa.md"
 source_section_dir: "books/asa-yi-musa/by_heading"
 source_name: null

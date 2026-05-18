@@ -1,6 +1,22 @@
 ---
 book_id: "sozler"
 book_title: "Sozler"
+keywords:
+  - "Kur’an"
+  - "hikmet"
+  - "iman"
+  - "bekâ"
+  - "nefis"
+  - "dünya"
+  - "ubudiyet"
+  - "kulluk"
+tags:
+  - "kuran"
+  - "beka"
+  - "dunya"
+  - "sir"
+  - "akil"
+  - "icaz"
 source_book_path: "books/sozler/Sozler.md"
 source_section_dir: "books/sozler/by_heading"
 source_name: null

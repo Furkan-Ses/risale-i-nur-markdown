@@ -7,12 +7,6 @@ section_slug: "otuz-ikinci-mektup"
 section_title: "Otuz İkinci Mektup"
 aliases:
   - "Otuz Ikinci Mektup"
-  - "32. Mektup"
-keywords:
-  - "otuz i̇kinci mektup"
-  - "mektubat"
-  - "mektup"
-  - "risale-i nur"
 source_section_path: "books/mektubat/by_heading/32 Otuz İkinci Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

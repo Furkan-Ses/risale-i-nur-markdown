@@ -1,6 +1,22 @@
 ---
 book_id: "emirdag-lahikasi-1"
 book_title: "Emirdag Lahikasi 1"
+keywords:
+  - "Kur’an"
+  - "hizmet"
+  - "dünya"
+  - "iman"
+  - "ruh"
+  - "dua"
+  - "ihlas"
+  - "siyaset"
+tags:
+  - "kuran"
+  - "dunya"
+  - "sikinti"
+  - "sir"
+  - "beka"
+  - "asayis"
 source_book_path: "books/emirdag-lahikasi-1/Emirdag Lahikasi 1.md"
 source_section_dir: "books/emirdag-lahikasi-1/by_heading"
 source_name: null

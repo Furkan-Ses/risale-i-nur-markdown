@@ -8,14 +8,12 @@ section_title: "Dua (Sikke-i Tasdik-i Gaybî)"
 aliases:
   - "Dua (Sikke-i Tasdik-i Gaybi)"
 keywords:
-  - "gaybi"
-  - "sikke-i tasdik-i gaybi"
   - "dua"
-  - "cennet"
+  - "Kur’an"
   - "ihlas"
-  - "iman"
-  - "risale-i nur"
-  - "sikke tasdik gaybî"
+  - "sebat"
+tags:
+  - "kuran"
 source_section_path: "books/sikke-i-tasdik-i-gaybi/by_heading/08 Dua (Sikke-i Tasdik-i Gaybî).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

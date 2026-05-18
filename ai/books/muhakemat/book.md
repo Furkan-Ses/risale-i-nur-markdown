@@ -1,6 +1,22 @@
 ---
 book_id: "muhakemat"
 book_title: "Muhakemat"
+keywords:
+  - "bela"
+  - "Kur’an"
+  - "tefsir"
+  - "hikmet"
+  - "akıl"
+  - "nefis"
+  - "nübüvvet"
+  - "peygamberlik"
+tags:
+  - "kuran"
+  - "akil"
+  - "nubuvvet"
+  - "sir"
+  - "dunya"
+  - "icaz"
 source_book_path: "books/muhakemat/Muhakemat.md"
 source_section_dir: "books/muhakemat/by_heading"
 source_name: null

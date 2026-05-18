@@ -12,12 +12,8 @@ aliases:
 keywords:
   - "iman"
   - "zikir"
-  - "cehennem"
-  - "cennet"
-  - "kalp"
-  - "küfür"
-  - "merhamet"
-  - "musibet"
+  - "vicdan"
+  - "imtihan"
 source_section_path: "books/sozler/by_heading/002 - İkinci Söz.md"
 source_name: null
 source_url: null

@@ -26,13 +26,6 @@
       "official_section_diff_tokens": null,
       "aliases": [
         "Kapak ve Giris"
-      ],
-      "keywords": [
-        "musa",
-        "risale-i nur",
-        "kapak giriş",
-        "kapak ve giriş",
-        "sozler"
       ]
     },
     {
@@ -55,14 +48,28 @@
         "1. Soz"
       ],
       "keywords": [
-        "rahmet",
-        "insan",
-        "bismillah",
-        "ehadiyet",
-        "vahdet",
+        "tevhid",
+        "sır",
+        "nefis",
+        "şefkat",
         "hikmet",
-        "kalp",
-        "şefkat"
+        "salavat",
+        "Kur’an",
+        "acz",
+        "fakr",
+        "merhamet",
+        "fikir",
+        "bekâ",
+        "akıl",
+        "şükür"
+      ],
+      "tags": [
+        "sir",
+        "sefkat",
+        "kuran",
+        "beka",
+        "akil",
+        "sukur"
       ]
     },
     {
@@ -87,12 +94,8 @@
       "keywords": [
         "iman",
         "zikir",
-        "cehennem",
-        "cennet",
-        "kalp",
-        "küfür",
-        "merhamet",
-        "musibet"
+        "vicdan",
+        "imtihan"
       ]
     },
     {
@@ -115,14 +118,22 @@
         "3. Soz"
       ],
       "keywords": [
-        "ibadet",
-        "kalp",
+        "ubudiyet",
+        "kulluk",
         "ruh",
-        "ahiret",
+        "tevekkül",
+        "teslimiyet",
         "iman",
-        "musa",
+        "ahiret",
         "musibet",
-        "tevekkül"
+        "teslim",
+        "tevhid",
+        "vicdan",
+        "heva",
+        "takva"
+      ],
+      "tags": [
+        "tevekkul"
       ]
     },
     {
@@ -145,14 +156,15 @@
         "4. Soz"
       ],
       "keywords": [
+        "namaz",
         "akıl",
-        "ahiret",
-        "cennet",
-        "hikmet",
-        "ibadet",
-        "kalp",
-        "merhamet",
-        "musa"
+        "hizmet",
+        "nefis",
+        "takva",
+        "niyet"
+      ],
+      "tags": [
+        "akil"
       ]
     },
     {
@@ -175,14 +187,20 @@
         "5. Soz"
       ],
       "keywords": [
-        "hayat",
-        "ibadet",
         "nefis",
+        "namaz",
+        "ubudiyet",
+        "kulluk",
         "haşir",
-        "hidayet",
-        "hikmet",
-        "kalp",
-        "rahmet"
+        "yeniden diriliş",
+        "tevekkül",
+        "teslimiyet",
+        "heva",
+        "niyaz"
+      ],
+      "tags": [
+        "hasir",
+        "tevekkul"
       ]
     },
     {
@@ -205,14 +223,26 @@
         "6. Soz"
       ],
       "keywords": [
-        "akıl",
         "nefis",
-        "rahmet",
-        "cennet",
-        "cehennem",
-        "hayat",
+        "bekâ",
+        "akıl",
+        "merhamet",
         "hikmet",
-        "kalp"
+        "fanilik",
+        "Kur’an",
+        "nefs-i emmare",
+        "tevekkül",
+        "teslimiyet",
+        "teslim",
+        "vicdan",
+        "heva",
+        "heves"
+      ],
+      "tags": [
+        "beka",
+        "akil",
+        "kuran",
+        "tevekkul"
       ]
     },
     {
@@ -235,14 +265,27 @@
         "7. Soz"
       ],
       "keywords": [
-        "tılsım",
+        "acz",
+        "fakr",
         "ölüm",
-        "insan",
-        "hikmet",
         "iman",
-        "musa",
-        "rahmet",
-        "ahiret"
+        "hikmet",
+        "namaz",
+        "kabir",
+        "Kur’an",
+        "tevekkül",
+        "teslimiyet",
+        "ahiret",
+        "nefis",
+        "şefkat",
+        "sabır"
+      ],
+      "tags": [
+        "olum",
+        "kuran",
+        "tevekkul",
+        "sefkat",
+        "sabir"
       ]
     },
     {
@@ -265,14 +308,29 @@
         "8. Soz"
       ],
       "keywords": [
-        "tılsım",
         "dünya",
-        "kalp",
         "ruh",
+        "hizmet",
+        "nefis",
+        "bekâ",
+        "fena",
+        "Kur’an",
+        "iman",
         "akıl",
-        "cennet",
-        "hayat",
-        "iman"
+        "sır",
+        "fikir",
+        "sıkıntı",
+        "şefkat",
+        "niyaz"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "kuran",
+        "akil",
+        "sir",
+        "sikinti",
+        "sefkat"
       ]
     },
     {
@@ -295,14 +353,25 @@
         "9. Soz"
       ],
       "keywords": [
-        "insan",
+        "namaz",
+        "bekâ",
         "dünya",
-        "rahmet",
         "ubudiyet",
-        "rububiyet",
+        "kulluk",
         "ruh",
-        "nimet",
-        "şükür"
+        "fanilik",
+        "hizmet",
+        "şükür",
+        "huzur",
+        "acz",
+        "mahviyet",
+        "fakr",
+        "hikmet"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "sukur"
       ]
     },
     {
@@ -325,14 +394,27 @@
         "10. Soz"
       ],
       "keywords": [
-        "hayat",
-        "insan",
         "hikmet",
+        "bekâ",
         "dünya",
         "ahiret",
-        "rahmet",
         "adalet",
-        "iman"
+        "iman",
+        "merhamet",
+        "dua",
+        "Kur’an",
+        "akıl",
+        "haşir",
+        "yeniden diriliş",
+        "ubudiyet",
+        "kulluk"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "kuran",
+        "akil",
+        "hasir"
       ]
     },
     {
@@ -353,14 +435,26 @@
         "Onbirinci Soz"
       ],
       "keywords": [
-        "hayat",
-        "nimet",
-        "rahmet",
+        "nefis",
+        "hizmet",
         "ubudiyet",
-        "insan",
+        "kulluk",
+        "bekâ",
+        "tevhid",
+        "şükür",
         "hikmet",
         "iman",
-        "kalp"
+        "fakr",
+        "Kur’an",
+        "mucize",
+        "sır",
+        "acz"
+      ],
+      "tags": [
+        "beka",
+        "sukur",
+        "kuran",
+        "sir"
       ]
     },
     {
@@ -381,14 +475,27 @@
         "Onikinci Soz"
       ],
       "keywords": [
+        "Kur’an",
         "hikmet",
         "ayet",
-        "hayat",
-        "kalp",
-        "i'caz",
-        "ibadet",
-        "insan",
-        "musa"
+        "ubudiyet",
+        "kulluk",
+        "nefis",
+        "sır",
+        "heves",
+        "i’caz",
+        "münacat",
+        "dua",
+        "niyaz",
+        "rıza-yı ilahi",
+        "Allah rızası"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "icaz",
+        "munacat",
+        "riza-yi ilahi"
       ]
     },
     {
@@ -409,14 +516,27 @@
         "Onucuncu Soz"
       ],
       "keywords": [
+        "Kur’an",
         "iman",
-        "hayat",
-        "hapishane",
-        "insan",
-        "gençlik",
         "dünya",
-        "hüccet",
-        "musibet"
+        "gençlik",
+        "musibet",
+        "bekâ",
+        "ahiret",
+        "ubudiyet",
+        "kulluk",
+        "yakin",
+        "hikmet",
+        "sıkıntı",
+        "mucize",
+        "ayet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "genclik",
+        "beka",
+        "sikinti"
       ]
     },
     {
@@ -438,13 +558,27 @@
       ],
       "keywords": [
         "hikmet",
-        "iman",
         "musibet",
-        "insan",
-        "musa",
+        "iman",
         "dünya",
-        "rahmet",
-        "rububiyet"
+        "sır",
+        "bekâ",
+        "Kur’an",
+        "kader",
+        "yakin",
+        "adalet",
+        "ölüm",
+        "hizmet",
+        "şuhud",
+        "kanaat"
+      ],
+      "tags": [
+        "dunya",
+        "sir",
+        "beka",
+        "kuran",
+        "olum",
+        "suhud"
       ]
     },
     {
@@ -465,14 +599,26 @@
         "Onbesinci Soz"
       ],
       "keywords": [
-        "i'caz",
+        "Kur’an",
+        "i’caz",
         "hikmet",
         "ayet",
-        "insan",
-        "hüccet",
-        "musa",
         "ruh",
-        "zikir"
+        "iman",
+        "akıl",
+        "bela",
+        "imtihan",
+        "yakin",
+        "ihlas",
+        "bekâ",
+        "ubudiyet",
+        "kulluk"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "akil",
+        "beka"
       ]
     },
     {
@@ -493,14 +639,25 @@
         "Onaltinci Soz"
       ],
       "keywords": [
-        "rahmet",
+        "huzur",
         "hikmet",
+        "nefis",
         "ruh",
-        "musa",
-        "rububiyet",
-        "şifa",
+        "Kur’an",
+        "ayet",
         "ubudiyet",
-        "kalp"
+        "kulluk",
+        "yakin",
+        "namaz",
+        "tevhid",
+        "sır",
+        "akıl",
+        "acz"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "akil"
       ]
     },
     {
@@ -522,13 +679,27 @@
       ],
       "keywords": [
         "dünya",
-        "kalp",
+        "bekâ",
+        "fanilik",
+        "nefis",
         "ruh",
         "iman",
-        "hayat",
-        "insan",
-        "rahmet",
-        "cennet"
+        "bela",
+        "fena",
+        "Kur’an",
+        "kalp",
+        "hikmet",
+        "ölüm",
+        "akıl",
+        "münacat"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "kuran",
+        "olum",
+        "akil",
+        "munacat"
       ]
     },
     {
@@ -549,14 +720,20 @@
         "Onsekizinci Soz"
       ],
       "keywords": [
-        "insan",
+        "nefis",
         "hikmet",
-        "kalp",
-        "nimet",
-        "akıl",
-        "fikir",
-        "iman",
-        "musa"
+        "hodbinlik",
+        "benlik",
+        "gurur",
+        "bekâ",
+        "risalet",
+        "peygamberlik",
+        "şuhud",
+        "tevazu"
+      ],
+      "tags": [
+        "beka",
+        "suhud"
       ]
     },
     {
@@ -577,14 +754,26 @@
         "Ondokuzuncu Soz"
       ],
       "keywords": [
+        "Kur’an",
         "dua",
-        "bürhan",
-        "insan",
-        "i'caz",
-        "zikir",
-        "hidayet",
+        "niyaz",
+        "i’caz",
         "hikmet",
-        "rahmet"
+        "risalet",
+        "peygamberlik",
+        "ubudiyet",
+        "kulluk",
+        "tevhid",
+        "bekâ",
+        "sure",
+        "ruh",
+        "sır"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -602,19 +791,28 @@
       "official_section_content_overlap": 0.9940077043800828,
       "official_section_diff_tokens": 44,
       "aliases": [
-        "Yirminci Soz",
-        "20. Söz",
-        "20. Soz"
+        "Yirminci Soz"
       ],
       "keywords": [
+        "Kur’an",
         "ayet",
-        "insan",
-        "musa",
+        "mucize",
         "hikmet",
+        "i’caz",
+        "bela",
+        "ubudiyet",
+        "kulluk",
+        "hizmet",
         "kalp",
-        "i'caz",
-        "belagat",
-        "hayat"
+        "adalet",
+        "dünya",
+        "ruh",
+        "risalet"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "dunya"
       ]
     },
     {
@@ -635,14 +833,25 @@
         "Yirmibirinci Soz"
       ],
       "keywords": [
-        "kalp",
+        "namaz",
+        "nefis",
         "sabır",
-        "fikir",
-        "ibadet",
-        "küfür",
+        "ubudiyet",
+        "kulluk",
+        "dünya",
+        "hizmet",
+        "tefekkür",
         "musibet",
+        "iman",
         "ahiret",
-        "dünya"
+        "yakin",
+        "kalp",
+        "ruh"
+      ],
+      "tags": [
+        "sabir",
+        "dunya",
+        "tefekkur"
       ]
     },
     {
@@ -663,14 +872,27 @@
         "Yirmiikinci Soz"
       ],
       "keywords": [
-        "bürhan",
-        "vahdet",
-        "hayat",
-        "hikmet",
-        "musa",
         "tevhid",
-        "ehadiyet",
-        "insan"
+        "hikmet",
+        "bekâ",
+        "iman",
+        "Kur’an",
+        "akıl",
+        "mucize",
+        "yakin",
+        "dünya",
+        "sır",
+        "acz",
+        "ayet",
+        "risalet",
+        "peygamberlik"
+      ],
+      "tags": [
+        "beka",
+        "kuran",
+        "akil",
+        "dunya",
+        "sir"
       ]
     },
     {
@@ -691,14 +913,26 @@
         "Yirmiucuncu Soz"
       ],
       "keywords": [
-        "insan",
         "dua",
-        "hayat",
-        "iman",
         "ubudiyet",
+        "kulluk",
+        "iman",
+        "acz",
         "dünya",
-        "musa",
-        "kalp"
+        "nefis",
+        "fakr",
+        "hizmet",
+        "tevekkül",
+        "teslimiyet",
+        "sır",
+        "bekâ",
+        "hikmet"
+      ],
+      "tags": [
+        "dunya",
+        "tevekkul",
+        "sir",
+        "beka"
       ]
     },
     {
@@ -719,14 +953,27 @@
         "Yirmidorduncu Soz"
       ],
       "keywords": [
-        "insan",
+        "nefis",
         "dünya",
+        "ubudiyet",
+        "kulluk",
+        "Kur’an",
         "iman",
-        "kalp",
         "hikmet",
-        "zikir",
-        "ibadet",
-        "nefis"
+        "bekâ",
+        "hizmet",
+        "ahiret",
+        "sure",
+        "yakin",
+        "sır",
+        "akıl"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "beka",
+        "sir",
+        "akil"
       ]
     },
     {
@@ -747,14 +994,27 @@
         "Yirmibesinci Soz"
       ],
       "keywords": [
-        "i'caz",
+        "Kur’an",
+        "i’caz",
         "ayet",
         "hikmet",
-        "insan",
-        "hayat",
-        "belagat",
         "dünya",
-        "zikir"
+        "bela",
+        "sure",
+        "iman",
+        "tevhid",
+        "medeniyet",
+        "ahiret",
+        "mucize",
+        "işaret",
+        "bekâ"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "dunya",
+        "isaret",
+        "beka"
       ]
     },
     {
@@ -776,13 +1036,26 @@
       ],
       "keywords": [
         "kader",
-        "hayat",
-        "insan",
+        "nefis",
         "iman",
         "hikmet",
-        "nefis",
+        "cüz-i ihtiyari",
+        "Kur’an",
+        "acz",
+        "fakr",
+        "hizmet",
+        "sır",
         "adalet",
-        "kalp"
+        "ruh",
+        "gurur",
+        "bekâ"
+      ],
+      "tags": [
+        "cüzi ihtiyari",
+        "cuzi ihtiyari",
+        "kuran",
+        "sir",
+        "beka"
       ]
     },
     {
@@ -804,13 +1077,24 @@
       ],
       "keywords": [
         "iman",
-        "insan",
         "nübüvvet",
-        "kalp",
+        "peygamberlik",
         "hikmet",
-        "hayat",
+        "Kur’an",
         "dünya",
-        "ruh"
+        "nefis",
+        "ubudiyet",
+        "kulluk",
+        "ruh",
+        "namaz",
+        "yakin",
+        "kalp",
+        "siyaset"
+      ],
+      "tags": [
+        "nubuvvet",
+        "kuran",
+        "dunya"
       ]
     },
     {
@@ -831,14 +1115,24 @@
         "Yirmisekizinci Soz"
       ],
       "keywords": [
-        "cennet",
         "dünya",
-        "insan",
-        "cehennem",
-        "hayat",
-        "rahmet",
-        "hapishane",
-        "küfür"
+        "ruh",
+        "bekâ",
+        "acz",
+        "huzur",
+        "nefis",
+        "kalp",
+        "adalet",
+        "Kur’an",
+        "haşir",
+        "yeniden diriliş",
+        "mucize"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "kuran",
+        "hasir"
       ]
     },
     {
@@ -860,13 +1154,27 @@
       ],
       "keywords": [
         "ruh",
-        "hayat",
-        "insan",
-        "hikmet",
+        "bekâ",
         "dünya",
-        "musa",
+        "hikmet",
+        "Kur’an",
         "ölüm",
-        "haşir"
+        "haşir",
+        "yeniden diriliş",
+        "ubudiyet",
+        "kulluk",
+        "ahiret",
+        "akıl",
+        "yakin",
+        "ittifak"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "kuran",
+        "olum",
+        "hasir",
+        "akil"
       ]
     },
     {
@@ -884,19 +1192,28 @@
       "official_section_content_overlap": 0.9928357431288264,
       "official_section_diff_tokens": 56,
       "aliases": [
-        "Otuzuncu Soz",
-        "30. Söz",
-        "30. Soz"
+        "Otuzuncu Soz"
       ],
       "keywords": [
         "hikmet",
-        "insan",
-        "hayat",
+        "ene",
+        "benlik",
         "nübüvvet",
+        "peygamberlik",
         "kader",
-        "rububiyet",
+        "dünya",
+        "enaniyet",
         "ruh",
-        "dünya"
+        "Kur’an",
+        "nefis",
+        "hizmet",
+        "ubudiyet",
+        "kulluk"
+      ],
+      "tags": [
+        "nubuvvet",
+        "dunya",
+        "kuran"
       ]
     },
     {
@@ -917,14 +1234,28 @@
         "Otuzbirinci Soz"
       ],
       "keywords": [
-        "insan",
         "hikmet",
         "ruh",
-        "cennet",
-        "rububiyet",
-        "kalp",
+        "sır",
+        "risalet",
+        "peygamberlik",
         "nübüvvet",
-        "iman"
+        "bekâ",
+        "mucize",
+        "iman",
+        "tevhid",
+        "Kur’an",
+        "huzur",
+        "akıl",
+        "dünya"
+      ],
+      "tags": [
+        "sir",
+        "nubuvvet",
+        "beka",
+        "kuran",
+        "akil",
+        "dunya"
       ]
     },
     {
@@ -947,12 +1278,25 @@
       "keywords": [
         "hikmet",
         "dünya",
-        "insan",
-        "cennet",
-        "hayat",
-        "rahmet",
-        "vahdet",
-        "musa"
+        "tevhid",
+        "bekâ",
+        "Kur’an",
+        "ruh",
+        "şefkat",
+        "ahiret",
+        "nefis",
+        "iman",
+        "ubudiyet",
+        "kulluk",
+        "sır",
+        "merhamet"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "kuran",
+        "sefkat",
+        "sir"
       ]
     },
     {
@@ -974,13 +1318,25 @@
       ],
       "keywords": [
         "hikmet",
-        "vahdet",
-        "hayat",
-        "rububiyet",
-        "insan",
-        "rahmet",
-        "şifa",
-        "kalp"
+        "tevhid",
+        "bekâ",
+        "ruh",
+        "iman",
+        "hizmet",
+        "Kur’an",
+        "mucize",
+        "kalp",
+        "acz",
+        "ölüm",
+        "ayet",
+        "akıl",
+        "dua"
+      ],
+      "tags": [
+        "beka",
+        "kuran",
+        "olum",
+        "akil"
       ]
     },
     {
@@ -998,14 +1354,26 @@
       "official_section_content_overlap": 0.992814093648586,
       "official_section_diff_tokens": 100,
       "keywords": [
-        "hayat",
+        "Kur’an",
         "ruh",
-        "insan",
         "iman",
-        "kalp",
         "tevhid",
-        "rahmet",
-        "i'caz"
+        "medeniyet",
+        "nefis",
+        "vicdan",
+        "sır",
+        "heves",
+        "i’caz",
+        "dünya",
+        "kalp",
+        "hikmet",
+        "musibet"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "icaz",
+        "dunya"
       ]
     },
     {
@@ -1023,14 +1391,12 @@
       "official_section_content_overlap": null,
       "official_section_diff_tokens": null,
       "keywords": [
-        "fikir",
-        "iman",
+        "Kur’an",
         "tevhid",
-        "hayat",
-        "insan",
-        "anglikan kilisesine cevab",
-        "sozler",
-        "risale-i nur"
+        "niyet"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -1048,14 +1414,25 @@
       "official_section_content_overlap": 0.9984652768896278,
       "official_section_diff_tokens": 12,
       "keywords": [
+        "Kur’an",
         "iman",
-        "risale-i nur",
+        "hizmet",
         "dünya",
         "tefsir",
-        "konferans",
-        "insan",
-        "hayat",
-        "kalp"
+        "ruh",
+        "ihlas",
+        "millet",
+        "kalp",
+        "kanaat",
+        "ubudiyet",
+        "kulluk",
+        "sünnet",
+        "nefis"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sunnet"
       ]
     },
     {
@@ -1073,14 +1450,26 @@
       "official_section_content_overlap": 0.9800531914893617,
       "official_section_diff_tokens": 76,
       "keywords": [
-        "ayet",
         "tefsir",
-        "insan",
-        "fihrist",
+        "Kur’an",
+        "tevhid",
         "hikmet",
         "iman",
-        "i'caz",
-        "vahdet"
+        "ayet",
+        "dünya",
+        "sır",
+        "i’caz",
+        "ubudiyet",
+        "kulluk",
+        "ruh",
+        "teslim",
+        "teslimiyet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sir",
+        "icaz"
       ]
     }
   ]

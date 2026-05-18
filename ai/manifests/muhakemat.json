@@ -29,13 +29,27 @@
       ],
       "keywords": [
         "hikmet",
-        "musa",
+        "Kur’an",
+        "bela",
         "tefsir",
-        "belagat",
-        "bürhan",
         "akıl",
-        "hayat",
-        "insan"
+        "medeniyet",
+        "sır",
+        "bekâ",
+        "ayet",
+        "dünya",
+        "nefis",
+        "i’caz",
+        "teslim",
+        "teslimiyet"
+      ],
+      "tags": [
+        "kuran",
+        "akil",
+        "sir",
+        "beka",
+        "dunya",
+        "icaz"
       ]
     },
     {
@@ -53,18 +67,31 @@
       "official_section_content_overlap": 0.99788298691301,
       "official_section_diff_tokens": 15,
       "aliases": [
-        "Ikinci Makale",
-        "2. Makale"
+        "Ikinci Makale"
       ],
       "keywords": [
-        "belagat",
-        "kalp",
-        "musa",
-        "hayat",
+        "bela",
         "akıl",
-        "i'caz",
+        "hizmet",
+        "vicdan",
+        "Kur’an",
+        "ruh",
+        "hikmet",
         "hastalık",
-        "hikmet"
+        "i’caz",
+        "nübüvvet",
+        "peygamberlik",
+        "nefis",
+        "kalp",
+        "sır"
+      ],
+      "tags": [
+        "akil",
+        "kuran",
+        "hastalik",
+        "icaz",
+        "nubuvvet",
+        "sir"
       ]
     },
     {
@@ -82,18 +109,29 @@
       "official_section_content_overlap": 0.9964863615349052,
       "official_section_diff_tokens": 42,
       "aliases": [
-        "Ucuncu Makale",
-        "3. Makale"
+        "Ucuncu Makale"
       ],
       "keywords": [
-        "insan",
-        "musa",
-        "bürhan",
         "hikmet",
         "nübüvvet",
-        "kalp",
+        "peygamberlik",
+        "Kur’an",
+        "nefis",
+        "vicdan",
         "akıl",
-        "hayat"
+        "ruh",
+        "kalp",
+        "adalet",
+        "dünya",
+        "bela",
+        "tefsir",
+        "tevhid"
+      ],
+      "tags": [
+        "nubuvvet",
+        "kuran",
+        "akil",
+        "dunya"
       ]
     },
     {
@@ -114,14 +152,15 @@
         "FIHRIST"
       ],
       "keywords": [
-        "fihrist",
-        "belagat",
-        "hüccet",
-        "ruh",
+        "bela",
+        "Kur’an",
         "tefsir",
-        "akıl",
-        "cehennem",
-        "hikmet"
+        "nübüvvet",
+        "peygamberlik"
+      ],
+      "tags": [
+        "kuran",
+        "nubuvvet"
       ]
     },
     {
@@ -139,13 +178,8 @@
       "official_section_content_overlap": 0.9955357142857143,
       "official_section_diff_tokens": 2,
       "keywords": [
-        "belagat",
-        "tefsir",
-        "şükür",
-        "ayet",
-        "risale-i nur",
-        "takriz",
-        "muhakemat"
+        "bela",
+        "tefsir"
       ]
     }
   ]

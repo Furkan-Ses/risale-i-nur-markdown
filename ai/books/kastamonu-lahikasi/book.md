@@ -1,6 +1,22 @@
 ---
 book_id: "kastamonu-lahikasi"
 book_title: "Kastamonu Lahikasi"
+keywords:
+  - "iman"
+  - "Kur’an"
+  - "hizmet"
+  - "dünya"
+  - "dua"
+  - "ruh"
+  - "ihlas"
+  - "sır"
+tags:
+  - "kuran"
+  - "dunya"
+  - "sir"
+  - "beka"
+  - "sukur"
+  - "sefkat"
 source_book_path: "books/kastamonu-lahikasi/Kastamonu Lahikasi.md"
 source_section_dir: "books/kastamonu-lahikasi/by_heading"
 source_name: null

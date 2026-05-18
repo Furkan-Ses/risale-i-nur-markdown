@@ -10,14 +10,21 @@ aliases:
   - "3. Söz"
   - "3. Soz"
 keywords:
-  - "ibadet"
-  - "kalp"
+  - "ubudiyet"
+  - "kulluk"
   - "ruh"
-  - "ahiret"
-  - "iman"
-  - "musa"
-  - "musibet"
   - "tevekkül"
+  - "teslimiyet"
+  - "iman"
+  - "ahiret"
+  - "musibet"
+  - "teslim"
+  - "tevhid"
+  - "vicdan"
+  - "heva"
+  - "takva"
+tags:
+  - "tevekkul"
 source_section_path: "books/sozler/by_heading/003 - Üçüncü Söz.md"
 source_name: null
 source_url: null

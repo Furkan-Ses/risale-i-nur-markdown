@@ -31,13 +31,21 @@
       ],
       "keywords": [
         "münacat",
-        "yunus",
+        "dua",
+        "niyaz",
         "dünya",
-        "hayat",
-        "musa",
+        "nefis",
         "tevhid",
-        "ahiret",
-        "cennet"
+        "sır",
+        "Kur’an",
+        "yakin",
+        "heva"
+      ],
+      "tags": [
+        "munacat",
+        "dunya",
+        "sir",
+        "kuran"
       ]
     },
     {
@@ -61,13 +69,26 @@
       ],
       "keywords": [
         "musibet",
-        "hastalık",
-        "kalp",
-        "insan",
         "ubudiyet",
-        "hayat",
+        "kulluk",
+        "hastalık",
+        "bela",
         "sabır",
-        "eyyub"
+        "sıkıntı",
+        "münacat",
+        "dua",
+        "niyaz",
+        "ruh",
+        "tevekkül",
+        "teslimiyet",
+        "iman"
+      ],
+      "tags": [
+        "hastalik",
+        "sabir",
+        "sikinti",
+        "munacat",
+        "tevekkul"
       ]
     },
     {
@@ -90,14 +111,23 @@
         "3. Lema"
       ],
       "keywords": [
-        "insan",
-        "kalp",
-        "dua",
-        "ruh",
-        "ayet",
-        "cennet",
+        "bekâ",
+        "fanilik",
         "dünya",
-        "musa"
+        "ruh",
+        "dua",
+        "ayet",
+        "kalp",
+        "Kur’an",
+        "marifetullah",
+        "Allahı tanıma",
+        "işaret"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "kuran",
+        "isaret"
       ]
     },
     {
@@ -120,14 +150,29 @@
         "4. Lema"
       ],
       "keywords": [
+        "sünnet",
         "şefkat",
+        "cemaat",
+        "ümmet",
         "nübüvvet",
+        "peygamberlik",
+        "risalet",
+        "siyaset",
         "iman",
-        "bürhan",
-        "dua",
-        "fikir",
-        "merhamet",
-        "cennet"
+        "sır",
+        "şecaat",
+        "şahs-ı manevi",
+        "hizmet",
+        "teslim"
+      ],
+      "tags": [
+        "sunnet",
+        "sefkat",
+        "ummet",
+        "nubuvvet",
+        "sir",
+        "secaat",
+        "sahs-i manevi"
       ]
     },
     {
@@ -151,11 +196,10 @@
       ],
       "keywords": [
         "zikir",
-        "fikir",
-        "ayet",
-        "beşinci lem’a",
-        "lemalar",
-        "risale-i nur"
+        "sünnet"
+      ],
+      "tags": [
+        "sunnet"
       ]
     },
     {
@@ -178,13 +222,7 @@
         "6. Lema"
       ],
       "keywords": [
-        "zikir",
-        "fikir",
-        "musa",
-        "ruh",
-        "altıncı lem’a",
-        "lemalar",
-        "risale-i nur"
+        "zikir"
       ]
     },
     {
@@ -208,13 +246,26 @@
       ],
       "keywords": [
         "ayet",
-        "gaybi",
-        "i'caz",
-        "ibadet",
-        "musa",
-        "hikmet",
+        "Kur’an",
+        "i’caz",
+        "sure",
+        "ubudiyet",
+        "kulluk",
+        "sır",
+        "isar",
+        "cemaat",
         "nübüvvet",
-        "şifa"
+        "peygamberlik",
+        "hikmet",
+        "bekâ",
+        "teslim"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "sir",
+        "nubuvvet",
+        "beka"
       ]
     },
     {
@@ -235,15 +286,6 @@
         "Sekizinci Lema",
         "8. Lem’a",
         "8. Lema"
-      ],
-      "keywords": [
-        "gavsiye",
-        "gaybi",
-        "keramet",
-        "sikke-i tasdik-i gaybi",
-        "sekizinci lem’a",
-        "lemalar",
-        "risale-i nur"
       ]
     },
     {
@@ -264,12 +306,6 @@
         "Dokuzuncu Lema",
         "9. Lem’a",
         "9. Lema"
-      ],
-      "keywords": [
-        "dokuzuncu lem’a",
-        "hatt-ı kuran",
-        "lemalar",
-        "risale-i nur"
       ]
     },
     {
@@ -292,14 +328,26 @@
         "10. Lema"
       ],
       "keywords": [
+        "hizmet",
+        "Kur’an",
         "şefkat",
         "dünya",
         "ahiret",
-        "keramet",
+        "nefis",
         "ruh",
-        "cehennem",
+        "kanaat",
         "ihlas",
-        "iman"
+        "sıkıntı",
+        "iman",
+        "yakin",
+        "fakr",
+        "riya"
+      ],
+      "tags": [
+        "kuran",
+        "sefkat",
+        "dunya",
+        "sikinti"
       ]
     },
     {
@@ -317,19 +365,31 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 4,
       "aliases": [
-        "On Birinci Lema",
-        "11. Lem’a",
-        "11. Lema"
+        "On Birinci Lema"
       ],
       "keywords": [
-        "insan",
+        "sünnet",
         "ayet",
+        "ubudiyet",
+        "kulluk",
         "ruh",
         "hikmet",
         "iman",
-        "kalp",
-        "ibadet",
-        "şefkat"
+        "şefkat",
+        "Kur’an",
+        "sır",
+        "ümmet",
+        "muhabbetullah",
+        "Allah sevgisi",
+        "akıl"
+      ],
+      "tags": [
+        "sunnet",
+        "sefkat",
+        "kuran",
+        "sir",
+        "ummet",
+        "akil"
       ]
     },
     {
@@ -347,19 +407,32 @@
       "official_section_content_overlap": 0.9984573852680293,
       "official_section_diff_tokens": 4,
       "aliases": [
-        "On Ikinci Lema",
-        "12. Lem’a",
-        "12. Lema"
+        "On Ikinci Lema"
       ],
       "keywords": [
+        "Kur’an",
         "ayet",
         "hikmet",
         "fikir",
-        "i'caz",
-        "keramet",
-        "musa",
+        "dünya",
+        "i’caz",
         "ruh",
-        "akıl"
+        "sır",
+        "iman",
+        "şuhud",
+        "kalp",
+        "akıl",
+        "tefsir",
+        "işaret"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "icaz",
+        "sir",
+        "suhud",
+        "akil",
+        "isaret"
       ]
     },
     {
@@ -377,19 +450,31 @@
       "official_section_content_overlap": 0.9994093325457767,
       "official_section_diff_tokens": 4,
       "aliases": [
-        "On Ucuncu Lema",
-        "13. Lem’a",
-        "13. Lema"
+        "On Ucuncu Lema"
       ],
       "keywords": [
-        "insan",
         "iman",
-        "küfür",
+        "Kur’an",
         "hikmet",
+        "nefis",
+        "sır",
+        "sünnet",
+        "bekâ",
+        "dünya",
         "kalp",
-        "hayat",
-        "cehennem",
-        "hidayet"
+        "adalet",
+        "fena",
+        "fikir",
+        "ölüm",
+        "bela"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "sunnet",
+        "beka",
+        "dunya",
+        "olum"
       ]
     },
     {
@@ -407,19 +492,32 @@
       "official_section_content_overlap": 0.9987312864755138,
       "official_section_diff_tokens": 5,
       "aliases": [
-        "On Dorduncu Lema",
-        "14. Lem’a",
-        "14. Lema"
+        "On Dorduncu Lema"
       ],
       "keywords": [
-        "rahmet",
-        "insan",
-        "ehadiyet",
-        "bismillah",
-        "vahdet",
+        "sır",
+        "tevhid",
         "hikmet",
+        "Kur’an",
+        "şefkat",
+        "salavat",
+        "ümmet",
+        "nefis",
         "kalp",
-        "musa"
+        "akıl",
+        "merhamet",
+        "bekâ",
+        "nübüvvet",
+        "peygamberlik"
+      ],
+      "tags": [
+        "sir",
+        "kuran",
+        "sefkat",
+        "ummet",
+        "akil",
+        "beka",
+        "nubuvvet"
       ]
     },
     {
@@ -437,15 +535,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "On Besinci Lema",
-        "15. Lem’a",
-        "15. Lema"
-      ],
-      "keywords": [
-        "fihrist",
-        "risale-i nur",
-        "on beşinci lem’a",
-        "lemalar"
+        "On Besinci Lema"
       ]
     },
     {
@@ -463,19 +553,29 @@
       "official_section_content_overlap": 0.9952696310312205,
       "official_section_diff_tokens": 15,
       "aliases": [
-        "On Altinci Lema",
-        "16. Lem’a",
-        "16. Lema"
+        "On Altinci Lema"
       ],
       "keywords": [
-        "rahmet",
+        "Kur’an",
         "dua",
-        "kalp",
-        "hayat",
+        "bela",
+        "sır",
         "iman",
-        "insan",
-        "musa",
-        "gaybi"
+        "şükür",
+        "dünya",
+        "yakin",
+        "kalp",
+        "salavat",
+        "siyaset",
+        "ayet",
+        "ubudiyet",
+        "kulluk"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "sukur",
+        "dunya"
       ]
     },
     {
@@ -493,19 +593,29 @@
       "official_section_content_overlap": 0.9990361961876205,
       "official_section_diff_tokens": 10,
       "aliases": [
-        "On Yedinci Lema",
-        "17. Lem’a",
-        "17. Lema"
+        "On Yedinci Lema"
       ],
       "keywords": [
-        "insan",
         "dünya",
-        "kalp",
-        "hayat",
-        "nimet",
+        "nefis",
         "ruh",
-        "rahmet",
-        "ubudiyet"
+        "hizmet",
+        "Kur’an",
+        "ubudiyet",
+        "kulluk",
+        "bekâ",
+        "sır",
+        "kalp",
+        "ihlas",
+        "medeniyet",
+        "musibet",
+        "dua"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -523,16 +633,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "On Sekizinci Lema",
-        "18. Lem’a",
-        "18. Lema"
-      ],
-      "keywords": [
-        "gaybi",
-        "sikke-i tasdik-i gaybi",
-        "on sekizinci lem’a",
-        "lemalar",
-        "risale-i nur"
+        "On Sekizinci Lema"
       ]
     },
     {
@@ -550,19 +651,30 @@
       "official_section_content_overlap": 0.9893617021276596,
       "official_section_diff_tokens": 34,
       "aliases": [
-        "On Dokuzuncu Lema",
-        "19. Lem’a",
-        "19. Lema"
+        "On Dokuzuncu Lema"
       ],
       "keywords": [
-        "iktisat",
-        "bereket",
-        "nimet",
+        "kanaat",
         "şükür",
-        "hikmet",
+        "sır",
+        "nefis",
         "ruh",
-        "hayat",
-        "ihlas"
+        "hikmet",
+        "ihlas",
+        "fakr",
+        "riya",
+        "ayet",
+        "vicdan",
+        "akıl",
+        "şefkat",
+        "istiğna"
+      ],
+      "tags": [
+        "sukur",
+        "sir",
+        "akil",
+        "sefkat",
+        "istigna"
       ]
     },
     {
@@ -580,19 +692,27 @@
       "official_section_content_overlap": 0.9866108786610879,
       "official_section_diff_tokens": 48,
       "aliases": [
-        "Yirminci Lema",
-        "20. Lem’a",
-        "20. Lema"
+        "Yirminci Lema"
       ],
       "keywords": [
+        "ittifak",
         "ihlas",
         "dünya",
-        "hidayet",
-        "cennet",
-        "hayat",
+        "ihtilaf",
+        "nefis",
+        "enaniyet",
+        "benlik",
         "ahiret",
-        "kalp",
-        "ruh"
+        "ruh",
+        "hizmet",
+        "acz",
+        "riya",
+        "bekâ",
+        "cemaat"
+      ],
+      "tags": [
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -610,19 +730,29 @@
       "official_section_content_overlap": 0.9914908100748808,
       "official_section_diff_tokens": 25,
       "aliases": [
-        "Yirmi Birinci Lema",
-        "21. Lem’a",
-        "21. Lema"
+        "Yirmi Birinci Lema"
       ],
       "keywords": [
         "ihlas",
+        "hizmet",
+        "nefis",
+        "sır",
+        "Kur’an",
         "ruh",
         "ölüm",
-        "iman",
         "uhuvvet",
-        "ibadet",
-        "kalp",
-        "risale-i nur"
+        "kardeşlik",
+        "iman",
+        "riya",
+        "dünya",
+        "ubudiyet",
+        "kulluk"
+      ],
+      "tags": [
+        "sir",
+        "kuran",
+        "olum",
+        "dunya"
       ]
     },
     {
@@ -640,19 +770,29 @@
       "official_section_content_overlap": 0.9979846835953244,
       "official_section_diff_tokens": 5,
       "aliases": [
-        "Yirmi Ikinci Lema",
-        "22. Lem’a",
-        "22. Lema"
+        "Yirmi Ikinci Lema"
       ],
       "keywords": [
-        "musa",
+        "millet",
         "dünya",
+        "enaniyet",
+        "benlik",
         "iman",
-        "hayat",
-        "müdafaa",
         "kader",
-        "kalp",
+        "nefis",
+        "riya",
+        "hürriyet",
+        "Kur’an",
+        "sır",
+        "ihlas",
+        "tevazu",
         "adalet"
+      ],
+      "tags": [
+        "dunya",
+        "hurriyet",
+        "kuran",
+        "sir"
       ]
     },
     {
@@ -670,19 +810,30 @@
       "official_section_content_overlap": 0.9984878270074097,
       "official_section_diff_tokens": 10,
       "aliases": [
-        "Yirmi Ucuncu Lema",
-        "23. Lem’a",
-        "23. Lema"
+        "Yirmi Ucuncu Lema"
       ],
       "keywords": [
-        "ibadet",
+        "ubudiyet",
+        "kulluk",
         "hikmet",
-        "insan",
-        "vahdet",
-        "akıl",
         "kader",
-        "bürhan",
-        "iman"
+        "akıl",
+        "iman",
+        "Kur’an",
+        "tevhid",
+        "nefis",
+        "sır",
+        "ayet",
+        "şükür",
+        "fikir",
+        "bekâ"
+      ],
+      "tags": [
+        "akil",
+        "kuran",
+        "sir",
+        "sukur",
+        "beka"
       ]
     },
     {
@@ -700,19 +851,29 @@
       "official_section_content_overlap": 0.998378728923476,
       "official_section_diff_tokens": 6,
       "aliases": [
-        "Yirmi Dorduncu Lema",
-        "24. Lem’a",
-        "24. Lema"
+        "Yirmi Dorduncu Lema"
       ],
       "keywords": [
-        "hayat",
         "şefkat",
         "dünya",
-        "risale-i nur",
+        "sadakat",
         "iman",
-        "insan",
+        "nefis",
+        "ruh",
+        "ihlas",
         "hikmet",
-        "ihlas"
+        "ahiret",
+        "heves",
+        "kanaat",
+        "bekâ",
+        "gençlik",
+        "merhamet"
+      ],
+      "tags": [
+        "sefkat",
+        "dunya",
+        "beka",
+        "genclik"
       ]
     },
     {
@@ -730,19 +891,32 @@
       "official_section_content_overlap": 0.9941385435168739,
       "official_section_diff_tokens": 36,
       "aliases": [
-        "Yirmi Besinci Lema",
-        "25. Lem’a",
-        "25. Lema"
+        "Yirmi Besinci Lema"
       ],
       "keywords": [
         "hastalık",
         "dua",
         "dünya",
         "iman",
-        "insan",
-        "hayat",
         "musibet",
-        "kalp"
+        "ubudiyet",
+        "kulluk",
+        "ölüm",
+        "sabır",
+        "şefkat",
+        "ahiret",
+        "sır",
+        "şükür",
+        "hizmet"
+      ],
+      "tags": [
+        "hastalik",
+        "dunya",
+        "olum",
+        "sabir",
+        "sefkat",
+        "sir",
+        "sukur"
       ]
     },
     {
@@ -760,19 +934,32 @@
       "official_section_content_overlap": 0.9965187119234117,
       "official_section_diff_tokens": 58,
       "aliases": [
-        "Yirmi Altinci Lema",
-        "26. Lem’a",
-        "26. Lema"
+        "Yirmi Altinci Lema"
       ],
       "keywords": [
         "dünya",
         "iman",
-        "hayat",
+        "bekâ",
         "ihtiyarlık",
-        "kalp",
-        "rahmet",
+        "Kur’an",
         "ruh",
-        "insan"
+        "teselli",
+        "sır",
+        "ahiret",
+        "nefis",
+        "hizmet",
+        "gençlik",
+        "ayet",
+        "ölüm"
+      ],
+      "tags": [
+        "dunya",
+        "beka",
+        "ihtiyarlik",
+        "kuran",
+        "sir",
+        "genclik",
+        "olum"
       ]
     },
     {
@@ -790,16 +977,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Yirmi Yedinci Lema",
-        "27. Lem’a",
-        "27. Lema"
-      ],
-      "keywords": [
-        "müdafaa",
-        "hayat",
-        "yirmi yedinci lem’a",
-        "lemalar",
-        "risale-i nur"
+        "Yirmi Yedinci Lema"
       ]
     },
     {
@@ -817,19 +995,29 @@
       "official_section_content_overlap": 0.994338768115942,
       "official_section_diff_tokens": 29,
       "aliases": [
-        "Yirmi Sekizinci Lema",
-        "28. Lem’a",
-        "28. Lema"
+        "Yirmi Sekizinci Lema"
       ],
       "keywords": [
-        "risale-i nur",
-        "ayet",
-        "hapishane",
-        "vahdet",
+        "Kur’an",
+        "nefis",
         "ubudiyet",
-        "insan",
-        "kalp",
-        "cennet"
+        "kulluk",
+        "dünya",
+        "ayet",
+        "bekâ",
+        "sünnet",
+        "yakin",
+        "adalet",
+        "risalet",
+        "peygamberlik",
+        "iman",
+        "namaz"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "beka",
+        "sunnet"
       ]
     },
     {
@@ -847,19 +1035,18 @@
       "official_section_content_overlap": 0.9919456330229046,
       "official_section_diff_tokens": 32,
       "aliases": [
-        "Yirmi Dokuzuncu Lema",
-        "29. Lem’a",
-        "29. Lema"
+        "Yirmi Dokuzuncu Lema"
       ],
       "keywords": [
-        "fikir",
-        "zikir",
-        "kalp",
-        "ruh",
-        "akıl",
-        "cennet",
-        "hapishane",
-        "ibadet"
+        "tefekkür",
+        "Kur’an",
+        "niyet",
+        "işaret"
+      ],
+      "tags": [
+        "tefekkur",
+        "kuran",
+        "isaret"
       ]
     },
     {
@@ -877,19 +1064,30 @@
       "official_section_content_overlap": 0.9983963222323194,
       "official_section_diff_tokens": 30,
       "aliases": [
-        "Otuzuncu Lema",
-        "30. Lem’a",
-        "30. Lema"
+        "Otuzuncu Lema"
       ],
       "keywords": [
-        "hayat",
-        "insan",
         "hikmet",
-        "vahdet",
-        "rahmet",
-        "rububiyet",
-        "ehadiyet",
-        "iman"
+        "tevhid",
+        "bekâ",
+        "sır",
+        "iman",
+        "akıl",
+        "dünya",
+        "risalet",
+        "peygamberlik",
+        "ruh",
+        "ubudiyet",
+        "kulluk",
+        "Kur’an",
+        "adalet"
+      ],
+      "tags": [
+        "beka",
+        "sir",
+        "akil",
+        "dunya",
+        "kuran"
       ]
     },
     {
@@ -907,17 +1105,7 @@
       "official_section_content_overlap": 0.9259259259259259,
       "official_section_diff_tokens": 4,
       "aliases": [
-        "Otuz Birinci Lema",
-        "31. Lem’a",
-        "31. Lema"
-      ],
-      "keywords": [
-        "hüccet",
-        "müdafaa",
-        "telif edilmemiş",
-        "otuz birinci lem’a",
-        "lemalar",
-        "risale-i nur"
+        "Otuz Birinci Lema"
       ]
     },
     {
@@ -935,15 +1123,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Otuz Ikinci Lema",
-        "32. Lem’a",
-        "32. Lema"
-      ],
-      "keywords": [
-        "otuz i̇kinci lem’a",
-        "lemaat",
-        "lemalar",
-        "risale-i nur"
+        "Otuz Ikinci Lema"
       ]
     },
     {
@@ -961,15 +1141,13 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Otuz Ucuncu Lema",
-        "33. Lem’a",
-        "33. Lema"
+        "Otuz Ucuncu Lema"
       ],
       "keywords": [
-        "kalp",
-        "risale-i nur",
-        "otuz üçüncü lem’a",
-        "lemalar"
+        "şuhud"
+      ],
+      "tags": [
+        "suhud"
       ]
     },
     {
@@ -990,14 +1168,26 @@
         "Munacat (Lemalar)"
       ],
       "keywords": [
-        "hikmet",
-        "vahdet",
-        "musa",
-        "rahmet",
-        "rububiyet",
-        "insan",
         "münacat",
-        "iman"
+        "dua",
+        "niyaz",
+        "hikmet",
+        "bekâ",
+        "Kur’an",
+        "tevhid",
+        "dünya",
+        "iman",
+        "yakin",
+        "kalp",
+        "fanilik",
+        "ruh",
+        "ahiret"
+      ],
+      "tags": [
+        "munacat",
+        "beka",
+        "kuran",
+        "dunya"
       ]
     },
     {
@@ -1019,13 +1209,26 @@
       ],
       "keywords": [
         "iman",
-        "insan",
-        "ayet",
-        "hayat",
+        "Kur’an",
+        "sır",
         "hastalık",
         "hikmet",
         "dünya",
-        "risale-i nur"
+        "bekâ",
+        "ayet",
+        "ubudiyet",
+        "kulluk",
+        "tevhid",
+        "hizmet",
+        "nefis",
+        "ihlas"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "hastalik",
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -1047,13 +1250,12 @@
       ],
       "keywords": [
         "dua",
-        "cennet",
+        "Kur’an",
         "ihlas",
-        "iman",
-        "risale-i nur",
-        "alar",
-        "dua (lem’alar)",
-        "lemalar"
+        "sebat"
+      ],
+      "tags": [
+        "kuran"
       ]
     }
   ]

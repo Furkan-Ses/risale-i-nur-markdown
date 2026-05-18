@@ -1,6 +1,22 @@
 ---
 book_id: "mesnevi-i-nuriye"
 book_title: "Mesnevi-i Nuriye"
+keywords:
+  - "Kur’an"
+  - "hikmet"
+  - "bekâ"
+  - "nefis"
+  - "tevhid"
+  - "iman"
+  - "dünya"
+  - "kalp"
+tags:
+  - "kuran"
+  - "beka"
+  - "dunya"
+  - "icaz"
+  - "akil"
+  - "hasir"
 source_book_path: "books/mesnevi-i-nuriye/Mesnevi-i Nuriye.md"
 source_section_dir: "books/mesnevi-i-nuriye/by_heading"
 source_name: null

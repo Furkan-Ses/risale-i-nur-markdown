@@ -7,13 +7,6 @@ section_slug: "on-dorduncu-mektup"
 section_title: "On Dördüncü Mektup"
 aliases:
   - "On Dorduncu Mektup"
-  - "14. Mektup"
-keywords:
-  - "telif edilmemiş"
-  - "on dördüncü mektup"
-  - "mektubat"
-  - "mektup"
-  - "risale-i nur"
 source_section_path: "books/mektubat/by_heading/14 On Dördüncü Mektup.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

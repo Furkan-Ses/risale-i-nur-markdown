@@ -9,11 +9,6 @@ aliases:
   - "Dokuzuncu Lema"
   - "9. Lem’a"
   - "9. Lema"
-keywords:
-  - "dokuzuncu lem’a"
-  - "hatt-ı kuran"
-  - "lemalar"
-  - "risale-i nur"
 source_section_path: "books/lemalar/by_heading/09 Dokuzuncu Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

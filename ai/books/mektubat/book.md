@@ -1,6 +1,22 @@
 ---
 book_id: "mektubat"
 book_title: "Mektubat"
+keywords:
+  - "iman"
+  - "Kur’an"
+  - "dünya"
+  - "hikmet"
+  - "nefis"
+  - "bekâ"
+  - "sır"
+  - "i’caz"
+tags:
+  - "kuran"
+  - "dunya"
+  - "beka"
+  - "sir"
+  - "icaz"
+  - "sefkat"
 source_book_path: "books/mektubat/Mektubat.md"
 source_section_dir: "books/mektubat/by_heading"
 source_name: null

@@ -30,12 +30,25 @@
       "keywords": [
         "iman",
         "ruh",
-        "insan",
+        "Kur’an",
+        "istiğna",
+        "bekâ",
+        "dünya",
+        "tefekkür",
+        "huzur",
         "kalp",
-        "hayat",
-        "fikir",
-        "iktisat",
-        "risale-i nur"
+        "ihlas",
+        "hikmet",
+        "fanilik",
+        "yakin",
+        "nefis"
+      ],
+      "tags": [
+        "kuran",
+        "istigna",
+        "beka",
+        "dunya",
+        "tefekkur"
       ]
     },
     {
@@ -56,14 +69,26 @@
         "Ilk Hayati"
       ],
       "keywords": [
-        "hayat",
+        "Kur’an",
         "iman",
+        "hürriyet",
+        "millet",
+        "medeniyet",
         "ruh",
-        "kalp",
         "dünya",
-        "insan",
-        "musa",
-        "tefsir"
+        "hizmet",
+        "siyaset",
+        "bekâ",
+        "nefis",
+        "tefsir",
+        "namaz",
+        "istibdat"
+      ],
+      "tags": [
+        "kuran",
+        "hurriyet",
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -84,14 +109,27 @@
         "Barla Hayati"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "hayat",
+        "hizmet",
         "dünya",
-        "i'caz",
-        "insan",
-        "kalp",
-        "keramet"
+        "millet",
+        "i’caz",
+        "sır",
+        "hikmet",
+        "siyaset",
+        "ruh",
+        "bekâ",
+        "bela",
+        "nefis",
+        "kader"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "icaz",
+        "sir",
+        "beka"
       ]
     },
     {
@@ -109,19 +147,30 @@
       "official_section_content_overlap": null,
       "official_section_diff_tokens": null,
       "aliases": [
-        "Ucuncu Kisim",
-        "3. Kısım",
-        "3. Kisim"
+        "Ucuncu Kisim"
       ],
       "keywords": [
         "dünya",
         "iman",
-        "müdafaa",
-        "risale-i nur",
-        "hayat",
-        "musa",
-        "hapishane",
-        "adalet"
+        "siyaset",
+        "Kur’an",
+        "hizmet",
+        "millet",
+        "adalet",
+        "ahiret",
+        "medeniyet",
+        "asayiş",
+        "nefis",
+        "vicdan",
+        "hürriyet",
+        "bekâ"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "asayis",
+        "hurriyet",
+        "beka"
       ]
     },
     {
@@ -142,14 +191,27 @@
         "Kastamonu Hayati"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "hayat",
         "hikmet",
         "dünya",
-        "insan",
-        "musa",
-        "kalp"
+        "hizmet",
+        "dua",
+        "tevhid",
+        "ruh",
+        "kalp",
+        "şefkat",
+        "bekâ",
+        "yakin",
+        "akıl",
+        "ittifak"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sefkat",
+        "beka",
+        "akil"
       ]
     },
     {
@@ -170,14 +232,27 @@
         "Denizli Hayati"
       ],
       "keywords": [
-        "risale-i nur",
         "iman",
-        "hayat",
-        "ahiret",
+        "Kur’an",
         "dünya",
-        "insan",
-        "hüccet",
-        "müdafaa"
+        "ahiret",
+        "hikmet",
+        "millet",
+        "adalet",
+        "sıkıntı",
+        "bekâ",
+        "dua",
+        "hizmet",
+        "ruh",
+        "siyaset",
+        "hürriyet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sikinti",
+        "beka",
+        "hurriyet"
       ]
     },
     {
@@ -198,14 +273,27 @@
         "Emirdag Hayati"
       ],
       "keywords": [
-        "risale-i nur",
+        "hizmet",
         "iman",
-        "hayat",
+        "millet",
+        "Kur’an",
         "dünya",
-        "rahmet",
-        "insan",
-        "kalp",
-        "ruh"
+        "siyaset",
+        "ruh",
+        "ihlas",
+        "bekâ",
+        "dua",
+        "sıkıntı",
+        "nefis",
+        "hürriyet",
+        "ahiret"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "beka",
+        "sikinti",
+        "hurriyet"
       ]
     },
     {
@@ -227,13 +315,26 @@
       ],
       "keywords": [
         "iman",
-        "risale-i nur",
-        "hapishane",
-        "hayat",
+        "Kur’an",
+        "hizmet",
+        "millet",
         "dünya",
-        "hüccet",
-        "medrese-i yusufiye",
-        "musa"
+        "sıkıntı",
+        "siyaset",
+        "bekâ",
+        "adalet",
+        "teselli",
+        "asayiş",
+        "tefsir",
+        "ruh",
+        "nefis"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sikinti",
+        "beka",
+        "asayis"
       ]
     },
     {
@@ -254,14 +355,27 @@
         "Isparta Hayati"
       ],
       "keywords": [
-        "risale-i nur",
         "iman",
-        "hayat",
-        "insan",
-        "kalp",
-        "hapishane",
+        "Kur’an",
+        "hizmet",
+        "millet",
         "ruh",
-        "dünya"
+        "dünya",
+        "dua",
+        "kalp",
+        "hürriyet",
+        "asayiş",
+        "siyaset",
+        "vicdan",
+        "gençlik",
+        "nefis"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "hurriyet",
+        "asayis",
+        "genclik"
       ]
     },
     {
@@ -282,14 +396,28 @@
         "Risale-i Nur ve Haric Memleketler"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
+        "hizmet",
         "dünya",
         "iman",
         "sabır",
         "dua",
         "ruh",
-        "insan",
-        "ihlas"
+        "siyaset",
+        "ihlas",
+        "gençlik",
+        "millet",
+        "niyaz",
+        "bekâ",
+        "ümit"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sabir",
+        "genclik",
+        "beka",
+        "umit"
       ]
     },
     {
@@ -310,14 +438,26 @@
         "Bediuzzaman ve Risale-i Nur"
       ],
       "keywords": [
-        "risale-i nur",
         "iman",
-        "kalp",
+        "Kur’an",
+        "hizmet",
         "tefsir",
         "ihlas",
-        "ruh",
         "dünya",
-        "akıl"
+        "ruh",
+        "millet",
+        "akıl",
+        "kalp",
+        "sır",
+        "siyaset",
+        "ahiret",
+        "kader"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "akil",
+        "sir"
       ]
     },
     {
@@ -339,13 +479,12 @@
       ],
       "keywords": [
         "dua",
-        "hayat",
-        "cennet",
+        "Kur’an",
         "ihlas",
-        "iman",
-        "risale-i nur",
-        "tarihçe hayatı",
-        "dua (tarihçe-i hayatı)"
+        "sebat"
+      ],
+      "tags": [
+        "kuran"
       ]
     }
   ]

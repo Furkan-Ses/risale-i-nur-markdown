@@ -31,13 +31,26 @@
       ],
       "keywords": [
         "ayet",
-        "risale-i nur",
+        "Kur’an",
+        "risalet",
+        "peygamberlik",
+        "sure",
         "iman",
-        "bürhan",
-        "hayat",
-        "i'caz",
+        "bekâ",
+        "i’caz",
+        "işaret",
         "ölüm",
-        "tefsir"
+        "tefsir",
+        "kanaat",
+        "hikmet",
+        "teselli"
+      ],
+      "tags": [
+        "kuran",
+        "beka",
+        "icaz",
+        "isaret",
+        "olum"
       ]
     },
     {
@@ -61,13 +74,27 @@
       ],
       "keywords": [
         "tevhid",
-        "vahdet",
-        "insan",
-        "hüccet",
-        "kalp",
+        "sır",
         "iman",
         "hikmet",
-        "rububiyet"
+        "bekâ",
+        "ruh",
+        "ölüm",
+        "dünya",
+        "Kur’an",
+        "musibet",
+        "hizmet",
+        "acz",
+        "şefkat",
+        "kader"
+      ],
+      "tags": [
+        "sir",
+        "beka",
+        "olum",
+        "dunya",
+        "kuran",
+        "sefkat"
       ]
     },
     {
@@ -91,13 +118,26 @@
       ],
       "keywords": [
         "hikmet",
-        "vahdet",
-        "musa",
-        "rahmet",
-        "rububiyet",
-        "insan",
+        "bekâ",
+        "Kur’an",
+        "tevhid",
         "iman",
-        "hüccet"
+        "dünya",
+        "yakin",
+        "kalp",
+        "fanilik",
+        "ruh",
+        "ahiret",
+        "akıl",
+        "acz",
+        "şefkat"
+      ],
+      "tags": [
+        "beka",
+        "kuran",
+        "dunya",
+        "akil",
+        "sefkat"
       ]
     },
     {
@@ -121,13 +161,25 @@
       ],
       "keywords": [
         "iman",
-        "hayat",
-        "insan",
+        "bekâ",
         "ayet",
-        "şifa",
-        "hikmet",
         "ruh",
-        "şefkat"
+        "şefkat",
+        "hikmet",
+        "yakin",
+        "dünya",
+        "Kur’an",
+        "nefis",
+        "ubudiyet",
+        "kulluk",
+        "merhamet",
+        "fena"
+      ],
+      "tags": [
+        "beka",
+        "sefkat",
+        "dunya",
+        "kuran"
       ]
     },
     {
@@ -150,14 +202,28 @@
         "5. Sua"
       ],
       "keywords": [
-        "iman",
         "dünya",
-        "insan",
+        "Kur’an",
+        "iman",
         "hikmet",
-        "gaybi",
-        "musa",
+        "cemaat",
+        "nefis",
+        "millet",
+        "ümmet",
+        "ruh",
+        "sır",
         "akıl",
-        "cehennem"
+        "musibet",
+        "hürriyet",
+        "istibdat"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "ummet",
+        "sir",
+        "akil",
+        "hurriyet"
       ]
     },
     {
@@ -175,19 +241,29 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Altinci Sua",
-        "6. Şuâ",
-        "6. Sua"
+        "Altinci Sua"
       ],
       "keywords": [
         "dua",
+        "ümmet",
         "hikmet",
-        "takdim",
-        "hayat",
-        "gaybi",
+        "namaz",
+        "salavat",
+        "ubudiyet",
+        "kulluk",
         "ruh",
-        "bereket",
-        "fatiha"
+        "sır",
+        "yakin",
+        "bekâ",
+        "haşir",
+        "yeniden diriliş",
+        "riya"
+      ],
+      "tags": [
+        "ummet",
+        "sir",
+        "beka",
+        "hasir"
       ]
     },
     {
@@ -205,19 +281,28 @@
       "official_section_content_overlap": 0.9988174491941135,
       "official_section_diff_tokens": 37,
       "aliases": [
-        "Yedinci Sua",
-        "7. Şuâ",
-        "7. Sua"
+        "Yedinci Sua"
       ],
       "keywords": [
         "iman",
         "hikmet",
-        "hayat",
-        "insan",
-        "vahdet",
+        "Kur’an",
+        "tevhid",
+        "dünya",
         "ayet",
-        "musa",
-        "dünya"
+        "ittifak",
+        "akıl",
+        "yakin",
+        "mucize",
+        "kalp",
+        "hizmet",
+        "risalet",
+        "peygamberlik"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "akil"
       ]
     },
     {
@@ -235,19 +320,30 @@
       "official_section_content_overlap": 0.9967507349528083,
       "official_section_diff_tokens": 23,
       "aliases": [
-        "Sekizinci Sua",
-        "8. Şuâ",
-        "8. Sua"
+        "Sekizinci Sua"
       ],
       "keywords": [
-        "risale-i nur",
-        "ayet",
+        "Kur’an",
+        "sure",
         "iman",
-        "keramet",
-        "zikir",
-        "hüccet",
+        "isar",
+        "işaret",
         "münacat",
-        "bürhan"
+        "dua",
+        "niyaz",
+        "sır",
+        "hikmet",
+        "ayet",
+        "yakin",
+        "bekâ",
+        "mucize"
+      ],
+      "tags": [
+        "kuran",
+        "isaret",
+        "munacat",
+        "sir",
+        "beka"
       ]
     },
     {
@@ -265,19 +361,30 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Dokuzuncu Sua",
-        "9. Şuâ",
-        "9. Sua"
+        "Dokuzuncu Sua"
       ],
       "keywords": [
-        "hayat",
-        "insan",
         "iman",
-        "hüccet",
+        "bekâ",
         "ahiret",
         "hikmet",
-        "cennet",
-        "adalet"
+        "Kur’an",
+        "adalet",
+        "dünya",
+        "haşir",
+        "yeniden diriliş",
+        "ruh",
+        "şefkat",
+        "merhamet",
+        "mucize",
+        "yakin"
+      ],
+      "tags": [
+        "beka",
+        "kuran",
+        "dunya",
+        "hasir",
+        "sefkat"
       ]
     },
     {
@@ -295,19 +402,30 @@
       "official_section_content_overlap": 0.9975522734815798,
       "official_section_diff_tokens": 80,
       "aliases": [
-        "On Birinci Sua",
-        "11. Şuâ",
-        "11. Sua"
+        "On Birinci Sua"
       ],
       "keywords": [
         "iman",
-        "insan",
-        "risale-i nur",
+        "Kur’an",
         "ahiret",
-        "hayat",
-        "hüccet",
-        "hapishane",
-        "dünya"
+        "bekâ",
+        "dünya",
+        "hikmet",
+        "i’caz",
+        "ubudiyet",
+        "kulluk",
+        "ruh",
+        "dua",
+        "ölüm",
+        "ayet",
+        "sure"
+      ],
+      "tags": [
+        "kuran",
+        "beka",
+        "dunya",
+        "icaz",
+        "olum"
       ]
     },
     {
@@ -325,19 +443,29 @@
       "official_section_content_overlap": 0.9982272646693848,
       "official_section_diff_tokens": 10,
       "aliases": [
-        "On Ikinci Sua",
-        "12. Şuâ",
-        "12. Sua"
+        "On Ikinci Sua"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "müdafaa",
         "dünya",
-        "hüccet",
-        "hayat",
-        "insan",
-        "adalet"
+        "millet",
+        "hürriyet",
+        "siyaset",
+        "vicdan",
+        "adalet",
+        "ahiret",
+        "hizmet",
+        "ölüm",
+        "uhuvvet",
+        "kardeşlik",
+        "ruh"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "hurriyet",
+        "olum"
       ]
     },
     {
@@ -355,19 +483,29 @@
       "official_section_content_overlap": 0.9993679775280899,
       "official_section_diff_tokens": 9,
       "aliases": [
-        "On Ucuncu Sua",
-        "13. Şuâ",
-        "13. Sua"
+        "On Ucuncu Sua"
       ],
       "keywords": [
-        "risale-i nur",
         "iman",
+        "sıkıntı",
         "musibet",
+        "hizmet",
         "dünya",
-        "kalp",
-        "müdafaa",
         "kader",
-        "hüccet"
+        "Kur’an",
+        "teselli",
+        "nefis",
+        "ruh",
+        "kanaat",
+        "tesanüd",
+        "dua",
+        "enaniyet"
+      ],
+      "tags": [
+        "sikinti",
+        "dunya",
+        "kuran",
+        "tesanud"
       ]
     },
     {
@@ -385,19 +523,29 @@
       "official_section_content_overlap": 0.9990224828934506,
       "official_section_diff_tokens": 30,
       "aliases": [
-        "On Dorduncu Sua",
-        "14. Şuâ",
-        "14. Sua"
+        "On Dorduncu Sua"
       ],
       "keywords": [
         "iman",
-        "risale-i nur",
-        "hayat",
-        "hapishane",
+        "Kur’an",
+        "hizmet",
+        "millet",
         "dünya",
-        "musa",
-        "müdafaa",
-        "insan"
+        "sıkıntı",
+        "bekâ",
+        "ruh",
+        "kanaat",
+        "siyaset",
+        "fanilik",
+        "tefsir",
+        "musibet",
+        "teselli"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sikinti",
+        "beka"
       ]
     },
     {
@@ -415,19 +563,28 @@
       "official_section_content_overlap": 0.9981786643538595,
       "official_section_diff_tokens": 56,
       "aliases": [
-        "On Besinci Sua",
-        "15. Şuâ",
-        "15. Sua"
+        "On Besinci Sua"
       ],
       "keywords": [
-        "hüccet",
         "iman",
-        "insan",
         "hikmet",
-        "risale-i nur",
-        "hayat",
-        "ayet",
-        "dünya"
+        "Kur’an",
+        "risalet",
+        "peygamberlik",
+        "dünya",
+        "ubudiyet",
+        "kulluk",
+        "bekâ",
+        "mucize",
+        "dua",
+        "ruh",
+        "yakin",
+        "tevhid"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -445,19 +602,30 @@
       "official_section_content_overlap": 0.9965786901270772,
       "official_section_diff_tokens": 7,
       "aliases": [
-        "Yirmi Dokuzuncu Lema'dan Ikinci Bab",
-        "29. Lem’a’dan İkinci Bab",
-        "29. Lema'dan Ikinci Bab"
+        "Yirmi Dokuzuncu Lemadan Ikinci Bab"
       ],
       "keywords": [
-        "nimet",
         "iman",
-        "insan",
+        "bekâ",
         "ruh",
-        "hayat",
-        "kalp",
+        "dünya",
+        "vicdan",
+        "kabir",
         "ahiret",
-        "rahmaniyet"
+        "şükür",
+        "Kur’an",
+        "uhuvvet",
+        "kardeşlik",
+        "nefis",
+        "acz",
+        "şefkat"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "sukur",
+        "kuran",
+        "sefkat"
       ]
     },
     {
@@ -478,10 +646,8 @@
         "Eddai"
       ],
       "keywords": [
-        "iman",
-        "eddâî",
-        "sualar",
-        "risale-i nur"
+        "teslim",
+        "teslimiyet"
       ]
     },
     {
@@ -503,13 +669,12 @@
       ],
       "keywords": [
         "dua",
-        "cennet",
+        "Kur’an",
         "ihlas",
-        "iman",
-        "risale-i nur",
-        "şuâlar",
-        "dua (şuâlar)",
-        "sualar"
+        "sebat"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -530,14 +695,16 @@
         "ICINDEKILER"
       ],
       "keywords": [
-        "fihrist",
-        "lahika",
-        "risale-i nur",
-        "müdafaa",
-        "hapishane",
-        "hüccet",
-        "musa",
-        "ayet"
+        "Kur’an",
+        "ayet",
+        "yakin",
+        "münacat",
+        "dua",
+        "niyaz"
+      ],
+      "tags": [
+        "kuran",
+        "munacat"
       ]
     }
   ]

@@ -26,13 +26,21 @@
       "official_section_diff_tokens": 5,
       "keywords": [
         "tefsir",
-        "i'caz",
-        "belagat",
+        "Kur’an",
+        "i’caz",
+        "işaret",
+        "bela",
         "ayet",
-        "zikir",
-        "adalet",
-        "akıl",
-        "cennet"
+        "sır",
+        "niyet",
+        "siyaset",
+        "mucize"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "isaret",
+        "sir"
       ]
     },
     {
@@ -50,17 +58,28 @@
       "official_section_content_overlap": 0.9829059829059829,
       "official_section_diff_tokens": 10,
       "aliases": [
-        "Ifadetu'l-Meram"
+        "Ifadetul-Meram"
       ],
       "keywords": [
+        "Kur’an",
         "tefsir",
         "ihlas",
-        "i'caz",
-        "kalp",
-        "hüccet",
-        "ruh",
-        "fikir",
-        "insan"
+        "millet",
+        "i’caz",
+        "tesanüd",
+        "niyet",
+        "hürriyet",
+        "cemaat",
+        "şahs-ı manevi",
+        "işaret"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "tesanud",
+        "hurriyet",
+        "sahs-i manevi",
+        "isaret"
       ]
     },
     {
@@ -78,17 +97,18 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Kur'an'in Tarifi"
+        "Kuranin Tarifi"
       ],
       "keywords": [
+        "Kur’an",
         "hikmet",
-        "rahmet",
-        "bürhan",
-        "insan",
-        "rububiyet",
-        "akıl",
-        "dua",
-        "fikir"
+        "teslim",
+        "teslimiyet",
+        "vicdan",
+        "tefsir"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -105,18 +125,27 @@
       "official_section_similarity": 0.9996543380573799,
       "official_section_content_overlap": 0.9995391705069124,
       "official_section_diff_tokens": 2,
-      "aliases": [
-        "Sure-i Fatiha"
-      ],
       "keywords": [
-        "şifa",
-        "insan",
-        "nimet",
-        "fatiha",
-        "zikir",
+        "sure",
+        "Kur’an",
+        "ubudiyet",
+        "kulluk",
         "hikmet",
-        "ibadet",
-        "ruh"
+        "ruh",
+        "tevhid",
+        "haşir",
+        "yeniden diriliş",
+        "bekâ",
+        "dünya",
+        "risalet",
+        "peygamberlik",
+        "nefis"
+      ],
+      "tags": [
+        "kuran",
+        "hasir",
+        "beka",
+        "dunya"
       ]
     },
     {
@@ -133,18 +162,25 @@
       "official_section_similarity": null,
       "official_section_content_overlap": null,
       "official_section_diff_tokens": null,
-      "aliases": [
-        "Bakara Suresi"
-      ],
       "keywords": [
-        "belagat",
-        "zikir",
+        "sure",
+        "Kur’an",
+        "bela",
         "iman",
-        "i'caz",
-        "bakara",
-        "insan",
-        "huruf-u mukattaa",
-        "ayet"
+        "namaz",
+        "i’caz",
+        "ayet",
+        "ruh",
+        "ubudiyet",
+        "kulluk",
+        "kalp",
+        "vicdan",
+        "hikmet",
+        "fikir"
+      ],
+      "tags": [
+        "kuran",
+        "icaz"
       ]
     },
     {
@@ -166,13 +202,26 @@
       ],
       "keywords": [
         "ayet",
+        "sure",
+        "Kur’an",
         "iman",
-        "insan",
-        "hidayet",
-        "bürhan",
-        "zikir",
-        "bakara",
-        "ahiret"
+        "ahiret",
+        "ruh",
+        "hikmet",
+        "haşir",
+        "yeniden diriliş",
+        "bela",
+        "yakin",
+        "şefkat",
+        "bekâ",
+        "i’caz"
+      ],
+      "tags": [
+        "kuran",
+        "hasir",
+        "sefkat",
+        "beka",
+        "icaz"
       ]
     },
     {
@@ -193,14 +242,24 @@
         "Bakara Suresi 6. ayet"
       ],
       "keywords": [
-        "küfür",
         "ayet",
+        "sure",
         "iman",
+        "Kur’an",
         "kalp",
-        "bakara",
-        "musa",
-        "zikir",
-        "şifa"
+        "vicdan",
+        "ruh",
+        "musibet",
+        "ahiret",
+        "ihtilaf",
+        "istiğna",
+        "teselli",
+        "i’caz"
+      ],
+      "tags": [
+        "kuran",
+        "istigna",
+        "icaz"
       ]
     },
     {
@@ -221,14 +280,25 @@
         "Bakara Suresi 7. ayet"
       ],
       "keywords": [
-        "kalp",
         "ayet",
-        "bakara",
+        "sure",
+        "kalp",
+        "vicdan",
         "hikmet",
-        "insan",
-        "küfür",
-        "nimet",
-        "zikir"
+        "iman",
+        "adalet",
+        "dünya",
+        "cemaat",
+        "ahiret",
+        "acz",
+        "sünnet",
+        "bekâ",
+        "nefis"
+      ],
+      "tags": [
+        "dunya",
+        "sunnet",
+        "beka"
       ]
     },
     {
@@ -249,14 +319,20 @@
         "Bakara Suresi 8. ayet"
       ],
       "keywords": [
-        "iman",
         "ayet",
-        "bakara",
-        "insan",
+        "sure",
+        "iman",
+        "Kur’an",
+        "riya",
         "hikmet",
-        "şifa",
-        "belagat",
-        "zikir"
+        "bela",
+        "cemaat",
+        "tevhid",
+        "vicdan",
+        "siyaset"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -277,14 +353,24 @@
         "Bakara Suresi 9-10. ayetler"
       ],
       "keywords": [
-        "kalp",
-        "bakara",
         "ayet",
+        "sure",
         "nefis",
+        "kalp",
         "iman",
-        "musa",
         "ruh",
-        "şifa"
+        "hastalık",
+        "cemaat",
+        "haşir",
+        "yeniden diriliş",
+        "ahiret",
+        "hikmet",
+        "niyet",
+        "fena"
+      ],
+      "tags": [
+        "hastalik",
+        "hasir"
       ]
     },
     {
@@ -306,13 +392,19 @@
       ],
       "keywords": [
         "ayet",
-        "bakara",
-        "insan",
-        "zikir",
+        "sure",
         "şefkat",
-        "şifa",
+        "fena",
+        "sebat",
         "adalet",
-        "i'caz"
+        "i’caz",
+        "teslim",
+        "teslimiyet",
+        "vicdan"
+      ],
+      "tags": [
+        "sefkat",
+        "icaz"
       ]
     },
     {
@@ -334,13 +426,23 @@
       ],
       "keywords": [
         "ayet",
+        "sure",
         "iman",
-        "bakara",
+        "gurur",
         "kalp",
-        "zikir",
-        "ihlas",
         "nefis",
-        "ahiret"
+        "vicdan",
+        "ihlas",
+        "Kur’an",
+        "fanilik",
+        "bekâ",
+        "cemaat",
+        "enaniyet",
+        "benlik"
+      ],
+      "tags": [
+        "kuran",
+        "beka"
       ]
     },
     {
@@ -362,13 +464,20 @@
       ],
       "keywords": [
         "ayet",
-        "bakara",
+        "sure",
         "iman",
-        "zikir",
+        "Kur’an",
+        "nefis",
         "kalp",
-        "şifa",
         "şefkat",
-        "nefis"
+        "riya",
+        "sebat",
+        "fena",
+        "gurur"
+      ],
+      "tags": [
+        "kuran",
+        "sefkat"
       ]
     },
     {
@@ -390,13 +499,12 @@
       ],
       "keywords": [
         "ayet",
-        "bakara",
-        "hidayet",
-        "şifa",
-        "kalp",
-        "akıl",
-        "nimet",
-        "ruh"
+        "sure",
+        "Kur’an",
+        "vicdan"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -417,14 +525,27 @@
         "Bakara Suresi 17-18-19-20. ayetler"
       ],
       "keywords": [
-        "musibet",
         "ayet",
-        "zikir",
-        "şifa",
-        "bakara",
-        "musa",
+        "sure",
+        "musibet",
+        "Kur’an",
+        "bela",
+        "ümit",
         "hikmet",
-        "insan"
+        "bekâ",
+        "ölüm",
+        "iman",
+        "ruh",
+        "nefis",
+        "vicdan",
+        "akıl"
+      ],
+      "tags": [
+        "kuran",
+        "umit",
+        "beka",
+        "olum",
+        "akil"
       ]
     },
     {
@@ -445,14 +566,25 @@
         "Bakara Suresi 21-22. ayetler"
       ],
       "keywords": [
-        "ibadet",
-        "insan",
         "ayet",
+        "sure",
+        "ubudiyet",
+        "kulluk",
         "hikmet",
-        "şifa",
-        "bakara",
-        "zikir",
-        "bürhan"
+        "takva",
+        "Kur’an",
+        "akıl",
+        "iman",
+        "tevhid",
+        "ruh",
+        "ihlas",
+        "şükür",
+        "fikir"
+      ],
+      "tags": [
+        "kuran",
+        "akil",
+        "sukur"
       ]
     },
     {
@@ -474,13 +606,24 @@
       ],
       "keywords": [
         "ayet",
-        "insan",
-        "i'caz",
-        "cehennem",
+        "sure",
+        "Kur’an",
+        "i’caz",
         "nübüvvet",
-        "belagat",
-        "ibadet",
-        "bakara"
+        "peygamberlik",
+        "bela",
+        "mucize",
+        "ubudiyet",
+        "kulluk",
+        "acz",
+        "kalp",
+        "ruh",
+        "fikir"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "nubuvvet"
       ]
     },
     {
@@ -501,14 +644,27 @@
         "Bakara Suresi 25. ayet"
       ],
       "keywords": [
-        "cennet",
         "ayet",
-        "insan",
+        "sure",
         "dünya",
-        "zikir",
-        "bakara",
+        "ölüm",
+        "Kur’an",
+        "nübüvvet",
+        "peygamberlik",
         "iman",
-        "kalp"
+        "ahiret",
+        "imtihan",
+        "ubudiyet",
+        "kulluk",
+        "tevhid",
+        "bekâ"
+      ],
+      "tags": [
+        "dunya",
+        "olum",
+        "kuran",
+        "nubuvvet",
+        "beka"
       ]
     },
     {
@@ -530,13 +686,26 @@
       ],
       "keywords": [
         "ayet",
-        "insan",
-        "belagat",
-        "şifa",
-        "bakara",
+        "sure",
+        "Kur’an",
+        "bela",
         "iman",
-        "zikir",
-        "musa"
+        "hikmet",
+        "i’caz",
+        "ruh",
+        "dünya",
+        "nefis",
+        "bekâ",
+        "akıl",
+        "ahiret",
+        "vicdan"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "dunya",
+        "beka",
+        "akil"
       ]
     },
     {
@@ -557,14 +726,26 @@
         "Bakara Suresi 28. ayet"
       ],
       "keywords": [
-        "hayat",
         "ayet",
-        "nimet",
+        "sure",
         "ölüm",
-        "bakara",
-        "insan",
+        "bekâ",
         "ruh",
-        "zikir"
+        "hikmet",
+        "iman",
+        "Kur’an",
+        "ubudiyet",
+        "kulluk",
+        "fena",
+        "bela",
+        "haşir",
+        "yeniden diriliş"
+      ],
+      "tags": [
+        "olum",
+        "beka",
+        "kuran",
+        "hasir"
       ]
     },
     {
@@ -586,13 +767,26 @@
       ],
       "keywords": [
         "ayet",
-        "insan",
-        "bakara",
-        "fikir",
-        "hikmet",
+        "sure",
         "dünya",
-        "hayat",
-        "nimet"
+        "hikmet",
+        "Kur’an",
+        "tefekkür",
+        "bekâ",
+        "fikir",
+        "haşir",
+        "yeniden diriliş",
+        "tevhid",
+        "cemaat",
+        "i’caz"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "tefekkur",
+        "beka",
+        "hasir",
+        "icaz"
       ]
     },
     {
@@ -614,13 +808,24 @@
       ],
       "keywords": [
         "ayet",
+        "sure",
         "hikmet",
-        "bakara",
-        "insan",
-        "musa",
-        "zikir",
-        "hayat",
-        "ibadet"
+        "ubudiyet",
+        "kulluk",
+        "ruh",
+        "Kur’an",
+        "akıl",
+        "iman",
+        "fikir",
+        "cemaat",
+        "ittifak",
+        "takva",
+        "i’caz"
+      ],
+      "tags": [
+        "kuran",
+        "akil",
+        "icaz"
       ]
     },
     {
@@ -642,13 +847,25 @@
       ],
       "keywords": [
         "ayet",
-        "bakara",
+        "sure",
+        "mucize",
         "tefsir",
+        "Kur’an",
         "akıl",
+        "acz",
         "hikmet",
-        "şifa",
-        "i'caz",
-        "fikir"
+        "enaniyet",
+        "benlik",
+        "vicdan",
+        "i’caz",
+        "nübüvvet",
+        "peygamberlik"
+      ],
+      "tags": [
+        "kuran",
+        "akil",
+        "icaz",
+        "nubuvvet"
       ]
     },
     {
@@ -666,17 +883,28 @@
       "official_section_content_overlap": 0.9992975061468212,
       "official_section_diff_tokens": 2,
       "aliases": [
-        "Ecnebi Feylesoflarin Kur'an Hakkindaki Beyanatlari"
+        "Ecnebi Feylesoflarin Kuran Hakkindaki Beyanatlari"
       ],
       "keywords": [
-        "insan",
-        "belagat",
+        "Kur’an",
+        "bela",
+        "dünya",
         "ayet",
         "iman",
-        "dünya",
         "hikmet",
-        "şifa",
-        "fikir"
+        "mucize",
+        "fikir",
+        "millet",
+        "huzur",
+        "akıl",
+        "medeniyet",
+        "risalet",
+        "peygamberlik"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "akil"
       ]
     },
     {
@@ -694,17 +922,27 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Mehmed Kayalar'in Bir Mudafaasi"
+        "Mehmed Kayalarin Bir Mudafaasi"
       ],
       "keywords": [
-        "risale-i nur",
-        "iman",
+        "Kur’an",
         "tefsir",
-        "müdafaa",
-        "musa",
-        "adalet",
+        "iman",
         "tevhid",
-        "kalp"
+        "huzur",
+        "adalet",
+        "asayiş",
+        "hizmet",
+        "ahiret",
+        "kalp",
+        "teslim",
+        "teslimiyet",
+        "yakin",
+        "fikir"
+      ],
+      "tags": [
+        "kuran",
+        "asayis"
       ]
     },
     {
@@ -722,17 +960,20 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Dua (Isaratu'l-I'caz)"
+        "Dua (Isaratul-Icaz)"
       ],
       "keywords": [
-        "i'caz",
+        "i’caz",
+        "işaret",
         "dua",
-        "cennet",
+        "Kur’an",
         "ihlas",
-        "iman",
-        "risale-i nur",
-        "i̇şaratü",
-        "dua (i̇şaratü’l-i̇’caz)"
+        "sebat"
+      ],
+      "tags": [
+        "icaz",
+        "isaret",
+        "kuran"
       ]
     },
     {
@@ -750,17 +991,26 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Fihrist (Isaratu'l-I'caz)"
+        "Fihrist (Isaratul-Icaz)"
       ],
       "keywords": [
-        "i'caz",
-        "fihrist",
-        "huruf-u mukattaa",
+        "i’caz",
+        "işaret",
+        "Kur’an",
         "iman",
-        "ahiret",
-        "bakara",
-        "belagat",
-        "dua"
+        "sure",
+        "nübüvvet",
+        "peygamberlik",
+        "tevhid",
+        "takva",
+        "sünnet"
+      ],
+      "tags": [
+        "icaz",
+        "isaret",
+        "kuran",
+        "nubuvvet",
+        "sunnet"
       ]
     }
   ]

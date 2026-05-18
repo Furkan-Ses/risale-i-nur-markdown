@@ -1,6 +1,22 @@
 ---
 book_id: "isaratul-icaz"
 book_title: "Isaratul-icaz"
+keywords:
+  - "Kur’an"
+  - "ayet"
+  - "sure"
+  - "iman"
+  - "hikmet"
+  - "i’caz"
+  - "vicdan"
+  - "ruh"
+tags:
+  - "kuran"
+  - "icaz"
+  - "beka"
+  - "dunya"
+  - "akil"
+  - "hasir"
 source_book_path: "books/isaratul-icaz/Isaratul-icaz.md"
 source_section_dir: "books/isaratul-icaz/by_heading"
 source_name: null

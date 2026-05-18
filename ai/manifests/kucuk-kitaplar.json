@@ -25,17 +25,28 @@
       "official_section_content_overlap": null,
       "official_section_diff_tokens": null,
       "aliases": [
-        "Kur'an'in Hakimiyet-i Mutlakasi"
+        "Kuranin Hakimiyet-i Mutlakasi"
       ],
       "keywords": [
-        "hayat",
+        "Kur’an",
+        "medeniyet",
+        "nefis",
+        "cemaat",
         "ruh",
-        "musa",
-        "insan",
-        "şifa",
+        "gurur",
+        "siyaset",
+        "millet",
+        "sır",
         "iman",
         "adalet",
-        "musibet"
+        "musibet",
+        "dünya",
+        "uhuvvet"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "dunya"
       ]
     },
     {
@@ -56,14 +67,28 @@
         "ISARAT"
       ],
       "keywords": [
-        "kalp",
-        "nimet",
+        "işaret",
         "ruh",
-        "vahdet",
-        "hayat",
-        "i'caz",
-        "insan",
-        "nefis"
+        "nefis",
+        "bekâ",
+        "Kur’an",
+        "i’caz",
+        "kalp",
+        "fakr",
+        "merhamet",
+        "fikir",
+        "ölüm",
+        "ene",
+        "benlik",
+        "şuhud"
+      ],
+      "tags": [
+        "isaret",
+        "beka",
+        "kuran",
+        "icaz",
+        "olum",
+        "suhud"
       ]
     },
     {
@@ -85,13 +110,23 @@
       ],
       "keywords": [
         "ruh",
-        "musa",
+        "ihtilaf",
         "hikmet",
+        "fena",
+        "medeniyet",
+        "siyaset",
+        "cemaat",
+        "ümmet",
+        "kader",
+        "sır",
+        "heva",
         "adalet",
         "fikir",
-        "kader",
-        "ahiret",
-        "bürhan"
+        "hizmet"
+      ],
+      "tags": [
+        "ummet",
+        "sir"
       ]
     },
     {
@@ -109,17 +144,28 @@
       "official_section_content_overlap": 0.9993617735975815,
       "official_section_diff_tokens": 47,
       "aliases": [
-        "NUR'UN ILK KAPISI"
+        "NURUN ILK KAPISI"
       ],
       "keywords": [
-        "insan",
-        "risale-i nur",
-        "hayat",
+        "Kur’an",
         "iman",
-        "kalp",
         "dünya",
-        "musa",
-        "ruh"
+        "nefis",
+        "ubudiyet",
+        "kulluk",
+        "ruh",
+        "acz",
+        "bekâ",
+        "hizmet",
+        "dua",
+        "fakr",
+        "hikmet",
+        "tevhid"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -140,14 +186,26 @@
         "NUR CESMESI"
       ],
       "keywords": [
-        "hayat",
-        "insan",
+        "Kur’an",
         "hikmet",
         "iman",
-        "risale-i nur",
-        "musa",
+        "bekâ",
         "dünya",
-        "rahmet"
+        "ahiret",
+        "ruh",
+        "akıl",
+        "tevhid",
+        "hizmet",
+        "ubudiyet",
+        "kulluk",
+        "mucize",
+        "ayet"
+      ],
+      "tags": [
+        "kuran",
+        "beka",
+        "dunya",
+        "akil"
       ]
     },
     {
@@ -168,14 +226,25 @@
         "DIVAN-I HARB-I ORFI"
       ],
       "keywords": [
-        "hayat",
-        "musa",
+        "hürriyet",
+        "medeniyet",
+        "millet",
+        "istibdat",
         "adalet",
-        "insan",
-        "kalp",
-        "hapishane",
+        "siyaset",
+        "vicdan",
+        "dünya",
         "tevhid",
-        "dünya"
+        "kalp",
+        "ruh",
+        "şecaat",
+        "iman",
+        "ahiret"
+      ],
+      "tags": [
+        "hurriyet",
+        "dunya",
+        "secaat"
       ]
     },
     {
@@ -197,13 +266,25 @@
       ],
       "keywords": [
         "iman",
-        "insan",
-        "hayat",
-        "kalp",
-        "risale-i nur",
+        "Kur’an",
+        "medeniyet",
+        "siyaset",
         "dünya",
         "ruh",
-        "adalet"
+        "millet",
+        "adalet",
+        "hürriyet",
+        "nefis",
+        "cemaat",
+        "vicdan",
+        "tevhid",
+        "bekâ"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "hurriyet",
+        "beka"
       ]
     },
     {
@@ -224,14 +305,27 @@
         "MUNAZARAT"
       ],
       "keywords": [
-        "hayat",
+        "hürriyet",
+        "millet",
+        "fena",
+        "hizmet",
         "iman",
-        "kalp",
+        "bekâ",
         "dünya",
-        "insan",
         "ruh",
-        "risale-i nur",
-        "musa"
+        "Kur’an",
+        "medeniyet",
+        "siyaset",
+        "nefis",
+        "kalp",
+        "akıl"
+      ],
+      "tags": [
+        "hurriyet",
+        "beka",
+        "dunya",
+        "kuran",
+        "akil"
       ]
     },
     {
@@ -252,14 +346,27 @@
         "GENCLIK REHBERI"
       ],
       "keywords": [
-        "insan",
+        "gençlik",
         "iman",
         "dünya",
-        "hayat",
-        "risale-i nur",
-        "rahmet",
-        "cennet",
-        "kalp"
+        "Kur’an",
+        "bekâ",
+        "ruh",
+        "ubudiyet",
+        "kulluk",
+        "nefis",
+        "dua",
+        "ahiret",
+        "hizmet",
+        "hikmet",
+        "sır"
+      ],
+      "tags": [
+        "genclik",
+        "dunya",
+        "kuran",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -282,12 +389,25 @@
       "keywords": [
         "dünya",
         "iman",
-        "risale-i nur",
-        "hayat",
+        "Kur’an",
         "şefkat",
-        "insan",
-        "cennet",
-        "ruh"
+        "ruh",
+        "ahiret",
+        "nefis",
+        "hizmet",
+        "bekâ",
+        "hikmet",
+        "dua",
+        "fanilik",
+        "sır",
+        "merhamet"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "sefkat",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -305,14 +425,25 @@
       "official_section_content_overlap": 0.9988576264015232,
       "official_section_diff_tokens": 34,
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
+        "hizmet",
         "ruh",
         "dünya",
         "tefsir",
+        "millet",
         "kalp",
-        "insan",
-        "hayat"
+        "huzur",
+        "bekâ",
+        "hikmet",
+        "siyaset",
+        "mucize",
+        "ayet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -331,16 +462,6 @@
       "official_section_diff_tokens": null,
       "aliases": [
         "Tilsimlar"
-      ],
-      "keywords": [
-        "tılsım",
-        "risale-i nur",
-        "hayat",
-        "tılsımlar",
-        "kucuk kitaplar",
-        "söz",
-        "mektup",
-        "lem'a"
       ]
     }
   ]

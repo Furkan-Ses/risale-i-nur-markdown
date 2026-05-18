@@ -8,10 +8,8 @@ section_title: "Eddâî"
 aliases:
   - "Eddai"
 keywords:
-  - "iman"
-  - "eddâî"
-  - "sualar"
-  - "risale-i nur"
+  - "teslim"
+  - "teslimiyet"
 source_section_path: "books/sualar/by_heading/16 Eddâî.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

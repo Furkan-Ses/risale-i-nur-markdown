@@ -25,17 +25,28 @@
       "official_section_content_overlap": null,
       "official_section_diff_tokens": null,
       "aliases": [
-        "Risale-i Nur'dan Parlak Fikralar ve Bir Kisim Guzel Mektuplar"
+        "Risale-i Nurdan Parlak Fikralar ve Bir Kisim Guzel Mektuplar"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
+        "risalet",
+        "peygamberlik",
+        "hizmet",
         "ayet",
-        "keramet",
-        "bereket",
-        "kalp",
         "dua",
-        "hayat"
+        "dünya",
+        "kanaat",
+        "isar",
+        "sure",
+        "yakin",
+        "sır",
+        "ruh"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sir"
       ]
     },
     {
@@ -59,13 +70,26 @@
       ],
       "keywords": [
         "ayet",
-        "risale-i nur",
+        "Kur’an",
+        "risalet",
+        "peygamberlik",
+        "sure",
         "iman",
-        "bürhan",
-        "hayat",
-        "i'caz",
+        "bekâ",
+        "işaret",
+        "i’caz",
         "ölüm",
-        "tefsir"
+        "tefsir",
+        "kanaat",
+        "hikmet",
+        "teselli"
+      ],
+      "tags": [
+        "kuran",
+        "beka",
+        "isaret",
+        "icaz",
+        "olum"
       ]
     },
     {
@@ -83,19 +107,31 @@
       "official_section_content_overlap": 0.9962611446649411,
       "official_section_diff_tokens": 28,
       "aliases": [
-        "Sekizinci Sua",
-        "8. Şuâ",
-        "8. Sua"
+        "Sekizinci Sua"
       ],
       "keywords": [
-        "risale-i nur",
-        "ayet",
-        "keramet",
+        "Kur’an",
+        "sure",
         "iman",
-        "zikir",
-        "hüccet",
-        "gaybi",
-        "münacat"
+        "isar",
+        "işaret",
+        "münacat",
+        "dua",
+        "niyaz",
+        "sır",
+        "hikmet",
+        "i’caz",
+        "ayet",
+        "yakin",
+        "bekâ"
+      ],
+      "tags": [
+        "kuran",
+        "isaret",
+        "munacat",
+        "sir",
+        "icaz",
+        "beka"
       ]
     },
     {
@@ -113,16 +149,13 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "On Sekizinci Lema",
-        "18. Lem’a",
-        "18. Lema"
+        "On Sekizinci Lema"
       ],
       "keywords": [
-        "gaybi",
-        "keramet",
-        "sikke-i tasdik-i gaybi",
-        "risale-i nur",
-        "on sekizinci lem’a"
+        "Kur’an"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -140,16 +173,13 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Yirmi Sekizinci Lema",
-        "28. Lem’a",
-        "28. Lema"
+        "Yirmi Sekizinci Lema"
       ],
       "keywords": [
-        "keramet",
-        "gaybi",
-        "sikke-i tasdik-i gaybi",
-        "risale-i nur",
-        "yirmi sekizinci lem’a"
+        "Kur’an"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -172,14 +202,27 @@
         "8. Lema"
       ],
       "keywords": [
-        "keramet",
-        "gaybi",
+        "Kur’an",
+        "hizmet",
         "ayet",
         "dua",
-        "hayat",
-        "kalp",
+        "sır",
+        "işaret",
         "ruh",
-        "gavsiye"
+        "niyet",
+        "tefsir",
+        "bekâ",
+        "dünya",
+        "mucize",
+        "iman",
+        "fena"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "isaret",
+        "beka",
+        "dunya"
       ]
     },
     {
@@ -200,14 +243,26 @@
         "Parlak Fikralar ve Guzel Mektuplar 2"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "rahmet",
-        "kalp",
-        "keramet",
-        "insan",
-        "hayat",
-        "ruh"
+        "risalet",
+        "peygamberlik",
+        "hizmet",
+        "sır",
+        "dünya",
+        "ruh",
+        "dua",
+        "bela",
+        "yakin",
+        "cemaat",
+        "i’caz",
+        "hikmet"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "dunya",
+        "icaz"
       ]
     },
     {
@@ -228,14 +283,13 @@
         "Dua (Sikke-i Tasdik-i Gaybi)"
       ],
       "keywords": [
-        "gaybi",
-        "sikke-i tasdik-i gaybi",
         "dua",
-        "cennet",
+        "Kur’an",
         "ihlas",
-        "iman",
-        "risale-i nur",
-        "sikke tasdik gaybî"
+        "sebat"
+      ],
+      "tags": [
+        "kuran"
       ]
     }
   ]

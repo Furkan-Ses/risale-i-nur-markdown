@@ -6,13 +6,7 @@ section_order: 1
 section_slug: "itizar"
 section_title: "İ’tizar"
 aliases:
-  - "I'tizar"
-keywords:
-  - "iman"
-  - "risale-i nur"
-  - "tizar"
-  - "i̇’tizar"
-  - "mesnevi-i nuriye"
+  - "Itizar"
 source_section_path: "books/mesnevi-i-nuriye/by_heading/01 İ’tizar.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

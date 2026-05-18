@@ -10,14 +10,24 @@ aliases:
   - "9. Söz"
   - "9. Soz"
 keywords:
-  - "insan"
+  - "namaz"
+  - "bekâ"
   - "dünya"
-  - "rahmet"
   - "ubudiyet"
-  - "rububiyet"
+  - "kulluk"
   - "ruh"
-  - "nimet"
+  - "fanilik"
+  - "hizmet"
   - "şükür"
+  - "huzur"
+  - "acz"
+  - "mahviyet"
+  - "fakr"
+  - "hikmet"
+tags:
+  - "beka"
+  - "dunya"
+  - "sukur"
 source_section_path: "books/sozler/by_heading/009 - Dokuzuncu Söz.md"
 source_name: null
 source_url: null

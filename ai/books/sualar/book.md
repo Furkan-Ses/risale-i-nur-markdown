@@ -1,6 +1,22 @@
 ---
 book_id: "sualar"
 book_title: "Sualar"
+keywords:
+  - "Kur’an"
+  - "iman"
+  - "ruh"
+  - "dünya"
+  - "bekâ"
+  - "hikmet"
+  - "yakin"
+  - "dua"
+tags:
+  - "kuran"
+  - "dunya"
+  - "beka"
+  - "sefkat"
+  - "olum"
+  - "sir"
 source_book_path: "books/sualar/Sualar.md"
 source_section_dir: "books/sualar/by_heading"
 source_name: null

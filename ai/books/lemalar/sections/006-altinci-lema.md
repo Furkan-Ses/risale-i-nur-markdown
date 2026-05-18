@@ -11,12 +11,6 @@ aliases:
   - "6. Lema"
 keywords:
   - "zikir"
-  - "fikir"
-  - "musa"
-  - "ruh"
-  - "altıncı lem’a"
-  - "lemalar"
-  - "risale-i nur"
 source_section_path: "books/lemalar/by_heading/06 Altıncı Lem’a.md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

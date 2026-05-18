@@ -28,14 +28,29 @@
         "1. Mektup"
       ],
       "keywords": [
-        "hayat",
-        "cehennem",
         "dünya",
         "ölüm",
+        "bekâ",
         "hikmet",
         "ahiret",
-        "nimet",
-        "rahmet"
+        "fena",
+        "ruh",
+        "şefkat",
+        "şuhud",
+        "sır",
+        "musibet",
+        "fanilik",
+        "bela",
+        "haşir"
+      ],
+      "tags": [
+        "dunya",
+        "olum",
+        "beka",
+        "sefkat",
+        "suhud",
+        "sir",
+        "hasir"
       ]
     },
     {
@@ -57,14 +72,20 @@
         "2. Mektup"
       ],
       "keywords": [
+        "istiğna",
         "ahiret",
-        "iktisat",
-        "rahmet",
-        "ruh",
+        "kanaat",
+        "bekâ",
         "tevekkül",
-        "ölüm",
-        "insan",
-        "dünya"
+        "teslimiyet",
+        "gurur",
+        "niyaz",
+        "niyet"
+      ],
+      "tags": [
+        "istigna",
+        "beka",
+        "tevekkul"
       ]
     },
     {
@@ -86,14 +107,21 @@
         "3. Mektup"
       ],
       "keywords": [
-        "cehennem",
-        "vahdet",
+        "sır",
         "hikmet",
-        "cennet",
-        "belagat",
-        "i'caz",
         "iman",
-        "ahiret"
+        "bela",
+        "millet",
+        "i’caz",
+        "haşir",
+        "yeniden diriliş",
+        "sünnet"
+      ],
+      "tags": [
+        "sir",
+        "icaz",
+        "hasir",
+        "sunnet"
       ]
     },
     {
@@ -115,14 +143,15 @@
         "4. Mektup"
       ],
       "keywords": [
-        "cennet",
+        "bekâ",
         "hikmet",
-        "bürhan",
-        "musa",
-        "vahdet",
-        "zikir",
-        "şifa",
-        "insan"
+        "sır",
+        "acz",
+        "mucize"
+      ],
+      "tags": [
+        "beka",
+        "sir"
       ]
     },
     {
@@ -145,13 +174,17 @@
       ],
       "keywords": [
         "iman",
-        "cennet",
-        "kalp",
-        "akıl",
-        "i'caz",
+        "Kur’an",
+        "sünnet",
         "nübüvvet",
-        "rahmet",
-        "zındıka"
+        "peygamberlik",
+        "i’caz"
+      ],
+      "tags": [
+        "kuran",
+        "sunnet",
+        "nubuvvet",
+        "icaz"
       ]
     },
     {
@@ -173,14 +206,17 @@
         "6. Mektup"
       ],
       "keywords": [
+        "bela",
         "tevekkül",
-        "kalp",
+        "teslimiyet",
+        "nefis",
         "iman",
         "ihtiyarlık",
-        "ruh",
-        "dünya",
-        "ayet",
-        "altıncı mektup"
+        "teselli"
+      ],
+      "tags": [
+        "tevekkul",
+        "ihtiyarlik"
       ]
     },
     {
@@ -201,14 +237,19 @@
         "7. Mektup"
       ],
       "keywords": [
-        "hikmet",
+        "nefis",
+        "risalet",
+        "peygamberlik",
         "kader",
         "şefkat",
-        "hüccet",
+        "hikmet",
         "ayet",
-        "merhamet",
-        "nefis",
-        "rahmet"
+        "heves",
+        "kanaat",
+        "iffet"
+      ],
+      "tags": [
+        "sefkat"
       ]
     },
     {
@@ -231,12 +272,15 @@
       "keywords": [
         "şefkat",
         "nübüvvet",
-        "hikmet",
-        "i'caz",
-        "medrese-i yusufiye",
-        "rahmet",
-        "ruh",
-        "ubudiyet"
+        "peygamberlik",
+        "Kur’an",
+        "i’caz"
+      ],
+      "tags": [
+        "sefkat",
+        "nubuvvet",
+        "kuran",
+        "icaz"
       ]
     },
     {
@@ -258,13 +302,26 @@
       ],
       "keywords": [
         "iman",
-        "keramet",
         "dünya",
-        "nimet",
-        "insan",
-        "bürhan",
+        "nefis",
+        "Kur’an",
+        "fanilik",
+        "bekâ",
+        "teslim",
+        "teslimiyet",
+        "sebat",
         "hikmet",
-        "ahiret"
+        "tevekkül",
+        "gurur",
+        "riya",
+        "i’caz"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "beka",
+        "tevekkul",
+        "icaz"
       ]
     },
     {
@@ -286,13 +343,20 @@
       ],
       "keywords": [
         "kader",
-        "fihrist",
         "hikmet",
         "haşir",
-        "gaybi",
-        "tefsir",
-        "zikir",
-        "ölüm"
+        "yeniden diriliş",
+        "Kur’an",
+        "cüz-i ihtiyari",
+        "heva",
+        "kanaat",
+        "tefsir"
+      ],
+      "tags": [
+        "hasir",
+        "kuran",
+        "cüzi ihtiyari",
+        "cuzi ihtiyari"
       ]
     },
     {
@@ -309,18 +373,22 @@
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
-      "aliases": [
-        "11. Mektup"
-      ],
       "keywords": [
         "merhamet",
         "şefkat",
+        "Kur’an",
         "adalet",
-        "rahmet",
-        "küfür",
-        "i'caz",
-        "müdafaa",
-        "nimet"
+        "medeniyet",
+        "nefis",
+        "sünnet",
+        "cemaat",
+        "i’caz"
+      ],
+      "tags": [
+        "sefkat",
+        "kuran",
+        "sunnet",
+        "icaz"
       ]
     },
     {
@@ -338,18 +406,20 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "On Ikinci Mektup",
-        "12. Mektup"
+        "On Ikinci Mektup"
       ],
       "keywords": [
         "hikmet",
-        "insan",
         "iman",
-        "musa",
-        "cennet",
-        "cehennem",
-        "rahmet",
-        "ruh"
+        "ruh",
+        "sır",
+        "adalet",
+        "tevhid",
+        "imtihan",
+        "cemaat"
+      ],
+      "tags": [
+        "sir"
       ]
     },
     {
@@ -367,18 +437,26 @@
       "official_section_content_overlap": 0.9932659932659933,
       "official_section_diff_tokens": 8,
       "aliases": [
-        "On Ucuncu Mektup",
-        "13. Mektup"
+        "On Ucuncu Mektup"
       ],
       "keywords": [
         "dünya",
+        "siyaset",
+        "Kur’an",
+        "hizmet",
         "kader",
-        "rahmet",
         "ihlas",
         "ahiret",
-        "hayat",
         "merhamet",
-        "adalet"
+        "riya",
+        "niyaz",
+        "niyet",
+        "sıkıntı"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "sikinti"
       ]
     },
     {
@@ -396,15 +474,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "On Dorduncu Mektup",
-        "14. Mektup"
-      ],
-      "keywords": [
-        "telif edilmemiş",
-        "on dördüncü mektup",
-        "mektubat",
-        "mektup",
-        "risale-i nur"
+        "On Dorduncu Mektup"
       ]
     },
     {
@@ -422,18 +492,29 @@
       "official_section_content_overlap": 0.9980347199475925,
       "official_section_diff_tokens": 7,
       "aliases": [
-        "On Besinci Mektup",
-        "15. Mektup"
+        "On Besinci Mektup"
       ],
       "keywords": [
         "adalet",
-        "ruh",
-        "cennet",
-        "insan",
+        "bekâ",
         "dünya",
-        "iman",
+        "ruh",
+        "siyaset",
+        "millet",
         "kader",
-        "merhamet"
+        "merhamet",
+        "cemaat",
+        "Kur’an",
+        "nübüvvet",
+        "peygamberlik",
+        "iman",
+        "hikmet"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "kuran",
+        "nubuvvet"
       ]
     },
     {
@@ -451,18 +532,29 @@
       "official_section_content_overlap": 0.9979218620116376,
       "official_section_diff_tokens": 10,
       "aliases": [
-        "On Altinci Mektup",
-        "16. Mektup"
+        "On Altinci Mektup"
       ],
       "keywords": [
         "dünya",
         "iman",
-        "hayat",
+        "siyaset",
+        "hizmet",
+        "Kur’an",
+        "nefis",
         "ahiret",
-        "kalp",
-        "bereket",
-        "rahmet",
-        "kader"
+        "sıkıntı",
+        "riya",
+        "bekâ",
+        "kader",
+        "fena",
+        "medeniyet",
+        "vicdan"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "sikinti",
+        "beka"
       ]
     },
     {
@@ -479,18 +571,26 @@
       "official_section_similarity": 0.9983489268024216,
       "official_section_content_overlap": 0.9977997799779978,
       "official_section_diff_tokens": 2,
-      "aliases": [
-        "17. Mektup"
-      ],
       "keywords": [
-        "cennet",
         "dünya",
         "iman",
-        "rahmet",
         "şefkat",
+        "hizmet",
         "ahiret",
-        "kalp",
-        "merhamet"
+        "nefis",
+        "sır",
+        "merhamet",
+        "fanilik",
+        "sıkıntı",
+        "teselli",
+        "teslim",
+        "teslimiyet"
+      ],
+      "tags": [
+        "dunya",
+        "sefkat",
+        "sir",
+        "sikinti"
       ]
     },
     {
@@ -507,18 +607,26 @@
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
-      "aliases": [
-        "18. Mektup"
-      ],
       "keywords": [
-        "vahdet",
+        "şuhud",
         "hikmet",
+        "sünnet",
         "ruh",
-        "iman",
-        "musa",
         "nübüvvet",
+        "peygamberlik",
+        "iman",
         "şefkat",
-        "akıl"
+        "Kur’an",
+        "risalet",
+        "istiğna"
+      ],
+      "tags": [
+        "suhud",
+        "sunnet",
+        "nubuvvet",
+        "sefkat",
+        "kuran",
+        "istigna"
       ]
     },
     {
@@ -535,18 +643,29 @@
       "official_section_similarity": 0.9916866665017195,
       "official_section_content_overlap": 0.9894832991828573,
       "official_section_diff_tokens": 486,
-      "aliases": [
-        "19. Mektup"
-      ],
       "keywords": [
+        "Kur’an",
+        "mucize",
         "dua",
         "nübüvvet",
+        "peygamberlik",
         "iman",
+        "i’caz",
         "ayet",
-        "insan",
-        "i'caz",
-        "bereket",
-        "şifa"
+        "risalet",
+        "dünya",
+        "bekâ",
+        "cemaat",
+        "hikmet",
+        "sır"
+      ],
+      "tags": [
+        "kuran",
+        "nubuvvet",
+        "icaz",
+        "dunya",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -563,18 +682,27 @@
       "official_section_similarity": 0.999501454092231,
       "official_section_content_overlap": 0.9995014955134596,
       "official_section_diff_tokens": 9,
-      "aliases": [
-        "20. Mektup"
-      ],
       "keywords": [
-        "hayat",
-        "vahdet",
-        "insan",
-        "hikmet",
-        "rahmet",
-        "nimet",
         "tevhid",
-        "ölüm"
+        "hikmet",
+        "bekâ",
+        "sır",
+        "dünya",
+        "ölüm",
+        "fena",
+        "hizmet",
+        "ruh",
+        "ubudiyet",
+        "kulluk",
+        "iman",
+        "huzur",
+        "kader"
+      ],
+      "tags": [
+        "beka",
+        "sir",
+        "dunya",
+        "olum"
       ]
     },
     {
@@ -591,18 +719,27 @@
       "official_section_similarity": 0.9962073324905183,
       "official_section_content_overlap": 0.9949494949494949,
       "official_section_diff_tokens": 4,
-      "aliases": [
-        "21. Mektup"
-      ],
       "keywords": [
-        "bereket",
-        "insan",
-        "iman",
-        "rahmet",
         "şefkat",
+        "dünya",
+        "iman",
         "ahiret",
-        "hayat",
-        "kalp"
+        "sır",
+        "kanaat",
+        "hizmet",
+        "nefis",
+        "kalp",
+        "vicdan",
+        "merhamet",
+        "musibet",
+        "ölüm",
+        "teslim"
+      ],
+      "tags": [
+        "sefkat",
+        "dunya",
+        "sir",
+        "olum"
       ]
     },
     {
@@ -620,18 +757,26 @@
       "official_section_content_overlap": 0.9974666052510364,
       "official_section_diff_tokens": 12,
       "aliases": [
-        "Yirmi Ikinci Mektup",
-        "22. Mektup"
+        "Yirmi Ikinci Mektup"
       ],
       "keywords": [
-        "hayat",
+        "nefis",
+        "fena",
         "iman",
-        "kalp",
-        "rahmet",
         "dünya",
-        "adalet",
+        "ihtilaf",
         "uhuvvet",
-        "şifa"
+        "kardeşlik",
+        "adalet",
+        "ittifak",
+        "ayet",
+        "kader",
+        "vicdan",
+        "kanaat",
+        "hikmet"
+      ],
+      "tags": [
+        "dunya"
       ]
     },
     {
@@ -649,18 +794,30 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Yirmi Ucuncu Mektup",
-        "23. Mektup"
+        "Yirmi Ucuncu Mektup"
       ],
       "keywords": [
         "dua",
         "sabır",
-        "ahiret",
         "dünya",
+        "ahiret",
         "hikmet",
-        "kalp",
         "ölüm",
-        "musibet"
+        "nübüvvet",
+        "peygamberlik",
+        "musibet",
+        "Kur’an",
+        "ubudiyet",
+        "kulluk",
+        "heves",
+        "nefis"
+      ],
+      "tags": [
+        "sabir",
+        "dunya",
+        "olum",
+        "nubuvvet",
+        "kuran"
       ]
     },
     {
@@ -678,18 +835,30 @@
       "official_section_content_overlap": 0.9993148807892573,
       "official_section_diff_tokens": 5,
       "aliases": [
-        "Yirmi Dorduncu Mektup",
-        "24. Mektup"
+        "Yirmi Dorduncu Mektup"
       ],
       "keywords": [
         "dua",
+        "bekâ",
         "iman",
-        "hayat",
         "hikmet",
-        "insan",
-        "rububiyet",
-        "rahmet",
-        "dünya"
+        "dünya",
+        "sır",
+        "ruh",
+        "Kur’an",
+        "ahiret",
+        "fanilik",
+        "fena",
+        "ubudiyet",
+        "kulluk",
+        "şefkat"
+      ],
+      "tags": [
+        "beka",
+        "dunya",
+        "sir",
+        "kuran",
+        "sefkat"
       ]
     },
     {
@@ -707,15 +876,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Yirmi Besinci Mektup",
-        "25. Mektup"
-      ],
-      "keywords": [
-        "telif edilmemiş",
-        "yirmi beşinci mektup",
-        "mektubat",
-        "mektup",
-        "risale-i nur"
+        "Yirmi Besinci Mektup"
       ]
     },
     {
@@ -733,18 +894,31 @@
       "official_section_content_overlap": 0.9973517450108768,
       "official_section_diff_tokens": 32,
       "aliases": [
-        "Yirmi Altinci Mektup",
-        "26. Mektup"
+        "Yirmi Altinci Mektup"
       ],
       "keywords": [
-        "hayat",
-        "insan",
+        "Kur’an",
         "iman",
         "dünya",
-        "kalp",
-        "i'caz",
+        "hizmet",
+        "tevhid",
+        "nefis",
+        "i’caz",
+        "millet",
         "akıl",
-        "zikir"
+        "huzur",
+        "şefkat",
+        "dua",
+        "bekâ",
+        "ayet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "icaz",
+        "akil",
+        "sefkat",
+        "beka"
       ]
     },
     {
@@ -760,17 +934,7 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/yirmi-yedinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0,
-      "aliases": [
-        "27. Mektup"
-      ],
-      "keywords": [
-        "lahika",
-        "risale-i nur",
-        "yirmi yedinci mektup",
-        "mektubat",
-        "mektup"
-      ]
+      "official_section_diff_tokens": 0
     },
     {
       "section_id": "mektubat.028.yirmi-sekizinci-mektup",
@@ -786,18 +950,30 @@
       "official_section_similarity": 0.9986180755715245,
       "official_section_content_overlap": 0.9979482323232324,
       "official_section_diff_tokens": 28,
-      "aliases": [
-        "28. Mektup"
-      ],
       "keywords": [
+        "Kur’an",
         "şükür",
-        "i'caz",
-        "insan",
-        "gaybi",
+        "i’caz",
+        "hizmet",
         "iman",
-        "keramet",
-        "kalp",
-        "nimet"
+        "bekâ",
+        "ruh",
+        "sır",
+        "hikmet",
+        "dünya",
+        "işaret",
+        "kanaat",
+        "tevhid",
+        "kader"
+      ],
+      "tags": [
+        "kuran",
+        "sukur",
+        "icaz",
+        "beka",
+        "sir",
+        "dunya",
+        "isaret"
       ]
     },
     {
@@ -814,18 +990,28 @@
       "official_section_similarity": 0.9989318141356596,
       "official_section_content_overlap": 0.9984874099119139,
       "official_section_diff_tokens": 38,
-      "aliases": [
-        "29. Mektup"
-      ],
       "keywords": [
-        "insan",
+        "Kur’an",
+        "nefis",
         "iman",
-        "kalp",
-        "hayat",
         "dünya",
         "hikmet",
-        "i'caz",
-        "ayet"
+        "sır",
+        "hizmet",
+        "i’caz",
+        "cemaat",
+        "enaniyet",
+        "benlik",
+        "ubudiyet",
+        "kulluk",
+        "sünnet"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sir",
+        "icaz",
+        "sunnet"
       ]
     },
     {
@@ -842,17 +1028,14 @@
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
-      "aliases": [
-        "30. Mektup"
-      ],
       "keywords": [
-        "i'caz",
+        "i’caz",
         "tefsir",
-        "otuzuncu",
-        "otuzuncu mektup",
-        "mektubat",
-        "mektup",
-        "risale-i nur"
+        "işaret"
+      ],
+      "tags": [
+        "icaz",
+        "isaret"
       ]
     },
     {
@@ -868,16 +1051,7 @@
       "official_section_url": "https://risaleinur.hizmetvakfi.org/otuz-birinci-mektup/",
       "official_section_similarity": 1.0,
       "official_section_content_overlap": 1.0,
-      "official_section_diff_tokens": 0,
-      "aliases": [
-        "31. Mektup"
-      ],
-      "keywords": [
-        "otuz birinci mektup",
-        "mektubat",
-        "mektup",
-        "risale-i nur"
-      ]
+      "official_section_diff_tokens": 0
     },
     {
       "section_id": "mektubat.032.otuz-ikinci-mektup",
@@ -894,14 +1068,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Otuz Ikinci Mektup",
-        "32. Mektup"
-      ],
-      "keywords": [
-        "otuz i̇kinci mektup",
-        "mektubat",
-        "mektup",
-        "risale-i nur"
+        "Otuz Ikinci Mektup"
       ]
     },
     {
@@ -919,14 +1086,7 @@
       "official_section_content_overlap": 1.0,
       "official_section_diff_tokens": 0,
       "aliases": [
-        "Otuz Ucuncu Mektup",
-        "33. Mektup"
-      ],
-      "keywords": [
-        "otuz üçüncü mektup",
-        "mektubat",
-        "mektup",
-        "risale-i nur"
+        "Otuz Ucuncu Mektup"
       ]
     },
     {
@@ -947,14 +1107,26 @@
         "Isarat-i Gaybiye Hakkinda Bir Takriz"
       ],
       "keywords": [
-        "gaybi",
-        "risale-i nur",
+        "işaret",
+        "Kur’an",
         "iman",
-        "keramet",
-        "musa",
-        "hapishane",
+        "isar",
+        "bekâ",
+        "tevhid",
         "ayet",
-        "tevhid"
+        "nefis",
+        "dua",
+        "teselli",
+        "riya",
+        "kanaat",
+        "sıkıntı",
+        "cemaat"
+      ],
+      "tags": [
+        "isaret",
+        "kuran",
+        "beka",
+        "sikinti"
       ]
     },
     {
@@ -975,14 +1147,25 @@
         "Hakikat Cekirdekleri"
       ],
       "keywords": [
-        "hayat",
-        "insan",
         "ruh",
         "adalet",
+        "acz",
+        "tevazu",
+        "Kur’an",
+        "nefis",
         "kalp",
-        "vahdet",
-        "musa",
-        "musibet"
+        "medeniyet",
+        "musibet",
+        "dünya",
+        "fena",
+        "heva",
+        "mahviyet",
+        "sıkıntı"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sikinti"
       ]
     },
     {
@@ -1004,13 +1187,15 @@
       ],
       "keywords": [
         "iman",
-        "risale-i nur",
-        "cennet",
-        "kalp",
-        "ruh",
-        "gaybi",
-        "hikmet",
-        "sikke-i tasdik-i gaybi"
+        "Kur’an",
+        "bela",
+        "mucize",
+        "uhuvvet",
+        "kardeşlik",
+        "vicdan"
+      ],
+      "tags": [
+        "kuran"
       ]
     },
     {
@@ -1028,14 +1213,27 @@
       "official_section_content_overlap": 0.9924131179637787,
       "official_section_diff_tokens": 66,
       "keywords": [
-        "ayet",
-        "iman",
+        "Kur’an",
+        "sır",
         "tefsir",
-        "fihrist",
+        "iman",
         "dünya",
         "hikmet",
-        "i'caz",
-        "insan"
+        "i’caz",
+        "ayet",
+        "dua",
+        "hizmet",
+        "risalet",
+        "peygamberlik",
+        "ölüm",
+        "ahiret"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "dunya",
+        "icaz",
+        "olum"
       ]
     },
     {
@@ -1056,14 +1254,7 @@
         "Hakikat Isiklari"
       ],
       "keywords": [
-        "rahmet",
-        "bürhan",
-        "cennet",
-        "hastalar",
-        "iman",
-        "insan",
-        "hakikat işıkları",
-        "mektubat"
+        "heves"
       ]
     },
     {
@@ -1082,12 +1273,12 @@
       "official_section_diff_tokens": 0,
       "keywords": [
         "dua",
-        "cennet",
+        "Kur’an",
         "ihlas",
-        "iman",
-        "risale-i nur",
-        "mektubat",
-        "dua (mektubat)"
+        "sebat"
+      ],
+      "tags": [
+        "kuran"
       ]
     }
   ]

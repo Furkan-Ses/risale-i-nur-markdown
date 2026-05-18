@@ -1,6 +1,22 @@
 ---
 book_id: "barla-lahikasi"
 book_title: "Barla Lahikasi"
+keywords:
+  - "Kur’an"
+  - "hizmet"
+  - "iman"
+  - "dua"
+  - "ruh"
+  - "dünya"
+  - "bekâ"
+  - "sır"
+tags:
+  - "kuran"
+  - "dunya"
+  - "beka"
+  - "sir"
+  - "icaz"
+  - "sukur"
 source_book_path: "books/barla-lahikasi/Barla Lahikasi.md"
 source_section_dir: "books/barla-lahikasi/by_heading"
 source_name: null

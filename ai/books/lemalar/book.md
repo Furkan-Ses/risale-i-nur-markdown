@@ -1,6 +1,22 @@
 ---
 book_id: "lemalar"
 book_title: "Lemalar"
+keywords:
+  - "Kur’an"
+  - "dünya"
+  - "sır"
+  - "iman"
+  - "nefis"
+  - "ruh"
+  - "bekâ"
+  - "ubudiyet"
+tags:
+  - "kuran"
+  - "dunya"
+  - "sir"
+  - "beka"
+  - "sefkat"
+  - "akil"
 source_book_path: "books/lemalar/Lemalar.md"
 source_section_dir: "books/lemalar/by_heading"
 source_name: null

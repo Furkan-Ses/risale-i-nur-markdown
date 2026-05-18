@@ -28,14 +28,25 @@
         "Kastamonu Lahikasi - Takdim"
       ],
       "keywords": [
-        "lahika",
         "iman",
-        "takdim",
-        "risale-i nur",
-        "hapishane",
-        "kalp",
+        "Kur’an",
+        "hizmet",
+        "dünya",
         "ihlas",
-        "dünya"
+        "sebat",
+        "hikmet",
+        "marifetullah",
+        "Allahı tanıma",
+        "uhuvvet",
+        "kardeşlik",
+        "tevhid",
+        "gençlik",
+        "mucize"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "genclik"
       ]
     },
     {
@@ -57,13 +68,27 @@
       ],
       "keywords": [
         "iman",
+        "risalet",
+        "peygamberlik",
         "dua",
-        "risale-i nur",
-        "lahika",
-        "kalp",
-        "musa",
+        "Kur’an",
+        "hizmet",
         "ruh",
-        "şükür"
+        "şükür",
+        "dünya",
+        "hikmet",
+        "sır",
+        "sabır",
+        "bekâ",
+        "ihlas"
+      ],
+      "tags": [
+        "kuran",
+        "sukur",
+        "dunya",
+        "sir",
+        "sabir",
+        "beka"
       ]
     },
     {
@@ -84,14 +109,25 @@
         "Kastamonu Lahikasi s.30-51"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
+        "hizmet",
         "dua",
-        "kalp",
+        "siyaset",
+        "dünya",
         "ayet",
-        "lahika",
-        "keramet",
-        "dünya"
+        "ruh",
+        "kanaat",
+        "yakin",
+        "namaz",
+        "kalp",
+        "niyet",
+        "i’caz"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "icaz"
       ]
     },
     {
@@ -112,14 +148,27 @@
         "Kastamonu Lahikasi s.52-69"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "lahika",
+        "hizmet",
         "şefkat",
+        "bekâ",
         "ruh",
-        "kalp",
-        "keramet",
-        "merhamet"
+        "tevhid",
+        "merhamet",
+        "cemaat",
+        "sır",
+        "kanaat",
+        "niyet",
+        "ayet",
+        "şükür"
+      ],
+      "tags": [
+        "kuran",
+        "sefkat",
+        "beka",
+        "sir",
+        "sukur"
       ]
     },
     {
@@ -140,14 +189,28 @@
         "Kastamonu Lahikasi s.70-91"
       ],
       "keywords": [
-        "risale-i nur",
+        "hizmet",
         "dua",
-        "lahika",
-        "rahmet",
-        "hayat",
-        "keramet",
+        "sadakat",
+        "Kur’an",
+        "ruh",
+        "sır",
+        "ihlas",
+        "hastalık",
         "iman",
-        "ruh"
+        "ubudiyet",
+        "kulluk",
+        "şükür",
+        "dünya",
+        "ümit"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "hastalik",
+        "sukur",
+        "dunya",
+        "umit"
       ]
     },
     {
@@ -168,14 +231,27 @@
         "Kastamonu Lahikasi s.91-109"
       ],
       "keywords": [
-        "risale-i nur",
-        "hayat",
-        "iman",
+        "Kur’an",
         "dua",
+        "iman",
         "musibet",
-        "lahika",
+        "hizmet",
         "ruh",
-        "kalp"
+        "dünya",
+        "şefkat",
+        "bekâ",
+        "fanilik",
+        "siyaset",
+        "sebat",
+        "sır",
+        "kader"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sefkat",
+        "beka",
+        "sir"
       ]
     },
     {
@@ -196,14 +272,26 @@
         "Kastamonu Lahikasi s.110-129"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "dua",
-        "iman",
-        "lahika",
+        "hizmet",
         "dünya",
+        "iman",
         "musibet",
-        "hayat",
-        "hikmet"
+        "sebat",
+        "hikmet",
+        "sıkıntı",
+        "nefis",
+        "ahiret",
+        "ruh",
+        "bekâ",
+        "siyaset"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "sikinti",
+        "beka"
       ]
     },
     {
@@ -224,14 +312,26 @@
         "Kastamonu Lahikasi s.130-149"
       ],
       "keywords": [
-        "risale-i nur",
+        "Kur’an",
         "iman",
-        "hayat",
-        "lahika",
+        "hizmet",
         "gençlik",
         "dua",
-        "hapishane",
-        "ihlas"
+        "takva",
+        "dünya",
+        "ihlas",
+        "isar",
+        "ittifak",
+        "sadakat",
+        "bekâ",
+        "bela",
+        "enaniyet"
+      ],
+      "tags": [
+        "kuran",
+        "genclik",
+        "dunya",
+        "beka"
       ]
     },
     {
@@ -249,17 +349,29 @@
       "official_section_content_overlap": null,
       "official_section_diff_tokens": null,
       "aliases": [
-        "Lemaat'tan"
+        "Lemaattan"
       ],
       "keywords": [
-        "i'caz",
+        "Kur’an",
         "tevhid",
+        "i’caz",
         "ruh",
+        "vicdan",
         "iman",
-        "insan",
-        "bürhan",
-        "rahmet",
-        "kalp"
+        "niyaz",
+        "nefis",
+        "dünya",
+        "sure",
+        "heves",
+        "hikmet",
+        "namaz",
+        "akıl"
+      ],
+      "tags": [
+        "kuran",
+        "icaz",
+        "dunya",
+        "akil"
       ]
     },
     {
@@ -280,14 +392,26 @@
         "Kastamonu Lahikasi s.167-189"
       ],
       "keywords": [
-        "risale-i nur",
         "iman",
         "ayet",
-        "lahika",
+        "Kur’an",
+        "riya",
+        "hizmet",
+        "sır",
         "musibet",
-        "hayat",
-        "kalp",
-        "dua"
+        "ubudiyet",
+        "kulluk",
+        "isar",
+        "niyet",
+        "bekâ",
+        "dua",
+        "dünya"
+      ],
+      "tags": [
+        "kuran",
+        "sir",
+        "beka",
+        "dunya"
       ]
     },
     {
@@ -308,14 +432,28 @@
         "Kastamonu Lahikasi s.190-210"
       ],
       "keywords": [
-        "risale-i nur",
         "iman",
-        "lahika",
-        "gaybi",
+        "Kur’an",
+        "hizmet",
         "hikmet",
-        "insan",
-        "tılsım",
-        "hüccet"
+        "dünya",
+        "yakin",
+        "işaret",
+        "şükür",
+        "kanaat",
+        "teselli",
+        "nefis",
+        "sır",
+        "ihlas",
+        "tesanüd"
+      ],
+      "tags": [
+        "kuran",
+        "dunya",
+        "isaret",
+        "sukur",
+        "sir",
+        "tesanud"
       ]
     },
     {
@@ -336,14 +474,26 @@
         "Kastamonu Lahikasi s.211-230"
       ],
       "keywords": [
-        "risale-i nur",
         "dünya",
+        "nefis",
+        "hizmet",
+        "Kur’an",
         "dua",
-        "lahika",
         "ihlas",
+        "tesanüd",
         "şükür",
+        "bela",
         "iman",
-        "hayat"
+        "ruh",
+        "sebat",
+        "siyaset",
+        "sure"
+      ],
+      "tags": [
+        "dunya",
+        "kuran",
+        "tesanud",
+        "sukur"
       ]
     },
     {
@@ -364,14 +514,28 @@
         "Kastamonu Lahikasi s.231-255"
       ],
       "keywords": [
-        "risale-i nur",
         "ihlas",
+        "hizmet",
+        "dünya",
         "hastalık",
         "iman",
         "dua",
-        "dünya",
-        "lahika",
-        "keramet"
+        "Kur’an",
+        "sır",
+        "ubudiyet",
+        "kulluk",
+        "kader",
+        "musibet",
+        "şefkat",
+        "bekâ"
+      ],
+      "tags": [
+        "dunya",
+        "hastalik",
+        "kuran",
+        "sir",
+        "sefkat",
+        "beka"
       ]
     }
   ]

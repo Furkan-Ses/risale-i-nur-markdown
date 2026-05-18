@@ -9,13 +9,11 @@ aliases:
   - "Dua (Lemalar)"
 keywords:
   - "dua"
-  - "cennet"
+  - "Kur’an"
   - "ihlas"
-  - "iman"
-  - "risale-i nur"
-  - "alar"
-  - "dua (lem’alar)"
-  - "lemalar"
+  - "sebat"
+tags:
+  - "kuran"
 source_section_path: "books/lemalar/by_heading/36 Dua (Lem’alar).md"
 source_name: "Hizmet Vakfı & DİB asıl nüsha metni 2016"
 source_url: "https://www.risaleinur.hizmetvakfi.org/"

@@ -1,6 +1,22 @@
 ---
 book_id: "tarihce-i-hayat"
 book_title: "Tarihce-i Hayat"
+keywords:
+  - "Kur’an"
+  - "iman"
+  - "dünya"
+  - "ruh"
+  - "hizmet"
+  - "bekâ"
+  - "millet"
+  - "siyaset"
+tags:
+  - "kuran"
+  - "dunya"
+  - "beka"
+  - "hurriyet"
+  - "asayis"
+  - "sikinti"
 source_book_path: "books/tarihce-i-hayat/Tarihce-i Hayat.md"
 source_section_dir: "books/tarihce-i-hayat/by_heading"
 source_name: null
